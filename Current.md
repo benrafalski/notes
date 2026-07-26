@@ -24,196 +24,244 @@
 
 [My News](https://www.reuters.com/my-news/feed/)
 
-[](https://www.reuters.com/account/sign-in/?redirect=https%3A%2F%2Fwww.reuters.com%2Fworld%2Fmiddle-east%2Ftrump-vows-punish-iran-houthis-attacks-red-sea-2026-07-24%2F)[](https://www.reuters.com/account/subscribe/offer/?redirect=https%3A%2F%2Fwww.reuters.com%2Fworld%2Fmiddle-east%2Ftrump-vows-punish-iran-houthis-attacks-red-sea-2026-07-24%2F&referrer=subscription_button&journeyStart=navigation)
+[](https://www.reuters.com/account/sign-in/?redirect=https%3A%2F%2Fwww.reuters.com%2Flegal%2Flitigation%2Fmichigan-battles-massive-outbreak-state-reels-trump-cuts-2026-07-25%2F)[](https://www.reuters.com/account/subscribe/offer/?redirect=https%3A%2F%2Fwww.reuters.com%2Flegal%2Flitigation%2Fmichigan-battles-massive-outbreak-state-reels-trump-cuts-2026-07-25%2F&referrer=subscription_button&journeyStart=navigation)
 
-# Houthis fire on Saudi oil sites; no US strike on Iran for first time in two weeks
+# Michigan battles massive outbreak as state reels from Trump cuts
 
-By [Lefteris Papadimas](https://www.reuters.com/authors/lefteris-papadimas/) and [Idrees Ali](https://www.reuters.com/authors/idrees-ali/)
+By [Julie Steenhuysen](https://www.reuters.com/authors/julie-steenhuysen/) and [Tom Polansek](https://www.reuters.com/authors/tom-polansek/)
 
-July 23, 20269:00 PM PDTUpdated 21 hours ago
+July 25, 20263:06 AM PDTUpdated July 25, 2026
 
-![Explosions rock Iran's Bandar Abbas as US ends 13th night of strikes](https://ajo.prod.reuters.tv/api/v2/img/6a63146ae4b0de33e250c842?width=1080&quality=80)
+Item 1 of 2 Lettuce is displayed for sale, amid reports of slumping consumer confidence in lettuce and other fresh produce during the current cyclosporiasis outbreak that has sickened thousands across the U.S., at a grocery store in Washington, D.C., U.S., July 24, 2026. REUTERS/Nathan Howard/File photo
+
+**[1/2]**Lettuce is displayed for sale, amid reports of slumping consumer confidence in lettuce and other fresh produce during the current cyclosporiasis outbreak that has sickened thousands across the U.S., at a grocery store in Washington, D.C., U.S., July 24, 2026. REUTERS/Nathan Howard/File photo [Purchase Licensing Rights, opens new tab](https://www.reutersconnect.com/item/reports-of-slumping-consumer-confidence-in-lettuce-during-cyclosporiasis-outbreak/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1JDMk5LTUExVjhLSw%3D%3D/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead)
 
 - Summary
 - Companies
 
-- Reports of damage to Saudi oil depot as air defences intercept missiles from Yemen
-- Lull in Gulf fighting, with no US attacks on Iran for first time in two weeks
-- Houthis' entry into conflict threatens to reignite Yemen's civil war
+- Michigan has reported more than 8,100 cyclosporiasis cases
+- Michigan lost numerous disease and health workers after federal cuts
+- CDC issued cyclosporiasis health warning July 14
 
-ATHENS/WASHINGTON, July 25 (Reuters) - Yemen's Iran-aligned Houthi militants fired on Saudi oil installations ​in two ports on the Red Sea coast on Saturday, but the U.S. held back from launching air strikes on [Iran](https://www.reuters.com/world/iran/) for the first night in two ‌weeks.
+CHICAGO, July 25 (Reuters) - Two weeks before the U.S. Centers for Disease Control and Prevention issued its cyclosporiasis health warning on July 14, Michigan warned of an unusually large outbreak of parasitic disease that was causing explosive diarrhea.
 
-Washington gave no immediate explanation of why it had abruptly halted a streak of 13 nights of escalating strikes in retaliation for Iranian attacks on shipping in the Strait of Hormuz since an interim deal to end hostilities collapsed.
+New cases are still being reported in the nine-state outbreak. Michigan is the [hardest hit](https://www.reuters.com/business/healthcare-pharmaceuticals/cyclosporiasis-cases-michigan-climb-over-7000-state-health-officials-say-2026-07-22/), with more than ​8,100 cases.
 
-The Reuters Iran Briefing newsletter keeps you informed with the latest developments and analysis of the Iran war. Sign up [here.](https://www.reuters.com/newsletters/reuters-iran-briefing/?location=article-paragraph&redirectUrl=%2Fworld%2Fmiddle-east%2Ftrump-vows-punish-iran-houthis-attacks-red-sea-2026-07-24%2F)
+Jumpstart your morning with the latest legal news delivered straight to your inbox from The Daily Docket newsletter. Sign up [here.](https://www.reuters.com/newsletters/daily-docket/?location=article-paragraph&redirectUrl=%2Flegal%2Flitigation%2Fmichigan-battles-massive-outbreak-state-reels-trump-cuts-2026-07-25%2F)
 
-"It seems that our dear Iran had a peaceful night last night," Health Ministry spokesperson Hossein Kermanpour said on X.
+The state is straining to keep up with the caseload in part due to federal funding cuts, as well as what officials in two counties and a third source familiar with the ‌state's response called lagging or limited communication from federal agencies.
 
-There were also no reports on Saturday of attacks from Iran on its Gulf neighbours, like ​those which have been taking place daily in response to the U.S. attacks.
+As a result, state and county health officials are borrowing staff and recruiting volunteers to sleuth out potential causes for the outbreak beyond the bagged lettuce that has been linked to Taylor Farms and Taco Bell, Michigan state and local health officials said in interviews.
 
-Axios, citing two unidentified sources familiar with the matter, said President Donald Trump on Friday [directed the ​military not to conduct new strikes, opens new tab](https://www.axios.com/2026/07/25/trump-iran-war-military-directive-strikes) against Iran. On Saturday, a senior U.S. official told Reuters that Trump "has always been clear that his preference ⁠is diplomacy, but he has shown Iran what will happen if they fail to come to the table in a serious way.”
+The strain illustrates how states are struggling to get ahead of a fast-spreading foodborne outbreak without the federal resources that have been available in past health emergencies.
 
-On Friday, Trump [said](https://www.reuters.com/world/middle-east/trump-says-us-iran-are-talking-tehran-is-not-yet-ready-deal-2026-07-24/) the U.S. and Iran were in talks ​to negotiate an end to their conflict, but repeated that Tehran was not yet ready for a deal.
+Michigan has 23 fewer infectious disease workers and 123 fewer county health staff after the ​Trump administration in 2025 canceled around [$12 billion in COVID-era grants](https://www.reuters.com/business/healthcare-pharmaceuticals/us-government-pulls-back-over-11-billion-funding-state-health-departments-2025-03-26/) to states.
 
-Despite the lull in the Gulf, fighting between Iran's Houthi allies and Saudi Arabia ​was a sign that the war, which has already disrupted energy supplies through the Strait of Hormuz, could be spreading to a second major shipping route, and reigniting Yemen's own civil war.
+"We have had to pull in dozens of staff from other areas, from hepatitis C and interns who are working on gun violence prevention," said ​Dr. Natasha Bagdasarian, Michigan's chief medical executive.
 
-## WAR THREATENS TO SPREAD TO YEMEN
+Ingham County, which includes most of the state capital of Lansing, has reported about 700 cases.
 
-Houthi military spokesperson Yahya Saree said the group had successfully struck sites belonging to Saudi state oil giant Aramco in Jizan and Yanbu. Video shared on social media and verified by Reuters showed a large column of ​smoke rising from the direction of the Aramco refinery in Jizan.
+However, its health department's staff of five nurses ⁠has only investigated about half of those. It has decided to drop old cases and focus on new ones, said Anne Barna, deputy health officer for Ingham County, which has a population of 290,000.
 
-Two Asia-based trading sources said that they had been informed of potential damage to fuel and oil storage sites at ​Jizan. Aramco [(2222.SE), opens new tab](https://www.reuters.com/markets/companies/2222.SE) did not respond to requests for comment.
+"That way we can try to help ​the state and the feds understand what is still causing people to get cyclospora," she said.
 
-In Yanbu, two ballistic missiles aimed at oil installations were intercepted by a U.S.-made Patriot battery operated in Saudi Arabia by the Greek military under an agreement ‌with Riyadh, ⁠Greek security sources said.
+Cuts to federal agencies have made the response more challenging, former CDC officials and food safety experts said.
 
-Item 1 of 3 Smoke rises from an explosion at an unknown location, during what the U.S. Central Command (CENTCOM) says are strikes on Iranian military targets, in this screengrab taken from a handout video released on July 23, 2026. U.S. Central Command/Handout via REUTERS
+The Trump administration's cuts to the U.S. Agency ​for International Development also cut $40 million in funding that supported a CDC lab that investigates parasitic diseases. Resignations and staffing cuts last year have also taken a toll, said Dan Jernigan, a former senior CDC official.
 
-**[1/3]**Smoke rises from an explosion at an unknown location, during what the U.S. Central Command (CENTCOM) says are strikes on Iranian military targets, in this screengrab taken from a handout video released on July 23, 2026. U.S. Central Command/Handout via REUTERS [Purchase Licensing Rights, opens new tab](https://www.reutersconnect.com/item/explosion-at-an-unknown-location-during-what-us-central-command-says-are-strikes-on-iranian-military-targets/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1JDMjJLTUE5RFJVVw%3D%3D/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead)
+## COMMUNICATION LAG
 
-Yanbu is Saudi Arabia's main Red Sea oil port, where millions of barrels a day are loaded, and has become the main route out for Saudi oil skirting the Strait of Hormuz, which has been blockaded by Iran. Jizan, on the Red Sea close to the Yemeni border, is the site of a refinery with a capacity of 400,000 barrels per day.
+The U.S. Food and Drug Administration on July 17 linked the outbreak to [iceberg lettuce](https://www.reuters.com/world/fda-says-sample-iceberg-lettuce-supplied-by-taylor-farms-tested-positive-2026-07-18/) served at Taco Bell restaurants sourced from privately held Taylor Farms' operations in central Mexico. The agency says it is still investigating other sources.
 
-In Yemen, the air force of the Saudi-backed, internationally recognised government, which has opposed the Houthis for more than a decade, struck Houthi missile and drone launch sites and arms depots in ​the Marib and al-Jawf provinces, Yemeni officials said.
+Taco Bell, owned by Yum Brands [(YUM.N), opens new tab](https://www.reuters.com/markets/companies/YUM.N), has stopped using iceberg lettuce supplied from Taylor Farms nationwide, and Taylor Farms ​has removed lettuce sourced from central Mexico from shelves.
 
-Earlier, ​the Saudi-led military alliance said it ⁠had bombed Houthi military positions on Friday in the Red Sea port of Hodeidah.
+The CDC has reported 4,173 laboratory-confirmed domestic cases of cyclosporiasis and said there are more than 7,400 unconfirmed cases nationwide.
 
-The Yemeni officials said both sides in Yemen's civil war were mobilising forces along the front.
+Michigan's investigation did not identify a single fast-food chain as a source, Bagdasarian ​said. She noted about 12% of patients have no clear link to having consumed lettuce or eaten at a fast-food chain.
 
-## SAUDI-LED COALITION STRIKES HODEIDAH
+In past outbreaks, the CDC has taken a leadership role in coordinating information among states, the officials said. The state then passes information along ‌to local health ⁠departments. But Ingham County's Barna said there were several instances where she first learned new information from the news.
 
-Saudi Arabia has led an Arab coalition battling against the Houthis for more than a decade since ​the Iran-aligned fighters captured Yemen's capital, Sanaa.
+Typically states involved in a large outbreak would be meeting with the CDC at least weekly, said John Besser, a former CDC food safety expert.
 
-The Yemeni civil war, during which hundreds of thousands of people died from fighting and famine, ​has been paused under ⁠a ceasefire since 2022. But that truce broke down this month, with the Houthis effectively joining the wider war their Iranian allies have waged since being attacked by the U.S. and Israel.
+While Michigan has received prompt answers to technical questions put to CDC and the FDA, they are not having regular, formal meetings with their federal partners, said a source familiar with the state's response, who was not authorized to speak publicly.
 
-The Houthis have declared a naval blockade of Saudi Arabia over the past week, and Houthi leader Abdul Malik al-Houthi said all Saudi oil facilities could be targets.
+A spokesperson for the U.S. Department of Health and Human Services rejected that characterization, saying the CDC was meeting daily with FDA and state officials nationwide to share updates and gather information about the outbreak.
 
-Global oil prices soared this week, with Brent crude ⁠spiking above $100 a ​barrel for the first time since May.
+Spokespeople for Ohio and West Virginia, both ​of which are part of the nine-state outbreak, said they ​had been having regular calls with federal agencies. ⁠The CDC sent a group of epidemic intelligence experts to Ohio on July 22 for three weeks, the HHS spokesperson said.
 
-Trump on Friday vowed "major military punishment" for Tehran and the Houthis after ​the Houthis struck two Saudi tankers in the Red Sea.
+## LABOR INTENSIVE
 
-An interim truce meant to end [the war](https://www.reuters.com/world/iran/) effectively collapsed two weeks ago, with U.S. forces striking targets in southern Iran in response to Iranian disruption of shipping in the Strait ​of Hormuz.
+Because cyclospora, the parasite involved in the outbreak, cannot be traced using advanced testing methods, states rely largely on labor-intensive interviews that can take up to 45 minutes each.
 
-Reporting by Bo Erickson, Idrees Ali, Phil Stewart and Timour Azhari; Writing by Kim Coghill, Peter Graff, and Raphael Satter; Editing by Clarence Fernandez, Kevin Liffey, Sergio Non and David Gregorio
+In Oakland County, which has nearly 1.3 million residents, a team of ​four communicable disease nurses and three epidemiologists is handling interviews. As of July 24, they had reported 710 cases.
+
+During the COVID pandemic, Oakland County's health department had 12 ​additional staff members to help with ⁠outreach, said Kate Guzman, county health officer. That included four other nurses who were let go this past spring, she said.
+
+The county has pulled in nurses from its hepatitis C and HIV programs to help with outreach.
+
+Guzman said the state health department was passing along as much information as possible to local health departments, but she said she believes the state often lacks details from federal partners.
+
+Staff at the Washtenaw County Health Department are investigating more than 770 cases, leaving less time for dealing with other ⁠illnesses or clinic ​appointments, spokesperson Susan Ringler Cerniglia said.
+
+The outbreak feels mysterious because it is large and officials do not have definitive answers for what is causing ​it, she said.
+
+"We've got this huge volume (of cases) and so many people working on it and it's not getting clearer," Ringler Cerniglia said.
+
+In rural Shiawassee County, with a population of about 68,000 people, the health department is bringing in qualified volunteers to help investigate about 450 cases, said Larry ​Johnson, its director.
+
+"This really just hit us so fast," he said. "It was like, 'Boom, here it is.'"
+
+Reporting by Julie Steenhuysen and Tom Polansek in Chicago; Additional reporting by Leah Douglas and Yasmeen Abutaleb in Washington; Editing by Caroline Humer and David Gaffen
 
 Our Standards: [The Thomson Reuters Trust Principles., opens new tab](https://www.thomsonreuters.com/en/about-us/trust-principles.html)
 
 - Suggested Topics:
-- [](https://www.reuters.com/world/middle-east/)
-- [](https://www.reuters.com/business/energy/grid-infrastructure/)
-- [](https://www.reuters.com/business/energy/refining/)
-- [](https://www.reuters.com/business/energy/exploration-production/)
+- [](https://www.reuters.com/business/healthcare-pharmaceuticals/)
+- [](https://www.reuters.com/legal/health/)
+- [](https://www.reuters.com/sustainability/regulatory-oversight/)
+- [](https://www.reuters.com/business/healthcare-pharmaceuticals/regulatory/)
+- [](https://www.reuters.com/legal/public-policy/)
 
 [](https://www.reutersagency.com/en/licensereuterscontent/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead)
 
 [
 
-](https://www.reuters.com/authors/idrees-ali/)
+](https://www.reuters.com/authors/tom-polansek/)
 
-[Idrees Ali](https://www.reuters.com/authors/idrees-ali/)
+[Tom Polansek](https://www.reuters.com/authors/tom-polansek/)
 
 Thomson Reuters
 
-National security correspondent focusing on the Pentagon in Washington D.C. Reports on U.S. military activity and operations throughout the world and the impact that they have. Has reported from over two dozen countries to include Iraq, Afghanistan, and much of the Middle East, Asia and Europe. From Karachi, Pakistan.
+Tom has been a journalist for Reuters in Chicago since 2011. He writes primarily about food and agriculture, and has reported on disruptions to global fertilizer and grain supplies from Russia's invasion of Ukraine. He also covers U.S. livestock production and meatpacking companies including Tyson Foods, Smithfield Foods and JBS. Tom was part of a team of reporters that Reuters named as Journalists of the Year in 2016 for coverage of Monsanto. He also won awards from the North American Agricultural Journalists.
 
-- [](mailto:Idrees.Ali@thomsonreuters.com)
-- [](https://x.com/idreesali114)
-- [](https://www.reuters.com/world/middle-east/trump-vows-punish-iran-houthis-attacks-red-sea-2026-07-24/ali1141)
+- [](mailto:thomas.polansek@thomsonreuters.com)
+- [](https://x.com/tpolansek)
+- [](https://www.linkedin.com/in/tompolansek/)
 
-## Read Next
+## Read Next / Editor's Picks
 
-- [Asia Pacificcategory](https://www.reuters.com/world/asia-pacific/)
+- [Worldcategory](https://www.reuters.com/world/)
     
-    [Iran will halt attacks as long as US maintains pause, source says](https://www.reuters.com/world/asia-pacific/iran-will-halt-attacks-long-us-maintains-pause-iranian-source-says-after-trump-2026-07-26/)
-    
-    [
-    
-    ](https://www.reuters.com/world/asia-pacific/iran-will-halt-attacks-long-us-maintains-pause-iranian-source-says-after-trump-2026-07-26/)
-    
-- [Middle Eastcategory](https://www.reuters.com/world/middle-east/)
-    
-    [Israeli settlers set fire to West Bank mosques after deadly clash](https://www.reuters.com/world/middle-east/israeli-settlers-set-fire-west-bank-mosques-after-deadly-clash-2026-07-26/)
+    [Novo Nordisk pursues preliminary injunction to block Eli Lilly weight-loss drug ads](https://www.reuters.com/world/novo-nordisk-seeks-preliminary-injunction-against-lilly-weight-loss-ads-2026-07-24/)
     
     [
     
-    ](https://www.reuters.com/world/middle-east/israeli-settlers-set-fire-west-bank-mosques-after-deadly-clash-2026-07-26/)
+    ](https://www.reuters.com/world/novo-nordisk-seeks-preliminary-injunction-against-lilly-weight-loss-ads-2026-07-24/)
     
-- [Middle Eastcategory](https://www.reuters.com/world/middle-east/)
+- [Healthcare & Pharmaceuticalscategory](https://www.reuters.com/business/healthcare-pharmaceuticals/)
     
-    [Israeli strike kills a top Hamas security official in Gaza, medics and police say](https://www.reuters.com/world/middle-east/israeli-strike-kills-top-hamas-security-official-gaza-medics-police-say-2026-07-26/)
-    
-    [
-    
-    ](https://www.reuters.com/world/middle-east/israeli-strike-kills-top-hamas-security-official-gaza-medics-police-say-2026-07-26/)
-    
-- [Middle Eastcategory](https://www.reuters.com/world/middle-east/)
-    
-    [Trump is giving Iran talks 'a little bit of room,' US ambassador to UN says](https://www.reuters.com/world/middle-east/trump-is-giving-iran-talks-a-little-bit-room-us-ambassador-un-says-2026-07-26/)
+    [Australia's Queensland confirms H5N1 bird flu case, fourth state](https://www.reuters.com/business/healthcare-pharmaceuticals/australias-queensland-confirms-h5n1-bird-flu-case-fourth-state-2026-07-25/)
     
     [
     
-    ](https://www.reuters.com/world/middle-east/trump-is-giving-iran-talks-a-little-bit-room-us-ambassador-un-says-2026-07-26/)
+    ](https://www.reuters.com/business/healthcare-pharmaceuticals/australias-queensland-confirms-h5n1-bird-flu-case-fourth-state-2026-07-25/)
     
-- [Middle Eastcategory](https://www.reuters.com/world/middle-east/)
+- [Healthcare & Pharmaceuticalscategory](https://www.reuters.com/business/healthcare-pharmaceuticals/)
     
-    [Most Gulf markets ease after Houthi attacks on Saudi Red Sea oil sites](https://www.reuters.com/world/middle-east/most-gulf-markets-ease-after-houthi-attacks-saudi-red-sea-oil-sites-2026-07-26/)
-    
-    [
-    
-    ](https://www.reuters.com/world/middle-east/most-gulf-markets-ease-after-houthi-attacks-saudi-red-sea-oil-sites-2026-07-26/)
-    
-- [Middle Eastcategory](https://www.reuters.com/world/middle-east/)
-    
-    [Israel to allow international force into Gaza, Israeli official says](https://www.reuters.com/world/middle-east/israeli-security-cabinet-approves-letting-international-force-enter-gaza-areas-2026-07-26/)
+    [FDA widens investigation into cyclosporiasis cases to four more states](https://www.reuters.com/business/healthcare-pharmaceuticals/us-cdc-links-four-more-states-cyclosporiasis-outbreak-washington-post-reports-2026-07-24/)
     
     [
     
-    ](https://www.reuters.com/world/middle-east/israeli-security-cabinet-approves-letting-international-force-enter-gaza-areas-2026-07-26/)
+    ](https://www.reuters.com/business/healthcare-pharmaceuticals/us-cdc-links-four-more-states-cyclosporiasis-outbreak-washington-post-reports-2026-07-24/)
+    
+- [Healthcare & Pharmaceuticalscategory](https://www.reuters.com/business/healthcare-pharmaceuticals/)
+    
+    [Congo says number of confirmed Ebola cases surpasses 3,000](https://www.reuters.com/business/healthcare-pharmaceuticals/congo-says-number-confirmed-ebola-cases-surpasses-3000-2026-07-25/)
+    
+    [
+    
+    ](https://www.reuters.com/business/healthcare-pharmaceuticals/congo-says-number-confirmed-ebola-cases-surpasses-3000-2026-07-25/)
+    
+- [Worldcategory](https://www.reuters.com/world/)
+    
+    [US judge says Biden-era restrictions on prescribing abortion drug are unlawful](https://www.reuters.com/world/us-judge-blocks-biden-era-restrictions-prescribing-abortion-drug-2026-07-24/)
+    
+    [
+    
+    ](https://www.reuters.com/world/us-judge-blocks-biden-era-restrictions-prescribing-abortion-drug-2026-07-24/)
+    
+- [Litigationcategory](https://www.reuters.com/legal/litigation/)
+    
+    [US FDA approves Outlook Therapeutics' eye disease drug](https://www.reuters.com/legal/litigation/us-fda-approves-outlook-therapeutics-eye-disease-drug-2026-07-24/)
+    
+    [
+    
+    ](https://www.reuters.com/legal/litigation/us-fda-approves-outlook-therapeutics-eye-disease-drug-2026-07-24/)
+    
+- [Legalcategory](https://www.reuters.com/legal/)
+    
+    [Amgen submits new data to challenge FDA's proposal to withdraw Tavneos](https://www.reuters.com/legal/litigation/amgen-submits-new-data-challenge-fdas-proposal-withdraw-tavneos-2026-07-24/)
+    
+    [
+    
+    ](https://www.reuters.com/legal/litigation/amgen-submits-new-data-challenge-fdas-proposal-withdraw-tavneos-2026-07-24/)
+    
+- [Litigationcategory](https://www.reuters.com/legal/litigation/)
+    
+    [US FDA approves over-the-counter Tylenol combination pill for pain relief](https://www.reuters.com/legal/litigation/us-fda-approves-over-the-counter-tylenol-combination-pill-pain-relief-2026-07-24/)
+    
+    [
+    
+    ](https://www.reuters.com/legal/litigation/us-fda-approves-over-the-counter-tylenol-combination-pill-pain-relief-2026-07-24/)
+    
+- [Worldcategory](https://www.reuters.com/world/)
+    
+    [Abbott defeats shareholder lawsuit over 2022 infant formula recall](https://www.reuters.com/world/abbott-wins-dismissal-shareholder-lawsuit-over-2022-infant-formula-recall-2026-07-24/)
+    
+    [
+    
+    ](https://www.reuters.com/world/abbott-wins-dismissal-shareholder-lawsuit-over-2022-infant-formula-recall-2026-07-24/)
+    
+- [Litigationcategory](https://www.reuters.com/legal/litigation/)
+    
+    [FDA advisers recommend relaxing US rules on compounding peptides](https://www.reuters.com/legal/litigation/fda-advisers-weigh-relaxing-rules-three-more-peptides-widen-access-2026-07-24/)
+    
+    [
+    
+    ](https://www.reuters.com/legal/litigation/fda-advisers-weigh-relaxing-rules-three-more-peptides-widen-access-2026-07-24/)
+    
+- [Healthcare & Pharmaceuticalscategory](https://www.reuters.com/business/healthcare-pharmaceuticals/)
+    
+    [US measles cases hit 35-year high as vaccinations decline](https://www.reuters.com/business/healthcare-pharmaceuticals/us-cdc-records-over-2300-measles-cases-so-far-2026-2026-07-24/)
+    
+    [
+    
+    ](https://www.reuters.com/business/healthcare-pharmaceuticals/us-cdc-records-over-2300-measles-cases-so-far-2026-2026-07-24/)
+    
+- [Litigationcategory](https://www.reuters.com/legal/litigation/)
+    
+    [Merck licenses experimental HIV pill to generic makers in 129 countries](https://www.reuters.com/legal/litigation/merck-licenses-experimental-hiv-pill-generic-makers-129-countries-2026-07-24/)
+    
+    [
+    
+    ](https://www.reuters.com/legal/litigation/merck-licenses-experimental-hiv-pill-generic-makers-129-countries-2026-07-24/)
+    
+- [Healthcare & Pharmaceuticalscategory](https://www.reuters.com/business/healthcare-pharmaceuticals/)
+    
+    [Nearly 3,000 confirmed infected with Ebola in Congo after data review](https://www.reuters.com/business/healthcare-pharmaceuticals/nearly-3000-confirmed-infected-with-ebola-congo-after-data-review-2026-07-24/)
+    
+    [
+    
+    ](https://www.reuters.com/business/healthcare-pharmaceuticals/nearly-3000-confirmed-infected-with-ebola-congo-after-data-review-2026-07-24/)
+    
+- [Legalcategory](https://www.reuters.com/legal/)
+    
+    [FDA advisory panel recommends peptide Semax be added to pharmacy compounding list](https://www.reuters.com/legal/litigation/fda-advisory-panel-recommends-peptide-semax-be-added-pharmacy-compounding-list-2026-07-24/)
+    
+    [
+    
+    ](https://www.reuters.com/legal/litigation/fda-advisory-panel-recommends-peptide-semax-be-added-pharmacy-compounding-list-2026-07-24/)
+    
+- ANALYSIS
+    
+    [AstraZeneca 'magic' faces rare test after trial failure, share slide](https://www.reuters.com/business/healthcare-pharmaceuticals/astrazeneca-magic-faces-rare-test-after-trial-failure-share-slide-2026-07-24/)
+    
+    [
+    
+    ](https://www.reuters.com/business/healthcare-pharmaceuticals/astrazeneca-magic-faces-rare-test-after-trial-failure-share-slide-2026-07-24/)
     
 
 [](https://www.lseg.com/en/data-analytics/products/workspace?utm_source=reuters.com&utm_medium=articlebanner&utm_campaign=Reuters_ProductPage_Links)
-
-## [World](https://www.reuters.com/world/)
-
-- [
-    
-    ](https://www.reuters.com/world/europe/suspect-berlin-pride-attack-shot-dead-by-police-berlin-suburb-broadcaster-says-2026-07-26/)
-    
-    ### [Suspect in Berlin Pride attack shot dead by police in Berlin suburb, broadcaster says](https://www.reuters.com/world/europe/suspect-berlin-pride-attack-shot-dead-by-police-berlin-suburb-broadcaster-says-2026-07-26/)
-    
-    [Europecategory](https://www.reuters.com/world/europe/) · July 26, 2026 · 10:14 AM PDT · 25 mins ago
-    
-    The ​suspect in the ‌Berlin Pride attack ​has ​been shot and ⁠killed ​during a ​police operation at an allotment ​garden ​complex in the ‌Berlin ⁠suburb of Spandau, broadcaster rbb ​reported ​on ⁠Sunday.
-    
-- [
-    
-    ](https://www.reuters.com/world/americas/brazil-recalls-ambassador-argentina-after-milei-attacks-lula-sources-say-2026-07-26/)
-    
-    [Americascategory](https://www.reuters.com/world/americas/)[Brazil recalls ambassador to Argentina after Milei attacks Lula, sources say](https://www.reuters.com/world/americas/brazil-recalls-ambassador-argentina-after-milei-attacks-lula-sources-say-2026-07-26/)
-    
-    9:27 AM PDT
-    
-- [
-    
-    ](https://www.reuters.com/world/middle-east/israeli-security-cabinet-approves-letting-international-force-enter-gaza-areas-2026-07-26/)
-    
-    [Middle Eastcategory](https://www.reuters.com/world/middle-east/)[Israeli security cabinet approves letting international force enter Gaza areas beyond Israeli control](https://www.reuters.com/world/middle-east/israeli-security-cabinet-approves-letting-international-force-enter-gaza-areas-2026-07-26/)
-    
-    9:25 AM PDT
-    
-- [
-    
-    ](https://www.reuters.com/world/americas/cuban-president-accuses-us-political-genocide-anniversary-revolution-2026-07-26/)
-    
-    [Americascategory](https://www.reuters.com/world/americas/)[Cuban president accuses US of 'political genocide' on anniversary of revolution](https://www.reuters.com/world/americas/cuban-president-accuses-us-political-genocide-anniversary-revolution-2026-07-26/)
-    
-    8:26 AM PDT
-    
-- [
-    
-    ](https://www.reuters.com/world/asia-pacific/india-pm-modi-announces-panel-overhaul-exam-system-after-protests-2026-07-26/)
-    
-    [Asia Pacificcategory](https://www.reuters.com/world/asia-pacific/)[Modi announces panel to overhaul India's exam system after protests](https://www.reuters.com/world/asia-pacific/india-pm-modi-announces-panel-overhaul-exam-system-after-protests-2026-07-26/)
-    
-    8:10 AM PDT
-    
 
 ### Site Index
 
