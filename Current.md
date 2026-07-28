@@ -24,153 +24,81 @@
 
 [My News](https://www.reuters.com/my-news/feed/)
 
-[](https://www.reuters.com/account/sign-in/?redirect=https%3A%2F%2Fwww.reuters.com%2Flegal%2Flitigation%2Fmichigan-battles-massive-outbreak-state-reels-trump-cuts-2026-07-25%2F)[](https://www.reuters.com/account/subscribe/offer/?redirect=https%3A%2F%2Fwww.reuters.com%2Flegal%2Flitigation%2Fmichigan-battles-massive-outbreak-state-reels-trump-cuts-2026-07-25%2F&referrer=subscription_button&journeyStart=navigation)
+[](https://www.reuters.com/account/sign-in/?redirect=https%3A%2F%2Fwww.reuters.com%2Fworld%2Fappeals-court-rejects-trump-bid-halt-100000-h-1b-visa-fee-ruling-2026-07-24%2F)[](https://www.reuters.com/account/subscribe/offer/?redirect=https%3A%2F%2Fwww.reuters.com%2Fworld%2Fappeals-court-rejects-trump-bid-halt-100000-h-1b-visa-fee-ruling-2026-07-24%2F&referrer=subscription_button&journeyStart=navigation)
 
-# Michigan battles massive outbreak as state reels from Trump cuts
+# Appeals court rejects Trump bid to halt $100,000 H-1B visa fee ruling
 
-By [Julie Steenhuysen](https://www.reuters.com/authors/julie-steenhuysen/) and [Tom Polansek](https://www.reuters.com/authors/tom-polansek/)
+By [Nate Raymond](https://www.reuters.com/authors/nate-raymond/)
 
-July 25, 20263:06 AM PDTUpdated July 25, 2026
+July 24, 20263:52 PM PDTUpdated July 24, 2026
 
-Item 1 of 2 Lettuce is displayed for sale, amid reports of slumping consumer confidence in lettuce and other fresh produce during the current cyclosporiasis outbreak that has sickened thousands across the U.S., at a grocery store in Washington, D.C., U.S., July 24, 2026. REUTERS/Nathan Howard/File photo
+![Illustration shows U.S. flag and U.S. H-1B Visa application form](https://www.reuters.com/resizer/v2/NK4Y4IOFCBN2BMXOTQQRE7MONU.jpg?auth=7dce5b750329b1d4a59f8cec8445ac6c6ed80e59cd722c83d0d40a79830098ca&width=1920&quality=80)
 
-**[1/2]**Lettuce is displayed for sale, amid reports of slumping consumer confidence in lettuce and other fresh produce during the current cyclosporiasis outbreak that has sickened thousands across the U.S., at a grocery store in Washington, D.C., U.S., July 24, 2026. REUTERS/Nathan Howard/File photo [Purchase Licensing Rights, opens new tab](https://www.reutersconnect.com/item/reports-of-slumping-consumer-confidence-in-lettuce-during-cyclosporiasis-outbreak/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1JDMk5LTUExVjhLSw%3D%3D/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead)
+U.S. flag and U.S. H-1B Visa application form are seen in this illustration taken September 26, 2025. REUTERS/Dado Ruvic/Illustration [Purchase Licensing Rights, opens new tab](https://www.reutersconnect.com/item/illustration-shows-us-flag-and-us-h-1b-visa-application-form/dGFnOnJldXRlcnMuY29tLDIwMjU6bmV3c21sX1JDMlJaR0FPUjNaQQ%3D%3D/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead)
 
-- Summary
-- Companies
+BOSTON, July 24 (Reuters) - A federal appeals court on Friday rejected a ‌bid by U.S. President Donald Trump's administration to halt a judge's order preventing it from imposing a $100,000 fee on new H-1B visas for highly skilled foreign workers.
 
-- Michigan has reported more than 8,100 cyclosporiasis cases
-- Michigan lost numerous disease and health workers after federal cuts
-- CDC issued cyclosporiasis health warning July 14
+The ​Boston-based 1st U.S. Circuit Court of Appeals declined to put ​on hold a lower court judge's [June 8 ruling](https://www.reuters.com/world/trumps-100000-h-1b-visa-fee-is-unlawful-us-judge-rules-2026-06-08/) in a lawsuit ⁠filed by 20 Democratic state attorneys general, striking down the fee ​on the basis that it constituted an unlawful tax Congress never authorized.
 
-CHICAGO, July 25 (Reuters) - Two weeks before the U.S. Centers for Disease Control and Prevention issued its cyclosporiasis health warning on July 14, Michigan warned of an unusually large outbreak of parasitic disease that was causing explosive diarrhea.
+The Reuters Daily Briefing newsletter provides all the news you need to start your day. Sign up [here.](https://www.reuters.com/newsletters/daily-briefing/?location=article-paragraph&redirectUrl=%2Fworld%2Fappeals-court-rejects-trump-bid-halt-100000-h-1b-visa-fee-ruling-2026-07-24%2F)
 
-New cases are still being reported in the nine-state outbreak. Michigan is the [hardest hit](https://www.reuters.com/business/healthcare-pharmaceuticals/cyclosporiasis-cases-michigan-climb-over-7000-state-health-officials-say-2026-07-22/), with more than ​8,100 cases.
+The ​three-judge panel, composed only of appointees of Democratic presidents, said the Trump administration failed to show it was likely on appeal to succeed in showing it had not ​exceeded its authority by imposing the fee.
 
-Jumpstart your morning with the latest legal news delivered straight to your inbox from The Daily Docket newsletter. Sign up [here.](https://www.reuters.com/newsletters/daily-docket/?location=article-paragraph&redirectUrl=%2Flegal%2Flitigation%2Fmichigan-battles-massive-outbreak-state-reels-trump-cuts-2026-07-25%2F)
+The U.S. president [issued a proclamation, opens new tab](https://www.reuters.com/world/appeals-court-rejects-trump-bid-halt-100000-h-1b-visa-fee-ruling-2026-07-24/nMT1ALTFWN3V60Z82) ​in September that raised the cost of obtaining H-1B visas, which tech companies [rely heavily](https://www.reuters.com/sustainability/sustainable-finance-reporting/silicon-valley-hiring-turmoil-after-new-h-1b-visa-fees-move-spurs-offshoring-2025-09-23/) ‌on ⁠to bring on foreign workers.
 
-The state is straining to keep up with the caseload in part due to federal funding cuts, as well as what officials in two counties and a third source familiar with the ‌state's response called lagging or limited communication from federal agencies.
+The H-1B program offers 65,000 visas annually, with another 20,000 visas for workers with advanced degrees, approved for three to six years. Employers seeking a visa for a foreign worker before ​Trump's move typically ​paid about $2,000 to $5,000 ⁠in fees depending on various factors.
 
-As a result, state and county health officials are borrowing staff and recruiting volunteers to sleuth out potential causes for the outbreak beyond the bagged lettuce that has been linked to Taylor Farms and Taco Bell, Michigan state and local health officials said in interviews.
+Trump, in imposing the hefty new fee, said the H-1B program "has been deliberately ​exploited to replace, rather than supplement, American workers ​with lower-paid, ⁠lower-skilled labor."
 
-The strain illustrates how states are struggling to get ahead of a fast-spreading foodborne outbreak without the federal resources that have been available in past health emergencies.
+The fee does not apply to visas granted to foreign citizens already in the U.S. on student visas, who generally make up a ⁠large share ​of new H-1B recipients.
 
-Michigan has 23 fewer infectious disease workers and 123 fewer county health staff after the ​Trump administration in 2025 canceled around [$12 billion in COVID-era grants](https://www.reuters.com/business/healthcare-pharmaceuticals/us-government-pulls-back-over-11-billion-funding-state-health-departments-2025-03-26/) to states.
+Few employers have paid ​Trump's fee since it was instituted.
 
-"We have had to pull in dozens of staff from other areas, from hepatitis C and interns who are working on gun violence prevention," said ​Dr. Natasha Bagdasarian, Michigan's chief medical executive.
+The White House did not immediately respond to a request ​for comment.
 
-Ingham County, which includes most of the state capital of Lansing, has reported about 700 cases.
-
-However, its health department's staff of five nurses ⁠has only investigated about half of those. It has decided to drop old cases and focus on new ones, said Anne Barna, deputy health officer for Ingham County, which has a population of 290,000.
-
-"That way we can try to help ​the state and the feds understand what is still causing people to get cyclospora," she said.
-
-Cuts to federal agencies have made the response more challenging, former CDC officials and food safety experts said.
-
-The Trump administration's cuts to the U.S. Agency ​for International Development also cut $40 million in funding that supported a CDC lab that investigates parasitic diseases. Resignations and staffing cuts last year have also taken a toll, said Dan Jernigan, a former senior CDC official.
-
-## COMMUNICATION LAG
-
-The U.S. Food and Drug Administration on July 17 linked the outbreak to [iceberg lettuce](https://www.reuters.com/world/fda-says-sample-iceberg-lettuce-supplied-by-taylor-farms-tested-positive-2026-07-18/) served at Taco Bell restaurants sourced from privately held Taylor Farms' operations in central Mexico. The agency says it is still investigating other sources.
-
-Taco Bell, owned by Yum Brands [(YUM.N), opens new tab](https://www.reuters.com/markets/companies/YUM.N), has stopped using iceberg lettuce supplied from Taylor Farms nationwide, and Taylor Farms ​has removed lettuce sourced from central Mexico from shelves.
-
-The CDC has reported 4,173 laboratory-confirmed domestic cases of cyclosporiasis and said there are more than 7,400 unconfirmed cases nationwide.
-
-Michigan's investigation did not identify a single fast-food chain as a source, Bagdasarian ​said. She noted about 12% of patients have no clear link to having consumed lettuce or eaten at a fast-food chain.
-
-In past outbreaks, the CDC has taken a leadership role in coordinating information among states, the officials said. The state then passes information along ‌to local health ⁠departments. But Ingham County's Barna said there were several instances where she first learned new information from the news.
-
-Typically states involved in a large outbreak would be meeting with the CDC at least weekly, said John Besser, a former CDC food safety expert.
-
-While Michigan has received prompt answers to technical questions put to CDC and the FDA, they are not having regular, formal meetings with their federal partners, said a source familiar with the state's response, who was not authorized to speak publicly.
-
-A spokesperson for the U.S. Department of Health and Human Services rejected that characterization, saying the CDC was meeting daily with FDA and state officials nationwide to share updates and gather information about the outbreak.
-
-Spokespeople for Ohio and West Virginia, both ​of which are part of the nine-state outbreak, said they ​had been having regular calls with federal agencies. ⁠The CDC sent a group of epidemic intelligence experts to Ohio on July 22 for three weeks, the HHS spokesperson said.
-
-## LABOR INTENSIVE
-
-Because cyclospora, the parasite involved in the outbreak, cannot be traced using advanced testing methods, states rely largely on labor-intensive interviews that can take up to 45 minutes each.
-
-In Oakland County, which has nearly 1.3 million residents, a team of ​four communicable disease nurses and three epidemiologists is handling interviews. As of July 24, they had reported 710 cases.
-
-During the COVID pandemic, Oakland County's health department had 12 ​additional staff members to help with ⁠outreach, said Kate Guzman, county health officer. That included four other nurses who were let go this past spring, she said.
-
-The county has pulled in nurses from its hepatitis C and HIV programs to help with outreach.
-
-Guzman said the state health department was passing along as much information as possible to local health departments, but she said she believes the state often lacks details from federal partners.
-
-Staff at the Washtenaw County Health Department are investigating more than 770 cases, leaving less time for dealing with other ⁠illnesses or clinic ​appointments, spokesperson Susan Ringler Cerniglia said.
-
-The outbreak feels mysterious because it is large and officials do not have definitive answers for what is causing ​it, she said.
-
-"We've got this huge volume (of cases) and so many people working on it and it's not getting clearer," Ringler Cerniglia said.
-
-In rural Shiawassee County, with a population of about 68,000 people, the health department is bringing in qualified volunteers to help investigate about 450 cases, said Larry ​Johnson, its director.
-
-"This really just hit us so fast," he said. "It was like, 'Boom, here it is.'"
-
-Reporting by Julie Steenhuysen and Tom Polansek in Chicago; Additional reporting by Leah Douglas and Yasmeen Abutaleb in Washington; Editing by Caroline Humer and David Gaffen
+Reporting by Nate Raymond, Editing by Bhargav Acharya and Chris Reese
 
 Our Standards: [The Thomson Reuters Trust Principles., opens new tab](https://www.thomsonreuters.com/en/about-us/trust-principles.html)
 
 - Suggested Topics:
-- [](https://www.reuters.com/business/healthcare-pharmaceuticals/)
-- [](https://www.reuters.com/legal/health/)
-- [](https://www.reuters.com/sustainability/regulatory-oversight/)
-- [](https://www.reuters.com/business/healthcare-pharmaceuticals/regulatory/)
+- [](https://www.reuters.com/legal/government/)
+- [](https://www.reuters.com/legal/constitutional-law/)
+- [](https://www.reuters.com/legal/judiciary/)
+- [](https://www.reuters.com/legal/appellate/)
 - [](https://www.reuters.com/legal/public-policy/)
 
 [](https://www.reutersagency.com/en/licensereuterscontent/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead)
 
 [
 
-](https://www.reuters.com/authors/tom-polansek/)
+](https://www.reuters.com/authors/nate-raymond/)
 
-[Tom Polansek](https://www.reuters.com/authors/tom-polansek/)
+[Nate Raymond](https://www.reuters.com/authors/nate-raymond/)
 
 Thomson Reuters
 
-Tom has been a journalist for Reuters in Chicago since 2011. He writes primarily about food and agriculture, and has reported on disruptions to global fertilizer and grain supplies from Russia's invasion of Ukraine. He also covers U.S. livestock production and meatpacking companies including Tyson Foods, Smithfield Foods and JBS. Tom was part of a team of reporters that Reuters named as Journalists of the Year in 2016 for coverage of Monsanto. He also won awards from the North American Agricultural Journalists.
+Nate Raymond reports on the federal judiciary and litigation. He can be reached at nate.raymond@thomsonreuters.com.
 
-- [](mailto:thomas.polansek@thomsonreuters.com)
-- [](https://x.com/tpolansek)
-- [](https://www.linkedin.com/in/tompolansek/)
+- [](mailto:nate.raymond@thomsonreuters.com)
+- [](https://x.com/nateraymond)
 
-## Read Next / Editor's Picks
+## Read Next
 
+- [Governmentcategory](https://www.reuters.com/legal/government/)
+    
+    [US Senate to begin voting on Trump spy nominee Clayton](https://www.reuters.com/legal/government/us-senate-begin-voting-trump-spy-nominee-clayton-2026-07-27/)
+    
+    [
+    
+    ](https://www.reuters.com/legal/government/us-senate-begin-voting-trump-spy-nominee-clayton-2026-07-27/)
+    
 - [Worldcategory](https://www.reuters.com/world/)
     
-    [Novo Nordisk pursues preliminary injunction to block Eli Lilly weight-loss drug ads](https://www.reuters.com/world/novo-nordisk-seeks-preliminary-injunction-against-lilly-weight-loss-ads-2026-07-24/)
+    [Trump orders signs outside Smithsonian museum to correct what he calls 'inaccurate information'](https://www.reuters.com/world/us/trump-signs-executive-order-related-smithsonian-institution-white-house-says-2026-07-24/)
     
     [
     
-    ](https://www.reuters.com/world/novo-nordisk-seeks-preliminary-injunction-against-lilly-weight-loss-ads-2026-07-24/)
-    
-- [Healthcare & Pharmaceuticalscategory](https://www.reuters.com/business/healthcare-pharmaceuticals/)
-    
-    [Australia's Queensland confirms H5N1 bird flu case, fourth state](https://www.reuters.com/business/healthcare-pharmaceuticals/australias-queensland-confirms-h5n1-bird-flu-case-fourth-state-2026-07-25/)
-    
-    [
-    
-    ](https://www.reuters.com/business/healthcare-pharmaceuticals/australias-queensland-confirms-h5n1-bird-flu-case-fourth-state-2026-07-25/)
-    
-- [Healthcare & Pharmaceuticalscategory](https://www.reuters.com/business/healthcare-pharmaceuticals/)
-    
-    [FDA widens investigation into cyclosporiasis cases to four more states](https://www.reuters.com/business/healthcare-pharmaceuticals/us-cdc-links-four-more-states-cyclosporiasis-outbreak-washington-post-reports-2026-07-24/)
-    
-    [
-    
-    ](https://www.reuters.com/business/healthcare-pharmaceuticals/us-cdc-links-four-more-states-cyclosporiasis-outbreak-washington-post-reports-2026-07-24/)
-    
-- [Healthcare & Pharmaceuticalscategory](https://www.reuters.com/business/healthcare-pharmaceuticals/)
-    
-    [Congo says number of confirmed Ebola cases surpasses 3,000](https://www.reuters.com/business/healthcare-pharmaceuticals/congo-says-number-confirmed-ebola-cases-surpasses-3000-2026-07-25/)
-    
-    [
-    
-    ](https://www.reuters.com/business/healthcare-pharmaceuticals/congo-says-number-confirmed-ebola-cases-surpasses-3000-2026-07-25/)
+    ](https://www.reuters.com/world/us/trump-signs-executive-order-related-smithsonian-institution-white-house-says-2026-07-24/)
     
 - [Worldcategory](https://www.reuters.com/world/)
     
@@ -180,88 +108,77 @@ Tom has been a journalist for Reuters in Chicago since 2011. He writes primarily
     
     ](https://www.reuters.com/world/us-judge-blocks-biden-era-restrictions-prescribing-abortion-drug-2026-07-24/)
     
-- [Litigationcategory](https://www.reuters.com/legal/litigation/)
+- [Governmentcategory](https://www.reuters.com/legal/government/)
     
-    [US FDA approves Outlook Therapeutics' eye disease drug](https://www.reuters.com/legal/litigation/us-fda-approves-outlook-therapeutics-eye-disease-drug-2026-07-24/)
-    
-    [
-    
-    ](https://www.reuters.com/legal/litigation/us-fda-approves-outlook-therapeutics-eye-disease-drug-2026-07-24/)
-    
-- [Legalcategory](https://www.reuters.com/legal/)
-    
-    [Amgen submits new data to challenge FDA's proposal to withdraw Tavneos](https://www.reuters.com/legal/litigation/amgen-submits-new-data-challenge-fdas-proposal-withdraw-tavneos-2026-07-24/)
+    [US Education Department removes key rules against discrimination](https://www.reuters.com/legal/government/us-education-department-removes-key-rules-against-discrimination-2026-07-23/)
     
     [
     
-    ](https://www.reuters.com/legal/litigation/amgen-submits-new-data-challenge-fdas-proposal-withdraw-tavneos-2026-07-24/)
+    ](https://www.reuters.com/legal/government/us-education-department-removes-key-rules-against-discrimination-2026-07-23/)
     
-- [Litigationcategory](https://www.reuters.com/legal/litigation/)
+- [Governmentcategory](https://www.reuters.com/legal/government/)
     
-    [US FDA approves over-the-counter Tylenol combination pill for pain relief](https://www.reuters.com/legal/litigation/us-fda-approves-over-the-counter-tylenol-combination-pill-pain-relief-2026-07-24/)
-    
-    [
-    
-    ](https://www.reuters.com/legal/litigation/us-fda-approves-over-the-counter-tylenol-combination-pill-pain-relief-2026-07-24/)
-    
-- [Worldcategory](https://www.reuters.com/world/)
-    
-    [Abbott defeats shareholder lawsuit over 2022 infant formula recall](https://www.reuters.com/world/abbott-wins-dismissal-shareholder-lawsuit-over-2022-infant-formula-recall-2026-07-24/)
+    [Trump may need to allow Chinese minerals as US industry struggles to meet 2027 deadline](https://www.reuters.com/legal/government/trump-may-need-allow-chinese-minerals-us-industry-struggles-meet-2027-deadline-2026-07-27/)
     
     [
     
-    ](https://www.reuters.com/world/abbott-wins-dismissal-shareholder-lawsuit-over-2022-infant-formula-recall-2026-07-24/)
+    ](https://www.reuters.com/legal/government/trump-may-need-allow-chinese-minerals-us-industry-struggles-meet-2027-deadline-2026-07-27/)
     
 - [Litigationcategory](https://www.reuters.com/legal/litigation/)
     
-    [FDA advisers recommend relaxing US rules on compounding peptides](https://www.reuters.com/legal/litigation/fda-advisers-weigh-relaxing-rules-three-more-peptides-widen-access-2026-07-24/)
+    [Why New York's Mamdani cannot have Israel's Netanyahu arrested](https://www.reuters.com/legal/litigation/why-new-yorks-mamdani-cannot-have-israels-netanyahu-arrested-2026-07-22/)
     
     [
     
-    ](https://www.reuters.com/legal/litigation/fda-advisers-weigh-relaxing-rules-three-more-peptides-widen-access-2026-07-24/)
-    
-- [Healthcare & Pharmaceuticalscategory](https://www.reuters.com/business/healthcare-pharmaceuticals/)
-    
-    [US measles cases hit 35-year high as vaccinations decline](https://www.reuters.com/business/healthcare-pharmaceuticals/us-cdc-records-over-2300-measles-cases-so-far-2026-2026-07-24/)
-    
-    [
-    
-    ](https://www.reuters.com/business/healthcare-pharmaceuticals/us-cdc-records-over-2300-measles-cases-so-far-2026-2026-07-24/)
-    
-- [Litigationcategory](https://www.reuters.com/legal/litigation/)
-    
-    [Merck licenses experimental HIV pill to generic makers in 129 countries](https://www.reuters.com/legal/litigation/merck-licenses-experimental-hiv-pill-generic-makers-129-countries-2026-07-24/)
-    
-    [
-    
-    ](https://www.reuters.com/legal/litigation/merck-licenses-experimental-hiv-pill-generic-makers-129-countries-2026-07-24/)
-    
-- [Healthcare & Pharmaceuticalscategory](https://www.reuters.com/business/healthcare-pharmaceuticals/)
-    
-    [Nearly 3,000 confirmed infected with Ebola in Congo after data review](https://www.reuters.com/business/healthcare-pharmaceuticals/nearly-3000-confirmed-infected-with-ebola-congo-after-data-review-2026-07-24/)
-    
-    [
-    
-    ](https://www.reuters.com/business/healthcare-pharmaceuticals/nearly-3000-confirmed-infected-with-ebola-congo-after-data-review-2026-07-24/)
-    
-- [Legalcategory](https://www.reuters.com/legal/)
-    
-    [FDA advisory panel recommends peptide Semax be added to pharmacy compounding list](https://www.reuters.com/legal/litigation/fda-advisory-panel-recommends-peptide-semax-be-added-pharmacy-compounding-list-2026-07-24/)
-    
-    [
-    
-    ](https://www.reuters.com/legal/litigation/fda-advisory-panel-recommends-peptide-semax-be-added-pharmacy-compounding-list-2026-07-24/)
-    
-- ANALYSIS
-    
-    [AstraZeneca 'magic' faces rare test after trial failure, share slide](https://www.reuters.com/business/healthcare-pharmaceuticals/astrazeneca-magic-faces-rare-test-after-trial-failure-share-slide-2026-07-24/)
-    
-    [
-    
-    ](https://www.reuters.com/business/healthcare-pharmaceuticals/astrazeneca-magic-faces-rare-test-after-trial-failure-share-slide-2026-07-24/)
+    ](https://www.reuters.com/legal/litigation/why-new-yorks-mamdani-cannot-have-israels-netanyahu-arrested-2026-07-22/)
     
 
 [](https://www.lseg.com/en/data-analytics/products/workspace?utm_source=reuters.com&utm_medium=articlebanner&utm_campaign=Reuters_ProductPage_Links)
+
+## [World](https://www.reuters.com/world/)
+
+- [
+    
+    ](https://www.reuters.com/world/americas/perus-president-elect-fujimori-names-key-ministerial-appointments-2026-07-27/)
+    
+    ### [Peru's president-elect Fujimori names key ministerial appointments](https://www.reuters.com/world/americas/perus-president-elect-fujimori-names-key-ministerial-appointments-2026-07-27/)
+    
+    [Americascategory](https://www.reuters.com/world/americas/) · July 27, 2026 · 7:38 AM PDT · 8 mins ago
+    
+    Peru's President-elect Keiko ​Fujimori on Monday ‌named the Economy Minister, Foreign ​Minister, and ​Prime Minister for her ⁠administration, which ​is due to ​be sworn into government on Tuesday.
+    
+- [
+    
+    ](https://www.reuters.com/world/middle-east/houthis-say-they-targeted-saudi-east-west-oil-transport-2026-07-27/)
+    
+    [Middle Eastcategory](https://www.reuters.com/world/middle-east/)[Houthis say they targeted Saudi east-west oil transport](https://www.reuters.com/world/middle-east/houthis-say-they-targeted-saudi-east-west-oil-transport-2026-07-27/)
+    
+    7:32 AM PDT
+    
+- [
+    
+    ](https://www.reuters.com/world/americas/shot-fired-outside-us-consulate-toronto-second-time-this-year-2026-07-27/)
+    
+    [Americascategory](https://www.reuters.com/world/americas/)[Shot fired outside US consulate in Toronto for second time this year](https://www.reuters.com/world/americas/shot-fired-outside-us-consulate-toronto-second-time-this-year-2026-07-27/)
+    
+    7:20 AM PDT
+    
+- [
+    
+    ](https://www.reuters.com/world/middle-east/palestinians-say-settler-violence-military-raids-are-bringing-them-breaking-2026-07-27/)
+    
+    [Middle Eastcategory](https://www.reuters.com/world/middle-east/)[Palestinians say settler violence and military raids are bringing them to breaking point](https://www.reuters.com/world/middle-east/palestinians-say-settler-violence-military-raids-are-bringing-them-breaking-2026-07-27/)
+    
+    7:16 AM PDT
+    
+- [
+    
+    ](https://www.reuters.com/world/india/modi-faces-challenge-activists-over-surveillance-india-youth-protest-2026-07-27/)
+    
+    [Indiacategory](https://www.reuters.com/world/india/)[Modi faces challenge from activists over surveillance at India youth protest](https://www.reuters.com/world/india/modi-faces-challenge-activists-over-surveillance-india-youth-protest-2026-07-27/)
+    
+    6:38 AM PDT
+    
 
 ### Site Index
 
