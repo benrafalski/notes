@@ -24,269 +24,205 @@
 
 [My News](https://www.reuters.com/my-news/feed/)
 
-[](https://www.reuters.com/account/sign-in/?redirect=https%3A%2F%2Fwww.reuters.com%2Flegal%2Fgovernment%2Fthousands-children-sponsors-arrested-by-ice-after-tips-us-child-migrant-agency-2026-07-28%2F)[](https://www.reuters.com/account/subscribe/offer/?redirect=https%3A%2F%2Fwww.reuters.com%2Flegal%2Fgovernment%2Fthousands-children-sponsors-arrested-by-ice-after-tips-us-child-migrant-agency-2026-07-28%2F&referrer=subscription_button&journeyStart=navigation)
+[](https://www.reuters.com/account/sign-in/?redirect=https%3A%2F%2Fwww.reuters.com%2Flegal%2Flitigation%2Ftrump-administration-plans-end-medicare-drug-plan-subsidy-wsj-reports-2026-07-28%2F)[](https://www.reuters.com/account/subscribe/offer/?redirect=https%3A%2F%2Fwww.reuters.com%2Flegal%2Flitigation%2Ftrump-administration-plans-end-medicare-drug-plan-subsidy-wsj-reports-2026-07-28%2F&referrer=subscription_button&journeyStart=navigation)
 
-EXCLUSIVE
+# Trump administration to end Medicare premium subsidy program
 
-# Thousands of children, sponsors arrested by ICE after tips from US child migrant agency 
+By [Padmanabhan Ananthan](https://www.reuters.com/authors/padmanabhan-ananthan/)
 
-By [Kristina Cooke](https://www.reuters.com/authors/kristina-cooke/)
+July 28, 20262:15 PM PDTUpdated July 28, 2026
 
-July 28, 20263:02 AM PDTUpdated 11 hours ago
+![Little Five Points pharmacy in Atlanta](https://www.reuters.com/resizer/v2/CK4EX6RQ6NNS5HOT5SRK6E62IA.jpg?auth=2f73c1678d8e17e06f555170c171d444ef7a92a7a1ea08bd9b4937986c216d2b&width=1920&quality=80)
 
-Item 1 of 5 Aurora and het her six-year-old daughter, who were detained by Immigration and Customs Enforcement and sent to a family detention center in Texas, pose for a portrait during an interview with Reuters in the Central Valley of California, U.S., July 23, 2026. REUTERS/Carlos Barria
+Little Five Points pharmacy in Atlanta, Georgia, U.S., October 8, 2025. REUTERS/Jayla Whitfield-Anderson [Purchase Licensing Rights, opens new tab](https://www.reutersconnect.com/item/little-five-points-pharmacy-in-atlanta/dGFnOnJldXRlcnMuY29tLDIwMjU6bmV3c21sX1JDMlQ3SEE1VE9KTw%3D%3D/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead)
 
-**[1/5]**Aurora and het her six-year-old daughter, who were detained by Immigration and Customs Enforcement and sent to a family detention center in Texas, pose for a portrait during an interview with Reuters in the Central Valley of California, U.S., July 23, 2026. REUTERS/Carlos Barria [Purchase Licensing Rights, opens new tab](https://www.reutersconnect.com/item/ice-arrests-more-than-12000-people-following-tips-from-unaccompanied-child-program/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1JDMjFLTUFYS0VNRw%3D%3D/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead)
+- Companies
 
-- Summary
+- [
+    
+    CVS Health Corp
+    
+    ](https://www.reuters.com/company/cvs-health-corp/)
+    
+- [
+    
+    Humana Inc
+    
+    ](https://www.reuters.com/company/humana-inc/)
+    
+- [
+    
+    UnitedHealth Group Inc
+    
+    ](https://www.reuters.com/company/unitedhealth-group-inc/)
+    
 
-- ORR shared more than 460,000 leads with ICE since January 2025, internal data showed
-- Migrant children now spending an average of nearly 200 days in ORR custody
-- Care of migrant children previously walled off from immigration enforcement
+July 28 (Reuters) - The Trump administration will end a subsidy program, meant to keep premiums stable for Medicare prescription ​drug plans, after 2026, the Centers for Medicare & Medicaid Services ‌said on Tuesday.
 
-July 28 (Reuters) - Aurora's 6-year-old daughter arrived at the U.S. border alone and spent more than half a year in a child migrant shelter while her mother, who was already in the country, worked to get her out.
+The agency said its review of 2027 bids showed insurers have gained enough experience with Medicare Part D to accurately price their plans without support from ​the program.
 
-The two were finally reunited in late March.
+Jumpstart your morning with the latest legal news delivered straight to your inbox from The Daily Docket newsletter. Sign up [here.](https://www.reuters.com/newsletters/daily-docket/?location=article-paragraph&redirectUrl=%2Flegal%2Flitigation%2Ftrump-administration-plans-end-medicare-drug-plan-subsidy-wsj-reports-2026-07-28%2F)
 
-Jumpstart your morning with the latest legal news delivered straight to your inbox from The Daily Docket newsletter. Sign up [here.](https://www.reuters.com/newsletters/daily-docket/?location=article-paragraph&redirectUrl=%2Flegal%2Fgovernment%2Fthousands-children-sponsors-arrested-by-ice-after-tips-us-child-migrant-agency-2026-07-28%2F)
+"We are stabilizing the market so this bailout is no ​longer needed. Premiums will go up by less than $10 for most ⁠Medicare recipients, with many even seeing lower premiums," CMS Administrator Dr. ​Mehmet Oz said in a post on X.
 
-“We were overjoyed,” said Aurora, 24, who like others in this story spoke on the ​condition they be identified only by their first names.
+Medicare Part D, which provides prescription ​drug coverage to millions of beneficiaries through private insurance plans, is a key component of the federal health program for older adults.
 
-Days later, however, mother and daughter were detained by Immigration and Customs Enforcement and sent to a family detention center in Texas, records show.
+Healthcare costs remain a concern for many older ​Americans on fixed incomes. Nearly 25 million people were enrolled in standalone ​Medicare Part D drug plans in 2026, according to KFF, a health policy research ‌group.
 
-They are among more than 12,000 people arrested ‌by U.S. immigration authorities following tips from the Office of Refugee Resettlement during President Donald Trump’s second term, according to internal government data reviewed exclusively by Reuters.
+Major ⁠Medicare Part D insurers include UnitedHealth Group [(UNH.N), opens new tab](https://www.reuters.com/markets/companies/UNH.N), Humana [(HUM.N), opens new tab](https://www.reuters.com/markets/companies/HUM.N) and CVS Health's [(CVS.N), opens new tab](https://www.reuters.com/markets/companies/CVS.N) Aetna.
 
-ORR was created in 1980 to resettle refugees fleeing war and persecution. Since the early 2000s, the agency has also been charged with housing unaccompanied migrant children arriving at the U.S.-Mexico border, like Aurora's daughter.
+The Wall Street Journal first reported the development earlier in the day.
 
-The care of these children has historically been walled off from immigration enforcement. A 2008 law sought to ensure they were placed in the least restrictive setting and released from detention as soon as safely possible, regardless of their sponsors’ legal status.
+The decision comes as the Trump administration pursues broader changes to government health programs, including a ​proposal to [overhaul](https://www.reuters.com/legal/litigation/cms-proposes-major-medicare-physician-payment-overhaul-boost-primary-care-2026-07-14/) Medicare ​physician payments and ⁠increase oversight of federal healthcare spending.
 
-That meant migrant families could be reunited without fear of being targeted by ​ICE, even if they were in the country illegally.
+CMS also released preliminary information on 2027 Medicare drug-plan bids. The national average monthly ​bid amount, a measure used to calculate government subsidies ​for plans, ⁠will be $296.05 in 2027.
 
-The Trump administration has taken a drastically different approach. Since January 2025, the data shows, ORR has shared more than 460,000 “leads” with ICE about unaccompanied children, their sponsors -- usually parents or other relatives -- and additional ​household members, leaving them vulnerable to detention and deportation.
+The agency said the national base beneficiary premium for Medicare Part D will be $41.33 next year. Annual increases in that premium remain capped ⁠at ​6% through 2029 under provisions of the ​Inflation Reduction Act.
 
-While [Reuters](https://www.reuters.com/world/us/trump-administration-directs-ice-agents-find-deport-unaccompanied-migrant-2025-02-23/) and others have reported on the growing cooperation between ORR and ICE, this story is the first to reveal the scale of the information shared for ⁠immigration enforcement.
+CMS said it will release final 2027 Medicare Advantage and Part D premiums and ​plan details in September.
 
-Interviews with migrant families, legal advocates and current and former U.S. officials illustrate the far-reaching implications of this policy shift and its human toll.
-
-Jen Smyers, who served as deputy director of ORR during the Biden administration, said safeguards against data sharing with ICE have been “completely reversed.”
-
-“They are ​weaponizing a child welfare program for the purposes of more deportations,” she said.
-
-In a statement to Reuters, ORR said it "plays no role in the apprehension of children,” referring questions about immigration enforcement to the Department of Homeland Security, ICE’s parent agency.
-
-In response to questions from Reuters, DHS said that ​during Trump's second term "ORR has provided ICE Homeland Security Investigations with potential investigative leads," as part of an effort to locate unaccompanied children who were placed with "unvetted sponsors,” including some with criminal records.
-
-## 'ALL I DO IS WORK'
-
-Aurora entered the United States illegally two years ago in search of work and safety.
-
-She left her daughter with family in their rural Mexican village, fearing she was too young for the dangerous desert crossing.
-
-Aurora found a job as a house cleaner in Mississippi. Last August, she said, a relative brought her daughter to the border and left her to surrender to immigration agents, a common strategy among families seeking reunification.
-
-Officials transferred the girl to ​a migrant children’s shelter and Aurora began the vetting process to get her out.
-
-Over the course of six months, she provided the agency with reams of documentation, including a DNA test. She had no criminal record, documents show.
-
-Under Trump, the screening process for sponsors now includes a number ​of extra steps, including requiring fingerprints of all household members. As a consequence, the amount of time unaccompanied children spend in custody has increased from an average of 30 days in fiscal year 2024 to 194 days in June 2026, according to ORR figures.
-
-ORR declined to comment on specific cases but said its ‌increased vetting is meant ⁠to shield children from harm.
-
-The day before being reunited with her daughter, Aurora said, immigration agents visited her at home, asked about the girl, and told her to report to an ICE office the following week.
-
-At that appointment, Aurora recounted, agents “asked me if I had any problems in the U.S. and I said ‘no, because I haven't done anything wrong. All I do is work.’”
-
-She and her daughter were detained at the appointment, records show, and sent to a family detention center in Dilley, Texas.
-
-They were there for three weeks. Upon their release, Aurora was fitted with an ankle monitor and instructed to report for regular check-ins pending the outcome of her immigration court case, records show. DHS confirmed details of Aurora's detention and release, saying she had admitted to being "illegally smuggled across the border."
-
-While she was inside, her landlord in Mississippi evicted her and threw out her belongings. So mother and ​daughter headed to California, where a friend offered to put them up.
-
-Aurora ​says she fears they will soon be deported.
-
-At night sometimes, her ⁠daughter "gets up and cries, thinking she is still detained," her mother said.
-
-## SPONSORS SWEPT UP
-
-Aurora and her daughter are at least together. Other families have been separated again.
-
-Marleny and her youngest son fled violence in Guatemala in 2023. They crossed the U.S. border illegally and settled in Texas, where she cleaned construction sites.
-
-Her older son, Victor, stayed with family back home. When his uncle was killed, he too decided to make the journey north ​and turned himself in to U.S. border agents.
-
-After four months in ORR custody, Victor was released in late April, the night before his 18th birthday, records show. The family had a party to celebrate.
-
-“I ​was so happy,” Marleny said. “I didn't know ⁠then what God had in store for me.”
-
-To get Victor out, she provided ORR with extensive documentation for both her and her partner, she said, including tax records and fingerprints. Because they had no criminal record -- they were “clean clean clean,” she said -- she had no qualms about sharing the information.
-
-Two months after Victor was released, though, ICE agents arrested Marleny and her partner at gunpoint as they were getting in their car to go to work.
-
-In response to questions, DHS told Reuters that ICE was executing a criminal search warrant on Marleny’s “roommate” - an apparent reference to her partner. DHS did not answer follow-up questions about ⁠the nature of the ​alleged crime or how they had located him.
-
-Seeing the guns was traumatic, Marleny said, reminding her of the violence she left behind in Guatemala.
-
-A neighbor who witnessed the ​arrest alerted Victor, who was in the family’s apartment with his 6-year-old brother. In tears, he called a legal assistant at the Galveston-Houston Immigrant Representation Project.
-
-“We’ve seen so many sponsors arrested and collateral arrests with them,” said Alexa Sendukas, a managing attorney with GHIRP.
-
-Victor is now caring for his little brother alone. He was due in court after his mother ​was arrested, but said he forgot to show up in the chaos that followed.
-
-Now facing a deportation order, he hopes to find a lawyer to reopen his immigration case.
-
-“I need to keep moving forward," he said.
-
-Reporting by Kristina Cooke in San Francisco; Editing by Jesse Mesner-Hage and Deepa Babington
+Reporting by Padmanabhan Ananthan in Bengaluru; Editing by Sahal Muhammed
 
 Our Standards: [The Thomson Reuters Trust Principles., opens new tab](https://www.thomsonreuters.com/en/about-us/trust-principles.html)
 
 - Suggested Topics:
-- [](https://www.reuters.com/legal/government/)
-- [](https://www.reuters.com/legal/immigration/)
-- [](https://www.reuters.com/legal/civil-rights/)
-- [](https://www.reuters.com/legal/public-policy/)
+- [](https://www.reuters.com/business/healthcare-pharmaceuticals/)
+- [](https://www.reuters.com/legal/health/)
+- [](https://www.reuters.com/business/healthcare-pharmaceuticals/health-insurance/)
+- [](https://www.reuters.com/business/healthcare-pharmaceuticals/healthcare-providers/)
+- [](https://www.reuters.com/legal/insurance/)
 
 [](https://www.reutersagency.com/en/licensereuterscontent/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead)
 
-[
-
-](https://www.reuters.com/authors/kristina-cooke/)
-
-[Kristina Cooke](https://www.reuters.com/authors/kristina-cooke/)
-
-Thomson Reuters
-
-Kristina Cooke is a Pulitzer Prize-winning investigative reporter at Reuters focused on immigration and criminal justice. She was part of a team awarded the Pulitzer Prize for National Reporting in 2026 for a series on President Donald Trump’s campaign of political retribution. In 2025, she shared the Pulitzer Prize for Investigative Reporting for a series on the fentanyl crisis. Her investigation with colleagues into migrant child labor in the United States was a finalist for the Pulitzer Prize for National Reporting in 2023, and a recipient of the Polk and other awards. She speaks English, German and Spanish and is based in San Francisco.
-
-- [](mailto:kristina.cooke@thomsonreuters.com)
-- [](https://www.reuters.com/legal/government/thousands-children-sponsors-arrested-by-ice-after-tips-us-child-migrant-agency-2026-07-28/@kristinaleecooke)
-- [](https://www.linkedin.com/in/kristinacooke/)
-
 ## Read Next / Editor's Picks
 
-- ANALYSIS
+- [Healthcare & Pharmaceuticalscategory](https://www.reuters.com/business/healthcare-pharmaceuticals/)
     
-    [Trump's diversity crackdown reverberates through US boardrooms](https://www.reuters.com/legal/government/trumps-diversity-crackdown-reverberates-through-us-boardrooms-2026-07-28/)
-    
-    [
-    
-    ](https://www.reuters.com/legal/government/trumps-diversity-crackdown-reverberates-through-us-boardrooms-2026-07-28/)
-    
-- [Litigationcategory](https://www.reuters.com/legal/litigation/)
-    
-    [US threatens funding cuts for two school districts over transgender policies](https://www.reuters.com/legal/litigation/us-threatens-cut-funding-two-school-districts-over-transgender-policies-2026-07-28/)
+    [Fauci invokes Fifth Amendment at Rand Paul-led US Senate COVID hearing](https://www.reuters.com/business/healthcare-pharmaceuticals/fauci-face-rand-pauls-us-senate-committee-after-diary-release-2026-07-29/)
     
     [
     
-    ](https://www.reuters.com/legal/litigation/us-threatens-cut-funding-two-school-districts-over-transgender-policies-2026-07-28/)
-    
-- [Worldcategory](https://www.reuters.com/world/)
-    
-    [FAA says seats on hundreds of Boeing 737 MAX jets may need inspections](https://www.reuters.com/world/faa-says-seats-hundreds-boeing-737-max-were-incorrectly-installed-2026-07-27/)
-    
-    [
-    
-    ](https://www.reuters.com/world/faa-says-seats-hundreds-boeing-737-max-were-incorrectly-installed-2026-07-27/)
-    
-- [Governmentcategory](https://www.reuters.com/legal/government/)
-    
-    [US advances nomination of Trump top spy nominee Clayton](https://www.reuters.com/legal/government/us-senate-begin-voting-trump-spy-nominee-clayton-2026-07-27/)
-    
-    [
-    
-    ](https://www.reuters.com/legal/government/us-senate-begin-voting-trump-spy-nominee-clayton-2026-07-27/)
-    
-- [Governmentcategory](https://www.reuters.com/legal/government/)
-    
-    [Watchdog finds staffing, guidance gaps in transfer of USAID programs](https://www.reuters.com/legal/government/watchdog-finds-staffing-guidance-gaps-transfer-usaid-programs-2026-07-27/)
-    
-    [
-    
-    ](https://www.reuters.com/legal/government/watchdog-finds-staffing-guidance-gaps-transfer-usaid-programs-2026-07-27/)
-    
-- [Litigationcategory](https://www.reuters.com/legal/litigation/)
-    
-    [EPA says power for data centers can sidestep pollution laws](https://www.reuters.com/legal/litigation/epa-says-power-data-centers-can-sidestep-pollution-laws-2026-07-27/)
-    
-    [
-    
-    ](https://www.reuters.com/legal/litigation/epa-says-power-data-centers-can-sidestep-pollution-laws-2026-07-27/)
-    
-- [Governmentcategory](https://www.reuters.com/legal/government/)
-    
-    [California's largest ICE facility did not provide adequate medical care, monitor says](https://www.reuters.com/legal/government/californias-largest-ice-facility-did-not-provide-adequate-medical-care-monitor-2026-07-28/)
-    
-    [
-    
-    ](https://www.reuters.com/legal/government/californias-largest-ice-facility-did-not-provide-adequate-medical-care-monitor-2026-07-28/)
-    
-- [Businesscategory](https://www.reuters.com/business/)
-    
-    EXCLUSIVE
-    
-    [OpenAI's rogue agent compromised a customer at a second tech firm, executive says](https://www.reuters.com/business/openais-rogue-agent-compromised-an-account-second-tech-firm-sources-say-2026-07-28/)
-    
-    [
-    
-    ](https://www.reuters.com/business/openais-rogue-agent-compromised-an-account-second-tech-firm-sources-say-2026-07-28/)
-    
-- [Governmentcategory](https://www.reuters.com/legal/government/)
-    
-    [US judge blocks Houston's minority contracting program](https://www.reuters.com/legal/government/us-judge-blocks-houstons-minority-contracting-program-2026-07-28/)
-    
-    [
-    
-    ](https://www.reuters.com/legal/government/us-judge-blocks-houstons-minority-contracting-program-2026-07-28/)
-    
-- [Litigationcategory](https://www.reuters.com/legal/litigation/)
-    
-    [Trump administration to end Medicare premium subsidy program](https://www.reuters.com/legal/litigation/trump-administration-plans-end-medicare-drug-plan-subsidy-wsj-reports-2026-07-28/)
-    
-    [
-    
-    ](https://www.reuters.com/legal/litigation/trump-administration-plans-end-medicare-drug-plan-subsidy-wsj-reports-2026-07-28/)
-    
-- [Governmentcategory](https://www.reuters.com/legal/government/)
-    
-    [Life in prison without parole for Georgia teen who killed four in 2024 US school shooting](https://www.reuters.com/legal/government/life-prison-without-parole-georgia-teen-who-killed-four-2024-us-school-shooting-2026-07-28/)
-    
-    [
-    
-    ](https://www.reuters.com/legal/government/life-prison-without-parole-georgia-teen-who-killed-four-2024-us-school-shooting-2026-07-28/)
-    
-- [Governmentcategory](https://www.reuters.com/legal/government/)
-    
-    [EEOC stopped hearing federal workers' class action cases, union claims in lawsuit](https://www.reuters.com/legal/government/eeoc-stopped-hearing-federal-workers-class-action-cases-union-claims-lawsuit-2026-07-28/)
-    
-    [
-    
-    ](https://www.reuters.com/legal/government/eeoc-stopped-hearing-federal-workers-class-action-cases-union-claims-lawsuit-2026-07-28/)
-    
-- [Worldcategory](https://www.reuters.com/world/)
-    
-    [US Senate to vote on Russia sanctions bill in tribute to Graham](https://www.reuters.com/world/us/us-senate-vote-russia-sanctions-bill-tribute-graham-2026-07-28/)
-    
-    [
-    
-    ](https://www.reuters.com/world/us/us-senate-vote-russia-sanctions-bill-tribute-graham-2026-07-28/)
-    
-- [Transactionalcategory](https://www.reuters.com/legal/transactional/)
-    
-    [Shein discloses FTC probe in US, warns of significant payments](https://www.reuters.com/legal/transactional/sheins-us-operations-under-ftcs-scrutiny-2026-07-28/)
-    
-    [
-    
-    ](https://www.reuters.com/legal/transactional/sheins-us-operations-under-ftcs-scrutiny-2026-07-28/)
+    ](https://www.reuters.com/business/healthcare-pharmaceuticals/fauci-face-rand-pauls-us-senate-committee-after-diary-release-2026-07-29/)
     
 - [Worldcategory](https://www.reuters.com/world/)
     
     EXCLUSIVE
     
-    [Trump administration bans new Chinese humanoid robots, to protect US AI buildout](https://www.reuters.com/world/trump-administration-ban-new-chinese-robots-inverters-protecting-us-ai-buildout-2026-07-28/)
+    [US FTC sues Hims & Hers for sending user health info to Meta, Snap](https://www.reuters.com/world/us-ftc-suing-hims-hers-sending-user-health-info-meta-snap-2026-07-29/)
     
     [
     
-    ](https://www.reuters.com/world/trump-administration-ban-new-chinese-robots-inverters-protecting-us-ai-buildout-2026-07-28/)
+    ](https://www.reuters.com/world/us-ftc-suing-hims-hers-sending-user-health-info-meta-snap-2026-07-29/)
+    
+- Explainer
+    
+    [Explainer: Can J&J finally put the talc litigation behind it?](https://www.reuters.com/business/healthcare-pharmaceuticals/can-jj-finally-put-talc-litigation-behind-it-2026-07-29/)
+    
+    [
+    
+    ](https://www.reuters.com/business/healthcare-pharmaceuticals/can-jj-finally-put-talc-litigation-behind-it-2026-07-29/)
+    
+- [Healthcare & Pharmaceuticalscategory](https://www.reuters.com/business/healthcare-pharmaceuticals/)
+    
+    [Cyclosporiasis cases in Michigan surpass 10,000 in ongoing outbreak](https://www.reuters.com/business/healthcare-pharmaceuticals/cyclosporiasis-cases-cross-10000-mark-michigan-2026-07-29/)
+    
+    [
+    
+    ](https://www.reuters.com/business/healthcare-pharmaceuticals/cyclosporiasis-cases-cross-10000-mark-michigan-2026-07-29/)
+    
+- [Legalcategory](https://www.reuters.com/legal/)
+    
+    [US lawmakers press Health Secretary Robert F. Kennedy Jr. on vaccine settlement](https://www.reuters.com/legal/litigation/us-lawmakers-press-health-secretary-robert-f-kennedy-jr-vaccine-settlement-2026-07-29/)
+    
+    [
+    
+    ](https://www.reuters.com/legal/litigation/us-lawmakers-press-health-secretary-robert-f-kennedy-jr-vaccine-settlement-2026-07-29/)
+    
+- [Litigationcategory](https://www.reuters.com/legal/litigation/)
+    
+    [US FDA approves first freeze-dried plasma product for use](https://www.reuters.com/legal/litigation/us-fda-approves-first-freeze-dried-plasma-product-use-2026-07-29/)
+    
+    [
+    
+    ](https://www.reuters.com/legal/litigation/us-fda-approves-first-freeze-dried-plasma-product-use-2026-07-29/)
+    
+- [Financecategory](https://www.reuters.com/business/finance/)
+    
+    [UK PM Burnham says social care reform should come before assisted dying debate](https://www.reuters.com/business/finance/uk-pm-burnham-says-social-care-reform-should-come-before-assisted-dying-debate-2026-07-29/)
+    
+    [
+    
+    ](https://www.reuters.com/business/finance/uk-pm-burnham-says-social-care-reform-should-come-before-assisted-dying-debate-2026-07-29/)
+    
+- [Healthcare & Pharmaceuticalscategory](https://www.reuters.com/business/healthcare-pharmaceuticals/)
+    
+    [FDA panel votes against Capricor's Duchenne heart disease therapy](https://www.reuters.com/business/healthcare-pharmaceuticals/fda-panel-votes-against-capricors-duchenne-heart-disease-therapy-2026-07-29/)
+    
+    [
+    
+    ](https://www.reuters.com/business/healthcare-pharmaceuticals/fda-panel-votes-against-capricors-duchenne-heart-disease-therapy-2026-07-29/)
+    
+- [Legalcategory](https://www.reuters.com/legal/)
+    
+    [US diners avoid restaurants as cyclosporiasis fears cut lettuce sales](https://www.reuters.com/legal/litigation/us-diners-avoid-restaurants-cyclosporiasis-fears-cut-lettuce-sales-2026-07-29/)
+    
+    [
+    
+    ](https://www.reuters.com/legal/litigation/us-diners-avoid-restaurants-cyclosporiasis-fears-cut-lettuce-sales-2026-07-29/)
+    
+- [Litigationcategory](https://www.reuters.com/legal/litigation/)
+    
+    [Brazil greenlights five new injectable diabetes drugs](https://www.reuters.com/legal/litigation/brazil-greenlights-five-new-injectable-diabetes-drugs-2026-07-29/)
+    
+    [
+    
+    ](https://www.reuters.com/legal/litigation/brazil-greenlights-five-new-injectable-diabetes-drugs-2026-07-29/)
+    
+- [Microsoft supera estimativa de crescimento em unidade de nuvem, aliviando preocupação com gastos](https://www.reuters.com/pt/negocio/4TJPOBFIPJMFFFI2PJYVHT72OA-2026-07-29/)
+    
+    [
+    
+    ](https://www.reuters.com/pt/negocio/4TJPOBFIPJMFFFI2PJYVHT72OA-2026-07-29/)
+    
+- [Healthcare & Pharmaceuticalscategory](https://www.reuters.com/business/healthcare-pharmaceuticals/)
+    
+    [J&J lowers 2026 profit forecast on deal costs, sees further hit in 2027](https://www.reuters.com/business/healthcare-pharmaceuticals/johnson-johnson-lowers-2026-profit-forecast-2026-07-29/)
+    
+    [
+    
+    ](https://www.reuters.com/business/healthcare-pharmaceuticals/johnson-johnson-lowers-2026-profit-forecast-2026-07-29/)
+    
+- [Healthcare & Pharmaceuticalscategory](https://www.reuters.com/business/healthcare-pharmaceuticals/)
+    
+    [PM Burnham says difficult decisions needed to fix England's 'unfair' adult care system](https://www.reuters.com/business/healthcare-pharmaceuticals/uk-pm-burnham-set-out-first-steps-social-care-speech-2026-07-28/)
+    
+    [
+    
+    ](https://www.reuters.com/business/healthcare-pharmaceuticals/uk-pm-burnham-set-out-first-steps-social-care-speech-2026-07-28/)
+    
+- [Healthcare & Pharmaceuticalscategory](https://www.reuters.com/business/healthcare-pharmaceuticals/)
+    
+    [Australia confirms H5N1 bird flu spreading in native bird population](https://www.reuters.com/business/healthcare-pharmaceuticals/australia-confirms-h5-bird-flu-spreading-native-bird-population-2026-07-29/)
+    
+    [
+    
+    ](https://www.reuters.com/business/healthcare-pharmaceuticals/australia-confirms-h5-bird-flu-spreading-native-bird-population-2026-07-29/)
+    
+- [Worldcategory](https://www.reuters.com/world/)
+    
+    [Novo Nordisk must face US shareholder lawsuit over CagriSema weight loss trial](https://www.reuters.com/world/novo-nordisk-fails-end-us-shareholder-lawsuit-over-cagrisema-clinical-trial-2026-07-28/)
+    
+    [
+    
+    ](https://www.reuters.com/world/novo-nordisk-fails-end-us-shareholder-lawsuit-over-cagrisema-clinical-trial-2026-07-28/)
+    
+- [Healthcare & Pharmaceuticalscategory](https://www.reuters.com/business/healthcare-pharmaceuticals/)
+    
+    [German medical packaging firm Gerresheimer to sell two units to Apax for $1.71 billion](https://www.reuters.com/business/healthcare-pharmaceuticals/germanys-gerresheimer-sell-two-units-apax-171-billion-including-debt-2026-07-29/)
+    
+    [
+    
+    ](https://www.reuters.com/business/healthcare-pharmaceuticals/germanys-gerresheimer-sell-two-units-apax-171-billion-including-debt-2026-07-29/)
     
 
 [](https://www.lseg.com/en/data-analytics/products/workspace?utm_source=reuters.com&utm_medium=articlebanner&utm_campaign=Reuters_ProductPage_Links)

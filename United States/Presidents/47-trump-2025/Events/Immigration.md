@@ -13,3 +13,8 @@
 	- ORR: created in 1980 to resettle refugees fleeing war and persecution and has also been charged with housing unaccompanied migrant children since early 2000s
 	- A 2008 law sought to ensure migrant children were placed in the least restrictive setting and released from detention as soon as safely possible, regardless of their sponsors’ legal status (meant migrant families could reunite without fear of being targeted by ​ICE)
 	- Trump  has taken a drastically different approach: since January 2025, ORR has shared more than 460,000 "leads" with ICE about unaccompanied children, their sponsors and additional ​household members, leaving them vulnerable to detention and deportation.
+
+
+# ICE Tactics
+- Detention centers
+	- [California](https://www.reuters.com/legal/government/californias-largest-ice-facility-did-not-provide-adequate-medical-care-monitor-2026-07-28/): court-appointed monitor has found that California's largest ​immigration detention facility did not provide adequate medical care to detainees and violated an ‌earlier court order to do so
