@@ -24,189 +24,181 @@
 
 [My News](https://www.reuters.com/my-news/feed/)
 
-[](https://www.reuters.com/account/sign-in/?redirect=https%3A%2F%2Fwww.reuters.com%2Flegal%2Flitigation%2Ftrump-administration-plans-end-medicare-drug-plan-subsidy-wsj-reports-2026-07-28%2F)[](https://www.reuters.com/account/subscribe/offer/?redirect=https%3A%2F%2Fwww.reuters.com%2Flegal%2Flitigation%2Ftrump-administration-plans-end-medicare-drug-plan-subsidy-wsj-reports-2026-07-28%2F&referrer=subscription_button&journeyStart=navigation)
+[](https://www.reuters.com/account/sign-in/?redirect=https%3A%2F%2Fwww.reuters.com%2Flegal%2Fgovernment%2Ftrumps-doj-charged-hundreds-with-assaulting-officers-many-cases-were-dropped-2026-07-30%2F)[](https://www.reuters.com/account/subscribe/offer/?redirect=https%3A%2F%2Fwww.reuters.com%2Flegal%2Fgovernment%2Ftrumps-doj-charged-hundreds-with-assaulting-officers-many-cases-were-dropped-2026-07-30%2F&referrer=subscription_button&journeyStart=navigation)
 
-# Trump administration to end Medicare premium subsidy program
+# Trump’s DOJ charged hundreds with assaulting officers. Many cases were dropped, but the damage was done  
 
-By [Padmanabhan Ananthan](https://www.reuters.com/authors/padmanabhan-ananthan/)
+By [Brad Heath](https://www.reuters.com/authors/brad-heath/), [Kristina Cooke](https://www.reuters.com/authors/kristina-cooke/), [M.B. Pell](https://www.reuters.com/authors/m-b-pell/) and [Benjamin Lesser](https://www.reuters.com/authors/benjamin-lesser/)
 
-July 28, 20262:15 PM PDTUpdated July 28, 2026
+July 30, 20263:03 AM PDTUpdated 1 hour ago
 
-![Little Five Points pharmacy in Atlanta](https://www.reuters.com/resizer/v2/CK4EX6RQ6NNS5HOT5SRK6E62IA.jpg?auth=2f73c1678d8e17e06f555170c171d444ef7a92a7a1ea08bd9b4937986c216d2b&width=1920&quality=80)
+Item 1 of 9 Christian Garcia, who was charged by the U.S. government following an immigration protest only to have all charges dropped, poses for a portrait at a park in Costa Mesa, California, U.S., June 17, 2026. REUTERS/Mike Blake
 
-Little Five Points pharmacy in Atlanta, Georgia, U.S., October 8, 2025. REUTERS/Jayla Whitfield-Anderson [Purchase Licensing Rights, opens new tab](https://www.reutersconnect.com/item/little-five-points-pharmacy-in-atlanta/dGFnOnJldXRlcnMuY29tLDIwMjU6bmV3c21sX1JDMlQ3SEE1VE9KTw%3D%3D/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead)
+**[1/9]**Christian Garcia, who was charged by the U.S. government following an immigration protest only to have all charges dropped, poses for a portrait at a park in Costa Mesa, California, U.S., June 17, 2026. REUTERS/Mike Blake [Purchase Licensing Rights, opens new tab](https://www.reutersconnect.com/item/christian-garcia-faced-the-full-weight-of-the-us-governments-power-who-then-dropped-their-charges/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1JDMjJXTEFVNzRWRQ%3D%3D/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead)
 
-- Companies
+- Summary
 
-- [
-    
-    CVS Health Corp
-    
-    ](https://www.reuters.com/company/cvs-health-corp/)
-    
-- [
-    
-    Humana Inc
-    
-    ](https://www.reuters.com/company/humana-inc/)
-    
-- [
-    
-    UnitedHealth Group Inc
-    
-    ](https://www.reuters.com/company/unitedhealth-group-inc/)
-    
+- The Trump administration has aggressively pursued protestors accused of assaulting or impeding law enforcement
+- Prosecutors, however, are dropping the cases at rates far higher than usual, a Reuters review found
+- Even when cases are dropped, people accused report losing jobs, online harassment and legal bills
 
-July 28 (Reuters) - The Trump administration will end a subsidy program, meant to keep premiums stable for Medicare prescription ​drug plans, after 2026, the Centers for Medicare & Medicaid Services ‌said on Tuesday.
+July 30 - Christian Garcia admits that he threw a water bottle toward officers guarding a federal building near Los Angeles during an immigration protest last summer.
 
-The agency said its review of 2027 bids showed insurers have gained enough experience with Medicare Part D to accurately price their plans without support from ​the program.
+The plastic bottle was empty, he said, and hit no one but Garcia himself – the wind blew it back at him. Yet Garcia, a 32-year-old amateur photographer, was arrested by agents, jailed for three days and charged with a crime ​that could have kept him in prison for up to a year. He said he lost both of his jobs, as a security guard and an undercover shopper, after his bosses told him they had been called by investigators.
 
-Jumpstart your morning with the latest legal news delivered straight to your inbox from The Daily Docket newsletter. Sign up [here.](https://www.reuters.com/newsletters/daily-docket/?location=article-paragraph&redirectUrl=%2Flegal%2Flitigation%2Ftrump-administration-plans-end-medicare-drug-plan-subsidy-wsj-reports-2026-07-28%2F)
+Jumpstart your morning with the latest legal news delivered straight to your inbox from The Daily Docket newsletter. Sign up [here.](https://www.reuters.com/newsletters/daily-docket/?location=article-paragraph&redirectUrl=%2Flegal%2Fgovernment%2Ftrumps-doj-charged-hundreds-with-assaulting-officers-many-cases-were-dropped-2026-07-30%2F)
 
-"We are stabilizing the market so this bailout is no ​longer needed. Premiums will go up by less than $10 for most ⁠Medicare recipients, with many even seeing lower premiums," CMS Administrator Dr. ​Mehmet Oz said in a post on X.
+Then, with no public explanation, prosecutors dropped the case.
 
-Medicare Part D, which provides prescription ​drug coverage to millions of beneficiaries through private insurance plans, is a key component of the federal health program for older adults.
+**The Trump ‌administration has brought criminal charges against at least 851 people accused of attacking or impeding federal officers, only to abandon them at an unusually high rate. A Reuters review of federal court records found that 31% of these cases that have been completed so far have ended in dismissal. That compares to 8% of all federal criminal cases that typically end in dismissal, according to records compiled by the Federal Judicial Center.**
 
-Healthcare costs remain a concern for many older ​Americans on fixed incomes. Nearly 25 million people were enrolled in standalone ​Medicare Part D drug plans in 2026, according to KFF, a health policy research ‌group.
+Reuters gathered the records of every person charged with assaulting or impeding federal officers between January 2025 and March, then followed what happened to those prosecutions. Many of the charges stemmed from the administration’s aggressive immigration push, but the cases also included assaults on other federal employees, such as postal workers.
 
-Major ⁠Medicare Part D insurers include UnitedHealth Group [(UNH.N), opens new tab](https://www.reuters.com/markets/companies/UNH.N), Humana [(HUM.N), opens new tab](https://www.reuters.com/markets/companies/HUM.N) and CVS Health's [(CVS.N), opens new tab](https://www.reuters.com/markets/companies/CVS.N) Aetna.
+**Prosecutors fared especially poorly when bringing charges against people detained during immigration protests, dropping about 45% of the 86 ​such cases that had been completed by the end of May, Reuters found.**
 
-The Wall Street Journal first reported the development earlier in the day.
+A Department of Homeland Security spokesperson said its leadership has made clear that "anyone who assaults or obstructs law enforcement will be prosecuted to the fullest extent of the law." Justice Department spokesperson Kiersten Pels said prosecutors should hold people accountable for ​such assaults, but “if there are mitigating factors identified in a case, then prosecutors must also act appropriately to inform the court, and in some cases downgrade or drop charges.”
 
-The decision comes as the Trump administration pursues broader changes to government health programs, including a ​proposal to [overhaul](https://www.reuters.com/legal/litigation/cms-proposes-major-medicare-physician-payment-overhaul-boost-primary-care-2026-07-14/) Medicare ​physician payments and ⁠increase oversight of federal healthcare spending.
+**The DOJ's charges have imposed a steep cost on some people, even when the cases ⁠are dropped. Reuters interviewed a half dozen people who, despite the abandoned charges, reported lost jobs, legal fees and in some cases a flurry of online threats that arrived after federal officials publicized their arrests.**
 
-CMS also released preliminary information on 2027 Medicare drug-plan bids. The national average monthly ​bid amount, a measure used to calculate government subsidies ​for plans, ⁠will be $296.05 in 2027.
+Garcia said he couldn’t get his jobs back even after prosecutors dismissed his case. He said he also never got back the phone an agent ​seized.
 
-The agency said the national base beneficiary premium for Medicare Part D will be $41.33 next year. Annual increases in that premium remain capped ⁠at ​6% through 2029 under provisions of the ​Inflation Reduction Act.
+"It’s like I got no justice whatsoever," Garcia said. "My whole life changed in one day."
 
-CMS said it will release final 2027 Medicare Advantage and Part D premiums and ​plan details in September.
+The original charging document said Garcia was "observed throwing an object" at officers while others in a crowd threw projectiles "including rocks and water bottles" that struck officers’ shields.
 
-Reporting by Padmanabhan Ananthan in Bengaluru; Editing by Sahal Muhammed
+Reuters reviewed thousands of court files nationwide and interviewed more than 15 investigators, prosecutors and suspects about the Trump administration’s ​campaign against people who clashed with law enforcement and its consequences.
+
+**Their accounts show the Trump administration regularly opted to make federal cases out of encounters that prosecutors said historically would not have led to arrests or serious charges.**
+
+Among them are a woman who backed her SUV into an agent’s car at low speed; a man who challenged an agent to box but threw no punches; and another who jumped on a Homeland Security agent’s car during a protest. And they famously brought charges against a Washington man who threw a sandwich that bounced off an immigration agent’s body armor.
+
+Other assaults in the cases reviewed by Reuters were serious and would almost certainly have been prosecuted under any administration, including the case of a woman in Minnesota accused of biting off the tip of a federal agent’s finger ​in January.
+
+But the scale and intensity of the Trump administration’s pursuit of alleged officer assaults breaks from past DOJ practice, as does its lowered bar for bringing such cases to court, according to court records and people familiar with the effort.
+
+The Justice Department instructed prosecutors last year that decisions to turn down such cases had to be explained to ​Washington, two officials familiar with the instructions said, speaking on the condition of anonymity. That pressured prosecutors to take cases that might otherwise have been rejected.
+
+Acting U.S. Attorney General Todd Blanche told immigration officials in Arizona in May that the department would prosecute any assault on an officer "no matter what."
+
+## DROPPED CHARGES
+
+Federal prosecutors almost always win the cases they bring. Most years, about 90% of the ‌people charged with a ⁠federal crime are convicted, according to records kept by the Federal Judicial Center.
+
+**The Trump administration’s spate of assault charges has been a notable exception, with prosecutors securing convictions in 65% of the 481 cases Reuters examined that had been completed. The vast majority of the cases were dismissed at prosecutors’ request.**
+
+The remaining cases among the 851 reviewed by Reuters are still pending.
+
+The high dismissal rate suggests authorities "are moving so fast that they don’t have time to do their job effectively," said Kyle Boynton, a former federal prosecutor and FBI agent with experience in assault investigations.
+
+In most cases, prosecutors provided no reason for dropping charges, other than saying that it was "in the interests of justice."
+
+That was the explanation they gave Lizzie Rose, who was charged in January with backing her car into an SUV carrying immigration agents after following it through Minneapolis. A neighbor captured the incident on video, which shows a low-speed collision.
+
+The Homeland Security Department [posted, opens new tab](https://x.com/DHSgov/status/2019217539193270305)her mugshot on social media with a promise that "we will not be intimidated." Her picture appeared in news reports as well. Enough threats poured into her own feeds ​that she left her house and sent her two children to live with their ​father, she said.
+
+"It consumed our lives," she said. "It was every day."
+
+Rose, 42, was ⁠put on leave from her job at a Minneapolis nonprofit.
+
+## SHAKEN CREDIBILITY
+
+When prosecutors threw out their assault charges against 21-year-old Luci Mazur in Chicago, the judge noted that the agent who charged her "had sworn under oath that the affiant had reviewed video evidence that corroborated" his assertion that Mazur had grabbed his arm and resisted arrest. Body-camera footage however, was a factor in the decision by prosecutors to drop the case, the judge said.
+
+Four current and former law enforcement officials said prosecutors’ willingness to take on such cases – especially when ​agents’ accounts are revealed to be inaccurate – risks undermining the trust that judges routinely afford government lawyers.
+
+Last September, Michael Rabbitt, a local Democratic political official in Chicago, attended a morning protest outside an ICE processing facility in nearby Broadview that had ​become a flashpoint during the administration’s immigration crackdown in ⁠the region.
+
+As cars passed, he said, the protesters moved out of the way to let them through, as directed by Broadview Police. But he said an ICE vehicle did not wait for protesters to clear out of the way. A video of the incident shows Rabbitt with his hand on the side of the car for about 30 seconds as it slowly moved forward.
+
+About a month later, while visiting Portugal with his wife for their 30-year anniversary, he got a voicemail from an FBI agent telling him he had been indicted and to turn himself in.
+
+The charges included a misdemeanor for impeding the agent’s vehicle and a felony charge of conspiring to impede or injure officers, which Rabbitt called "ridiculous."
+
+Prosecutors dropped the conspiracy charges in early May but insisted ⁠that he go to ​trial for blocking the ICE vehicle.
+
+Days before the trial was scheduled, a federal judge in Chicago assailed prosecutors for their handling of the case. The judge accused them of stacking a federal grand jury in ​their favor by excusing people who were unlikely to vote to indict; improperly suggesting that jurors could rely on the prosecutor’s credibility rather than the evidence; and communicating with the jurors outside the grand jury room.
+
+The Justice Department dismissed all the charges. In a rare move, prosecutors said they would not contest a defense request for the DOJ to pay some of the legal fees for Rabbitt and other defendants charged in connection ​with the same protest.
+
+"I do believe deeply in the presumption of regularity and that most government attorneys are doing the best they can to do the right thing," Judge April Perry said. "That trust has been broken."
+
+Reporting by Brad Heath, Kristina Cooke, M.B. Pell and Benjamin Lesser; additional reporting by Andrew Goudsward and Renee Hickman; editing by Craig Timberg and Brian Thevenot
 
 Our Standards: [The Thomson Reuters Trust Principles., opens new tab](https://www.thomsonreuters.com/en/about-us/trust-principles.html)
 
 - Suggested Topics:
-- [](https://www.reuters.com/business/healthcare-pharmaceuticals/)
-- [](https://www.reuters.com/legal/health/)
-- [](https://www.reuters.com/business/healthcare-pharmaceuticals/health-insurance/)
-- [](https://www.reuters.com/business/healthcare-pharmaceuticals/healthcare-providers/)
-- [](https://www.reuters.com/legal/insurance/)
+- [](https://www.reuters.com/legal/litigation/)
+- [](https://www.reuters.com/legal/constitutional-law/)
+- [](https://www.reuters.com/legal/judiciary/)
+- [](https://www.reuters.com/legal/criminal/)
+- [](https://www.reuters.com/legal/public-policy/)
 
 [](https://www.reutersagency.com/en/licensereuterscontent/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead)
 
+[
+
+](https://www.reuters.com/authors/brad-heath/)
+
+[Brad Heath](https://www.reuters.com/authors/brad-heath/)
+
+Thomson Reuters
+
+Brad Heath is an enterprise reporter in Washington. He focuses on law enforcement, criminal justice and using data to find out what the government is doing. He is a graduate of Georgetown University Law Center and is a member of the Virginia bar.
+
+- [](mailto:Brad.Heath@thomsonreuters.com)
+- [](https://www.linkedin.com/in/bradheath/)
+
+[
+
+](https://www.reuters.com/authors/kristina-cooke/)
+
+[Kristina Cooke](https://www.reuters.com/authors/kristina-cooke/)
+
+Thomson Reuters
+
+Kristina Cooke is a Pulitzer Prize-winning investigative reporter at Reuters focused on immigration and criminal justice. She was part of a team awarded the Pulitzer Prize for National Reporting in 2026 for a series on President Donald Trump’s campaign of political retribution. In 2025, she shared the Pulitzer Prize for Investigative Reporting for a series on the fentanyl crisis. Her investigation with colleagues into migrant child labor in the United States was a finalist for the Pulitzer Prize for National Reporting in 2023, and a recipient of the Polk and other awards. She speaks English, German and Spanish and is based in San Francisco.
+
+- [](mailto:kristina.cooke@thomsonreuters.com)
+- [](https://www.reuters.com/legal/government/trumps-doj-charged-hundreds-with-assaulting-officers-many-cases-were-dropped-2026-07-30/@kristinaleecooke)
+- [](https://www.linkedin.com/in/kristinacooke/)
+
+[
+
+](https://www.reuters.com/authors/m-b-pell/)
+
+[M.B. Pell](https://www.reuters.com/authors/m-b-pell/)
+
+Thomson Reuters
+
+Michael Pell has worked on the Reuters’ data team since 2013. At Reuters Pell was part of a team that exposed fraud and slum-like conditions at privately-owned military base housing across the country resulting in a major military landlord pleading guilty to fraud in federal court. Pell worked on stories that uncovered the harms caused by COVID lockdown policies and identified thousands of neighborhoods across the country with higher rates of child lead poisoning than Flint, Michigan during the peak of that city’s water crisis.
+
+- [](mailto:michael.pell@thomsonreuters.com)
+
 ## Read Next / Editor's Picks
 
-- [Healthcare & Pharmaceuticalscategory](https://www.reuters.com/business/healthcare-pharmaceuticals/)
+- [Litigationcategory](https://www.reuters.com/legal/litigation/)
     
-    [Fauci invokes Fifth Amendment at Rand Paul-led US Senate COVID hearing](https://www.reuters.com/business/healthcare-pharmaceuticals/fauci-face-rand-pauls-us-senate-committee-after-diary-release-2026-07-29/)
-    
-    [
-    
-    ](https://www.reuters.com/business/healthcare-pharmaceuticals/fauci-face-rand-pauls-us-senate-committee-after-diary-release-2026-07-29/)
-    
-- [Worldcategory](https://www.reuters.com/world/)
-    
-    EXCLUSIVE
-    
-    [US FTC sues Hims & Hers for sending user health info to Meta, Snap](https://www.reuters.com/world/us-ftc-suing-hims-hers-sending-user-health-info-meta-snap-2026-07-29/)
+    [Disney asks court to dismiss actor's lawsuit over 'Avatar' character](https://www.reuters.com/legal/litigation/disney-asks-court-dismiss-actors-lawsuit-over-avatar-character-2026-07-29/)
     
     [
     
-    ](https://www.reuters.com/world/us-ftc-suing-hims-hers-sending-user-health-info-meta-snap-2026-07-29/)
+    ](https://www.reuters.com/legal/litigation/disney-asks-court-dismiss-actors-lawsuit-over-avatar-character-2026-07-29/)
     
-- Explainer
+- [Governmentcategory](https://www.reuters.com/legal/government/)
     
-    [Explainer: Can J&J finally put the talc litigation behind it?](https://www.reuters.com/business/healthcare-pharmaceuticals/can-jj-finally-put-talc-litigation-behind-it-2026-07-29/)
-    
-    [
-    
-    ](https://www.reuters.com/business/healthcare-pharmaceuticals/can-jj-finally-put-talc-litigation-behind-it-2026-07-29/)
-    
-- [Healthcare & Pharmaceuticalscategory](https://www.reuters.com/business/healthcare-pharmaceuticals/)
-    
-    [Cyclosporiasis cases in Michigan surpass 10,000 in ongoing outbreak](https://www.reuters.com/business/healthcare-pharmaceuticals/cyclosporiasis-cases-cross-10000-mark-michigan-2026-07-29/)
+    [US court revives lawsuit claiming AI software fueled price-gouging by New Jersey casinos](https://www.reuters.com/legal/government/us-court-revives-lawsuit-claiming-ai-software-fueled-price-gouging-by-new-jersey-2026-07-29/)
     
     [
     
-    ](https://www.reuters.com/business/healthcare-pharmaceuticals/cyclosporiasis-cases-cross-10000-mark-michigan-2026-07-29/)
-    
-- [Legalcategory](https://www.reuters.com/legal/)
-    
-    [US lawmakers press Health Secretary Robert F. Kennedy Jr. on vaccine settlement](https://www.reuters.com/legal/litigation/us-lawmakers-press-health-secretary-robert-f-kennedy-jr-vaccine-settlement-2026-07-29/)
-    
-    [
-    
-    ](https://www.reuters.com/legal/litigation/us-lawmakers-press-health-secretary-robert-f-kennedy-jr-vaccine-settlement-2026-07-29/)
+    ](https://www.reuters.com/legal/government/us-court-revives-lawsuit-claiming-ai-software-fueled-price-gouging-by-new-jersey-2026-07-29/)
     
 - [Litigationcategory](https://www.reuters.com/legal/litigation/)
     
-    [US FDA approves first freeze-dried plasma product for use](https://www.reuters.com/legal/litigation/us-fda-approves-first-freeze-dried-plasma-product-use-2026-07-29/)
+    [Prince Harry and others face multi-million legal bill after Daily Mail lawsuit defeat](https://www.reuters.com/legal/litigation/daily-mail-seeks-interim-13-million-payment-after-prince-harry-loses-lawsuit-2026-07-29/)
     
     [
     
-    ](https://www.reuters.com/legal/litigation/us-fda-approves-first-freeze-dried-plasma-product-use-2026-07-29/)
-    
-- [Financecategory](https://www.reuters.com/business/finance/)
-    
-    [UK PM Burnham says social care reform should come before assisted dying debate](https://www.reuters.com/business/finance/uk-pm-burnham-says-social-care-reform-should-come-before-assisted-dying-debate-2026-07-29/)
-    
-    [
-    
-    ](https://www.reuters.com/business/finance/uk-pm-burnham-says-social-care-reform-should-come-before-assisted-dying-debate-2026-07-29/)
-    
-- [Healthcare & Pharmaceuticalscategory](https://www.reuters.com/business/healthcare-pharmaceuticals/)
-    
-    [FDA panel votes against Capricor's Duchenne heart disease therapy](https://www.reuters.com/business/healthcare-pharmaceuticals/fda-panel-votes-against-capricors-duchenne-heart-disease-therapy-2026-07-29/)
-    
-    [
-    
-    ](https://www.reuters.com/business/healthcare-pharmaceuticals/fda-panel-votes-against-capricors-duchenne-heart-disease-therapy-2026-07-29/)
-    
-- [Legalcategory](https://www.reuters.com/legal/)
-    
-    [US diners avoid restaurants as cyclosporiasis fears cut lettuce sales](https://www.reuters.com/legal/litigation/us-diners-avoid-restaurants-cyclosporiasis-fears-cut-lettuce-sales-2026-07-29/)
-    
-    [
-    
-    ](https://www.reuters.com/legal/litigation/us-diners-avoid-restaurants-cyclosporiasis-fears-cut-lettuce-sales-2026-07-29/)
-    
-- [Litigationcategory](https://www.reuters.com/legal/litigation/)
-    
-    [Brazil greenlights five new injectable diabetes drugs](https://www.reuters.com/legal/litigation/brazil-greenlights-five-new-injectable-diabetes-drugs-2026-07-29/)
-    
-    [
-    
-    ](https://www.reuters.com/legal/litigation/brazil-greenlights-five-new-injectable-diabetes-drugs-2026-07-29/)
-    
-- [Microsoft supera estimativa de crescimento em unidade de nuvem, aliviando preocupação com gastos](https://www.reuters.com/pt/negocio/4TJPOBFIPJMFFFI2PJYVHT72OA-2026-07-29/)
-    
-    [
-    
-    ](https://www.reuters.com/pt/negocio/4TJPOBFIPJMFFFI2PJYVHT72OA-2026-07-29/)
-    
-- [Healthcare & Pharmaceuticalscategory](https://www.reuters.com/business/healthcare-pharmaceuticals/)
-    
-    [J&J lowers 2026 profit forecast on deal costs, sees further hit in 2027](https://www.reuters.com/business/healthcare-pharmaceuticals/johnson-johnson-lowers-2026-profit-forecast-2026-07-29/)
-    
-    [
-    
-    ](https://www.reuters.com/business/healthcare-pharmaceuticals/johnson-johnson-lowers-2026-profit-forecast-2026-07-29/)
-    
-- [Healthcare & Pharmaceuticalscategory](https://www.reuters.com/business/healthcare-pharmaceuticals/)
-    
-    [PM Burnham says difficult decisions needed to fix England's 'unfair' adult care system](https://www.reuters.com/business/healthcare-pharmaceuticals/uk-pm-burnham-set-out-first-steps-social-care-speech-2026-07-28/)
-    
-    [
-    
-    ](https://www.reuters.com/business/healthcare-pharmaceuticals/uk-pm-burnham-set-out-first-steps-social-care-speech-2026-07-28/)
-    
-- [Healthcare & Pharmaceuticalscategory](https://www.reuters.com/business/healthcare-pharmaceuticals/)
-    
-    [Australia confirms H5N1 bird flu spreading in native bird population](https://www.reuters.com/business/healthcare-pharmaceuticals/australia-confirms-h5-bird-flu-spreading-native-bird-population-2026-07-29/)
-    
-    [
-    
-    ](https://www.reuters.com/business/healthcare-pharmaceuticals/australia-confirms-h5-bird-flu-spreading-native-bird-population-2026-07-29/)
+    ](https://www.reuters.com/legal/litigation/daily-mail-seeks-interim-13-million-payment-after-prince-harry-loses-lawsuit-2026-07-29/)
     
 - [Worldcategory](https://www.reuters.com/world/)
     
@@ -216,13 +208,101 @@ Our Standards: [The Thomson Reuters Trust Principles., opens new tab](https://w
     
     ](https://www.reuters.com/world/novo-nordisk-fails-end-us-shareholder-lawsuit-over-cagrisema-clinical-trial-2026-07-28/)
     
-- [Healthcare & Pharmaceuticalscategory](https://www.reuters.com/business/healthcare-pharmaceuticals/)
+- [Businesscategory](https://www.reuters.com/business/)
     
-    [German medical packaging firm Gerresheimer to sell two units to Apax for $1.71 billion](https://www.reuters.com/business/healthcare-pharmaceuticals/germanys-gerresheimer-sell-two-units-apax-171-billion-including-debt-2026-07-29/)
+    [J&J reaches sweeping talc deal that could end decade of litigation](https://www.reuters.com/business/healthcare-pharmaceuticals/johnson-johnson-announces-55-billion-settlement-talc-lawsuits-2026-07-27/)
     
     [
     
-    ](https://www.reuters.com/business/healthcare-pharmaceuticals/germanys-gerresheimer-sell-two-units-apax-171-billion-including-debt-2026-07-29/)
+    ](https://www.reuters.com/business/healthcare-pharmaceuticals/johnson-johnson-announces-55-billion-settlement-talc-lawsuits-2026-07-27/)
+    
+- [Defaultcategory](https://www.reuters.com/default/)
+    
+    [AI startup Runlayer sues HR technology firm Rippling for allegedly stealing trade secrets](https://www.reuters.com/default/ai-startup-runlayer-sues-hr-technology-firm-rippling-allegedly-stealing-trade-2026-07-28/)
+    
+    [
+    
+    ](https://www.reuters.com/default/ai-startup-runlayer-sues-hr-technology-firm-rippling-allegedly-stealing-trade-2026-07-28/)
+    
+- [Businesscategory](https://www.reuters.com/business/)
+    
+    [Former JPMorgan Chase banker expands lurid sexual harassment, racism lawsuit](https://www.reuters.com/business/finance/former-jpmorgan-chase-banker-expands-lurid-sexual-harassment-racism-lawsuit-2026-07-27/)
+    
+    [
+    
+    ](https://www.reuters.com/business/finance/former-jpmorgan-chase-banker-expands-lurid-sexual-harassment-racism-lawsuit-2026-07-27/)
+    
+- [Governmentcategory](https://www.reuters.com/legal/government/)
+    
+    [US Senate panel approves Trump nominee for labor secretary](https://www.reuters.com/legal/government/us-senate-panel-approves-trump-nominee-labor-secretary-2026-07-30/)
+    
+    [
+    
+    ](https://www.reuters.com/legal/government/us-senate-panel-approves-trump-nominee-labor-secretary-2026-07-30/)
+    
+- [Businesscategory](https://www.reuters.com/business/)
+    
+    [Braveheart Bio targets $1.2 billion valuation in US IPO](https://www.reuters.com/business/healthcare-pharmaceuticals/braveheart-bio-aims-raise-3188-million-us-ipo-2026-07-30/)
+    
+    [
+    
+    ](https://www.reuters.com/business/healthcare-pharmaceuticals/braveheart-bio-aims-raise-3188-million-us-ipo-2026-07-30/)
+    
+- [Worldcategory](https://www.reuters.com/world/)
+    
+    [US Senate panel votes to advance nomination of Trump CDC pick Schwartz](https://www.reuters.com/world/us-senate-panel-votes-advance-nomination-trump-cdc-pick-schwartz-2026-07-30/)
+    
+    [
+    
+    ](https://www.reuters.com/world/us-senate-panel-votes-advance-nomination-trump-cdc-pick-schwartz-2026-07-30/)
+    
+- [Litigationcategory](https://www.reuters.com/legal/litigation/)
+    
+    [Lilly, Resilience to invest $750 million in US drug manufacturing expansion](https://www.reuters.com/legal/litigation/lilly-resilience-invest-750-million-us-drug-manufacturing-expansion-2026-07-30/)
+    
+    [
+    
+    ](https://www.reuters.com/legal/litigation/lilly-resilience-invest-750-million-us-drug-manufacturing-expansion-2026-07-30/)
+    
+- [Worldcategory](https://www.reuters.com/world/)
+    
+    EXCLUSIVE
+    
+    [Amazon's Zoox wins first US approval for paid robotaxis without human controls](https://www.reuters.com/world/amazons-zoox-wins-first-us-approval-paid-robotaxis-with-no-human-controls-2026-07-30/)
+    
+    [
+    
+    ](https://www.reuters.com/world/amazons-zoox-wins-first-us-approval-paid-robotaxis-with-no-human-controls-2026-07-30/)
+    
+- [Litigationcategory](https://www.reuters.com/legal/litigation/)
+    
+    [Capricor plummets after FDA panel votes against Duchenne heart disease therapy](https://www.reuters.com/legal/litigation/capricor-plummets-after-fda-panel-votes-against-duchenne-heart-disease-therapy-2026-07-30/)
+    
+    [
+    
+    ](https://www.reuters.com/legal/litigation/capricor-plummets-after-fda-panel-votes-against-duchenne-heart-disease-therapy-2026-07-30/)
+    
+- [Teladoc tumbles on revenue forecast cut as BetterHelp demand shifts hurt](https://www.reuters.com/business/healthcare-pharmaceuticals/teladoc-tumbles-revenue-forecast-cut-betterhelp-demand-shifts-hurt-2026-07-30/)
+    
+    [
+    
+    ](https://www.reuters.com/business/healthcare-pharmaceuticals/teladoc-tumbles-revenue-forecast-cut-betterhelp-demand-shifts-hurt-2026-07-30/)
+    
+- [Litigationcategory](https://www.reuters.com/legal/litigation/)
+    
+    [Baxter raises annual profit forecast on strong demand for IV solutions](https://www.reuters.com/legal/litigation/baxter-raises-annual-profit-forecast-strong-demand-iv-solutions-2026-07-30/)
+    
+    [
+    
+    ](https://www.reuters.com/legal/litigation/baxter-raises-annual-profit-forecast-strong-demand-iv-solutions-2026-07-30/)
+    
+- [Litigationcategory](https://www.reuters.com/legal/litigation/)
+    
+    [India takes action against 90% of inspected high-risk pharmaceutical facilities, regulator says](https://www.reuters.com/legal/litigation/india-takes-action-against-90-inspected-high-risk-pharmaceutical-facilities-2026-07-30/)
+    
+    [
+    
+    ](https://www.reuters.com/legal/litigation/india-takes-action-against-90-inspected-high-risk-pharmaceutical-facilities-2026-07-30/)
     
 
 [](https://www.lseg.com/en/data-analytics/products/workspace?utm_source=reuters.com&utm_medium=articlebanner&utm_campaign=Reuters_ProductPage_Links)

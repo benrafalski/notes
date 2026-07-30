@@ -1,0 +1,2 @@
+# Vaccines
+- Gavi: Trump admin [says](https://www.reuters.com/world/trump-administration-unfreezes-600-million-gavi-global-vaccine-effort-2026-07-29/) they will release $600 million in congressionally appropriated funds ​for Gavi vaccines for the world's poorest countries after agreed to transition away from thimerosal vaccines to appease unsubstantiated safety concerns raised by RFK Jr.
