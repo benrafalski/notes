@@ -18,3 +18,8 @@
 # ICE Tactics
 - Detention centers
 	- [California](https://www.reuters.com/legal/government/californias-largest-ice-facility-did-not-provide-adequate-medical-care-monitor-2026-07-28/): court-appointed monitor has found that California's largest ​immigration detention facility did not provide adequate medical care to detainees and violated an ‌earlier court order to do so
+
+
+# Due Process
+## Immigration Courts
+- **Alien Terrorist Removal Court**: Court established ⁠by Congress in 1996 that allows the government to rely on classified evidence in deportation cases. The secretive U.S. court ​convened for the first time in [July 2026](https://www.reuters.com/legal/government/first-case-secretive-us-court-meant-deport-alleged-terrorists-2026-07-30/) to hear a case of a woman accused of supporting ISIS and helping conceal a failed Election Day 2024 mass shooting ​plot. 

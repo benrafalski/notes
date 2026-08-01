@@ -1,0 +1,2 @@
+# Trump Peace Plan
+- **Hamas Disarmament**: In July 2026, Trump [said](https://www.reuters.com/world/middle-east/israeli-strikes-kill-three-gaza-including-two-children-amid-new-ceasefire-push-2026-07-30/) a deal was reached for phased disarmament of Hamas, despite Israel earlier saying they had rejected the proposal and Hamas saying they would only follow through with the "draft agreement" if Israel fully withdrew from Gaza.

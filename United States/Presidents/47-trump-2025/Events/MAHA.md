@@ -13,4 +13,4 @@ title: MAHA
 ## Outbreak
 - July 25: reports that Michigan lost 23 infectious disease workers and 123 county health staff disease and health workers after federal cuts that likely contributed to bad response to cyclosporiasis outbreak
 - Case totals:
-	- Michigan: [9,253 cases](https://www.reuters.com/business/healthcare-pharmaceuticals/michigan-reports-9253-cyclosporiasis-cases-ongoing-outbreak-2026-07-27/) 
+	- Michigan: [10,386 case](https://www.reuters.com/business/healthcare-pharmaceuticals/cyclosporiasis-cases-michigan-rise-10386-ongoing-outbreak-2026-07-30/) 
