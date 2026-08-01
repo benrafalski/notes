@@ -20,6 +20,13 @@
 	- [California](https://www.reuters.com/legal/government/californias-largest-ice-facility-did-not-provide-adequate-medical-care-monitor-2026-07-28/): court-appointed monitor has found that California's largest ​immigration detention facility did not provide adequate medical care to detainees and violated an ‌earlier court order to do so
 
 
+# Visas + Green Cards
+## Visa Bond
+- In [July 2026](https://www.reuters.com/world/us/us-make-visa-bond-program-permanent-people-dozens-countries-2026-08-01/), the State Department made permanent a visa bond program ‌that requires B1 and B2 visas applicants (business and tourism visas) from 50 countries, mostly from Africa, to post bonds of $10,000-$20,000 when seeking U.S. visas.
+## Expired Visas
+- [Airport arrests](https://www.reuters.com/legal/government/us-ice-detains-johns-hopkins-researcher-airport-arrests-surge-2026-07-31/): in July 2026, the Trump admin started accelerating airport arrests targeting immigrants who had over stayed their visas., including Fatima Ameaka, a Johns Hopkins researcher originally from Cameroon. 
+
 # Due Process
 ## Immigration Courts
 - **Alien Terrorist Removal Court**: Court established ⁠by Congress in 1996 that allows the government to rely on classified evidence in deportation cases. The secretive U.S. court ​convened for the first time in [July 2026](https://www.reuters.com/legal/government/first-case-secretive-us-court-meant-deport-alleged-terrorists-2026-07-30/) to hear a case of a woman accused of supporting ISIS and helping conceal a failed Election Day 2024 mass shooting ​plot. 
+## Immigrant Bond

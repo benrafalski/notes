@@ -24,55 +24,82 @@
 
 [My News](https://www.reuters.com/my-news/feed/)
 
-[](https://www.reuters.com/account/sign-in/?redirect=https%3A%2F%2Fwww.reuters.com%2Flegal%2Fgovernment%2Ftrump-defends-anti-weaponization-fund-blanche-nomination-stalls-2026-07-31%2F)[](https://www.reuters.com/account/subscribe/offer/?redirect=https%3A%2F%2Fwww.reuters.com%2Flegal%2Fgovernment%2Ftrump-defends-anti-weaponization-fund-blanche-nomination-stalls-2026-07-31%2F&referrer=subscription_button&journeyStart=navigation)
+[](https://www.reuters.com/account/sign-in/?redirect=https%3A%2F%2Fwww.reuters.com%2Flegal%2Fgovernment%2Fus-ice-detains-johns-hopkins-researcher-airport-arrests-surge-2026-07-31%2F)[](https://www.reuters.com/account/subscribe/offer/?redirect=https%3A%2F%2Fwww.reuters.com%2Flegal%2Fgovernment%2Fus-ice-detains-johns-hopkins-researcher-airport-arrests-surge-2026-07-31%2F&referrer=subscription_button&journeyStart=navigation)
 
-# Trump defends 'anti-weaponization' fund as Blanche nomination stalls
+# US ICE detains Johns Hopkins researcher as airport arrests surge
 
-By Reuters
+By [Kanishka Singh](https://www.reuters.com/authors/kanishka-singh/)
 
-July 31, 20265:35 AM PDTUpdated 2 hours ago
+July 31, 20263:14 PM PDTUpdated 16 hours ago
 
-Item 1 of 2 Acting U.S. Attorney General Todd Blanche testifies before a Senate Judiciary Committee confirmation hearing on his nomination to be attorney general, on Capitol Hill in Washington, D.C., U.S., July 15, 2026. REUTERS/Jonathan Ernst/ File Photo
+![BWI TSA lines stretch outside as partial government shutdown continues](https://www.reuters.com/resizer/v2/6T3OQENJTRP7ND3FEKGKSAAGFQ.jpg?auth=5ea765d5ea2a6d24350cd879cec3a5211aedf251ec4203ffbdd114503fcdf488&width=1920&quality=80)
 
-**[1/2]**Acting U.S. Attorney General Todd Blanche testifies before a Senate Judiciary Committee confirmation hearing on his nomination to be attorney general, on Capitol Hill in Washington, D.C., U.S., July 15, 2026. REUTERS/Jonathan Ernst/ File Photo [Purchase Licensing Rights, opens new tab](https://www.reutersconnect.com/item/acting-us-attorney-general-blanches-senate-judiciary-committee-confirmation-hearing-on-his-nomination-to-be-attorney-general-in-washington/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1JDMkVFTUFTRDY3Mg%3D%3D/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead)
+Passengers wait in a TSA security checkpoint queue that stretches through Baltimore/Washington International Thurgood Marshall Airport (BWI) in Baltimore, Maryland., U.S., March 29, 2026. REUTERS/Aaron Schwartz/File Photo [Purchase Licensing Rights, opens new tab](https://www.reutersconnect.com/item/bwi-tsa-lines-stretch-outside-as-partial-government-shutdown-continues/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1JDMkRFS0FCODdORA%3D%3D/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead)
 
-WASHINGTON, July 31 (Reuters) - U.S. President Donald Trump on Friday defended his proposed "anti-weaponization" fund amid a standoff with fellow Republicans in the Senate that has stalled his bid to get acting U.S. Attorney General Todd ​Blanche in the role permanently.
+- Companies
 
-"Todd Blanche, a good man, should be immediately approved as ‌U.S. Attorney General," Trump wrote in a social media post, one day after [threatening to withdraw](https://www.reuters.com/world/trump-says-he-could-withdraw-then-renominate-blanche-attorney-general-2026-07-30/) the nomination until next year after two key opposing senators leave office.
+- [
+    
+    The Johns Hopkins University
+    
+    ](https://www.reuters.com/company/the-johns-hopkins-university/)
+    
 
-Jumpstart your morning with the latest legal news delivered straight to your inbox from The Daily Docket newsletter. Sign up [here.](https://www.reuters.com/newsletters/daily-docket/?location=article-paragraph&redirectUrl=%2Flegal%2Fgovernment%2Ftrump-defends-anti-weaponization-fund-blanche-nomination-stalls-2026-07-31%2F)
+WASHINGTON, July 31 (Reuters) - U.S. immigration agents arrested a Johns Hopkins University researcher at an airport where ​she planned to board a domestic flight ‌as [immigration](https://www.reuters.com/world/immigration/) arrests by President [Donald Trump](https://www.reuters.com/world/us/donald-trump/)'s administration have surged at airports in recent weeks.
 
-He also continued to defend the fund, writing: "I will always feel that ​these victims of government abuse should be paid back for what they were forced to ​endure, their lives have been ruined!"
+Here are more details:
 
-Republican Senators John Cornyn and Thom Tillis have [held ⁠up Blanche's nomination](https://www.reuters.com/legal/government/trumps-attorney-general-nominee-hits-snag-senator-withholds-support-2026-07-29/) while seeking written assurances that the Justice Department will not set up the $1.8 billion "anti-weaponization" ​program. Trump critics have derided it as a slush fund to reward supporters with taxpayer money.
+Jumpstart your morning with the latest legal news delivered straight to your inbox from The Daily Docket newsletter. Sign up [here.](https://www.reuters.com/newsletters/daily-docket/?location=article-paragraph&redirectUrl=%2Flegal%2Fgovernment%2Fus-ice-detains-johns-hopkins-researcher-airport-arrests-surge-2026-07-31%2F)
 
-The two ​lawmakers, whose Senate terms end in early January, were closer to an agreement after meeting with Blanche late Thursday afternoon, according to a person familiar with the matter who spoke on the condition of anonymity.
+- Lawyers say there has been ​an uptick in immigration enforcement and arrests ​at airports.
+    
+- They say the focus has been those ⁠who have overstayed visas, even if they have ​pending applications for asylum or marriage.
+    
+- The number of people ​who overstay temporary U.S. visas annually is in the hundreds of thousands, [government data, opens new tab](https://www.dhs.gov/publication/entryexit-overstay-report) shows.
+    
+- Fatima Ameaka, who is from Cameroon and ​an employee at the Bloomberg School of Public ​Health, was arrested by Immigration and Customs Enforcement at the Baltimore/Washington ‌International ⁠Thurgood Marshall Airport, the Department of Homeland Security said on Friday.
+    
+- DHS said she had overstayed her visa that allowed her to stay till June 2024 and ​would remain ​in ICE ⁠custody pending removal proceedings.
+    
+- Johns Hopkins said Ameaka was "a respected member" of its community ​and the school was arranging support for ​her.
+    
+- U.S. ⁠media, including The New York Times, reported this week that foreign citizens with expired visas are being arrested ⁠as ​they travel through airports in an ​expansion of an arrangement between ICE and the Transportation Security Administration.
+    
 
-Blanche has also met with Republican Senator ​John Curtis.
-
-Despite the dispute, Blanche likely does not need to be confirmed to effectively serve as attorney ​general for Trump's remaining term in the White House, given that acting officials can serve as long as their ‌nomination ⁠is pending in the Senate and their nomination is not formally rejected or withdrawn.
-
-The "anti-weaponization" fund was crafted as part of a legal settlement between Trump and the Justice Department to resolve his [$10 billion lawsuit](https://www.reuters.com/markets/us/trump-sues-irs-treasury-department-10-billion-over-tax-return-leak-2026-01-30/) against the Internal Revenue Service over allegedly mishandling his tax records, but it was put on hold amid ​opposition from congressional Republicans.
-
-The ​fund could benefit Trump ⁠allies who have said they were unfairly targeted by the federal government for their involvement in the January 6, 2021, attack on the U.S. Capitol after ​Trump lost his re-election bid in 2020.
-
-Cornyn on Thursday said he was ​waiting for the ⁠Justice Department to formalize assurances that it would not implement the fund. Cornyn and Tillis also object to an IRS deal that would prevent tax audits of Trump and his associates.
-
-Trump, in his post ⁠on Friday, ​also referred to the fund in present tense, writing that ​it "will not benefit me, but rather the great American Patriots who were hunted down like dogs and whose lives were unfairly and ​illegally destroyed."
-
-Reporting by Susan Heavey; additional reporting by Richard Cowan and Dan Rosenzweig-Ziff; Editing by Chizu Nomiyama
+Reporting ​by Kanishka Singh in Washington, Editing by Rosalba O'Brien
 
 Our Standards: [The Thomson Reuters Trust Principles., opens new tab](https://www.thomsonreuters.com/en/about-us/trust-principles.html)
 
 - Suggested Topics:
 - [](https://www.reuters.com/legal/government/)
 - [](https://www.reuters.com/legal/public-policy/)
-- [](https://www.reuters.com/legal/tax/)
+- [](https://www.reuters.com/legal/immigration/)
 
 [](https://www.reutersagency.com/en/licensereuterscontent/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead)
 
+[
+
+](https://www.reuters.com/authors/kanishka-singh/)
+
+[Kanishka Singh](https://www.reuters.com/authors/kanishka-singh/)
+
+Thomson Reuters
+
+Kanishka Singh is a breaking news reporter for Reuters in Washington DC, who primarily covers US politics and national affairs in his current role. His past breaking news coverage has spanned across a range of topics like the Black Lives Matter movement; the US elections; the 2021 Capitol riots and their follow up probes; the Brexit deal; US-China trade tensions; the NATO withdrawal from Afghanistan; the COVID-19 pandemic; and a 2019 Supreme Court verdict on a religious dispute site in his native India.
+
+- [](mailto:Kanishka.Singh@thomsonreuters.com)
+- [](https://x.com/kanishka183)
+
 ## Read Next / Editor's Picks
 
+- [Governmentcategory](https://www.reuters.com/legal/government/)
+    
+    [Blanche confirmation vote scheduled for Tuesday after Trump says 'weaponization' fund is dead](https://www.reuters.com/legal/government/trump-defends-anti-weaponization-fund-blanche-nomination-stalls-2026-07-31/)
+    
+    [
+    
+    ](https://www.reuters.com/legal/government/trump-defends-anti-weaponization-fund-blanche-nomination-stalls-2026-07-31/)
+    
 - [Governmentcategory](https://www.reuters.com/legal/government/)
     
     [DOJ charged hundreds with assaulting officers. Many cases were dropped, but the damage was done](https://www.reuters.com/legal/government/trumps-doj-charged-hundreds-with-assaulting-officers-many-cases-were-dropped-2026-07-30/)  
@@ -80,6 +107,14 @@ Our Standards: [The Thomson Reuters Trust Principles., opens new tab](https://w
     [
     
     ](https://www.reuters.com/legal/government/trumps-doj-charged-hundreds-with-assaulting-officers-many-cases-were-dropped-2026-07-30/)
+    
+- [Worldcategory](https://www.reuters.com/world/)
+    
+    [US Commodity Futures Trading Commission fines George Santos for alleged manipulative trading](https://www.reuters.com/world/us-commodity-futures-trading-commission-fines-george-santos-alleged-manipulative-2026-07-31/)
+    
+    [
+    
+    ](https://www.reuters.com/world/us-commodity-futures-trading-commission-fines-george-santos-alleged-manipulative-2026-07-31/)
     
 - [Governmentcategory](https://www.reuters.com/legal/government/)
     
@@ -113,81 +148,65 @@ Our Standards: [The Thomson Reuters Trust Principles., opens new tab](https://w
     
 - [Governmentcategory](https://www.reuters.com/legal/government/)
     
+    [Trump threatens to keep Blanche as acting attorney general, revive 'anti-weaponization' fund](https://www.reuters.com/legal/government/trump-threatens-keep-blanche-acting-attorney-general-revive-anti-weaponization-2026-08-01/)
+    
+    [
+    
+    ](https://www.reuters.com/legal/government/trump-threatens-keep-blanche-acting-attorney-general-revive-anti-weaponization-2026-08-01/)
+    
+- [Governmentcategory](https://www.reuters.com/legal/government/)
+    
     [EEOC stopped hearing federal workers' class action cases, union claims in lawsuit](https://www.reuters.com/legal/government/eeoc-stopped-hearing-federal-workers-class-action-cases-union-claims-lawsuit-2026-07-28/)
     
     [
     
     ](https://www.reuters.com/legal/government/eeoc-stopped-hearing-federal-workers-class-action-cases-union-claims-lawsuit-2026-07-28/)
     
-- [Transactionalcategory](https://www.reuters.com/legal/transactional/)
+- [Governmentcategory](https://www.reuters.com/legal/government/)
     
-    [AbbVie trims 2026 profit forecast on Apogee buy, beats second-quarter estimates](https://www.reuters.com/legal/transactional/abbvie-trims-2026-profit-forecast-apogee-buy-beats-second-quarter-estimates-2026-07-31/)
+    [US Supreme Court lawyer Tom Goldstein appeals tax conviction](https://www.reuters.com/legal/government/us-supreme-court-lawyer-tom-goldstein-appeals-tax-conviction-2026-07-31/)
     
     [
     
-    ](https://www.reuters.com/legal/transactional/abbvie-trims-2026-profit-forecast-apogee-buy-beats-second-quarter-estimates-2026-07-31/)
+    ](https://www.reuters.com/legal/government/us-supreme-court-lawyer-tom-goldstein-appeals-tax-conviction-2026-07-31/)
     
 - [Worldcategory](https://www.reuters.com/world/)
     
-    [Trump threatens to pull attorney general nomination as standoff with Congress escalates](https://www.reuters.com/world/trump-says-he-could-withdraw-then-renominate-blanche-attorney-general-2026-07-30/)
+    [US Justice Department says 'flawed' work led to Reflecting Pool peeling](https://www.reuters.com/world/us-justice-department-drops-case-against-former-us-olympian-over-lincoln-2026-07-31/)
     
     [
     
-    ](https://www.reuters.com/world/trump-says-he-could-withdraw-then-renominate-blanche-attorney-general-2026-07-30/)
-    
-- [Meta India head named in police case over Facebook videos targeting Modi](https://www.reuters.com/world/india/india-police-register-case-against-meta-india-head-over-facebook-posts-pm-modi-2026-07-31/)
-    
-    [
-    
-    ](https://www.reuters.com/world/india/india-police-register-case-against-meta-india-head-over-facebook-posts-pm-modi-2026-07-31/)
-    
-- [Worldcategory](https://www.reuters.com/world/)
-    
-    [New York sues Kalshi, says its prediction markets are illegal gambling](https://www.reuters.com/world/new-york-sues-kalshi-follows-coinbase-gemini-lawsuits-2026-07-31/)
-    
-    [
-    
-    ](https://www.reuters.com/world/new-york-sues-kalshi-follows-coinbase-gemini-lawsuits-2026-07-31/)
+    ](https://www.reuters.com/world/us-justice-department-drops-case-against-former-us-olympian-over-lincoln-2026-07-31/)
     
 - [Litigationcategory](https://www.reuters.com/legal/litigation/)
     
-    [Replimune surges after FDA advisers back skin cancer drug](https://www.reuters.com/legal/litigation/replimune-surges-after-fda-advisers-back-skin-cancer-drug-2026-07-31/)
+    [FTC approves IonQ acquisition of SkyWater semiconductor ‍foundry](https://www.reuters.com/legal/litigation/ftc-approves-ionq-acquisition-skywater-semiconductor-foundry-2026-07-31/)
     
     [
     
-    ](https://www.reuters.com/legal/litigation/replimune-surges-after-fda-advisers-back-skin-cancer-drug-2026-07-31/)
+    ](https://www.reuters.com/legal/litigation/ftc-approves-ionq-acquisition-skywater-semiconductor-foundry-2026-07-31/)
     
-- [Governmentcategory](https://www.reuters.com/legal/government/)
-    
-    [Cuba takes steps to implement economic overhaul amid US pressure campaign](https://www.reuters.com/legal/government/cuba-takes-steps-implement-economic-overhaul-amid-us-pressure-campaign-2026-07-31/)
+- [Moderna beats quarterly revenue estimates ahead of key US flu vaccine decision](https://www.reuters.com/business/healthcare-pharmaceuticals/moderna-misses-quarterly-revenue-estimates-covid-vaccine-weakness-2026-07-31/)
     
     [
     
-    ](https://www.reuters.com/legal/government/cuba-takes-steps-implement-economic-overhaul-amid-us-pressure-campaign-2026-07-31/)
+    ](https://www.reuters.com/business/healthcare-pharmaceuticals/moderna-misses-quarterly-revenue-estimates-covid-vaccine-weakness-2026-07-31/)
     
-- [Governmentcategory](https://www.reuters.com/legal/government/)
+- [Litigationcategory](https://www.reuters.com/legal/litigation/)
     
-    [Watchdog finds staffing, guidance gaps in transfer of USAID programs](https://www.reuters.com/legal/government/watchdog-finds-staffing-guidance-gaps-transfer-usaid-programs-2026-07-27/)
-    
-    [
-    
-    ](https://www.reuters.com/legal/government/watchdog-finds-staffing-guidance-gaps-transfer-usaid-programs-2026-07-27/)
-    
-- [Governmentcategory](https://www.reuters.com/legal/government/)
-    
-    [Anti-DEI group lodges new EEOC complaint against law firms, education nonprofit](https://www.reuters.com/legal/government/anti-dei-group-lodges-new-eeoc-complaint-against-law-firms-education-nonprofit-2026-07-30/)
+    [Novo drug trial fail deals setback to bid to expand beyond obesity](https://www.reuters.com/legal/litigation/novo-nordisks-inflammation-drug-fails-reduce-cardiovascular-risk-trial-2026-07-31/)
     
     [
     
-    ](https://www.reuters.com/legal/government/anti-dei-group-lodges-new-eeoc-complaint-against-law-firms-education-nonprofit-2026-07-30/)
+    ](https://www.reuters.com/legal/litigation/novo-nordisks-inflammation-drug-fails-reduce-cardiovascular-risk-trial-2026-07-31/)
     
-- [Governmentcategory](https://www.reuters.com/legal/government/)
+- [Litigationcategory](https://www.reuters.com/legal/litigation/)
     
-    [Father of Georgia school shooter sentenced to 15 years in prison](https://www.reuters.com/legal/government/father-georgia-school-shooter-sentenced-15-years-prison-2026-07-30/)
+    [Most Australian teens still on social media three months after under-16 ban began, study finds](https://www.reuters.com/legal/litigation/most-australian-teens-still-social-media-three-months-after-under-16-ban-began-2026-07-31/)
     
     [
     
-    ](https://www.reuters.com/legal/government/father-georgia-school-shooter-sentenced-15-years-prison-2026-07-30/)
+    ](https://www.reuters.com/legal/litigation/most-australian-teens-still-social-media-three-months-after-under-16-ban-began-2026-07-31/)
     
 
 [](https://www.lseg.com/en/data-analytics/products/workspace?utm_source=reuters.com&utm_medium=articlebanner&utm_campaign=Reuters_ProductPage_Links)
