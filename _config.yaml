@@ -1,6 +1,0 @@
-defaults:
-  - scope:
-      path: "" # This empty string targets all files in the repository
-      type: "pages" # This applies it to all Markdown/HTML files
-    values:
-      layout: "default"
