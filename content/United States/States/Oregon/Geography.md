@@ -50,6 +50,7 @@ Highest is the 9,773-foot Steens Mountain. Malheur-Owyhee Upland lies east and i
 ## Pacific Northwest
 ![[oregon_pacific_northwest.png]]
 # Counties
+![[oregon_counties_map.png]]
 36 total Counties:
 1. **Multnomah County (1854, Pop. 811,000)**: city of Portland, urban areas and natural beauty
 2. **Washington County (1843, Pop. 612,000)**: city of Hillsboro, urban areas, high-tech industry, and natural beauty
