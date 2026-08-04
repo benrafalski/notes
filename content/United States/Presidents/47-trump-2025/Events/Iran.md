@@ -1,4 +1,7 @@
-
+# Overview
+## Stated Reasoning
+- Flip-flopping
+- **Later stated objectives**: dismantling Iran's nuclear program, curbing its ability ​to attack regional rivals, and creating conditions for Iranians to overthrow their clerical rulers.
 # Iran War
 ## July 
 - [July 25](https://www.reuters.com/world/middle-east/trump-vows-punish-iran-houthis-attacks-red-sea-2026-07-24/):  Houthis fire on Saudi oil installations and US halts strikes in Iran for first night in two ‌weeks after Trump was advised that the campaign ran its course.

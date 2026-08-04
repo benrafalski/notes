@@ -17,3 +17,7 @@
 [New York Times](https://www.reuters.com/business/media-telecom/trump-administration-subpoenas-new-york-times-journalists-over-air-force-one-2026-07-11/) says the DOJ subpoenaed several of its journalists to testify before a federal grand jury after they reported on security concerns involving Trump's new Qatari-donated Air Force One. However, the DOJ was later forced to [withdraw](https://www.reuters.com/legal/government/us-judge-weigh-new-york-times-subpoenas-over-trump-plane-reporting-2026-07-23/" target="_blank) the subpoenas for the NYT journalists due to unlawful missteps by the DOJ prosecutors who issued them.
 #### Botched North Korea Operation Story
 The Trump admin also subpoenaed the records of Matthew Cole, a freelance journalist for ​the New York Times as part of a probe ‌into the sourcing of a 2025 story about a botched U.S. military operation in North Korea. 
+
+
+# Free Speech
+- [Court rulings](https://www.reuters.com/legal/government/trump-vowed-bring-free-speech-back-judges-75-cases-ruled-that-he-has-stifled-it-2026-08-04/): Reuters review identifies 75 rulings against Trump administration among 93 cases decided on First-Amendment grounds , with Republican-appointed judges ruling against Trump in 10 of the 75 cases. During Biden there were 13 rulings of 27 against his admin on First Amendment grounds. 

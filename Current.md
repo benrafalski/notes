@@ -24,193 +24,173 @@
 
 [My News](https://www.reuters.com/my-news/feed/)
 
-[](https://www.reuters.com/account/sign-in/?redirect=https%3A%2F%2Fwww.reuters.com%2Flegal%2Fgovernment%2Fus-justice-department-subpoenas-new-york-times-freelancer-over-north-korea-story-2026-08-01%2F)[](https://www.reuters.com/account/subscribe/offer/?redirect=https%3A%2F%2Fwww.reuters.com%2Flegal%2Fgovernment%2Fus-justice-department-subpoenas-new-york-times-freelancer-over-north-korea-story-2026-08-01%2F&referrer=subscription_button&journeyStart=navigation)
+[](https://www.reuters.com/account/sign-in/?redirect=https%3A%2F%2Fwww.reuters.com%2Fworld%2Fmiddle-east%2Fstatus-us-iran-talks-uncertain-ship-struck-hormuz-2026-08-04%2F)[](https://www.reuters.com/account/subscribe/offer/?redirect=https%3A%2F%2Fwww.reuters.com%2Fworld%2Fmiddle-east%2Fstatus-us-iran-talks-uncertain-ship-struck-hormuz-2026-08-04%2F&referrer=subscription_button&journeyStart=navigation)
 
-# US Justice Department subpoenas New York Times freelancer over North Korea story, paper says
+# Qatar says progress made toward US-Iran talks on ending war
 
-By Reuters
+By [Tala Ramadan](https://www.reuters.com/authors/tala-ramadan/), [Parisa Hafezi](https://www.reuters.com/authors/parisa-hafezi/), [Doina Chiacu](https://www.reuters.com/authors/doina-chiacu/) and [Simon Lewis](https://www.reuters.com/authors/simon-lewis/)
 
-August 1, 202612:10 PM PDTUpdated August 1, 2026
+August 3, 20268:41 PM PDTUpdated 37 mins ago
 
-![Illustration shows United States Department of Justice logo and U.S. flag](https://www.reuters.com/resizer/v2/VIEUWLYMFFOHZFVEB6SLOYAXIE.jpg?auth=439b837a813618a5444df7eec22179adab9f06d94a6268ab3c24d75b278de85d&width=1920&quality=80)
+Item 1 of 3 People walk past an anti-U.S. billboard on a street in Tehran, Iran, August 3, 2026. Majid Asgaripour/WANA (West Asia News Agency) via REUTERS
 
-United States Department of Justice logo and U.S. flag are seen in this illustration created on April 23, 2025. REUTERS/Dado Ruvic/Illustration/File Photo [Purchase Licensing Rights, opens new tab](https://www.reutersconnect.com/item/illustration-shows-united-states-department-of-justice-logo-and-us-flag/dGFnOnJldXRlcnMuY29tLDIwMjU6bmV3c21sX1JDMjY0RUFRWVlXQw%3D%3D/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead)
+**[1/3]**People walk past an anti-U.S. billboard on a street in Tehran, Iran, August 3, 2026. Majid Asgaripour/WANA (West Asia News Agency) via REUTERS [Purchase Licensing Rights, opens new tab](https://www.reutersconnect.com/item/people-walk-past-an-anti-us-billboard-on-a-street-in-tehran/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1JDMlhRTUFLSjNQWQ%3D%3D/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead)
 
-- Companies
+- Summary
 
-- [
-    
-    New York Times
-    
-    ](https://www.reuters.com/company/new-york-times-co/)
-    
-- [
-    
-    New York Times Co
-    
-    ](https://www.reuters.com/company/new-york-times-co/)
-    
+- Qatar says mediators making progress
+- Oil prices fall further after Monday's steep drop
+- Contradictory statements cast doubt on swift diplomatic solution
+- Trump has repeatedly announced attacks only to back down
 
-Aug 1 (Reuters) - The Justice Department has subpoenaed the records of a freelance journalist for ​the New York Times as part of a probe ‌into the sourcing of a 2025 story about a botched U.S. military operation in [North Korea](https://www.reuters.com/world/north-korea/), the newspaper said on Saturday.
+DUBAI/WASHINGTON, Aug 4 (Reuters) - Qatar said mediators were making progress in efforts to end the [U.S.-Iran](https://www.reuters.com/world/iran/) war ​on Tuesday, driving oil prices lower, although Tehran has denied President Donald Trump's assertion that talks are already under way.
 
-Freelancer Matthew Cole was subpoenaed in February by ​Virginia prosecutors seeking more than two years' worth of ​his notes as well as his testimony, according to ⁠the newspaper. Reuters could not immediately independently verify the information, but ​a spokesman for the Times said Cole is disclosing the subpoena.
+Benchmark Brent crude [fell more than 4%](https://www.reuters.com/business/energy/oil-ticks-up-after-selloff-talks-end-us-iran-war-remain-uncertain-2026-08-04/) after the ‌comments from Qatar, extending Monday's steep losses on hopes that an arrangement could soon be reached to restore traffic through the blockaded Strait of Hormuz. But for now, the strait remained virtually shut, with another ship reportedly coming under attack while trying to cross it.
 
-Jumpstart your morning with the latest legal news delivered straight to your inbox from The Daily Docket newsletter. Sign up [here.](https://www.reuters.com/newsletters/daily-docket/?location=article-paragraph&redirectUrl=%2Flegal%2Fgovernment%2Fus-justice-department-subpoenas-new-york-times-freelancer-over-north-korea-story-2026-08-01%2F)
+The Reuters Iran Briefing newsletter keeps you informed with the latest developments and analysis of the Iran war. Sign up [here.](https://www.reuters.com/newsletters/reuters-iran-briefing/?location=article-paragraph&redirectUrl=%2Fworld%2Fmiddle-east%2Fstatus-us-iran-talks-uncertain-ship-struck-hormuz-2026-08-04%2F)
 
-“We ​support Matthew Cole’s decision to make public a subpoena that the government has attempted to keep secret," New York Times spokesperson Charlie Stadtlander said in ​an emailed statement.
+[Trump](https://www.reuters.com/world/us/donald-trump/) said on Monday that talks with Tehran had started and Iran faced a "last chance" to reach a deal. Iranian officials insisted no negotiations with the United States ​were taking place. Iran says its only talks are with Oman about the strait, and that no major meetings were planned this week.
 
-The [story, opens new tab](https://www.nytimes.com/2025/09/05/us/navy-seal-north-korea-trump-2019.html) co-written by Cole detailed how Navy SEALs ​in early 2019 killed several unarmed North Koreans during a mission to plant ‌a ⁠listening device near the country's coast, citing two dozen unnamed sources.
+But senior U.S. officials struck an ​optimistic tone on Tuesday, with Treasury Secretary Scott Bessent and Secretary of State Marco Rubio both pointing to progress in discussions aimed at ⁠reopening the Strait of Hormuz, a corridor that normally carries about a fifth of global oil and liquefied natural gas shipments.
 
-A spokesperson for the Justice Department did not address Cole's specific case, but said that the DOJ "will use all available legal tools to ​uncover those who ​unlawfully disclose ⁠national defense information."
+"There's been progress made in those talks, but not finality ​yet. We're hoping that will happen very shortly," Rubio told reporters at the State Department.
 
-Stadtlander called the subpoena of Cole "another brazen and illegal attack from the administration designed to ​deny the public information of vital importance.”
+Bessent said a deal with Iran on the reopening of Hormuz could be reached by Tuesday or Wednesday.
 
-The New ​York ⁠Times article said the newspaper is paying for Cole's legal representation.
+Qatar's ​foreign ministry spokesperson Majed al-Ansari said diplomatic contacts had reached "very progressive stages".
 
-Cole's reporting "helps the public understand what the government is doing in its name," said ⁠his ​attorney, David A. O'Neil.
+He said mediators including Qatar, Pakistan and Oman were coordinating closely to facilitate negotiations and exchange draft proposals between Washington and Tehran.
 
-"He will not be ​intimidated by efforts to suppress information that the administration considers unflattering," O'Neil said.
+A senior Pakistani security official said: "A lot is happening in the background ... We are talking to both sides. Our sole goal at this moment is to make both parties at least agree to start talking."
 
-Reporting by ​Ernest Scheyder; Editing by Sergio Non, Alistair Bell and Mark Porter
+Trump's comments followed his weekend ​decision to cancel what he described as "massive attacks" on Iran, extending a pattern in which he has threatened major military action before later backing off and pointing to diplomatic contacts.
+
+## SHIPPING RISKS ​REMAIN
+
+Iran has halted most traffic through Hormuz while Washington maintains a blockade of Iran-related shipping and ports.
+
+Yemen's Iran-aligned Houthis have also imposed a naval blockade [on Saudi Arabia](https://www.reuters.com/world/middle-east/yemens-houthis-say-they-hit-saudi-target-najran-airport-2026-08-04/) in the Red Sea, further restricting oil ‌export routes.
+
+A ⁠cargo vessel reported being struck by an unidentified projectile near the Strait of Hormuz off Oman's coast, according to the UKMTO maritime security agency. Maritime sources told Reuters on Tuesday that the vessel was a dry bulk ship. Its crew had to abandon the vessel and one seafarer was missing.
+
+Iran has long demanded control over the strait, which it says it should share with Oman, which controls the opposite shore. Tehran rejected an Omani proposal last week that would have allowed shared oversight of the strait and the collection of voluntary fees from ships.
+
+A senior Iranian ​source said Iran is seeking full control over [inbound ​shipping](https://www.reuters.com/world/middle-east/iran-demands-hormuz-inbound-control-outbound-oversight-source-says-2026-08-04/) through the strait, and visibility over ⁠outbound traffic, with the ability to intervene if necessary.
+
+Giving Iran such control would be a major shift in the regional balance of power and make it more difficult for Washington to argue that "Operation Epic Fury", which Trump launched alongside Israel in February, had weakened Washington's longstanding ​foe.
+
+Questions are also growing about the sustainability of the U.S. military campaign. The U.S. Army has used up much of its stockpile ​of [highly accurate long-range missiles](https://www.reuters.com/world/us-has-used-virtually-all-its-long-range-precision-missiles-during-iran-war-2026-08-04/) during ⁠the war, according to three people familiar with the data, raising concerns about the military's readiness for future conflicts.
+
+## PROLONGED PAIN
+
+Gulf officials and analysts say [Iran is betting](https://www.reuters.com/world/middle-east/how-iran-is-widening-its-pressure-campaign-force-us-concessions-2026-08-03/) it can outlast Washington by turning the region's trade routes, shipping lanes and energy infrastructure into pressure points that steadily raise the cost of confrontation.
+
+"Their big advantage is that they can hurt the regional states and the global economy," said ⁠Michael Knights of ​the Washington Institute.
+
+Iran has publicly rejected negotiations with Washington since the collapse in early July of a memorandum ​of understanding the two sides signed the previous month in an attempt to end the conflict.
+
+Trump has yet to achieve the objectives he set out at the start of the war: dismantling Iran's nuclear programme, curbing its ability ​to attack regional rivals and creating conditions for Iranians to overthrow their clerical rulers.
+
+Reporting by Reuters bureaux; Writing by Lincoln Feast and Ros Russell; Editing by Clarence Fernandez, Peter Graff and Andrei Khalip
 
 Our Standards: [The Thomson Reuters Trust Principles., opens new tab](https://www.thomsonreuters.com/en/about-us/trust-principles.html)
 
 - Suggested Topics:
-- [](https://www.reuters.com/legal/government/)
-- [](https://www.reuters.com/legal/public-policy/)
+- [](https://www.reuters.com/world/middle-east/)
 
 [](https://www.reutersagency.com/en/licensereuterscontent/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead)
 
-## Read Next / Editor's Picks
+## Read Next
 
 - [Worldcategory](https://www.reuters.com/world/)
     
-    [Clayton will take over as US intelligence chief on Monday, Pulte says](https://www.reuters.com/world/us/clayton-set-take-over-top-us-spy-monday-pulte-says-2026-08-01/)
+    EXCLUSIVE
+    
+    [US has used 'virtually all' of its long-range precision missiles](https://www.reuters.com/world/us-has-used-virtually-all-its-long-range-precision-missiles-during-iran-war-2026-08-04/)
     
     [
     
-    ](https://www.reuters.com/world/us/clayton-set-take-over-top-us-spy-monday-pulte-says-2026-08-01/)
-    
-- [Worldcategory](https://www.reuters.com/world/)
-    
-    [GOP senators to back Blanche confirmation after he rescinds 'weaponization' fund](https://www.reuters.com/world/acting-us-attorney-general-blanche-rescinds-anti-weaponization-fund-before-2026-08-03/)
-    
-    [
-    
-    ](https://www.reuters.com/world/acting-us-attorney-general-blanche-rescinds-anti-weaponization-fund-before-2026-08-03/)
-    
-- [Worldcategory](https://www.reuters.com/world/)
-    
-    [US farm agency staff warn trade, research, aid programs at risk from reorganization](https://www.reuters.com/world/us/us-farm-agency-staff-warn-trade-research-aid-programs-risk-reorganization-2026-08-03/)
-    
-    [
-    
-    ](https://www.reuters.com/world/us/us-farm-agency-staff-warn-trade-research-aid-programs-risk-reorganization-2026-08-03/)
-    
-- [Governmentcategory](https://www.reuters.com/legal/government/)
-    
-    [US Senator Moreno says Ohio's Miller should not serve in Congress, citing abuse allegations](https://www.reuters.com/legal/government/us-senator-moreno-says-ohios-miller-should-not-serve-congress-citing-abuse-2026-08-02/)
-    
-    [
-    
-    ](https://www.reuters.com/legal/government/us-senator-moreno-says-ohios-miller-should-not-serve-congress-citing-abuse-2026-08-02/)
-    
-- [Governmentcategory](https://www.reuters.com/legal/government/)
-    
-    [US ICE detains Johns Hopkins researcher as airport arrests surge](https://www.reuters.com/legal/government/us-ice-detains-johns-hopkins-researcher-airport-arrests-surge-2026-07-31/)
-    
-    [
-    
-    ](https://www.reuters.com/legal/government/us-ice-detains-johns-hopkins-researcher-airport-arrests-surge-2026-07-31/)
-    
-- [Governmentcategory](https://www.reuters.com/legal/government/)
-    
-    [DOJ charged hundreds with assaulting officers. Many cases were dropped, but the damage was done](https://www.reuters.com/legal/government/trumps-doj-charged-hundreds-with-assaulting-officers-many-cases-were-dropped-2026-07-30/)  
-    
-    [
-    
-    ](https://www.reuters.com/legal/government/trumps-doj-charged-hundreds-with-assaulting-officers-many-cases-were-dropped-2026-07-30/)
-    
-- [Fauci invokes Fifth Amendment at Rand Paul-led US Senate COVID hearing](https://www.reuters.com/business/healthcare-pharmaceuticals/fauci-face-rand-pauls-us-senate-committee-after-diary-release-2026-07-29/)
-    
-    [
-    
-    ](https://www.reuters.com/business/healthcare-pharmaceuticals/fauci-face-rand-pauls-us-senate-committee-after-diary-release-2026-07-29/)
-    
-- [Businesscategory](https://www.reuters.com/business/)
-    
-    [Budweiser-maker AB InBev shareholder E.P.S. to sell 10 million shares in company](https://www.reuters.com/business/retail-consumer/budweiser-maker-ab-inbev-shareholder-eps-sell-10-million-shares-company-2026-08-03/) 
-    
-    [
-    
-    ](https://www.reuters.com/business/retail-consumer/budweiser-maker-ab-inbev-shareholder-eps-sell-10-million-shares-company-2026-08-03/)
-    
-- [Governmentcategory](https://www.reuters.com/legal/government/)
-    
-    [Law firm Jackson Walker to pay $15 million in case tied to judge scandal](https://www.reuters.com/legal/government/law-firm-jackson-walker-pay-15-million-case-tied-judge-scandal-2026-08-03/)
-    
-    [
-    
-    ](https://www.reuters.com/legal/government/law-firm-jackson-walker-pay-15-million-case-tied-judge-scandal-2026-08-03/)
-    
-- [Healthcare & Pharmaceuticalscategory](https://www.reuters.com/business/healthcare-pharmaceuticals/)
-    
-    [Explainer: What to know about the US outbreak of cyclosporiasis intestinal illness](https://www.reuters.com/business/healthcare-pharmaceuticals/what-know-about-us-outbreak-intestinal-illness-cyclosporiasis-2026-07-28/)
-    
-    [
-    
-    ](https://www.reuters.com/business/healthcare-pharmaceuticals/what-know-about-us-outbreak-intestinal-illness-cyclosporiasis-2026-07-28/)
-    
-- [Governmentcategory](https://www.reuters.com/legal/government/)
-    
-    [Whole Foods ban on Black Lives Matter apparel was lawful, US labor board rules](https://www.reuters.com/legal/government/whole-foods-ban-black-lives-matter-apparel-was-lawful-us-labor-board-rules-2026-08-03/)
-    
-    [
-    
-    ](https://www.reuters.com/legal/government/whole-foods-ban-black-lives-matter-apparel-was-lawful-us-labor-board-rules-2026-08-03/)
-    
-- [Worldcategory](https://www.reuters.com/world/)
-    
-    [Jay Clayton sworn in as U.S. director of national intelligence](https://www.reuters.com/world/jay-clayton-sworn-us-director-national-intelligence-2026-08-03/)
-    
-    [
-    
-    ](https://www.reuters.com/world/jay-clayton-sworn-us-director-national-intelligence-2026-08-03/)
-    
-- [Businesscategory](https://www.reuters.com/business/)
-    
-    [Britain says it is open to AI regulation if voluntary safeguards fall short](https://www.reuters.com/business/media-telecom/britain-says-it-is-open-ai-regulation-if-voluntary-safeguards-fall-short-2026-08-03/)
-    
-    [
-    
-    ](https://www.reuters.com/business/media-telecom/britain-says-it-is-open-ai-regulation-if-voluntary-safeguards-fall-short-2026-08-03/)
-    
-- [Worldcategory](https://www.reuters.com/world/)
-    
-    [US finalizes voluntary AI safety tests, White House official says](https://www.reuters.com/world/us-finalizes-voluntary-ai-safety-tests-white-house-official-says-2026-08-03/)
-    
-    [
-    
-    ](https://www.reuters.com/world/us-finalizes-voluntary-ai-safety-tests-white-house-official-says-2026-08-03/)
+    ](https://www.reuters.com/world/us-has-used-virtually-all-its-long-range-precision-missiles-during-iran-war-2026-08-04/)
     
 - EXCLUSIVE
     
-    [Chinese state traders make large US soybean purchases](https://www.reuters.com/world/china/china-adds-13-us-soybean-cargoes-new-crop-buying-push-sources-say-2026-08-03/)
+    [Syria tells US it is willing to drastically drop Russian oil imports](https://www.reuters.com/business/energy/syria-tells-us-it-is-willing-drastically-drop-russian-oil-imports-sources-say-2026-08-04/)
     
     [
     
-    ](https://www.reuters.com/world/china/china-adds-13-us-soybean-cargoes-new-crop-buying-push-sources-say-2026-08-03/)
+    ](https://www.reuters.com/business/energy/syria-tells-us-it-is-willing-drastically-drop-russian-oil-imports-sources-say-2026-08-04/)
     
-- [Litigationcategory](https://www.reuters.com/legal/litigation/)
+- [Businesscategory](https://www.reuters.com/business/)
     
-    [US says some older Ford cars, SUVs pose unreasonable safety risks](https://www.reuters.com/legal/litigation/us-says-some-older-ford-cars-suvs-pose-unreasonable-safety-risks-2026-08-03/)
+    [Aramco says US-Iran war has cost the global market 2.6 billion barrels of oil](https://www.reuters.com/business/energy/aramco-posts-44-increase-net-profit-2026-08-04/)
     
     [
     
-    ](https://www.reuters.com/legal/litigation/us-says-some-older-ford-cars-suvs-pose-unreasonable-safety-risks-2026-08-03/)
+    ](https://www.reuters.com/business/energy/aramco-posts-44-increase-net-profit-2026-08-04/)
+    
+- [Middle Eastcategory](https://www.reuters.com/world/middle-east/)
+    
+    [After deadly day, Gazans say Trump's touting of plan jars with grim reality](https://www.reuters.com/world/middle-east/after-deadly-day-gazans-say-trumps-touting-plan-jars-with-grim-reality-2026-08-03/)
+    
+    [
+    
+    ](https://www.reuters.com/world/middle-east/after-deadly-day-gazans-say-trumps-touting-plan-jars-with-grim-reality-2026-08-03/)
+    
+- [Middle Eastcategory](https://www.reuters.com/world/middle-east/)
+    
+    [Turkey calls on Russia, Ukraine to ensure Black Sea safety after drone attack](https://www.reuters.com/world/middle-east/turkey-calls-russia-ukraine-ensure-black-sea-safety-after-drone-attack-2026-08-04/)
+    
+    [
+    
+    ](https://www.reuters.com/world/middle-east/turkey-calls-russia-ukraine-ensure-black-sea-safety-after-drone-attack-2026-08-04/)
     
 
 [](https://www.lseg.com/en/data-analytics/products/workspace?utm_source=reuters.com&utm_medium=articlebanner&utm_campaign=Reuters_ProductPage_Links)
+
+## [World](https://www.reuters.com/world/)
+
+- [
+    
+    ](https://www.reuters.com/legal/litigation/meta-anthropic-google-openai-meet-with-trump-white-house-amid-rogue-ai-agent-2026-08-04/)
+    
+    ### [Meta, Anthropic, Google, OpenAI to meet with Trump advisers amid rogue AI agent fallout](https://www.reuters.com/legal/litigation/meta-anthropic-google-openai-meet-with-trump-white-house-amid-rogue-ai-agent-2026-08-04/)
+    
+    [Legalcategory](https://www.reuters.com/legal/) · August 4, 2026 · 7:38 AM PDT · 1 hour ago
+    
+    Meta , Anthropic, Google and OpenAI staff will meet with U.S. President Donald ​Trump's advisers on Tuesday about voluntary safety testing for advanced AI ‌models, according to four sources familiar with the meeting, as concerns over rogue AI agents grow.
+    
+- [
+    
+    ](https://www.reuters.com/business/declining-imports-compress-us-trade-deficit-june-2026-08-04/)
+    
+    [Businesscategory](https://www.reuters.com/business/)[Declining imports compress US trade deficit in June](https://www.reuters.com/business/declining-imports-compress-us-trade-deficit-june-2026-08-04/)
+    
+    7:38 AM PDT
+    
+- [
+    
+    ](https://www.reuters.com/world/europe/russia-says-it-hit-ukrainian-military-linked-vessels-port-facilities-2026-08-04/)
+    
+    [Europecategory](https://www.reuters.com/world/europe/)[Russia says it hit Ukrainian military-linked vessels, port facilities](https://www.reuters.com/world/europe/russia-says-it-hit-ukrainian-military-linked-vessels-port-facilities-2026-08-04/)
+    
+    7:26 AM PDT
+    
+- [
+    
+    ](https://www.reuters.com/business/environment/guatemalas-fuego-volcano-intensifies-prompts-preventive-evacuations-2026-08-04/)
+    
+    [category](https://www.reuters.com/business/)[Guatemala's Fuego volcano intensifies, prompts preventive evacuations](https://www.reuters.com/business/environment/guatemalas-fuego-volcano-intensifies-prompts-preventive-evacuations-2026-08-04/)
+    
+    7:24 AM PDT
+    
+- [
+    
+    ](https://www.reuters.com/world/new-jersey-ag-files-antitrust-lawsuit-against-amazon-2026-08-04/)
+    
+    [Worldcategory](https://www.reuters.com/world/)[New Jersey sues Amazon alleging poor pay and conditions for drivers​](https://www.reuters.com/world/new-jersey-ag-files-antitrust-lawsuit-against-amazon-2026-08-04/)
+    
+    7:13 AM PDT
+    
 
 ### Site Index
 
