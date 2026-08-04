@@ -24,81 +24,104 @@
 
 [My News](https://www.reuters.com/my-news/feed/)
 
-[](https://www.reuters.com/account/sign-in/?redirect=https%3A%2F%2Fwww.reuters.com%2Flegal%2Fgovernment%2Fus-ice-detains-johns-hopkins-researcher-airport-arrests-surge-2026-07-31%2F)[](https://www.reuters.com/account/subscribe/offer/?redirect=https%3A%2F%2Fwww.reuters.com%2Flegal%2Fgovernment%2Fus-ice-detains-johns-hopkins-researcher-airport-arrests-surge-2026-07-31%2F&referrer=subscription_button&journeyStart=navigation)
+[](https://www.reuters.com/account/sign-in/?redirect=https%3A%2F%2Fwww.reuters.com%2Flegal%2Fgovernment%2Fus-justice-department-subpoenas-new-york-times-freelancer-over-north-korea-story-2026-08-01%2F)[](https://www.reuters.com/account/subscribe/offer/?redirect=https%3A%2F%2Fwww.reuters.com%2Flegal%2Fgovernment%2Fus-justice-department-subpoenas-new-york-times-freelancer-over-north-korea-story-2026-08-01%2F&referrer=subscription_button&journeyStart=navigation)
 
-# US ICE detains Johns Hopkins researcher as airport arrests surge
+# US Justice Department subpoenas New York Times freelancer over North Korea story, paper says
 
-By [Kanishka Singh](https://www.reuters.com/authors/kanishka-singh/)
+By Reuters
 
-July 31, 20263:14 PM PDTUpdated 16 hours ago
+August 1, 202612:10 PM PDTUpdated August 1, 2026
 
-![BWI TSA lines stretch outside as partial government shutdown continues](https://www.reuters.com/resizer/v2/6T3OQENJTRP7ND3FEKGKSAAGFQ.jpg?auth=5ea765d5ea2a6d24350cd879cec3a5211aedf251ec4203ffbdd114503fcdf488&width=1920&quality=80)
+![Illustration shows United States Department of Justice logo and U.S. flag](https://www.reuters.com/resizer/v2/VIEUWLYMFFOHZFVEB6SLOYAXIE.jpg?auth=439b837a813618a5444df7eec22179adab9f06d94a6268ab3c24d75b278de85d&width=1920&quality=80)
 
-Passengers wait in a TSA security checkpoint queue that stretches through Baltimore/Washington International Thurgood Marshall Airport (BWI) in Baltimore, Maryland., U.S., March 29, 2026. REUTERS/Aaron Schwartz/File Photo [Purchase Licensing Rights, opens new tab](https://www.reutersconnect.com/item/bwi-tsa-lines-stretch-outside-as-partial-government-shutdown-continues/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1JDMkRFS0FCODdORA%3D%3D/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead)
+United States Department of Justice logo and U.S. flag are seen in this illustration created on April 23, 2025. REUTERS/Dado Ruvic/Illustration/File Photo [Purchase Licensing Rights, opens new tab](https://www.reutersconnect.com/item/illustration-shows-united-states-department-of-justice-logo-and-us-flag/dGFnOnJldXRlcnMuY29tLDIwMjU6bmV3c21sX1JDMjY0RUFRWVlXQw%3D%3D/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead)
 
 - Companies
 
 - [
     
-    The Johns Hopkins University
+    New York Times
     
-    ](https://www.reuters.com/company/the-johns-hopkins-university/)
+    ](https://www.reuters.com/company/new-york-times-co/)
     
-
-WASHINGTON, July 31 (Reuters) - U.S. immigration agents arrested a Johns Hopkins University researcher at an airport where ​she planned to board a domestic flight ‌as [immigration](https://www.reuters.com/world/immigration/) arrests by President [Donald Trump](https://www.reuters.com/world/us/donald-trump/)'s administration have surged at airports in recent weeks.
-
-Here are more details:
-
-Jumpstart your morning with the latest legal news delivered straight to your inbox from The Daily Docket newsletter. Sign up [here.](https://www.reuters.com/newsletters/daily-docket/?location=article-paragraph&redirectUrl=%2Flegal%2Fgovernment%2Fus-ice-detains-johns-hopkins-researcher-airport-arrests-surge-2026-07-31%2F)
-
-- Lawyers say there has been ​an uptick in immigration enforcement and arrests ​at airports.
+- [
     
-- They say the focus has been those ⁠who have overstayed visas, even if they have ​pending applications for asylum or marriage.
+    New York Times Co
     
-- The number of people ​who overstay temporary U.S. visas annually is in the hundreds of thousands, [government data, opens new tab](https://www.dhs.gov/publication/entryexit-overstay-report) shows.
-    
-- Fatima Ameaka, who is from Cameroon and ​an employee at the Bloomberg School of Public ​Health, was arrested by Immigration and Customs Enforcement at the Baltimore/Washington ‌International ⁠Thurgood Marshall Airport, the Department of Homeland Security said on Friday.
-    
-- DHS said she had overstayed her visa that allowed her to stay till June 2024 and ​would remain ​in ICE ⁠custody pending removal proceedings.
-    
-- Johns Hopkins said Ameaka was "a respected member" of its community ​and the school was arranging support for ​her.
-    
-- U.S. ⁠media, including The New York Times, reported this week that foreign citizens with expired visas are being arrested ⁠as ​they travel through airports in an ​expansion of an arrangement between ICE and the Transportation Security Administration.
+    ](https://www.reuters.com/company/new-york-times-co/)
     
 
-Reporting ​by Kanishka Singh in Washington, Editing by Rosalba O'Brien
+Aug 1 (Reuters) - The Justice Department has subpoenaed the records of a freelance journalist for ​the New York Times as part of a probe ‌into the sourcing of a 2025 story about a botched U.S. military operation in [North Korea](https://www.reuters.com/world/north-korea/), the newspaper said on Saturday.
+
+Freelancer Matthew Cole was subpoenaed in February by ​Virginia prosecutors seeking more than two years' worth of ​his notes as well as his testimony, according to ⁠the newspaper. Reuters could not immediately independently verify the information, but ​a spokesman for the Times said Cole is disclosing the subpoena.
+
+Jumpstart your morning with the latest legal news delivered straight to your inbox from The Daily Docket newsletter. Sign up [here.](https://www.reuters.com/newsletters/daily-docket/?location=article-paragraph&redirectUrl=%2Flegal%2Fgovernment%2Fus-justice-department-subpoenas-new-york-times-freelancer-over-north-korea-story-2026-08-01%2F)
+
+“We ​support Matthew Cole’s decision to make public a subpoena that the government has attempted to keep secret," New York Times spokesperson Charlie Stadtlander said in ​an emailed statement.
+
+The [story, opens new tab](https://www.nytimes.com/2025/09/05/us/navy-seal-north-korea-trump-2019.html) co-written by Cole detailed how Navy SEALs ​in early 2019 killed several unarmed North Koreans during a mission to plant ‌a ⁠listening device near the country's coast, citing two dozen unnamed sources.
+
+A spokesperson for the Justice Department did not address Cole's specific case, but said that the DOJ "will use all available legal tools to ​uncover those who ​unlawfully disclose ⁠national defense information."
+
+Stadtlander called the subpoena of Cole "another brazen and illegal attack from the administration designed to ​deny the public information of vital importance.”
+
+The New ​York ⁠Times article said the newspaper is paying for Cole's legal representation.
+
+Cole's reporting "helps the public understand what the government is doing in its name," said ⁠his ​attorney, David A. O'Neil.
+
+"He will not be ​intimidated by efforts to suppress information that the administration considers unflattering," O'Neil said.
+
+Reporting by ​Ernest Scheyder; Editing by Sergio Non, Alistair Bell and Mark Porter
 
 Our Standards: [The Thomson Reuters Trust Principles., opens new tab](https://www.thomsonreuters.com/en/about-us/trust-principles.html)
 
 - Suggested Topics:
 - [](https://www.reuters.com/legal/government/)
 - [](https://www.reuters.com/legal/public-policy/)
-- [](https://www.reuters.com/legal/immigration/)
 
 [](https://www.reutersagency.com/en/licensereuterscontent/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead)
 
-[
-
-](https://www.reuters.com/authors/kanishka-singh/)
-
-[Kanishka Singh](https://www.reuters.com/authors/kanishka-singh/)
-
-Thomson Reuters
-
-Kanishka Singh is a breaking news reporter for Reuters in Washington DC, who primarily covers US politics and national affairs in his current role. His past breaking news coverage has spanned across a range of topics like the Black Lives Matter movement; the US elections; the 2021 Capitol riots and their follow up probes; the Brexit deal; US-China trade tensions; the NATO withdrawal from Afghanistan; the COVID-19 pandemic; and a 2019 Supreme Court verdict on a religious dispute site in his native India.
-
-- [](mailto:Kanishka.Singh@thomsonreuters.com)
-- [](https://x.com/kanishka183)
-
 ## Read Next / Editor's Picks
 
-- [Governmentcategory](https://www.reuters.com/legal/government/)
+- [Worldcategory](https://www.reuters.com/world/)
     
-    [Blanche confirmation vote scheduled for Tuesday after Trump says 'weaponization' fund is dead](https://www.reuters.com/legal/government/trump-defends-anti-weaponization-fund-blanche-nomination-stalls-2026-07-31/)
+    [Clayton will take over as US intelligence chief on Monday, Pulte says](https://www.reuters.com/world/us/clayton-set-take-over-top-us-spy-monday-pulte-says-2026-08-01/)
     
     [
     
-    ](https://www.reuters.com/legal/government/trump-defends-anti-weaponization-fund-blanche-nomination-stalls-2026-07-31/)
+    ](https://www.reuters.com/world/us/clayton-set-take-over-top-us-spy-monday-pulte-says-2026-08-01/)
+    
+- [Worldcategory](https://www.reuters.com/world/)
+    
+    [GOP senators to back Blanche confirmation after he rescinds 'weaponization' fund](https://www.reuters.com/world/acting-us-attorney-general-blanche-rescinds-anti-weaponization-fund-before-2026-08-03/)
+    
+    [
+    
+    ](https://www.reuters.com/world/acting-us-attorney-general-blanche-rescinds-anti-weaponization-fund-before-2026-08-03/)
+    
+- [Worldcategory](https://www.reuters.com/world/)
+    
+    [US farm agency staff warn trade, research, aid programs at risk from reorganization](https://www.reuters.com/world/us/us-farm-agency-staff-warn-trade-research-aid-programs-risk-reorganization-2026-08-03/)
+    
+    [
+    
+    ](https://www.reuters.com/world/us/us-farm-agency-staff-warn-trade-research-aid-programs-risk-reorganization-2026-08-03/)
+    
+- [Governmentcategory](https://www.reuters.com/legal/government/)
+    
+    [US Senator Moreno says Ohio's Miller should not serve in Congress, citing abuse allegations](https://www.reuters.com/legal/government/us-senator-moreno-says-ohios-miller-should-not-serve-congress-citing-abuse-2026-08-02/)
+    
+    [
+    
+    ](https://www.reuters.com/legal/government/us-senator-moreno-says-ohios-miller-should-not-serve-congress-citing-abuse-2026-08-02/)
+    
+- [Governmentcategory](https://www.reuters.com/legal/government/)
+    
+    [US ICE detains Johns Hopkins researcher as airport arrests surge](https://www.reuters.com/legal/government/us-ice-detains-johns-hopkins-researcher-airport-arrests-surge-2026-07-31/)
+    
+    [
+    
+    ](https://www.reuters.com/legal/government/us-ice-detains-johns-hopkins-researcher-airport-arrests-surge-2026-07-31/)
     
 - [Governmentcategory](https://www.reuters.com/legal/government/)
     
@@ -108,105 +131,83 @@ Kanishka Singh is a breaking news reporter for Reuters in Washington DC, who pri
     
     ](https://www.reuters.com/legal/government/trumps-doj-charged-hundreds-with-assaulting-officers-many-cases-were-dropped-2026-07-30/)
     
-- [Worldcategory](https://www.reuters.com/world/)
-    
-    [US Commodity Futures Trading Commission fines George Santos for alleged manipulative trading](https://www.reuters.com/world/us-commodity-futures-trading-commission-fines-george-santos-alleged-manipulative-2026-07-31/)
-    
-    [
-    
-    ](https://www.reuters.com/world/us-commodity-futures-trading-commission-fines-george-santos-alleged-manipulative-2026-07-31/)
-    
-- [Governmentcategory](https://www.reuters.com/legal/government/)
-    
-    [US Senate panel approves Trump nominee for labor secretary](https://www.reuters.com/legal/government/us-senate-panel-approves-trump-nominee-labor-secretary-2026-07-30/)
-    
-    [
-    
-    ](https://www.reuters.com/legal/government/us-senate-panel-approves-trump-nominee-labor-secretary-2026-07-30/)
-    
-- [Governmentcategory](https://www.reuters.com/legal/government/)
-    
-    [Nonprofit groups sue US Agriculture Department over rules on grants](https://www.reuters.com/legal/government/nonprofit-groups-sue-us-agriculture-department-over-rules-grants-2026-07-30/)
-    
-    [
-    
-    ](https://www.reuters.com/legal/government/nonprofit-groups-sue-us-agriculture-department-over-rules-grants-2026-07-30/)
-    
 - [Fauci invokes Fifth Amendment at Rand Paul-led US Senate COVID hearing](https://www.reuters.com/business/healthcare-pharmaceuticals/fauci-face-rand-pauls-us-senate-committee-after-diary-release-2026-07-29/)
     
     [
     
     ](https://www.reuters.com/business/healthcare-pharmaceuticals/fauci-face-rand-pauls-us-senate-committee-after-diary-release-2026-07-29/)
     
+- [Businesscategory](https://www.reuters.com/business/)
+    
+    [Budweiser-maker AB InBev shareholder E.P.S. to sell 10 million shares in company](https://www.reuters.com/business/retail-consumer/budweiser-maker-ab-inbev-shareholder-eps-sell-10-million-shares-company-2026-08-03/) 
+    
+    [
+    
+    ](https://www.reuters.com/business/retail-consumer/budweiser-maker-ab-inbev-shareholder-eps-sell-10-million-shares-company-2026-08-03/)
+    
+- [Governmentcategory](https://www.reuters.com/legal/government/)
+    
+    [Law firm Jackson Walker to pay $15 million in case tied to judge scandal](https://www.reuters.com/legal/government/law-firm-jackson-walker-pay-15-million-case-tied-judge-scandal-2026-08-03/)
+    
+    [
+    
+    ](https://www.reuters.com/legal/government/law-firm-jackson-walker-pay-15-million-case-tied-judge-scandal-2026-08-03/)
+    
+- [Healthcare & Pharmaceuticalscategory](https://www.reuters.com/business/healthcare-pharmaceuticals/)
+    
+    [Explainer: What to know about the US outbreak of cyclosporiasis intestinal illness](https://www.reuters.com/business/healthcare-pharmaceuticals/what-know-about-us-outbreak-intestinal-illness-cyclosporiasis-2026-07-28/)
+    
+    [
+    
+    ](https://www.reuters.com/business/healthcare-pharmaceuticals/what-know-about-us-outbreak-intestinal-illness-cyclosporiasis-2026-07-28/)
+    
+- [Governmentcategory](https://www.reuters.com/legal/government/)
+    
+    [Whole Foods ban on Black Lives Matter apparel was lawful, US labor board rules](https://www.reuters.com/legal/government/whole-foods-ban-black-lives-matter-apparel-was-lawful-us-labor-board-rules-2026-08-03/)
+    
+    [
+    
+    ](https://www.reuters.com/legal/government/whole-foods-ban-black-lives-matter-apparel-was-lawful-us-labor-board-rules-2026-08-03/)
+    
 - [Worldcategory](https://www.reuters.com/world/)
     
-    [ABC says FCC seeks to intimidate network over news coverage](https://www.reuters.com/world/abc-says-fcc-seeks-intimidate-network-over-coverage-2026-07-30/)
+    [Jay Clayton sworn in as U.S. director of national intelligence](https://www.reuters.com/world/jay-clayton-sworn-us-director-national-intelligence-2026-08-03/)
     
     [
     
-    ](https://www.reuters.com/world/abc-says-fcc-seeks-intimidate-network-over-coverage-2026-07-30/)
+    ](https://www.reuters.com/world/jay-clayton-sworn-us-director-national-intelligence-2026-08-03/)
     
-- [Governmentcategory](https://www.reuters.com/legal/government/)
+- [Businesscategory](https://www.reuters.com/business/)
     
-    [Trump threatens to keep Blanche as acting attorney general, revive 'anti-weaponization' fund](https://www.reuters.com/legal/government/trump-threatens-keep-blanche-acting-attorney-general-revive-anti-weaponization-2026-08-01/)
-    
-    [
-    
-    ](https://www.reuters.com/legal/government/trump-threatens-keep-blanche-acting-attorney-general-revive-anti-weaponization-2026-08-01/)
-    
-- [Governmentcategory](https://www.reuters.com/legal/government/)
-    
-    [EEOC stopped hearing federal workers' class action cases, union claims in lawsuit](https://www.reuters.com/legal/government/eeoc-stopped-hearing-federal-workers-class-action-cases-union-claims-lawsuit-2026-07-28/)
+    [Britain says it is open to AI regulation if voluntary safeguards fall short](https://www.reuters.com/business/media-telecom/britain-says-it-is-open-ai-regulation-if-voluntary-safeguards-fall-short-2026-08-03/)
     
     [
     
-    ](https://www.reuters.com/legal/government/eeoc-stopped-hearing-federal-workers-class-action-cases-union-claims-lawsuit-2026-07-28/)
-    
-- [Governmentcategory](https://www.reuters.com/legal/government/)
-    
-    [US Supreme Court lawyer Tom Goldstein appeals tax conviction](https://www.reuters.com/legal/government/us-supreme-court-lawyer-tom-goldstein-appeals-tax-conviction-2026-07-31/)
-    
-    [
-    
-    ](https://www.reuters.com/legal/government/us-supreme-court-lawyer-tom-goldstein-appeals-tax-conviction-2026-07-31/)
+    ](https://www.reuters.com/business/media-telecom/britain-says-it-is-open-ai-regulation-if-voluntary-safeguards-fall-short-2026-08-03/)
     
 - [Worldcategory](https://www.reuters.com/world/)
     
-    [US Justice Department says 'flawed' work led to Reflecting Pool peeling](https://www.reuters.com/world/us-justice-department-drops-case-against-former-us-olympian-over-lincoln-2026-07-31/)
+    [US finalizes voluntary AI safety tests, White House official says](https://www.reuters.com/world/us-finalizes-voluntary-ai-safety-tests-white-house-official-says-2026-08-03/)
     
     [
     
-    ](https://www.reuters.com/world/us-justice-department-drops-case-against-former-us-olympian-over-lincoln-2026-07-31/)
+    ](https://www.reuters.com/world/us-finalizes-voluntary-ai-safety-tests-white-house-official-says-2026-08-03/)
+    
+- EXCLUSIVE
+    
+    [Chinese state traders make large US soybean purchases](https://www.reuters.com/world/china/china-adds-13-us-soybean-cargoes-new-crop-buying-push-sources-say-2026-08-03/)
+    
+    [
+    
+    ](https://www.reuters.com/world/china/china-adds-13-us-soybean-cargoes-new-crop-buying-push-sources-say-2026-08-03/)
     
 - [Litigationcategory](https://www.reuters.com/legal/litigation/)
     
-    [FTC approves IonQ acquisition of SkyWater semiconductor ‍foundry](https://www.reuters.com/legal/litigation/ftc-approves-ionq-acquisition-skywater-semiconductor-foundry-2026-07-31/)
+    [US says some older Ford cars, SUVs pose unreasonable safety risks](https://www.reuters.com/legal/litigation/us-says-some-older-ford-cars-suvs-pose-unreasonable-safety-risks-2026-08-03/)
     
     [
     
-    ](https://www.reuters.com/legal/litigation/ftc-approves-ionq-acquisition-skywater-semiconductor-foundry-2026-07-31/)
-    
-- [Moderna beats quarterly revenue estimates ahead of key US flu vaccine decision](https://www.reuters.com/business/healthcare-pharmaceuticals/moderna-misses-quarterly-revenue-estimates-covid-vaccine-weakness-2026-07-31/)
-    
-    [
-    
-    ](https://www.reuters.com/business/healthcare-pharmaceuticals/moderna-misses-quarterly-revenue-estimates-covid-vaccine-weakness-2026-07-31/)
-    
-- [Litigationcategory](https://www.reuters.com/legal/litigation/)
-    
-    [Novo drug trial fail deals setback to bid to expand beyond obesity](https://www.reuters.com/legal/litigation/novo-nordisks-inflammation-drug-fails-reduce-cardiovascular-risk-trial-2026-07-31/)
-    
-    [
-    
-    ](https://www.reuters.com/legal/litigation/novo-nordisks-inflammation-drug-fails-reduce-cardiovascular-risk-trial-2026-07-31/)
-    
-- [Litigationcategory](https://www.reuters.com/legal/litigation/)
-    
-    [Most Australian teens still on social media three months after under-16 ban began, study finds](https://www.reuters.com/legal/litigation/most-australian-teens-still-social-media-three-months-after-under-16-ban-began-2026-07-31/)
-    
-    [
-    
-    ](https://www.reuters.com/legal/litigation/most-australian-teens-still-social-media-three-months-after-under-16-ban-began-2026-07-31/)
+    ](https://www.reuters.com/legal/litigation/us-says-some-older-ford-cars-suvs-pose-unreasonable-safety-risks-2026-08-03/)
     
 
 [](https://www.lseg.com/en/data-analytics/products/workspace?utm_source=reuters.com&utm_medium=articlebanner&utm_campaign=Reuters_ProductPage_Links)
