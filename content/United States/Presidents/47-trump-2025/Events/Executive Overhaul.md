@@ -1,0 +1,2 @@
+# CFPB
+- [August 4, 2026](https://www.reuters.com/world/us-consumer-watchdog-supervisor-warned-staff-unpleasant-fallout-if-they-go-too-2026-08-04/): CFPB Chief Examiner Fatima Batie warned staff in email that they would face "most unpleasant" consequences if they were too aggressive in ​their oversight of financial firms.

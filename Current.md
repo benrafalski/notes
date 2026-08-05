@@ -24,125 +24,161 @@
 
 [My News](https://www.reuters.com/my-news/feed/)
 
-[](https://www.reuters.com/account/sign-in/?redirect=https%3A%2F%2Fwww.reuters.com%2Fworld%2Fmiddle-east%2Fstatus-us-iran-talks-uncertain-ship-struck-hormuz-2026-08-04%2F)[](https://www.reuters.com/account/subscribe/offer/?redirect=https%3A%2F%2Fwww.reuters.com%2Fworld%2Fmiddle-east%2Fstatus-us-iran-talks-uncertain-ship-struck-hormuz-2026-08-04%2F&referrer=subscription_button&journeyStart=navigation)
+[](https://www.reuters.com/account/sign-in/?redirect=https%3A%2F%2Fwww.reuters.com%2Fworld%2Fchina%2Funder-patel-fbi-forges-unprecedented-law-enforcement-ties-with-china-russia-2026-08-05%2F)[](https://www.reuters.com/account/subscribe/offer/?redirect=https%3A%2F%2Fwww.reuters.com%2Fworld%2Fchina%2Funder-patel-fbi-forges-unprecedented-law-enforcement-ties-with-china-russia-2026-08-05%2F&referrer=subscription_button&journeyStart=navigation)
 
-# Qatar says progress made toward US-Iran talks on ending war
+EXCLUSIVE
 
-By [Tala Ramadan](https://www.reuters.com/authors/tala-ramadan/), [Parisa Hafezi](https://www.reuters.com/authors/parisa-hafezi/), [Doina Chiacu](https://www.reuters.com/authors/doina-chiacu/) and [Simon Lewis](https://www.reuters.com/authors/simon-lewis/)
+# Under Patel, FBI forges unprecedented law enforcement ties with China, Russia
 
-August 3, 20268:41 PM PDTUpdated 37 mins ago
+By [Jana Winter](https://www.reuters.com/authors/jana-winter/)
 
-Item 1 of 3 People walk past an anti-U.S. billboard on a street in Tehran, Iran, August 3, 2026. Majid Asgaripour/WANA (West Asia News Agency) via REUTERS
+August 5, 20263:03 AM PDTUpdated 5 hours ago
 
-**[1/3]**People walk past an anti-U.S. billboard on a street in Tehran, Iran, August 3, 2026. Majid Asgaripour/WANA (West Asia News Agency) via REUTERS [Purchase Licensing Rights, opens new tab](https://www.reutersconnect.com/item/people-walk-past-an-anti-us-billboard-on-a-street-in-tehran/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1JDMlhRTUFLSjNQWQ%3D%3D/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead)
+![FBI Director Kash Patel testifies before a Senate Appropriations Commerce, Justice, Science, and Related Agencies Subcommittee hearing, in Washington](https://www.reuters.com/resizer/v2/H4GVYHU67FK6PDM6GU3V77VDPU.jpg?auth=54eae8355b6eca0469d7faf157ad8dfa5d9e9d635081dbe5d7c8d607a99a87f2&width=1920&quality=80)
+
+FBI Director Kash Patel testifies before a Senate Appropriations Commerce, Justice, Science, and Related Agencies Subcommittee hearing on U.S. President Donald Trump's FY2027 budget request for the Federal Bureau of Investigation (FBI), the Drug Enforcement Administration (DEA); the United States Marshals Service; and the Bureau... [Purchase Licensing Rights, opens new tab](https://www.reutersconnect.com/item/fbi-director-kash-patel-testifies-before-a-senate-appropriations-commerce-justice-science-and-related-agencies-subcommittee-hearing-in-washington/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1JDMlc3TEFaWjNaUg%3D%3D/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead) Read more
 
 - Summary
 
-- Qatar says mediators making progress
-- Oil prices fall further after Monday's steep drop
-- Contradictory statements cast doubt on swift diplomatic solution
-- Trump has repeatedly announced attacks only to back down
+- FBI opens partnerships with two long-time US rivals
+- Patel hails them as 'new and dynamic relationships'
+- Critics wary about counterintelligence risks for US
+- FBI has exchanged personnel with Chinese counterparts
+- US and China joined in raid of Dubai cyber scam network
 
-DUBAI/WASHINGTON, Aug 4 (Reuters) - Qatar said mediators were making progress in efforts to end the [U.S.-Iran](https://www.reuters.com/world/iran/) war ​on Tuesday, driving oil prices lower, although Tehran has denied President Donald Trump's assertion that talks are already under way.
+Aug 5 (Reuters) - FBI Director Kash Patel says he has forged new law enforcement partnerships with [China](https://www.reuters.com/world/china/) and [Russia](https://www.reuters.com/world/russia/), two longtime [U.S.](https://www.reuters.com/world/us/) rivals, over the past year in hopes of gaining allies in combating transnational crime including fentanyl, cyber fraud and child sexual exploitation.
 
-Benchmark Brent crude [fell more than 4%](https://www.reuters.com/business/energy/oil-ticks-up-after-selloff-talks-end-us-iran-war-remain-uncertain-2026-08-04/) after the ‌comments from Qatar, extending Monday's steep losses on hopes that an arrangement could soon be reached to restore traffic through the blockaded Strait of Hormuz. But for now, the strait remained virtually shut, with another ship reportedly coming under attack while trying to cross it.
+The partnerships have involved personnel exchanges in which Chinese law enforcement officials have visited the United States and FBI agents have traveled ​to China to work on cases together and share intelligence. Separately, FBI and Chinese officers have carried out joint raids and arrests under the arrangement.
 
-The Reuters Iran Briefing newsletter keeps you informed with the latest developments and analysis of the Iran war. Sign up [here.](https://www.reuters.com/newsletters/reuters-iran-briefing/?location=article-paragraph&redirectUrl=%2Fworld%2Fmiddle-east%2Fstatus-us-iran-talks-uncertain-ship-struck-hormuz-2026-08-04%2F)
+Make sense of global markets with the Trading Day newsletter. Sign up [here.](https://www.reuters.com/newsletters/trading-day/?location=article-paragraph&redirectUrl=%2Fworld%2Fchina%2Funder-patel-fbi-forges-unprecedented-law-enforcement-ties-with-china-russia-2026-08-05%2F)
 
-[Trump](https://www.reuters.com/world/us/donald-trump/) said on Monday that talks with Tehran had started and Iran faced a "last chance" to reach a deal. Iranian officials insisted no negotiations with the United States ​were taking place. Iran says its only talks are with Oman about the strait, and that no major meetings were planned this week.
+Patel returned from a trip to Beijing in late July, and a similar trip to Russia has been ‌tentatively planned for October, according to FBI officials.
 
-But senior U.S. officials struck an ​optimistic tone on Tuesday, with Treasury Secretary Scott Bessent and Secretary of State Marco Rubio both pointing to progress in discussions aimed at ⁠reopening the Strait of Hormuz, a corridor that normally carries about a fifth of global oil and liquefied natural gas shipments.
+In exclusive interviews with Reuters, Patel described the FBI's initiatives with what he called "non-traditional partners" as selective and limited to specific types of transnational crimes such as global child pornography networks and cyber scam centers that prey on Americans.
 
-"There's been progress made in those talks, but not finality ​yet. We're hoping that will happen very shortly," Rubio told reporters at the State Department.
+The partnerships, known internally as "working groups," represent a major break with the past and have raised concerns within the broader counterintelligence community about the risks posed by sharing sensitive domestic security information with authoritarian regimes working to undermine the United States economically and militarily around the world.
 
-Bessent said a deal with Iran on the reopening of Hormuz could be reached by Tuesday or Wednesday.
+In May, the FBI, China's Ministry of Public Security and Dubai police worked together in "Operation Sand Dollar," a major raid on a cyber scam center in Dubai that led to ​300 arrests, $300 million seized and thousands of trafficked workers freed, the FBI said. In at least one case, a suspect inside China who was accused of "serious violent crimes" was repatriated to the United States, according to Chinese state media.
 
-Qatar's ​foreign ministry spokesperson Majed al-Ansari said diplomatic contacts had reached "very progressive stages".
+U.S. officials have long portrayed Russia and China as ​exporters of crime instead of potential allies in combating it, not to mention sources of espionage aimed at American interests worldwide.
 
-He said mediators including Qatar, Pakistan and Oman were coordinating closely to facilitate negotiations and exchange draft proposals between Washington and Tehran.
+Patel, appointed by President [Donald Trump](https://www.reuters.com/topic/person/donald-trump/), said such risks can be managed.
 
-A senior Pakistani security official said: "A lot is happening in the background ... We are talking to both sides. Our sole goal at this moment is to make both parties at least agree to start talking."
+"They are both new and dynamic relationships, and ⁠we are extremely mindful of their adversarial approach on many matters," Patel said. "They are not going to stop, but if we can go and have wins for America, then we must engage."
 
-Trump's comments followed his weekend ​decision to cancel what he described as "massive attacks" on Iran, extending a pattern in which he has threatened major military action before later backing off and pointing to diplomatic contacts.
+## FBI, CHINA EXCHANGE POLICE OFFICIALS
 
-## SHIPPING RISKS ​REMAIN
+The current relationship began with Trump's visit to China in May 2025 and was followed by ​two trips by Patel to China. Patel said the cooperation has expanded across four working groups: cyber fraud, violent crimes against children, counternarcotics and a fugitive task force.
 
-Iran has halted most traffic through Hormuz while Washington maintains a blockade of Iran-related shipping and ports.
+As part of the partnership, Patel has brought officials from China's Ministry of Public Security, or MPS, to multiple FBI facilities in the United States to share ​intelligence and investigative information.
 
-Yemen's Iran-aligned Houthis have also imposed a naval blockade [on Saudi Arabia](https://www.reuters.com/world/middle-east/yemens-houthis-say-they-hit-saudi-target-najran-airport-2026-08-04/) in the Red Sea, further restricting oil ‌export routes.
+"Every month, they send their working-level MPS officers here, and the following month we go there," Patel said. "They are speaking with us daily, which has also never happened before."
 
-A ⁠cargo vessel reported being struck by an unidentified projectile near the Strait of Hormuz off Oman's coast, according to the UKMTO maritime security agency. Maritime sources told Reuters on Tuesday that the vessel was a dry bulk ship. Its crew had to abandon the vessel and one seafarer was missing.
+Asked about joint law enforcement operations, a spokesperson for the Chinese Embassy in Washington said, "We have always believed that dialogue and negotiation are the right way forward, and that military means offer no solution."
 
-Iran has long demanded control over the strait, which it says it should share with Oman, which controls the opposite shore. Tehran rejected an Omani proposal last week that would have allowed shared oversight of the strait and the collection of voluntary fees from ships.
+Patel said information exchanges are narrow in scope and limited to the four types of transnational crime where intelligence sharing is reciprocal. Patel said these new FBI partners would not replace longtime U.S. allies such as the "Five Eyes" intelligence partnership with Canada, Australia, Britain and New Zealand.
 
-A senior Iranian ​source said Iran is seeking full control over [inbound ​shipping](https://www.reuters.com/world/middle-east/iran-demands-hormuz-inbound-control-outbound-oversight-source-says-2026-08-04/) through the strait, and visibility over ⁠outbound traffic, with the ability to intervene if necessary.
+"Five Eyes will always be our most important ​intelligence relationship. No one is trying to replace that," Patel said. "Unlike military and traditional intelligence agencies, we have a unique lane to drive this dynamic change with law enforcement, which is an apolitical mission."
 
-Giving Iran such control would be a major shift in the regional balance of power and make it more difficult for Washington to argue that "Operation Epic Fury", which Trump launched alongside Israel in February, had weakened Washington's longstanding ​foe.
+During his trip to Asia last month, Patel met with Chinese Minister of Public Security Wang Xiaohong and ​Vice Minister Xu Datong to deepen what Chinese state media described as "practical cooperation" on a range of criminal activities.
 
-Questions are also growing about the sustainability of the U.S. military campaign. The U.S. Army has used up much of its stockpile ​of [highly accurate long-range missiles](https://www.reuters.com/world/us-has-used-virtually-all-its-long-range-precision-missiles-during-iran-war-2026-08-04/) during ⁠the war, according to three people familiar with the data, raising concerns about the military's readiness for future conflicts.
+## 'OUR ENEMIES, PERIOD'
 
-## PROLONGED PAIN
+The cooperation between U.S. law enforcement and leading global adversaries is a major break from the past, and reflects Trump's personal approach to diplomacy with Chinese President Xi Jinping and Russian President Vladimir Putin.
 
-Gulf officials and analysts say [Iran is betting](https://www.reuters.com/world/middle-east/how-iran-is-widening-its-pressure-campaign-force-us-concessions-2026-08-03/) it can outlast Washington by turning the region's trade routes, shipping lanes and energy infrastructure into pressure points that steadily raise the cost of confrontation.
+"China and Russia ‌are our enemies, ⁠period," said Jeff Crocker, a former FBI supervisory agent who retired in 2024. "They are actively trying to harm our country physically, economically and militarily."
 
-"Their big advantage is that they can hurt the regional states and the global economy," said ⁠Michael Knights of ​the Washington Institute.
+Crocker said there are enormous risks related to giving Chinese officials access to the American intelligence community, diplomatic personnel and U.S. government facilities and contractors. Chinese and Russian agents would use any access to U.S. facilities as an opportunity to infiltrate them, Crocker said.
 
-Iran has publicly rejected negotiations with Washington since the collapse in early July of a memorandum ​of understanding the two sides signed the previous month in an attempt to end the conflict.
+"So this is great cover for them," Crocker said.
 
-Trump has yet to achieve the objectives he set out at the start of the war: dismantling Iran's nuclear programme, curbing its ability ​to attack regional rivals and creating conditions for Iranians to overthrow their clerical rulers.
+Patel said counterintelligence operations and countermeasures are deployed for any foreign visitor to FBI facilities. Three former FBI employees told Reuters this usually involves electronic and physical surveillance, particularly for people from countries considered the most dangerous U.S. adversaries.
 
-Reporting by Reuters bureaux; Writing by Lincoln Feast and Ros Russell; Editing by Clarence Fernandez, Peter Graff and Andrei Khalip
+"We know exactly who is coming here, and we vet them," Patel said.
+
+The Kremlin and the Russian Embassy in Washington did not immediately respond to requests for comment.
+
+## BEHIND-THE-SCENES COLLABORATION
+
+Patel said there have been months of behind-the-scenes law enforcement collaboration with Russia targeting violent criminal networks.
+
+"This stuff doesn't ​happen overnight," Patel said. "We've been at this for 15 months."
+
+An internal memo ​viewed by Reuters credited the FBI's cooperation with China's Ministry of ⁠Public Security in multiple operations against Chinese pharmaceutical companies this year.
+
+The memo said this led to the arrests of nine people, the shutdown of two chemical production facilities and three associated websites, and the seizure of fentanyl precursor chemicals "likely otherwise destined for the United States." The memo did not specify where these arrests and seizures occurred.
+
+Vanda Felbab-Brown, a senior fellow in foreign policy at the Brookings Institution think tank in Washington, said fentanyl overdoses have been declining rapidly ​in the United States since the winter of 2022, likely due to cooperation with China and other factors such as the wide availability of the life-saving drug Naloxone.
+
+"It could be that the people who were already ​vulnerable had already died," Felbab-Brown said.
+
+"I think ⁠that the cooperation is useful, should be fostered, and that it contributed to some extent," Felbab-Brown said, referring to the decline in U.S. overdoses. "But how much is really hard to know, and there are a lot of complexities to it."
+
+## A CHILD ABUSE RING
+
+Chinese law enforcement worked with the FBI's field office in Omaha, Nebraska, to take down a multinational child sexual abuse materials network in June, an operation that included the arrests of 16 suspects, according to the FBI memo.
+
+The expanding cooperation comes after years of deep suspicion between the United States, which has accused China of turning a blind eye to its production of the precursor chemicals required to ⁠manufacture fentanyl, and Chinese ​authorities, who ended cooperation due to political disagreements such as former U.S. House of Representatives Speaker Nancy Pelosi's 2022 visit to Taiwan.
+
+U.S. Secretary of State Marco Rubio offered a cautious ​assessment of Chinese cooperation. During a visit to the Philippines last month, Rubio called cooperation with China on fentanyl precursors "a work in progress."
+
+"I think we've made some progress on that front, but not entirely where we need to be," Rubio told reporters.
+
+Patel said the playbook that is used to work with China and Russia could be applied to other non-traditional intelligence-sharing partnerships tailored to ​each country.
+
+"The fact that we did it with China," Patel said, "when everyone said, 'Don't do it,' and, 'You can't do it,' shows what we can do with almost anyone."
+
+Reporting by Jana Winter in New York; Additional reporting from Simon Lewis, Laura Gottesdiener, Kristina Cooke and Michael Martina; Editing by Michael Learmonth and Will Dunham
 
 Our Standards: [The Thomson Reuters Trust Principles., opens new tab](https://www.thomsonreuters.com/en/about-us/trust-principles.html)
 
 - Suggested Topics:
-- [](https://www.reuters.com/world/middle-east/)
+- [](https://www.reuters.com/technology/cybersecurity/)
+- [](https://www.reuters.com/legal/public-policy/)
 
 [](https://www.reutersagency.com/en/licensereuterscontent/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead)
 
 ## Read Next
 
+- [Technologycategory](https://www.reuters.com/technology/)
+    
+    [Meta's AI model hacked another company during testing, The Information reports](https://www.reuters.com/technology/metas-ai-model-hacked-another-company-during-testing-information-reports-2026-08-05/)
+    
+    [
+    
+    ](https://www.reuters.com/technology/metas-ai-model-hacked-another-company-during-testing-information-reports-2026-08-05/)
+    
+- [Legalcategory](https://www.reuters.com/legal/)
+    
+    [Major Wall Street firms targeted in attempted cyberattacks, sources say](https://www.reuters.com/legal/government/major-wall-street-hedge-funds-targeted-attempted-cyberattacks-bloomberg-news-2026-08-05/) 
+    
+    [
+    
+    ](https://www.reuters.com/legal/government/major-wall-street-hedge-funds-targeted-attempted-cyberattacks-bloomberg-news-2026-08-05/)
+    
+- [Worldcategory](https://www.reuters.com/world/)
+    
+    [Russia steps up disinformation before German elections, security sources say](https://www.reuters.com/world/russia-steps-up-disinformation-campaigns-ahead-german-elections-security-sources-2026-08-05/)
+    
+    [
+    
+    ](https://www.reuters.com/world/russia-steps-up-disinformation-campaigns-ahead-german-elections-security-sources-2026-08-05/)
+    
+- [Chinese-made Zbtlink routers have backdoor, researchers say](https://www.reuters.com/world/asia-pacific/chinese-made-zbtlink-routers-have-backdoor-researchers-say-2026-08-05/)
+    
+    [
+    
+    ](https://www.reuters.com/world/asia-pacific/chinese-made-zbtlink-routers-have-backdoor-researchers-say-2026-08-05/)
+    
 - [Worldcategory](https://www.reuters.com/world/)
     
     EXCLUSIVE
     
-    [US has used 'virtually all' of its long-range precision missiles](https://www.reuters.com/world/us-has-used-virtually-all-its-long-range-precision-missiles-during-iran-war-2026-08-04/)
+    [JPMorgan CEO Dimon leads new cross-industry effort to tackle AI risks](https://www.reuters.com/world/jpmorgan-ceo-dimon-leads-new-cross-industry-effort-tackle-ai-risks-2026-08-05/)
     
     [
     
-    ](https://www.reuters.com/world/us-has-used-virtually-all-its-long-range-precision-missiles-during-iran-war-2026-08-04/)
-    
-- EXCLUSIVE
-    
-    [Syria tells US it is willing to drastically drop Russian oil imports](https://www.reuters.com/business/energy/syria-tells-us-it-is-willing-drastically-drop-russian-oil-imports-sources-say-2026-08-04/)
-    
-    [
-    
-    ](https://www.reuters.com/business/energy/syria-tells-us-it-is-willing-drastically-drop-russian-oil-imports-sources-say-2026-08-04/)
-    
-- [Businesscategory](https://www.reuters.com/business/)
-    
-    [Aramco says US-Iran war has cost the global market 2.6 billion barrels of oil](https://www.reuters.com/business/energy/aramco-posts-44-increase-net-profit-2026-08-04/)
-    
-    [
-    
-    ](https://www.reuters.com/business/energy/aramco-posts-44-increase-net-profit-2026-08-04/)
-    
-- [Middle Eastcategory](https://www.reuters.com/world/middle-east/)
-    
-    [After deadly day, Gazans say Trump's touting of plan jars with grim reality](https://www.reuters.com/world/middle-east/after-deadly-day-gazans-say-trumps-touting-plan-jars-with-grim-reality-2026-08-03/)
-    
-    [
-    
-    ](https://www.reuters.com/world/middle-east/after-deadly-day-gazans-say-trumps-touting-plan-jars-with-grim-reality-2026-08-03/)
-    
-- [Middle Eastcategory](https://www.reuters.com/world/middle-east/)
-    
-    [Turkey calls on Russia, Ukraine to ensure Black Sea safety after drone attack](https://www.reuters.com/world/middle-east/turkey-calls-russia-ukraine-ensure-black-sea-safety-after-drone-attack-2026-08-04/)
-    
-    [
-    
-    ](https://www.reuters.com/world/middle-east/turkey-calls-russia-ukraine-ensure-black-sea-safety-after-drone-attack-2026-08-04/)
+    ](https://www.reuters.com/world/jpmorgan-ceo-dimon-leads-new-cross-industry-effort-tackle-ai-risks-2026-08-05/)
     
 
 [](https://www.lseg.com/en/data-analytics/products/workspace?utm_source=reuters.com&utm_medium=articlebanner&utm_campaign=Reuters_ProductPage_Links)
@@ -151,45 +187,45 @@ Our Standards: [The Thomson Reuters Trust Principles., opens new tab](https://w
 
 - [
     
-    ](https://www.reuters.com/legal/litigation/meta-anthropic-google-openai-meet-with-trump-white-house-amid-rogue-ai-agent-2026-08-04/)
+    ](https://www.reuters.com/world/uk/uk-seeks-bring-more-scientists-by-expanding-research-visa-route-2026-08-05/)
     
-    ### [Meta, Anthropic, Google, OpenAI to meet with Trump advisers amid rogue AI agent fallout](https://www.reuters.com/legal/litigation/meta-anthropic-google-openai-meet-with-trump-white-house-amid-rogue-ai-agent-2026-08-04/)
+    ### [UK seeks to bring in more scientists by expanding research visa route](https://www.reuters.com/world/uk/uk-seeks-bring-more-scientists-by-expanding-research-visa-route-2026-08-05/)
     
-    [Legalcategory](https://www.reuters.com/legal/) · August 4, 2026 · 7:38 AM PDT · 1 hour ago
+    [United Kingdomcategory](https://www.reuters.com/world/uk/) · August 5, 2026 · 4:11 PM PDT · 38 mins ago
     
-    Meta , Anthropic, Google and OpenAI staff will meet with U.S. President Donald ​Trump's advisers on Tuesday about voluntary safety testing for advanced AI ‌models, according to four sources familiar with the meeting, as concerns over rogue AI agents grow.
-    
-- [
-    
-    ](https://www.reuters.com/business/declining-imports-compress-us-trade-deficit-june-2026-08-04/)
-    
-    [Businesscategory](https://www.reuters.com/business/)[Declining imports compress US trade deficit in June](https://www.reuters.com/business/declining-imports-compress-us-trade-deficit-june-2026-08-04/)
-    
-    7:38 AM PDT
+    Britain said on Thursday it was expanding a 'Global Talent' ​visa route used to bring ‌in scientists, researchers and engineers, opening it up to more than 100 ​of the country's most ​innovative companies including AstraZeneca and Jaguar ⁠Land Rover.
     
 - [
     
-    ](https://www.reuters.com/world/europe/russia-says-it-hit-ukrainian-military-linked-vessels-port-facilities-2026-08-04/)
+    ](https://www.reuters.com/business/environment/firefighters-gain-ground-against-flames-around-spokane-washington-2026-08-05/)
     
-    [Europecategory](https://www.reuters.com/world/europe/)[Russia says it hit Ukrainian military-linked vessels, port facilities](https://www.reuters.com/world/europe/russia-says-it-hit-ukrainian-military-linked-vessels-port-facilities-2026-08-04/)
+    [category](https://www.reuters.com/business/)[Firefighters gain ground against flames around Spokane, Washington](https://www.reuters.com/business/environment/firefighters-gain-ground-against-flames-around-spokane-washington-2026-08-05/)
     
-    7:26 AM PDT
-    
-- [
-    
-    ](https://www.reuters.com/business/environment/guatemalas-fuego-volcano-intensifies-prompts-preventive-evacuations-2026-08-04/)
-    
-    [category](https://www.reuters.com/business/)[Guatemala's Fuego volcano intensifies, prompts preventive evacuations](https://www.reuters.com/business/environment/guatemalas-fuego-volcano-intensifies-prompts-preventive-evacuations-2026-08-04/)
-    
-    7:24 AM PDT
+    4:05 PM PDT
     
 - [
     
-    ](https://www.reuters.com/world/new-jersey-ag-files-antitrust-lawsuit-against-amazon-2026-08-04/)
+    ](https://www.reuters.com/world/asia-pacific/myanmar-president-visits-thailand-quest-legitimacy-bangkok-backs-engagement-2026-08-05/)
     
-    [Worldcategory](https://www.reuters.com/world/)[New Jersey sues Amazon alleging poor pay and conditions for drivers​](https://www.reuters.com/world/new-jersey-ag-files-antitrust-lawsuit-against-amazon-2026-08-04/)
+    [Asia Pacificcategory](https://www.reuters.com/world/asia-pacific/)[Myanmar president visits Thailand on quest for legitimacy as Bangkok backs engagement](https://www.reuters.com/world/asia-pacific/myanmar-president-visits-thailand-quest-legitimacy-bangkok-backs-engagement-2026-08-05/)
     
-    7:13 AM PDT
+    4:03 PM PDT
+    
+- [
+    
+    ](https://www.reuters.com/business/healthcare-pharmaceuticals/cdc-says-345-sickened-salmonella-outbreak-tied-jalapeno-peppers-2026-08-05/)
+    
+    [category](https://www.reuters.com/business/)[Salmonella outbreak linked to Mexican jalapenos sickens 345 across 27 US states](https://www.reuters.com/business/healthcare-pharmaceuticals/cdc-says-345-sickened-salmonella-outbreak-tied-jalapeno-peppers-2026-08-05/)
+    
+    4:02 PM PDT
+    
+- [
+    
+    ](https://www.reuters.com/legal/government/us-doj-antitrust-nominee-grilled-over-comments-muslims-fcc-actions-2026-08-05/)
+    
+    [Legalcategory](https://www.reuters.com/legal/)[US DOJ antitrust nominee grilled over comments on Muslims, FCC actions](https://www.reuters.com/legal/government/us-doj-antitrust-nominee-grilled-over-comments-muslims-fcc-actions-2026-08-05/)
+    
+    3:41 PM PDT
     
 
 ### Site Index
