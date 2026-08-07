@@ -7,3 +7,9 @@
 	- Timeline:
 		- [July 25](https://www.reuters.com/world/us-appeals-court-rules-trump-cannot-implement-mail-in-voting-order-2026-07-25/): ‌Boston-based 1st U.S. Circuit Court of Appeals rejects Trump's request to lift judge Talwani's injunction.
 	- Result:
+
+
+# 2026 Midterms
+## Issues
+### Affordability
+- [Paid Family Leave](https://www.reuters.com/legal/litigation/trump-administration-unveils-new-paid-family-leave-incentives-2026-08-05/): in August the Trump admin issued new guidance allowing employers to claim tax credits if they offer at least two weeks of family and medical leave worth at least 50% of an employee's wages.

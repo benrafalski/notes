@@ -1,5 +1,6 @@
 # DOJ Charging
 - **DOJ Credibility Crisis**: After Trump took office, his administration aggressively pursued protestors accused of assaulting or impeding law enforcement before dropping the cases at rates far higher than usual. This was due to the Trump DOJ regularly opting to make federal cases out of encounters that historically would not have led to arrests or serious charges. A Reuters review [found](https://www.reuters.com/legal/government/trumps-doj-charged-hundreds-with-assaulting-officers-many-cases-were-dropped-2026-07-30/) the Trump DOJ brought criminal charges against at least 851 people accused of attacking or impeding federal officers, only to abandon them at an unusually high rate (31% ended in dismissal compared to 8% of all federal criminal cases). Prosecutors fared especially poorly when bringing charges against people detained during immigration protests, dropping about 45% of the 86 ​such cases that had been completed by the end of May. DOJ's charges imposed a steep cost on some people despite the abandoned charges, with reported lost jobs, legal fees and in some cases a flurry of online threats that arrived after federal officials publicized their arrests. In previous administrations, about 90% of the ‌people charged with a ⁠federal crime are convicted. Trump's second term was an exception, with prosecutors securing convictions in only 65% of the 481 cases Reuters examined that had been completed.
+- **DOJ Misconduct**: during Trump's second term, shrinking staffs and fears of political retribution largely sidelined the two [DOJ watchdog organizations](https://www.reuters.com/legal/litigation/trumps-doj-watchdogs-gutted-misconduct-complaints-soar-2026-08-06/), resulting in investigations hitting a 20-year low despite complaints hitting a 20-year high.
 
 # Debanking
 - [Claim](https://www.reuters.com/sustainability/boards-policy-regulation/trump-targets-banks-with-order-barring-discriminatory-debanking-2025-08-07/): banks debanked Trump for political reasons
@@ -21,3 +22,7 @@ The Trump admin also subpoenaed the records of Matthew Cole, a freelance journal
 
 # Free Speech
 - [Court rulings](https://www.reuters.com/legal/government/trump-vowed-bring-free-speech-back-judges-75-cases-ruled-that-he-has-stifled-it-2026-08-04/): Reuters review identifies 75 rulings against Trump administration among 93 cases decided on First-Amendment grounds , with Republican-appointed judges ruling against Trump in 10 of the 75 cases. During Biden there were 13 rulings of 27 against his admin on First Amendment grounds. 
+
+
+# Political Enemies
+- Fauci: in August 2026, a Senate panel votes 8-7 in party-line vote to hold Fauci in [contempt of Congress](https://www.reuters.com/legal/litigation/us-senate-panel-votes-hold-fauci-contempt-congress-2026-08-06/) after he invoked the Fifth Amendment more than 100 times during a Senate hearing about his handling of the COVID-19 pandemic.
