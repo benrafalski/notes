@@ -10,6 +10,7 @@
 ## August
 - [August 3](https://www.reuters.com/world/asia-pacific/trump-says-iran-talks-take-place-monday-sets-no-deadline-deal-2026-08-02/): Iran says there were no talks under ​way with the US and no plans for any meetings, contradicting Trump who had ‌cited talks he said would take place that afternoon as justification for calling off attacks after previously announcing plans for "massive attacks."   
 - [August 5](https://www.reuters.com/world/middle-east/iran-threatens-hit-gulf-states-if-us-launches-new-strikes-2026-08-05/): Iran warns Gulf states US strikes will trigger attacks on their critical energy infrastructure, threatening to escalate the war wider across the region.
+- [August 7](https://www.reuters.com/world/asia-pacific/saudi-arabia-turkey-pakistan-sign-joint-defence-deal-amid-regional-turmoil-2026-08-07/): Saudi Arabia, Turkey, Pakistan sign Article 5 like joint defense agreement amid Iranian aggression.
 
 
 

@@ -24,254 +24,161 @@
 
 [My News](https://www.reuters.com/my-news/feed/)
 
-[](https://www.reuters.com/account/sign-in/?redirect=https%3A%2F%2Fwww.reuters.com%2Flegal%2Flitigation%2Ftrumps-doj-watchdogs-gutted-misconduct-complaints-soar-2026-08-06%2F)[](https://www.reuters.com/account/subscribe/offer/?redirect=https%3A%2F%2Fwww.reuters.com%2Flegal%2Flitigation%2Ftrumps-doj-watchdogs-gutted-misconduct-complaints-soar-2026-08-06%2F&referrer=subscription_button&journeyStart=navigation)
+[](https://www.reuters.com/account/sign-in/?redirect=https%3A%2F%2Fwww.reuters.com%2Fworld%2Fus-appeals-court-blocks-trumps-400-million-white-house-ballroom-project-2026-08-07%2F)[](https://www.reuters.com/account/subscribe/offer/?redirect=https%3A%2F%2Fwww.reuters.com%2Fworld%2Fus-appeals-court-blocks-trumps-400-million-white-house-ballroom-project-2026-08-07%2F&referrer=subscription_button&journeyStart=navigation)
 
-# At Trump's DOJ, watchdogs gutted as misconduct complaints soar
+# US appeals court blocks Trump’s $400 million White House ballroom project
 
-By [Andrew Goudsward](https://www.reuters.com/authors/andrew-goudsward/) and [Brad Heath](https://www.reuters.com/authors/brad-heath/)
+By [Mike Scarcella](https://www.reuters.com/authors/mike-scarcella/)
 
-August 6, 20263:05 AM PDTUpdated 14 mins ago
+August 7, 20267:25 AM PDTUpdated 5 mins ago
 
-![Signage is seen at the headquarters of the United States Department of Justice (DOJ) in Washington, D.C., U.S.](https://www.reuters.com/resizer/v2/AJSNZE3B5BLJ5JSAZD5MUOZXFE.jpg?auth=355a4c1f258a00cdf09911f7f456e2c54f77996d9148225d2808581f4ef37520&width=1920&quality=80)
+![Construction of a helipad at the White House continues in Washington](https://www.reuters.com/resizer/v2/52EJBZXPSRMUBCCQAW4JAG6XLA.jpg?auth=81105f5791ea00865f27caaeb685b4c01ef9b02c91a9877e35b6eb3baa1252d7&width=1920&quality=80)
 
-Signage is seen at the headquarters of the United States Department of Justice (DOJ) in Washington, D.C., U.S., May 10, 2021. REUTERS/Andrew Kelly/ File Photo [Purchase Licensing Rights, opens new tab](https://www.reutersconnect.com/item/signage-is-seen-at-the-headquarters-of-the-united-states-department-of-justice-doj-in-washington-dc-us/dGFnOnJldXRlcnMuY29tLDIwMjE6bmV3c21sX1JDMjNETjlMRTgyVQ%3D%3D/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead)
+Construction of a ballroom at the White House seen from a window at the Washington Monument, in Washington, D.C., U.S., August 4, 2026. REUTERS/Eric Lee [Purchase Licensing Rights, opens new tab](https://www.reutersconnect.com/item/construction-of-a-helipad-at-the-white-house-continues-in-washington/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1JDMlZSTUE0QlZUVg%3D%3D/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead)
 
 - Summary
+- Companies
 
-- Two watchdog offices inside the Justice Department are tasked with investigating misconduct
-- Both have seen significant staff departures under Trump, partly from efforts to shrink government
-- Complaints to one watchdog hit a 20-year high while investigations hit a 20-year low
+- Appeals court gives administration 14 days to seek Supreme Court review
+- Judge had twice barred above-ground work while allowing underground construction to continue
+- Justice Department argued courts cannot review the privately ​funded project
 
-WASHINGTON, Aug 6 (Reuters) - In one courtroom after another, federal judges have accused U.S. President Donald Trump’s Justice Department of an extraordinary spate of misconduct, including making false statements, failing to comply with court orders and improperly using the legal system to harass political opponents.
+WASHINGTON, Aug 7 (Reuters) - A U.S. federal appeals court on Friday ordered President Donald Trump’s administration to ‌stop construction on a $400 million ballroom on the site of the White House's demolished East Wing, dealing the Republican leader a major setback in a case testing his presidential authority.
 
-Such rebukes might be expected to trigger a flurry of activity within the department’s two ​internal watchdogs tasked with policing the government's most powerful law-enforcement agency.
+The Washington-based U.S. Court of Appeals for the District of Columbia Circuit in a divided 2-1 order upheld a preliminary ​injunction won by the National Trust for Historic Preservation, which sued last year after the administration tore down the ​East Wing and began building a 90,000-square-foot (8,360-square-meter) ballroom without seeking authorization from Congress.
 
-Jumpstart your morning with the latest legal news delivered straight to your inbox from The Daily Docket newsletter. Sign up [here.](https://www.reuters.com/newsletters/daily-docket/?location=article-paragraph&redirectUrl=%2Flegal%2Flitigation%2Ftrumps-doj-watchdogs-gutted-misconduct-complaints-soar-2026-08-06%2F)
+The Reuters Daily Briefing newsletter provides all the news you need to start your day. Sign up [here.](https://www.reuters.com/newsletters/daily-briefing/?location=article-paragraph&redirectUrl=%2Fworld%2Fus-appeals-court-blocks-trumps-400-million-white-house-ballroom-project-2026-08-07%2F)
 
-But shrinking staffs and fears of political retribution have largely sidelined the offices, limiting new investigations into the administration, according to Reuters interviews with four former DOJ staffers and a review of ‌department employment and investigations data.
+"Whether or not a ⁠massive ballroom should be constructed is for Congress to decide and is not a matter for Executive self-help," the panel's ​majority wrote. "Congress has not ceded unfettered authority to the Executive Branch to dramatically redesign, reshape, and reconstruct the White House — the People’s ​House — to fit a particular President’s desires."
 
-Nearly half the workforce at the Office of Professional Responsibility (OPR) has left during Trump’s second term, while about 17% have departed the Office of Inspector General, government records show. Many retired or took buyouts the [administration offered](https://www.reuters.com/world/us/white-house-offers-incentives-federal-employees-resign-warns-downsizing-2025-01-28/) to shrink the federal workforce, according to the records and three people familiar with the departures.
+The appeals court placed its ruling on hold for 14 days to allow the Trump administration to appeal to the U.S. Supreme Court.
 
-The number of new OPR investigations has declined to a 20-year low even as misconduct complaints soar, the review found. The government watchdogs are “afraid of doing any watching,” said one former DOJ official who left last year.
+The White House and Justice Department did not immediately respond to requests for comment.
 
-Details of the watchdogs’ diminished staffing and declining investigations have not previously been reported.
+Trump [appealed](https://www.reuters.com/world/us/us-appeals-court-hear-challenge-trumps-white-house-ballroom-2026-06-05/) after U.S. District Judge Richard Leon [twice ​blocked](https://www.reuters.com/legal/government/judge-faults-trump-brazen-bid-continue-ballroom-construction-2026-04-16/) above-ground construction on the site while allowing underground work to continue.
 
-OPR investigates misconduct by department lawyers while the inspector general probes waste, fraud, abuse and other wrongdoing ​departmentwide. OPR does not disclose who it investigates and the inspector general conducts much of its work in secret. But the four former DOJ employees said the staff departures and the slower pace of investigations make clear that they are not adequately addressing the surge of allegations ​facing the department.
+Leon, an appointee of Republican former President George W. Bush, ​had ruled that no federal statute “comes close to giving the President” the required authority to construct the ballroom without congressional approval.
 
-Justice Department spokesperson Kiersten Pels said OPR “remains committed to ensuring accountability for all DOJ attorneys” and rigorously investigates misconduct allegations. John Lavinsky, a spokesperson for the DOJ Inspector General, said the office is committed to ⁠independent oversight and does not “avoid investigations or reviews that are difficult or controversial.”
+The ballroom plan, which ‌the ⁠administration has described as necessary for large formal functions and to preserve the safety of the White House, is the grandest of several Trump efforts to reshape central Washington's landscape of government buildings and national monuments.
 
-DOJ officials have broadly disputed judges’ findings of misconduct and have accused courts of being politically hostile to Trump.
+A judge in a separate lawsuit recently said Trump’s name was illegally added to the exterior of the Kennedy Center performing arts center and ordered its removal.
 
-## DEFANGED ETHICS WATCHDOG
+In the ballroom case, ​Justice Department attorney Yaakov Roth ​said during D.C. Circuit arguments ⁠on June 5 that the courts have no role in weighing the privately funded project and that it would have been improper to block it at any point.
 
-Department policy requires attorneys to report any judicial finding or substantial allegation of misconduct to the OPR. Its investigations, if ​sustained by DOJ leadership, can lead to attorneys being fired or referred to state disciplinary authorities for review of their law licenses.
+Roth said the National Trust’s "architectural ​preference" against the ballroom shouldn't take precedence over national security concerns, claiming evidence that the ​former East Wing ⁠left the president and others in the White House vulnerable to attack.
 
-Since Trump returned to office, the Office of Professional Responsibility has shrunk from 29 employees to 16, according to Justice Department data Reuters obtained through a public-records request. The administration also ​fired OPR’s director, Jeffrey Ragsdale, and has yet to name a replacement.
+"They just don't want to go to Congress," countered Thaddeus Heuer, a lawyer for the preservation group.
 
-Such office turmoil “sends a message to the workforce that ethics is not important or that ethics is subordinate to the wills or interests of the political administration,” said Benjamin Grimes, a former Justice Department ethics official who now lectures at Columbia Law School.
+Trump has defended his ballroom and its price tag, which has doubled from initial projections. Trump [said in ⁠a post](https://www.reuters.com/world/us/trump-defends-higher-ballroom-costs-targets-less-than-400-million-2026-05-06/) ​on Truth Social last month that the cost rose because "it is approximately twice ​the size, and a far higher quality, than the original proposal" and promised "it will be magnificent, safe, and secure!"
 
-During the 2025 fiscal year, which ended in September, OPR opened seven new investigations, the lowest in two decades, even as the office received 1,666 complaints, the highest in any year since 2005, according to a Reuters review of annual reports. The office has not disclosed its more recent work this fiscal year.
-
-By comparison, the office opened an average of more than 18 investigations annually during ​the past decade, including Trump’s first term.
-
-This week, federal prosecutors revealed they reported to OPR a federal judge’s findings of grand jury misconduct in a now-dismissed case against six Chicago-area immigration activists. It was not immediately clear if OPR opened an investigation.
-
-OPR typically investigates only a small fraction of the complaints ​it receives, finding most lack evidence or fall outside its remit.
-
-One of OPR’s highest-profile probes examined Jack Smith, who led DOJ prosecutions into Trump’s handling of classified documents and his attempt to overturn the 2020 election. The probe examined Republican lawmakers’ claims that Smith’s team tried to harm Trump’s chances in the 2024 election and sought ‌to improperly coerce cooperation ⁠from a Trump aide.
-
-By last spring, OPR investigators had interviewed Smith, which has not been previously reported, and expected to complete the investigation by last summer, according to two people familiar with the matter. But a year later, the probe has yet to conclude. One of the people told Reuters that political appointees asked for it to be suspended.
-
-The department has since launched a separate criminal investigation into Smith, who denies any wrongdoing.
-
-A department spokesperson declined to answer questions about the probe. A spokesperson for Smith declined to comment.
-
-## STAFF EXODUS AT THE INSPECTOR GENERAL’S OFFICE
-
-The inspector general's office lost 99 employees since the end of President Joe Biden's administration, reducing staffing to 477 people, according to Office of Personnel Management records.
-
-Historically, the office has investigated politically sensitive matters including the FBI’s handling of its investigation into contacts between Trump's 2016 presidential campaign and Russia.
-
-The office routinely informs Congress about major investigations. During Trump's current term, however, it has ​publicly [disclosed only one](https://www.reuters.com/world/us/us-justice-dept-watchdog-review-release-epstein-files-2026-04-23/) politically sensitive inquiry – an audit of the DOJ’s release of ​files related to Jeffrey Epstein. The department faces [bipartisan criticism](https://www.reuters.com/world/us/us-justice-department-handling-epstein-file-release-sparks-backlash-2025-12-22/) alleging it ⁠botched the congressionally mandated release of files, heavily redacting records of public interest while failing to redact information [exposing some victims’](https://www.reuters.com/investigations/epstein-abused-them-justice-department-exposed-them-now-theyre-under-attack-by-2026-06-08/) identities.
-
-In another case, according to letters reviewed by Reuters, the inspector general’s office referred a DOJ whistleblower [alleging wrongdoing](https://www.reuters.com/legal/government/trump-judicial-nominee-pressured-doj-defy-court-deportations-whistleblower-says-2025-06-24/) by senior Trump officials to OPR, saying that office was better positioned to investigate. Reuters could not establish whether OPR has pursued the matter.
-
-One former official who left the Inspector General’s office late last year said it had started to ​avoid investigating “the high-profile stuff.”
-
-## COURT REBUKES
-
-The declining power of the DOJ watchdogs comes as judges increasingly call out the government’s lawyers for alleged misconduct. A federal judge last year found what he called a [disturbing pattern](https://www.reuters.com/world/us-judge-orders-doj-turn-over-comey-grand-jury-materials-citing-misconduct-2025-11-17/) of Justice ​Department errors in the first of two prosecutions ⁠of James Comey, the former FBI director and Trump foe, including improper evidence handling and fundamental misstatements of the law to a grand jury. The case was later dismissed on other grounds.
-
-Last month, U.S. District Judge Kathleen Williams accused senior officials including acting Attorney General Todd Blanche of [failing to properly defend](https://www.reuters.com/world/us-judge-voids-trumps-settlement-with-irs-2026-07-13/) the government in Trump's $10 billion lawsuit against the Internal Revenue Service and instead reaching what she described as a collusive settlement granting Trump and his family businesses [sweeping tax immunity](https://www.reuters.com/legal/government/trump-irs-settlement-forever-bars-audits-into-tax-claims-trump-his-family-2026-05-19/).
-
-Blanche this week [formally rescinded](https://www.reuters.com/world/acting-us-attorney-general-blanche-rescinds-anti-weaponization-fund-before-2026-08-03/) a separate portion of the agreement setting aside $1.8 billion to compensate Trump allies the president claims suffered government mistreatment. Republican opposition to the "anti-weaponization fund” had stalled Blanche’s bid ⁠to become attorney ​general.
-
-Federal prosecutors said the findings in the Comey case were based on misinterpretations by the judge. Blanche has disputed what he called insinuations in Williams’ order and Trump’s personal lawyers have ​appealed it.
-
-The Trump administration has also moved to make it harder for outside authorities to scrutinize the actions of DOJ attorneys, [suing to block](https://www.reuters.com/legal/government/doj-sues-block-trump-ally-clark-facing-attorney-discipline-2026-05-14/) one ethics case against a former official and [seeking new authority](https://www.reuters.com/legal/government/trump-justice-department-aims-limit-ethics-probes-into-its-lawyers-2026-03-04/) to restrict investigations by state agencies that regulate lawyers.
-
-Justice Department officials have accused state-level investigations of being politically motivated and aimed at intimidating lawyers carrying out Trump’s agenda.
-
-“We see all ​these opinions where judges are critical of the government lawyers, and then we’re not seeing anything coming out of OPR,” said Bruce Green, a legal ethics expert and law professor at Fordham University. “So how can you trust them?”
-
-Reporting by Andrew Goudsward and Brad Heath in Washington; editing by Michael Learmonth and Richard Valdmanis
+Reporting by Mike Scarcella; Editing by David Bario, Sanjeev Miglani and Andrea Ricci
 
 Our Standards: [The Thomson Reuters Trust Principles., opens new tab](https://www.thomsonreuters.com/en/about-us/trust-principles.html)
 
 - Suggested Topics:
-- [](https://www.reuters.com/legal/litigation/)
-- [](https://www.reuters.com/legal/employee-benefits-executive-compensation/)
+- [](https://www.reuters.com/legal/government/)
 - [](https://www.reuters.com/legal/public-policy/)
-- [](https://www.reuters.com/legal/employment/)
-- [](https://www.reuters.com/legal/judiciary/)
+- [](https://www.reuters.com/legal/appellate/)
 
 [](https://www.reutersagency.com/en/licensereuterscontent/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead)
 
-[
+## Read Next
 
-](https://www.reuters.com/authors/brad-heath/)
-
-[Brad Heath](https://www.reuters.com/authors/brad-heath/)
-
-Thomson Reuters
-
-Brad Heath is an enterprise reporter in Washington. He focuses on law enforcement, criminal justice and using data to find out what the government is doing. He is a graduate of Georgetown University Law Center and is a member of the Virginia bar.
-
-- [](mailto:Brad.Heath@thomsonreuters.com)
-- [](https://www.linkedin.com/in/bradheath/)
-
-## Read Next / Editor's Picks
-
-- [Governmentcategory](https://www.reuters.com/legal/government/)
+- [Litigationcategory](https://www.reuters.com/legal/litigation/)
     
-    [LinkedIn executives can be questioned in antitrust lawsuit, judge rules](https://www.reuters.com/legal/government/linkedin-executives-can-be-questioned-antitrust-lawsuit-judge-rules-2026-08-05/)
+    [Republican US Senator Rand Paul asks Justice Department to prosecute Fauci after contempt vote](https://www.reuters.com/legal/litigation/us-senate-panel-votes-hold-fauci-contempt-congress-2026-08-06/)
     
     [
     
-    ](https://www.reuters.com/legal/government/linkedin-executives-can-be-questioned-antitrust-lawsuit-judge-rules-2026-08-05/)
+    ](https://www.reuters.com/legal/litigation/us-senate-panel-votes-hold-fauci-contempt-congress-2026-08-06/)
     
 - [Litigationcategory](https://www.reuters.com/legal/litigation/)
     
-    [US nuclear power plants defeat employees' wage suppression lawsuit](https://www.reuters.com/legal/litigation/us-nuclear-power-plants-defeat-employees-wage-suppression-lawsuit-2026-08-05/)
+    [US judge orders Pentagon to lift wind project freeze](https://www.reuters.com/legal/litigation/us-judge-orders-pentagon-lift-wind-project-freeze-2026-08-06/)
     
     [
     
-    ](https://www.reuters.com/legal/litigation/us-nuclear-power-plants-defeat-employees-wage-suppression-lawsuit-2026-08-05/)
-    
-- [Businesscategory](https://www.reuters.com/business/)
-    
-    [Amazon loses US court ban on Perplexity's AI shopping tools](https://www.reuters.com/business/retail-consumer/amazon-loses-us-court-ban-perplexitys-ai-shopping-tools-2026-08-04/)
-    
-    [
-    
-    ](https://www.reuters.com/business/retail-consumer/amazon-loses-us-court-ban-perplexitys-ai-shopping-tools-2026-08-04/)
-    
-- [Businesscategory](https://www.reuters.com/business/)
-    
-    [TikTok settling three teen social media lawsuits ahead of trial](https://www.reuters.com/business/tiktok-settling-three-teen-social-media-lawsuits-ahead-trial-2026-08-03/)
-    
-    [
-    
-    ](https://www.reuters.com/business/tiktok-settling-three-teen-social-media-lawsuits-ahead-trial-2026-08-03/)
-    
-- [Businesscategory](https://www.reuters.com/business/)
-    
-    [OpenAI pays $3.2 million in US probe over hiring foreign workers](https://www.reuters.com/business/openai-pays-32-million-us-probe-over-hiring-foreign-workers-2026-08-04/)
-    
-    [
-    
-    ](https://www.reuters.com/business/openai-pays-32-million-us-probe-over-hiring-foreign-workers-2026-08-04/)
-    
-- [Worldcategory](https://www.reuters.com/world/)
-    
-    [US jury says Medtronic owes $88 million in first case to go to trial over Covidien's hernia mesh](https://www.reuters.com/world/us-jury-says-medtronic-owes-88-million-first-case-go-trial-over-covidiens-hernia-2026-08-04/)
-    
-    [
-    
-    ](https://www.reuters.com/world/us-jury-says-medtronic-owes-88-million-first-case-go-trial-over-covidiens-hernia-2026-08-04/)
+    ](https://www.reuters.com/legal/litigation/us-judge-orders-pentagon-lift-wind-project-freeze-2026-08-06/)
     
 - [Governmentcategory](https://www.reuters.com/legal/government/)
     
-    [US appeals court reverses Jack Daniel's win in dog-toy trademark case](https://www.reuters.com/legal/government/us-appeals-court-reverses-jack-daniels-win-dog-toy-trademark-case-2026-08-04/)
+    [US scrutinizes more schools over admissions practices, diversity and pro-Palestinian protests](https://www.reuters.com/legal/government/us-scrutinizes-more-schools-over-admissions-practices-diversity-pro-palestinian-2026-08-06/)
     
     [
     
-    ](https://www.reuters.com/legal/government/us-appeals-court-reverses-jack-daniels-win-dog-toy-trademark-case-2026-08-04/)
-    
-- [Worldcategory](https://www.reuters.com/world/)
-    
-    [New Jersey sues Amazon alleging poor pay and conditions for drivers​](https://www.reuters.com/world/new-jersey-ag-files-antitrust-lawsuit-against-amazon-2026-08-04/)
-    
-    [
-    
-    ](https://www.reuters.com/world/new-jersey-ag-files-antitrust-lawsuit-against-amazon-2026-08-04/)
+    ](https://www.reuters.com/legal/government/us-scrutinizes-more-schools-over-admissions-practices-diversity-pro-palestinian-2026-08-06/)
     
 - [Governmentcategory](https://www.reuters.com/legal/government/)
     
-    [California's highest court rules for Gilead, says drugmakers don't have 'duty to innovate'](https://www.reuters.com/legal/government/californias-highest-court-rules-gilead-says-drugmakers-dont-have-duty-innovate-2026-08-03/) 
+    [Kansas voters say no to electing state supreme court justices](https://www.reuters.com/legal/government/kansas-voters-say-no-electing-state-supreme-court-justices-2026-08-05/)
     
     [
     
-    ](https://www.reuters.com/legal/government/californias-highest-court-rules-gilead-says-drugmakers-dont-have-duty-innovate-2026-08-03/)
+    ](https://www.reuters.com/legal/government/kansas-voters-say-no-electing-state-supreme-court-justices-2026-08-05/)
     
 - [Governmentcategory](https://www.reuters.com/legal/government/)
     
-    [LinkedIn asks judge to bar top executives' testimony in lawsuit it tried to settle](https://www.reuters.com/legal/government/linkedin-asks-judge-bar-top-executives-testimony-lawsuit-it-tried-settle-2026-08-03/)
+    [US to vet social media of foreign journalists applying for visas, report says](https://www.reuters.com/legal/government/us-vet-social-media-foreign-journalists-applying-visas-report-says-2026-08-06/)
     
     [
     
-    ](https://www.reuters.com/legal/government/linkedin-asks-judge-bar-top-executives-testimony-lawsuit-it-tried-settle-2026-08-03/)
-    
-- [Litigationcategory](https://www.reuters.com/legal/litigation/)
-    
-    [Sandoz agrees $450 mln settlement with 43 US states over antitrust claims](https://www.reuters.com/legal/litigation/sandoz-agrees-450-mln-settlement-with-43-us-states-over-antitrust-claims-2026-08-03/)
-    
-    [
-    
-    ](https://www.reuters.com/legal/litigation/sandoz-agrees-450-mln-settlement-with-43-us-states-over-antitrust-claims-2026-08-03/)
+    ](https://www.reuters.com/legal/government/us-vet-social-media-foreign-journalists-applying-visas-report-says-2026-08-06/)
     
 - [Worldcategory](https://www.reuters.com/world/)
     
-    [Russia opens case against Apple over pre-installation of domestic apps](https://www.reuters.com/world/russia-opens-case-against-apple-over-pre-installation-domestic-apps-2026-08-03/)
+    [US seeks extradition of Philippines 'Son of God' preacher accused of sexual abuse](https://www.reuters.com/world/asia-pacific/us-seeks-extradition-philippines-son-god-preacher-accused-sexual-abuse-2026-08-06/)
     
     [
     
-    ](https://www.reuters.com/world/russia-opens-case-against-apple-over-pre-installation-domestic-apps-2026-08-03/)
-    
-- [Worldcategory](https://www.reuters.com/world/)
-    
-    [US Senator Paul will refer Fauci to DOJ following contempt vote -CNN](https://www.reuters.com/world/us-senator-paul-will-refer-fauci-doj-following-contempt-vote-cnn-2026-08-06/)
-    
-    [
-    
-    ](https://www.reuters.com/world/us-senator-paul-will-refer-fauci-doj-following-contempt-vote-cnn-2026-08-06/)
-    
-- [Governmentcategory](https://www.reuters.com/legal/government/)
-    
-    [Ski giants Vail, Alterra and others sued over alleged price-fixing](https://www.reuters.com/legal/government/ski-giants-vail-alterra-others-sued-over-alleged-price-fixing-2026-08-06/) 
-    
-    [
-    
-    ](https://www.reuters.com/legal/government/ski-giants-vail-alterra-others-sued-over-alleged-price-fixing-2026-08-06/)
-    
-- [Legal Industrycategory](https://www.reuters.com/legal/legalindustry/)
-    
-    [What the viral Wachtell kiss reveals about law firm romance policies](https://www.reuters.com/legal/legalindustry/what-viral-wachtell-kiss-reveals-about-law-firm-romance-policies-2026-08-06/) 
-    
-    [
-    
-    ](https://www.reuters.com/legal/legalindustry/what-viral-wachtell-kiss-reveals-about-law-firm-romance-policies-2026-08-06/)
-    
-- [Litigationcategory](https://www.reuters.com/legal/litigation/)
-    
-    [Republican US senators propose to repeal California emissions rules](https://www.reuters.com/legal/litigation/republican-senators-propose-repeal-california-emissions-rules-2026-08-06/)
-    
-    [
-    
-    ](https://www.reuters.com/legal/litigation/republican-senators-propose-repeal-california-emissions-rules-2026-08-06/)
+    ](https://www.reuters.com/world/asia-pacific/us-seeks-extradition-philippines-son-god-preacher-accused-sexual-abuse-2026-08-06/)
     
 
 [](https://www.lseg.com/en/data-analytics/products/workspace?utm_source=reuters.com&utm_medium=articlebanner&utm_campaign=Reuters_ProductPage_Links)
+
+## [World](https://www.reuters.com/world/)
+
+- [
+    
+    ](https://www.reuters.com/world/what-is-patriot-missile-system-why-are-supplies-depleted-worldwide-2026-08-07/)
+    
+    ### [What is the Patriot missile system and why are supplies depleted worldwide?](https://www.reuters.com/world/what-is-patriot-missile-system-why-are-supplies-depleted-worldwide-2026-08-07/)
+    
+    [Worldcategory](https://www.reuters.com/world/) · August 7, 2026 · 7:56 AM PDT · 8 mins ago
+    
+    First used in the 1991 Gulf War, the U.S. Patriot air defense system has seen demand spike sharply this year, with supplies of interceptor missiles depleted by Ukraine's war against the Russian invasion and the widening war in the Middle East.
+    
+- [
+    
+    ](https://www.reuters.com/world/middle-east/adnoc-says-attacks-vessels-staff-significantly-impacting-operations-2026-08-07/)
+    
+    [Middle Eastcategory](https://www.reuters.com/world/middle-east/)[ADNOC says attacks on vessels, staff significantly impacting operations](https://www.reuters.com/world/middle-east/adnoc-says-attacks-vessels-staff-significantly-impacting-operations-2026-08-07/)
+    
+    7:52 AM PDT
+    
+- [
+    
+    ](https://www.reuters.com/business/canada-discussing-trade-concessions-with-us-return-some-tariff-relief-globe-mail-2026-08-07/)
+    
+    [Businesscategory](https://www.reuters.com/business/)[Canada discussing trade concessions with the U.S. in return for some tariff relief, Globe and Mail says](https://www.reuters.com/business/canada-discussing-trade-concessions-with-us-return-some-tariff-relief-globe-mail-2026-08-07/)
+    
+    7:47 AM PDT
+    
+- [
+    
+    ](https://www.reuters.com/business/canadian-dollar-hits-eight-week-high-jobs-data-beats-estimates-2026-08-07/)
+    
+    [Businesscategory](https://www.reuters.com/business/)[Canadian dollar hits eight-week high as jobs data beats estimates](https://www.reuters.com/business/canadian-dollar-hits-eight-week-high-jobs-data-beats-estimates-2026-08-07/)
+    
+    7:42 AM PDT
+    
+- [
+    
+    ](https://www.reuters.com/world/us/how-are-reutersipsos-us-public-opinion-polls-conducted-2026-08-07/)
+    
+    Explainer[Explainer: How are Reuters/Ipsos US public opinion polls conducted?](https://www.reuters.com/world/us/how-are-reutersipsos-us-public-opinion-polls-conducted-2026-08-07/)
+    
+    7:41 AM PDT
+    
 
 ### Site Index
 
