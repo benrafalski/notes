@@ -16,3 +16,9 @@
 ## Congressional Backlash
 - **ICE Funding**: Senate Republicans [delay](https://www.reuters.com/legal/government/republicans-flee-washington-after-flap-trumps-weaponization-fund-ballroom-2026-05-21/) ICE funding bill (May 2026) over Trump's 'anti-weaponization' fund and ballroom funds. The move came after Acting DOJ head Blanche refused to rule out using the 'anti-weaponization' fund to pay those convicted of violent crimes during January 6.
 - **Blanch Confirmation**: After Trump fired Pam Bondi, Todd Blanche took over as interim DOJ head and Trump later nominated him. This led to a Congressional [confrontation](https://www.reuters.com/legal/government/trump-defends-anti-weaponization-fund-blanche-nomination-stalls-2026-07-31/) over confirming Blanche due to Senate opposition to Trump's weaponization slush fund. Blanche eventually surrendered, [revoking the anti-weaponization fund](https://www.reuters.com/world/acting-us-attorney-general-blanche-rescinds-anti-weaponization-fund-before-2026-08-03/) in order to get confirmation votes from Senators Cornyn and Tillis. However, Blanche said the tax immunity part of the agreement still applied to ​Trump, his sons ⁠and the family business, but that their future tax returns could still be investigated.
+
+
+
+# Pardons
+## Terren ​Peizer
+ Peizer, a former healthcare executive, sold more than $20 million of Ontrak stock between ​May and August 2021 while in possession of material non-public ​negative information related to the company's largest customer. He was convicted of ‌insider ⁠trading by a federal jury in Los Angeles in 2024 and sentenced to 3.5 ​years in prison in 2025. Trump [pardoned](https://www.reuters.com/legal/government/sec-drops-insider-trading-suit-against-ex-healthcare-executive-pardoned-by-trump-2026-08-08/) Peizer in January 2026 and later that August, his SEC moved to dismiss the insider trading case against ​the former executive.

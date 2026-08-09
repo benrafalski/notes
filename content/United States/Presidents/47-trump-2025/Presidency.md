@@ -28,7 +28,9 @@
 ## State: 
 ## Treasury: 
 ## Defense: 
-## Attorney General: 
+## Attorney General
+### Todd Blanche (From August 8, 2026)
+Was previously Trump's personal lawyer and served as number two in the DOJ under Bondi before she was fired. Was [confirmed](https://www.reuters.com/world/us/senate-republicans-narrowly-confirm-todd-blanche-attorney-general-2026-08-08/) in a 50-49 party-line vote following a standoff with Republican Senators over Trump's '[anti-weaponization](Corruption#Anti-weaponization Fund)' fund.
 ## Interior: 
 ## Agriculture: 
 ## Commerce:

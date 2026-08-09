@@ -24,166 +24,195 @@
 
 [My News](https://www.reuters.com/my-news/feed/)
 
-[](https://www.reuters.com/account/sign-in/?redirect=https%3A%2F%2Fwww.reuters.com%2Fworld%2Fmiddle-east%2Fus-expects-deal-soon-strait-hormuz-sunni-powers-unite-defense-pact-2026-08-07%2F)[](https://www.reuters.com/account/subscribe/offer/?redirect=https%3A%2F%2Fwww.reuters.com%2Fworld%2Fmiddle-east%2Fus-expects-deal-soon-strait-hormuz-sunni-powers-unite-defense-pact-2026-08-07%2F&referrer=subscription_button&journeyStart=navigation)
+[](https://www.reuters.com/account/sign-in/?redirect=https%3A%2F%2Fwww.reuters.com%2Flegal%2Fgovernment%2Fsec-drops-insider-trading-suit-against-ex-healthcare-executive-pardoned-by-trump-2026-08-08%2F)[](https://www.reuters.com/account/subscribe/offer/?redirect=https%3A%2F%2Fwww.reuters.com%2Flegal%2Fgovernment%2Fsec-drops-insider-trading-suit-against-ex-healthcare-executive-pardoned-by-trump-2026-08-08%2F&referrer=subscription_button&journeyStart=navigation)
 
-# US expects deal soon on Strait of Hormuz; Sunni powers unite in defense pact
+# SEC drops insider trading suit against ex-healthcare executive pardoned by Trump
 
-By [Steve Holland](https://www.reuters.com/authors/steve-holland/) and [Timour Azhari](https://www.reuters.com/authors/timour-azhari/)
+By [Kanishka Singh](https://www.reuters.com/authors/kanishka-singh/)
 
-August 7, 20264:02 PM PDTUpdated 14 hours ago
+August 7, 20267:11 PM PDTUpdated August 7, 2026
 
-- Summary
-- Companies
+![Illustration shows United States Securities and Exchange Commission logo and U.S. flag](https://www.reuters.com/resizer/v2/QFEAGVIFOZPIFGXDNLOGCVS34I.jpg?auth=ffe24f42db7842e4f07c5aef0886c815f90b9f835e70c6de457b1a740d41e344&width=1920&quality=80)
 
-- US official says Americans would lift blockade of Iranian ports if deal is reached
-- Saudi Arabia, Turkey and Pakistan pledge mutual defense pact
-- Lebanon, Israel agree on countries to verify Hezbollah disarmament
+United States Securities and Exchange Commission logo and U.S. flag are seen in this illustration created on April 23, 2025. REUTERS/Dado Ruvic/Illustration//File Photo [Purchase Licensing Rights, opens new tab](https://www.reutersconnect.com/item/illustration-shows-united-states-securities-and-exchange-commission-logo-and-us-flag/dGFnOnJldXRlcnMuY29tLDIwMjU6bmV3c21sX1JDMjY0RUFITllMVg%3D%3D/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead)
 
-WASHINGTON/RIYADH, Aug 7 (Reuters) - A U.S. official on Friday reported progress between Iran and Oman that could soon reopen the Strait ​of Hormuz, potentially restoring oil exports that have been disrupted by the five-month-old U.S. war with Iran.
+WASHINGTON, Aug 7 (Reuters) - The U.S. Securities and Exchange Commission said on Friday it was [moving to dismiss, opens new tab](https://www.sec.gov/files/litigation/litreleases/2026/jointstip26603.pdf) an [insider trading, opens new tab](https://www.sec.gov/files/litigation/complaints/2026/comp26603.pdf) lawsuit against [Terren ​Peizer](https://www.reuters.com/legal/government/milken-protege-peizer-gets-3-12-years-prison-insider-trading-plans-appeal-2025-06-23/), a former healthcare executive who was convicted of ‌insider trading by a federal jury in 2024 and then pardoned by President [Donald Trump](https://www.reuters.com/world/us/donald-trump/).
 
-The U.S. official, who declined to be identified, said Washington anticipated ‌an agreement soon between the two countries, which sit on either side of the strait, so that normal oil traffic could resume.
+Here are the details:
 
-The Reuters Iran Briefing newsletter keeps you informed with the latest developments and analysis of the Iran war. Sign up [here.](https://www.reuters.com/newsletters/reuters-iran-briefing/?location=article-paragraph&redirectUrl=%2Fworld%2Fmiddle-east%2Fus-expects-deal-soon-strait-hormuz-sunni-powers-unite-defense-pact-2026-08-07%2F)
+Jumpstart your morning with the latest legal news delivered straight to your inbox from The Daily Docket newsletter. Sign up [here.](https://www.reuters.com/newsletters/daily-docket/?location=article-paragraph&redirectUrl=%2Flegal%2Fgovernment%2Fsec-drops-insider-trading-suit-against-ex-healthcare-executive-pardoned-by-trump-2026-08-08%2F)
 
-A deal between Iran and Oman over control of the strategic waterway is seen as crucial to a wider peace agreement.
+- In 2023, Peizer, 65, the founder and former ​chief executive of healthcare company Ontrak, was [charged](https://www.reuters.com/legal/us-authorities-charge-healthcare-company-ontraks-boss-with-insider-trading-2023-03-01/) by the Department ​of Justice with insider trading.
+    
+- The SEC also launched civil ⁠insider trading charges against him in a parallel action.
+    
+- At the ​time, authorities called the charges groundbreaking. It was the first criminal ​case involving the use of a pre-arranged stock-selling program designed to help shield executives from such charges.
+    
+- Peizer sold more than $20 million of Ontrak stock between ​May and August 2021 while in possession of material non-public ​negative information related to the company's largest customer, authorities said.
+    
+- He was convicted of ‌insider ⁠trading by a federal jury in Los Angeles in 2024. Jurors found him guilty of two counts of insider trading and one count of securities fraud.
+    
+- He was sentenced in 2025 to 3.5 ​years in prison.
+    
+- Trump ​pardoned him in ⁠January this year.
+    
+- Peizer was a protege of Michael Milken, once considered Wall Street's "junk bond king."
+    
+- In 2020 ​during his first term, Trump [had pardoned Milken](https://www.reuters.com/article/world/trump-commutes-blagojevich-sentence-pardons-junk-bond-king-milken-idUSKBN20C2J8/), who ​had previously ⁠pleaded guilty to securities fraud and served about two years in prison.
+    
+- Critics and rights advocates have often pointed to such pardons as ⁠examples ​of double standards as Trump has used ​fraud claims against some migrants to pursue a hardline [immigration crackdown](https://www.reuters.com/world/us/trump-crackdown-protests-immigration-led-islamophobia-muslim-group-says-2026-03-10/), especially in Minnesota earlier ​this year.
+    
 
-"There is progress between Oman and Iran on the strait, and we expect a deal soon," a U.S. official told Reuters on Friday. "Once the deal is announced to restore commercial shipping without impediments, the United States ​will lift the blockade of Iranian ports."
-
-"As always, U.S. actions will continue to be performance-based and tied to Iran’s implementation of its commitments," the official said.
-
-Before the U.S. and ​Israel launched the war on Iran on February 28, about one out of every five barrels of oil consumed worldwide transited the strait, but Iran ⁠has used the hostilities to justify charging a toll on oil tankers and firing on ships that attempt to cross the strait without permission.
-
-That disruption in oil shipments has caused energy prices ​to surge and fueled inflation.
-
-In recent weeks, the Trump administration has repeatedly signaled that a deal to open the strait could be close, only to have Iran deny that talks are under way. It ​was unclear whether the latest flurry of negotiations would yield a more lasting arrangement.
-
-Iranian strikes on Strait of Hormuz shipping have been coupled with increased attacks by its Yemen-based allies, the Houthis, who have targeted ships at another oil chokepoint on the other side of the Arabian Peninsula between the Red Sea and Gulf of Aden.
-
-Abu Dhabi National Oil Company, one of the world's largest energy producers, said on Friday that [15 of its vessels](https://www.reuters.com/world/middle-east/adnoc-says-attacks-vessels-staff-significantly-impacting-operations-2026-08-07/) had ​been struck in what it called unprovoked attacks while transiting the Strait of Hormuz since the start of the conflict. The attacks have killed one crew member and wounded 20 others, it said.
-
-## NEW ​SECURITY PACT
-
-Vessels near the Strait of Hormuz, as seen from Musandam, Oman, August 6, 2026. REUTERS/Stringer [Purchase Licensing Rights, opens new tab](https://www.reutersconnect.com/item/vessels-near-the-strait-of-hormuz-as-seen-from-musandam/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1JDMllTTUFUSE1DRA%3D%3D/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead)
-
-Alarmed at a regional conflagration that has brought Iranian missile fire onto Gulf oil exporters, Saudi Arabia, Pakistan and Turkey [signed a joint defense agreement](https://www.reuters.com/world/asia-pacific/saudi-arabia-turkey-pakistan-sign-joint-defence-deal-amid-regional-turmoil-2026-08-07/) in Mecca on Friday.
-
-The pact among three U.S. allies with majority ‌Sunni Muslim ⁠populations is intended to strengthen collective deterrence against aggression and stipulates that an armed attack against any of the three would be regarded as an attack on all, the countries said in a statement.
-
-Turkey said the agreement was not aimed at any specific country and was purely defensive. But it comes at a time of heightened tensions with Shi'ite-majority Iran.
-
-Meanwhile, the U.S. has been trying to broker an end to fighting on another front of the war between Israel and Iranian-backed Shi'ite group Hezbollah in southern Lebanon.
-
-A Lebanese official said on Friday that Lebanon and Israel [agreed on a shortlist](https://www.reuters.com/world/middle-east/lebanon-israel-agree-shortlist-countries-that-could-send-troops-verify-hezbollah-2026-08-07/) of countries that ​could send troops to verify the disarmament of ​Hezbollah under a U.S.-brokered agreement. The United ⁠States would pick countries from the list.
-
-## IRAN PRESIDENT DEFENDS DIPLOMACY
-
-Washington and Tehran have not engaged in direct high-level talks since U.S. Vice President JD Vance met Iranian officials in Switzerland in June, shortly after the two sides reached a ceasefire agreement. That short-lived June 17 memorandum of understanding established terms ​for resuming Strait of Hormuz oil shipping and led to a ceasefire.
-
-Amid internal opposition to the deal in the U.S. and Iran, hostilities resumed ​on July 7, only ⁠to be put on hold again. The U.S. military's Central Command has not reported any strikes on Iran since July 29.
-
-Analysts have said signs of fissures between Iran's civilian president, Masoud Pezeshkian, and the other power centers in Iran, notably Supreme Leader Ayatollah Mojtaba Khamenei and the Islamic Revolutionary Guard Corps, may be complicating peace efforts.
-
-In an interview with state television broadcast on Friday, Pezeshkian defended his government's policies against hardliners ⁠who have ​opposed negotiations with the United States. He said that most senior military commanders supported talks towards a deal to stop ​the fighting.
-
-"America's biggest enemy is China, why don't they fight? China is doing its own thing and is getting stronger day by day. When we can get our rights through dialogue, why not do it?" he said.
-
-Reporting by Steve Holland ​in Washington, Timour Azhari in Riyadh, Ariba Shahid in Karachi, Tuvan Gumrukcu in Ankara, Samia Nokhoul in Dubai, and Enas Alashray in Cairo; Writing by Daniel Trotta; Editing by Don Durfee and Cynthia Osterman
+Reporting by Kanishka Singh in Washington; Editing by Edwina Gibbs
 
 Our Standards: [The Thomson Reuters Trust Principles., opens new tab](https://www.thomsonreuters.com/en/about-us/trust-principles.html)
 
 - Suggested Topics:
-- [](https://www.reuters.com/world/middle-east/)
-- [](https://www.reuters.com/business/energy/exploration-production/)
+- [](https://www.reuters.com/legal/government/)
+- [](https://www.reuters.com/legal/white-collar-crime/)
+- [](https://www.reuters.com/business/healthcare-pharmaceuticals/lawsuits/)
+- [](https://www.reuters.com/legal/health/)
+- [](https://www.reuters.com/legal/securities-enforcement/)
 
 [](https://www.reutersagency.com/en/licensereuterscontent/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead)
 
-## Read Next
+[
 
-- [Middle Eastcategory](https://www.reuters.com/world/middle-east/)
-    
-    [Lebanon, Israel agree shortlist of countries that could send troops to verify Hezbollah disarmament](https://www.reuters.com/world/middle-east/lebanon-israel-agree-shortlist-countries-that-could-send-troops-verify-hezbollah-2026-08-07/)
-    
-    [
-    
-    ](https://www.reuters.com/world/middle-east/lebanon-israel-agree-shortlist-countries-that-could-send-troops-verify-hezbollah-2026-08-07/)
-    
-- [Middle Eastcategory](https://www.reuters.com/world/middle-east/)
-    
-    [Political struggle of far-right ally Smotrich shows faultline in Netanyahu coalition](https://www.reuters.com/world/middle-east/political-struggle-far-right-ally-smotrich-shows-faultline-netanyahu-coalition-2026-08-07/)
-    
-    [
-    
-    ](https://www.reuters.com/world/middle-east/political-struggle-far-right-ally-smotrich-shows-faultline-netanyahu-coalition-2026-08-07/)
-    
-- [Middle Eastcategory](https://www.reuters.com/world/middle-east/)
-    
-    [Houthis strike Marib again as UN warns Yemen nearing wider conflict](https://www.reuters.com/world/middle-east/houthis-strike-marib-again-un-warns-yemen-nearing-wider-conflict-2026-08-07/)
-    
-    [
-    
-    ](https://www.reuters.com/world/middle-east/houthis-strike-marib-again-un-warns-yemen-nearing-wider-conflict-2026-08-07/)
-    
-- ANALYSIS
-    
-    [Trump's Iran dilemma: He's stuck in war with no exit in sight](https://www.reuters.com/world/middle-east/trumps-iran-dilemma-hes-stuck-war-with-no-exit-sight-2026-08-06/)
-    
-    [
-    
-    ](https://www.reuters.com/world/middle-east/trumps-iran-dilemma-hes-stuck-war-with-no-exit-sight-2026-08-06/)
-    
-- [UAE says Iran attacked ADNOC vessel with missile in Strait of Hormuz](https://www.reuters.com/business/energy/uae-says-iran-attacked-adnoc-vessel-with-missile-strait-hormuz-2026-08-08/)
-    
-    [
-    
-    ](https://www.reuters.com/business/energy/uae-says-iran-attacked-adnoc-vessel-with-missile-strait-hormuz-2026-08-08/)
-    
+](https://www.reuters.com/authors/kanishka-singh/)
 
-[](https://www.lseg.com/en/data-analytics/products/workspace?utm_source=reuters.com&utm_medium=articlebanner&utm_campaign=Reuters_ProductPage_Links)
+[Kanishka Singh](https://www.reuters.com/authors/kanishka-singh/)
 
-## [World](https://www.reuters.com/world/)
+Thomson Reuters
 
-- [
+Kanishka Singh is a breaking news reporter for Reuters in Washington DC, who primarily covers US politics and national affairs in his current role. His past breaking news coverage has spanned across a range of topics like the Black Lives Matter movement; the US elections; the 2021 Capitol riots and their follow up probes; the Brexit deal; US-China trade tensions; the NATO withdrawal from Afghanistan; the COVID-19 pandemic; and a 2019 Supreme Court verdict on a religious dispute site in his native India.
+
+- [](mailto:Kanishka.Singh@thomsonreuters.com)
+- [](https://x.com/kanishka183)
+
+## Read Next / Editor's Picks
+
+- [Worldcategory](https://www.reuters.com/world/)
     
-    ](https://www.reuters.com/world/russia-says-it-struck-vessels-military-facilities-supporting-ukraine-odesa-2026-08-08/)
+    [Most Americans favor stronger oversight of social-media companies: Reuters/Ipsos poll](https://www.reuters.com/world/three-five-americans-favor-stronger-oversight-social-media-companies-2026-08-09/)
     
-    ### [Russia says it struck vessels and military facilities supporting Ukraine in Odesa, Mykolaiv](https://www.reuters.com/world/russia-says-it-struck-vessels-military-facilities-supporting-ukraine-odesa-2026-08-08/)
+    [
     
-    [Worldcategory](https://www.reuters.com/world/) · August 8, 2026 · 8:00 AM PDT · 49 mins ago
+    ](https://www.reuters.com/world/three-five-americans-favor-stronger-oversight-social-media-companies-2026-08-09/)
     
-    Russia ‌continued strikes on Ukrainian port infrastructure and vessels supporting the Ukrainian ​military, Russia's Defence Ministry ​said on Saturday.
+- [Governmentcategory](https://www.reuters.com/legal/government/)
     
-- [
+    [US Senate advances landmark crypto bill before heading on August recess](https://www.reuters.com/legal/government/us-senate-advances-landmark-crypto-bill-before-heading-august-recess-2026-08-08/)
     
-    ](https://www.reuters.com/business/energy/libyas-waha-oil-says-it-contained-leak-zaqout-sidra-pipeline-pumping-resumed-2026-08-08/)
+    [
     
-    [Businesscategory](https://www.reuters.com/business/)[Libya's Waha Oil says it contained leak on Zaqout-Sidra pipeline, pumping resumed after repairs](https://www.reuters.com/business/energy/libyas-waha-oil-says-it-contained-leak-zaqout-sidra-pipeline-pumping-resumed-2026-08-08/)
+    ](https://www.reuters.com/legal/government/us-senate-advances-landmark-crypto-bill-before-heading-august-recess-2026-08-08/)
     
-    7:29 AM PDT
+- [Litigationcategory](https://www.reuters.com/legal/litigation/)
     
-- [
+    [Michigan salad warnings ease, but cyclospora keeps shoppers and grocers on edge](https://www.reuters.com/legal/litigation/michigan-salad-warnings-ease-cyclospora-keeps-shoppers-grocers-edge-2026-08-08/)
     
-    ](https://www.reuters.com/business/environment/british-columbia-district-declares-state-emergency-issues-evacuation-orders-2026-08-08/)
-    
-    [category](https://www.reuters.com/business/)[British Columbia district declares state of emergency, issues evacuation orders as wildfire rages](https://www.reuters.com/business/environment/british-columbia-district-declares-state-emergency-issues-evacuation-orders-2026-08-08/)
-    
-    6:55 AM PDT
-    
-- [
-    
-    ](https://www.reuters.com/business/leaders-serbia-ukraine-pledge-closer-economic-ties-2026-08-08/)
-    
-    [Businesscategory](https://www.reuters.com/business/)[Leaders of Serbia and Ukraine pledge closer economic ties](https://www.reuters.com/business/leaders-serbia-ukraine-pledge-closer-economic-ties-2026-08-08/)
-    
-    6:21 AM PDT
-    
-- [
+    [
     
     ](https://www.reuters.com/legal/litigation/michigan-salad-warnings-ease-cyclospora-keeps-shoppers-grocers-edge-2026-08-08/)
     
-    [Legalcategory](https://www.reuters.com/legal/)[Michigan salad warnings ease, but cyclospora keeps shoppers and grocers on edge](https://www.reuters.com/legal/litigation/michigan-salad-warnings-ease-cyclospora-keeps-shoppers-grocers-edge-2026-08-08/)
+- [Governmentcategory](https://www.reuters.com/legal/government/)
     
-    6:04 AM PDT
+    [Democrats plan Trump investigations over impeachment if they win House](https://www.reuters.com/legal/government/democrats-plan-trump-investigations-over-impeachment-if-they-win-house-sources-2026-08-08/)
     
+    [
+    
+    ](https://www.reuters.com/legal/government/democrats-plan-trump-investigations-over-impeachment-if-they-win-house-sources-2026-08-08/)
+    
+- [Worldcategory](https://www.reuters.com/world/)
+    
+    [Senate passes short-term funding bill to avert federal shutdown](https://www.reuters.com/world/us-senate-passes-short-term-funding-bill-avert-federal-shutdown-before-election-2026-08-08/)
+    
+    [
+    
+    ](https://www.reuters.com/world/us-senate-passes-short-term-funding-bill-avert-federal-shutdown-before-election-2026-08-08/)
+    
+- [Governmentcategory](https://www.reuters.com/legal/government/)
+    
+    [US refunds $100 billion in tariffs struck down by Supreme Court, filing shows](https://www.reuters.com/legal/government/us-refunds-100-billion-tariffs-struck-down-by-supreme-court-filing-shows-2026-08-05/)
+    
+    [
+    
+    ](https://www.reuters.com/legal/government/us-refunds-100-billion-tariffs-struck-down-by-supreme-court-filing-shows-2026-08-05/)
+    
+- [Governmentcategory](https://www.reuters.com/legal/government/)
+    
+    [US Senate confirms Trump nominees for labor board, cementing Republican control](https://www.reuters.com/legal/government/us-senate-confirms-trump-nominees-labor-board-cementing-republican-control-2026-08-07/)
+    
+    [
+    
+    ](https://www.reuters.com/legal/government/us-senate-confirms-trump-nominees-labor-board-cementing-republican-control-2026-08-07/)
+    
+- [Governmentcategory](https://www.reuters.com/legal/government/)
+    
+    [US judge blocks Trump administration's third attempt to cancel VA union contract](https://www.reuters.com/legal/government/us-judge-blocks-trump-administrations-third-attempt-cancel-va-union-contract-2026-08-07/)
+    
+    [
+    
+    ](https://www.reuters.com/legal/government/us-judge-blocks-trump-administrations-third-attempt-cancel-va-union-contract-2026-08-07/)
+    
+- [Litigationcategory](https://www.reuters.com/legal/litigation/)
+    
+    [Republican US Senator Rand Paul asks Justice Department to prosecute Fauci after contempt vote](https://www.reuters.com/legal/litigation/us-senate-panel-votes-hold-fauci-contempt-congress-2026-08-06/)
+    
+    [
+    
+    ](https://www.reuters.com/legal/litigation/us-senate-panel-votes-hold-fauci-contempt-congress-2026-08-06/)
+    
+- [Litigationcategory](https://www.reuters.com/legal/litigation/)
+    
+    [US judge orders Pentagon to lift wind project freeze](https://www.reuters.com/legal/litigation/us-judge-orders-pentagon-lift-wind-project-freeze-2026-08-06/)
+    
+    [
+    
+    ](https://www.reuters.com/legal/litigation/us-judge-orders-pentagon-lift-wind-project-freeze-2026-08-06/)
+    
+- [Worldcategory](https://www.reuters.com/world/)
+    
+    [Trump nominates agency lawyer to serve on Federal Communications Commission](https://www.reuters.com/world/trump-nominates-agency-lawyer-serve-federal-communications-commission-2026-08-07/)
+    
+    [
+    
+    ](https://www.reuters.com/world/trump-nominates-agency-lawyer-serve-federal-communications-commission-2026-08-07/)
+    
+- [Governmentcategory](https://www.reuters.com/legal/government/)
+    
+    [US scrutinizes more schools over admissions practices, diversity and pro-Palestinian protests](https://www.reuters.com/legal/government/us-scrutinizes-more-schools-over-admissions-practices-diversity-pro-palestinian-2026-08-06/)
+    
+    [
+    
+    ](https://www.reuters.com/legal/government/us-scrutinizes-more-schools-over-admissions-practices-diversity-pro-palestinian-2026-08-06/)
+    
+- [Governmentcategory](https://www.reuters.com/legal/government/)
+    
+    [Kansas voters say no to electing state supreme court justices](https://www.reuters.com/legal/government/kansas-voters-say-no-electing-state-supreme-court-justices-2026-08-05/)
+    
+    [
+    
+    ](https://www.reuters.com/legal/government/kansas-voters-say-no-electing-state-supreme-court-justices-2026-08-05/)
+    
+- [Governmentcategory](https://www.reuters.com/legal/government/)
+    
+    [US to vet social media of foreign journalists applying for visas, report says](https://www.reuters.com/legal/government/us-vet-social-media-foreign-journalists-applying-visas-report-says-2026-08-06/)
+    
+    [
+    
+    ](https://www.reuters.com/legal/government/us-vet-social-media-foreign-journalists-applying-visas-report-says-2026-08-06/)
+    
+- [Worldcategory](https://www.reuters.com/world/)
+    
+    [US seeks extradition of Philippines 'Son of God' preacher accused of sexual abuse](https://www.reuters.com/world/asia-pacific/us-seeks-extradition-philippines-son-god-preacher-accused-sexual-abuse-2026-08-06/)
+    
+    [
+    
+    ](https://www.reuters.com/world/asia-pacific/us-seeks-extradition-philippines-son-god-preacher-accused-sexual-abuse-2026-08-06/)
+    
+
+[](https://www.lseg.com/en/data-analytics/products/workspace?utm_source=reuters.com&utm_medium=articlebanner&utm_campaign=Reuters_ProductPage_Links)
 
 ### Site Index
 

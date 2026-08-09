@@ -19,7 +19,66 @@
 - Detention centers
 	- [California](https://www.reuters.com/legal/government/californias-largest-ice-facility-did-not-provide-adequate-medical-care-monitor-2026-07-28/): court-appointed monitor has found that California's largest ​immigration detention facility did not provide adequate medical care to detainees and violated an ‌earlier court order to do so
 
+# TPS
+## Trump Changes
+- **July 21, 2026**: U.S. District Judge Nathaniel Gorton in Boston temporarily blocks Trump admin implement new immigration-related restrictions enacted under his Big Beautiful Bill that would strip TPS holders of their [ability to work in the US](https://www.reuters.com/legal/government/us-judge-blocks-trump-administration-stripping-immigrants-work-permits-2026-07-21/).
+## Countries
 
+| Country     | Reason                                                                                   | Population |
+| ----------- | ---------------------------------------------------------------------------------------- | ---------- |
+| Venezuela   | Granted in 2021 due to high levels of crime in Venezuela due to instability from Maduro. | 600,000    |
+| Haiti       | Granted after a catastrophic magnitude 7.0 earthquake in 2010                            | 330,000    |
+| El Salvador |                                                                                          | 180,000    |
+| Ukraine     |                                                                                          | 100,000    |
+| Honduras    | Granted in 1999 due to the catastrophic destruction caused by Hurricane Mitch (1998)     | 72,000     |
+| Nepal       |                                                                                          | 13,000     |
+| Afghanistan |                                                                                          | 8,000      |
+| Ethiopia    |                                                                                          | 5,000      |
+| Cameroon    |                                                                                          | 4,900      |
+| Nicaragua   | Granted in 1999 due to the catastrophic destruction caused by Hurricane Mitch (1998)     | 4,000      |
+| Syria       |                                                                                          | 3,800      |
+| Myanmar     |                                                                                          | 3,600      |
+| Sudan       |                                                                                          | 1,800      |
+| Yemen       |                                                                                          | 1,400      |
+| Somalia     | Granted in 1991 due to civil war and natural disasters                                   | 700        |
+| South Sudan |                                                                                          | 200        |
+| Labanon     |                                                                                          | 140        |
+## Court Battles
+### Venezuela Case
+- **March 31, 2025**: US District Judge Edward Chen in San Francisco [paused a DHS decision](https://www.reuters.com/world/us/judge-blocks-trump-administration-stripping-deportation-protections-venezuelans-2025-03-31/) to remove TPS for Venezuelans. The ruling protected 348,000 of the 600,000 in the US. In the ruling, Chen said "Generalization of criminality to the Venezuelan TPS population as a whole is baseless and smacks of racism predicated on generalized false stereotypes." Venezuelan TPS holders are more likely to hold bachelor's degrees than U.S. citizens and less likely to commit crimes than the general U.S. population. 
+- **April 18**: San Francisco-based 9th U.S. Circuit Court of Appeals [rejected Trump's appeal](https://www.reuters.com/legal/court-rejects-trump-bid-end-venezuelan-migrants-legal-status-2025-04-18/) to pause Chen's TRO while they considered the case, due to the Trump admin not showing it would suffer irreparable harm from the TRO.
+- **May 19**: the Supreme Court [paused Chen's TRO](https://www.reuters.com/world/us/us-supreme-court-lets-trump-end-deportation-protection-venezuelans-2025-05-19/) while the appeals court considers the case (Jackson was the only one to publicly dissent), allowing Trump to move ahead with ending TPS for Venezuelans.
+- **August 29**: the 9th U.S. Circuit Court of Appeals [ruled to uphold](https://www.reuters.com/legal/court-rejects-trump-bid-end-venezuelan-migrants-legal-status-2025-04-18/) Chen's decision and that Trump's likely acted unlawfully when revoking TPS for the Venezuelans.
+- **September 3**: the Trump admin said they will [still be ending TPS](https://www.reuters.com/world/us/trump-administration-ends-temporary-protected-status-venezuelan-migrants-2025-09-03/) for Venezuelans, with it set to expire on September 10. 
+- **September 5**: Judge Chen ruled that Noem [lacked the authority](https://www.reuters.com/legal/government/us-judge-blocks-trump-canceling-legal-status-venezuelans-haitians-2025-09-05/) to end TPS for the Venezuelans and the decision to do so was motivated by racism. Chen said that Noem's justification for cancelling TPS (that the countries were safe to return to) was unjustified since she made that decision without first consulting with relevant federal agencies or conducting a comprehensive review of conditions in the two countries. 
+- September 18: the 9th U.S. Circuit Court of Appeals [rejected](https://www.reuters.com/legal/government/trump-administration-may-not-end-venezuelan-migrants-protections-court-rules-2025-09-18/) Trump's bid again to block Chen's order.
+### Haiti Case
+- **June 24, 2025**: Noem said the 521,000 Haitians granted TPS under Biden will have their status terminated on September 2 (original date she set in February was for Aug 2).
+- **July 1**: U.S. District Judge Brian Cogan in Brooklyn [blocked](https://www.reuters.com/legal/government/us-judge-blocks-trump-ending-temporary-protected-status-haitians-2025-07-01/) Noem's Haitian TPS revocation, saying "Secretary Noem does not have statutory or inherent authority to partially vacate a country's TPS designation," making her actions "unlawful."
+- **September 5**: US District Judge Edward Chen rules that Noem lacked the authority to end TPS for the Haitians and the decision to do so was [motivated by racism](https://www.reuters.com/legal/government/us-judge-blocks-trump-canceling-legal-status-venezuelans-haitians-2025-09-05/).
+- **February 2, 2026**: U.S. District Judge Ana Reyes in Washington, D.C., [halts DHS plan to end TPS](https://www.reuters.com/world/us-judge-halts-trump-plan-end-protections-350000-haitians-2026-02-03/) for 350,000 Haitians in the U.S. "Plaintiffs charge that Secretary Noem preordained her termination decision and did so because of hostility to nonwhite immigrants. This seems substantially likely," Reyes wrote. Haitians were first given TPS in 2010, after a devastating 7.0 magnitude earthquake struck their country but it has been repeatedly extended, most recently under Biden in July 2024.
+- **March 7**: U.S. Court of Appeals for the District of Columbia Circuit rules 2-1 to [reject Trump bid](https://www.reuters.com/world/us/trump-cannot-end-protections-350000-haitians-us-appeals-court-rules-2026-03-07/") to halt Judge Reyes's order while the appeals court considers the case.
+- **April 16**: House votes 224-204 in favor of legislation allowing Haitians to remain eligible for TPS, in a rare Congressional [rebuke of Trump](https://www.reuters.com/world/us/us-house-votes-defy-trump-extend-haitians-temporary-protections-2026-04-16/), as over 1.4 million Haitians continue to be displaced by violence and instability.
+### Honduras, Nicaragua, Nepal Case
+- **July 7**: Trump said he would be [ending TPS](https://www.reuters.com/legal/government/trump-terminate-deportation-protection-thousands-hondurans-nicaraguans-us-2025-07-07/) for 72,000 Hondurans and 4,000 Nicaraguans on September 6, despite many of the migrants having been living and working in the US for decades. The migrants from both countries had come to the US under TPS after the 1998 Hurricane Mitch, but Trump said TPS was overused and that many immigrants no longer merit protections. 
+- **August 20**: the U.S. Court of Appeals for the Ninth Circuit [ruled to end TPS](https://www.reuters.com/world/us/trump-can-end-deportation-protections-60000-immigrants-appeals-court-says-2025-08-21/) for immigrants from Nicaragua, Honduras and Nepal while court challenges play out, reversing an earlier order from U.S. District Judge Trina L. Thompson. The order immediately ends protections for Nepalis, which expired on August 5, while TPS for Hondurans and Nicaraguans will expire on September 8.
+- **December 31**: District Judge Trina Thompson [blocks Trump from ending TPS](https://www.reuters.com/legal/government/us-judge-blocks-trump-move-end-protected-status-thousands-honduras-nepal-2025-12-31/) for some 72,000 Hondurans, 13,000 Nepalese and 4,000 Nicaraguans, saying the terminations were motivated by racial hostility, citing statements by Trump and Kristi Noem portraying immigrants as criminals and a drain on U.S. society.
+### Afghan and Cameroon Case
+- **July 14**: the U.S. Court of Appeals for the Fourth Circuit [granted an administrative stay](https://www.reuters.com/legal/government/us-appeals-court-temporarily-stays-termination-afghans-protected-status-2025-07-15/) on Trump's termination of TPS for Afghans and Cameroons until July 21. The DHS originally set TPS termination for Afghans on July 14, while that of Cameroonians was set to end on August 4.
+### South Sudan Case
+- **November 5**: Trump [ends TPS for South Sudanese](https://www.reuters.com/world/africa/us-end-protected-status-south-sudanese-nationals-cbs-2025-11-05/) (232 people) despite the US saying food insecurity and malnutrition in the country remained "extremely high". 
+- **December 30**: U.S. District Judge Angel Kelley in Boston grants [emergency request](https://www.reuters.com/world/us-judge-halts-end-deportation-protections-south-sudanese-migrants-2025-12-30/) to prevent South Sudanese TPS from expiring on January 5.
+### Syrian Case
+- **November 19**: U.S. District Judge Katherine Polk Failla in Manhattan said the abrupt elimination of TPS for Syrians was [likely illegal](https://www.reuters.com/world/us-judge-blocks-termination-temporary-legal-status-syrians-2025-11-19/), blocking the termination of TPS for 6,100 Syrians while a legal challenge proceeds.
+### Somalia Case
+- **November 21**: Trump announces he is [ending TPS for Somalis in Minnesota](https://www.reuters.com/world/us/trump-says-he-is-ending-temporary-deportation-protections-somalis-minnesota-2025-11-22/) following unverified media reports, shared by several Republican lawmakers, that the Al-Shabaab militant group in Somalia had benefited from fraud committed in Minnesota. Of the 80,000 Somalis in Minnesota, most are U.S. citizens, and there are only 705 Somali-born individuals nationwide who have TPS status and Biden had previously extended TPS for them until March 2026.
+### Ethiopia Case
+- **January 30, 2026**: U.S. District Judge Brian Murphy in Boston issues administrative stay [delaying](https://www.reuters.com/world/us-judge-temporarily-blocks-end-ethiopians-deportation-protections-2026-01-30/) the February 13 date of the DHS termination of TPS for over 5,000 Ethiopians in order to provide more time for a legal challenge to be heard.
+- **April 8**: U.S. District Judge Brian Murphy in Boston [halts Trump's cancelling of TPS](https://www.reuters.com/world/us/trump-administration-cannot-nix-legal-status-5000-ethiopians-us-judge-rules-2026-04-08/) for 5,000 Ethiopians, saying DHS disregarded the statutory procedures Congress enacted that govern TPS and provided a "pretextual" rationale for ending protections granted to people from Ethiopia, where "armed conflict and natural disasters continue to create dangerous conditions."
+### Yemen Case
+- **May 1**: U.S. District Judge Dale Ho in Manhattan [issues order blocking](https://www.reuters.com/world/us-judge-blocks-trump-ending-protections-nearly-3000-yemeni-nationals-2026-05-01/) Trump from ending TPS for 2,800 people from Yemen.
+## Supreme Court Ruling
+- **June 25, 2026**: Supreme Court rules 6-3 to [allow Trump to end TPS](https://www.reuters.com/world/supreme-court-lets-trump-end-deportation-protections-syrians-haitians-2026-06-25/) for 350,000 Haitians and 6,100 Syrians in US, saying that courts cannot review TPS decisions. The State Department currently warns against traveling to either Haiti or Syria, citing widespread violence, crime, terrorism and kidnapping.
 # Birthright Citizenship
 ## Executive Orders
 - On January 20, 2025, Trump signed an executive order to [end birthright citizenship](https://www.federalregister.gov/d/2025-02007) in the US. 
