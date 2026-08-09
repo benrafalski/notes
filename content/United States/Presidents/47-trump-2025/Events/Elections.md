@@ -9,6 +9,12 @@
 	- Result:
 
 
+# Illegal Voting
+- [Facts](https://www.reuters.com/legal/government/trump-loses-21-straight-court-battles-state-voter-rolls-midterms-near-2026-08-07/#:~:text=A%20Reuters%20investigation%20found%20that%20just%20129%20people%20have%20been%20prosecuted%20for%20noncitizen%20voting%20since%20a%20law%20criminalizing%20it%20was%20passed%20in%201996%2C%20and%20that%20most%20of%20those%20cases%20stemmed%20from%20voter%20confusion%20or%20miscommunication%20with%20election%20officials%20rather%20than%20any%20conspiracy.): since 1996,  just 129 people have been prosecuted for noncitizen voting, with most of those cases stemming from voter confusion or miscommunication with election officials rather than any conspiracy.
+
+# State Vote Rolls
+- [Court Losses](https://www.reuters.com/legal/government/trump-loses-21-straight-court-battles-state-voter-rolls-midterms-near-2026-08-07/): ahead of the 2026 midterms, the Trump admin lost 21 court cases  in its effort to obtain state voter rolls. The DOJ has sued more than two dozen states that refused to comply with ⁠its requests to turn over voter rolls containing information including birthdays and partial Social Security numbers.
+
 # 2026 Midterms
 ## Issues
 ### Affordability

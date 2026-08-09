@@ -24,113 +24,118 @@
 
 [My News](https://www.reuters.com/my-news/feed/)
 
-[](https://www.reuters.com/account/sign-in/?redirect=https%3A%2F%2Fwww.reuters.com%2Fworld%2Fus-appeals-court-blocks-trumps-400-million-white-house-ballroom-project-2026-08-07%2F)[](https://www.reuters.com/account/subscribe/offer/?redirect=https%3A%2F%2Fwww.reuters.com%2Fworld%2Fus-appeals-court-blocks-trumps-400-million-white-house-ballroom-project-2026-08-07%2F&referrer=subscription_button&journeyStart=navigation)
+[](https://www.reuters.com/account/sign-in/?redirect=https%3A%2F%2Fwww.reuters.com%2Fworld%2Fmiddle-east%2Fus-expects-deal-soon-strait-hormuz-sunni-powers-unite-defense-pact-2026-08-07%2F)[](https://www.reuters.com/account/subscribe/offer/?redirect=https%3A%2F%2Fwww.reuters.com%2Fworld%2Fmiddle-east%2Fus-expects-deal-soon-strait-hormuz-sunni-powers-unite-defense-pact-2026-08-07%2F&referrer=subscription_button&journeyStart=navigation)
 
-# US appeals court blocks Trump’s $400 million White House ballroom project
+# US expects deal soon on Strait of Hormuz; Sunni powers unite in defense pact
 
-By [Mike Scarcella](https://www.reuters.com/authors/mike-scarcella/)
+By [Steve Holland](https://www.reuters.com/authors/steve-holland/) and [Timour Azhari](https://www.reuters.com/authors/timour-azhari/)
 
-August 7, 20267:25 AM PDTUpdated 5 mins ago
-
-![Construction of a helipad at the White House continues in Washington](https://www.reuters.com/resizer/v2/52EJBZXPSRMUBCCQAW4JAG6XLA.jpg?auth=81105f5791ea00865f27caaeb685b4c01ef9b02c91a9877e35b6eb3baa1252d7&width=1920&quality=80)
-
-Construction of a ballroom at the White House seen from a window at the Washington Monument, in Washington, D.C., U.S., August 4, 2026. REUTERS/Eric Lee [Purchase Licensing Rights, opens new tab](https://www.reutersconnect.com/item/construction-of-a-helipad-at-the-white-house-continues-in-washington/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1JDMlZSTUE0QlZUVg%3D%3D/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead)
+August 7, 20264:02 PM PDTUpdated 14 hours ago
 
 - Summary
 - Companies
 
-- Appeals court gives administration 14 days to seek Supreme Court review
-- Judge had twice barred above-ground work while allowing underground construction to continue
-- Justice Department argued courts cannot review the privately ​funded project
+- US official says Americans would lift blockade of Iranian ports if deal is reached
+- Saudi Arabia, Turkey and Pakistan pledge mutual defense pact
+- Lebanon, Israel agree on countries to verify Hezbollah disarmament
 
-WASHINGTON, Aug 7 (Reuters) - A U.S. federal appeals court on Friday ordered President Donald Trump’s administration to ‌stop construction on a $400 million ballroom on the site of the White House's demolished East Wing, dealing the Republican leader a major setback in a case testing his presidential authority.
+WASHINGTON/RIYADH, Aug 7 (Reuters) - A U.S. official on Friday reported progress between Iran and Oman that could soon reopen the Strait ​of Hormuz, potentially restoring oil exports that have been disrupted by the five-month-old U.S. war with Iran.
 
-The Washington-based U.S. Court of Appeals for the District of Columbia Circuit in a divided 2-1 order upheld a preliminary ​injunction won by the National Trust for Historic Preservation, which sued last year after the administration tore down the ​East Wing and began building a 90,000-square-foot (8,360-square-meter) ballroom without seeking authorization from Congress.
+The U.S. official, who declined to be identified, said Washington anticipated ‌an agreement soon between the two countries, which sit on either side of the strait, so that normal oil traffic could resume.
 
-The Reuters Daily Briefing newsletter provides all the news you need to start your day. Sign up [here.](https://www.reuters.com/newsletters/daily-briefing/?location=article-paragraph&redirectUrl=%2Fworld%2Fus-appeals-court-blocks-trumps-400-million-white-house-ballroom-project-2026-08-07%2F)
+The Reuters Iran Briefing newsletter keeps you informed with the latest developments and analysis of the Iran war. Sign up [here.](https://www.reuters.com/newsletters/reuters-iran-briefing/?location=article-paragraph&redirectUrl=%2Fworld%2Fmiddle-east%2Fus-expects-deal-soon-strait-hormuz-sunni-powers-unite-defense-pact-2026-08-07%2F)
 
-"Whether or not a ⁠massive ballroom should be constructed is for Congress to decide and is not a matter for Executive self-help," the panel's ​majority wrote. "Congress has not ceded unfettered authority to the Executive Branch to dramatically redesign, reshape, and reconstruct the White House — the People’s ​House — to fit a particular President’s desires."
+A deal between Iran and Oman over control of the strategic waterway is seen as crucial to a wider peace agreement.
 
-The appeals court placed its ruling on hold for 14 days to allow the Trump administration to appeal to the U.S. Supreme Court.
+"There is progress between Oman and Iran on the strait, and we expect a deal soon," a U.S. official told Reuters on Friday. "Once the deal is announced to restore commercial shipping without impediments, the United States ​will lift the blockade of Iranian ports."
 
-The White House and Justice Department did not immediately respond to requests for comment.
+"As always, U.S. actions will continue to be performance-based and tied to Iran’s implementation of its commitments," the official said.
 
-Trump [appealed](https://www.reuters.com/world/us/us-appeals-court-hear-challenge-trumps-white-house-ballroom-2026-06-05/) after U.S. District Judge Richard Leon [twice ​blocked](https://www.reuters.com/legal/government/judge-faults-trump-brazen-bid-continue-ballroom-construction-2026-04-16/) above-ground construction on the site while allowing underground work to continue.
+Before the U.S. and ​Israel launched the war on Iran on February 28, about one out of every five barrels of oil consumed worldwide transited the strait, but Iran ⁠has used the hostilities to justify charging a toll on oil tankers and firing on ships that attempt to cross the strait without permission.
 
-Leon, an appointee of Republican former President George W. Bush, ​had ruled that no federal statute “comes close to giving the President” the required authority to construct the ballroom without congressional approval.
+That disruption in oil shipments has caused energy prices ​to surge and fueled inflation.
 
-The ballroom plan, which ‌the ⁠administration has described as necessary for large formal functions and to preserve the safety of the White House, is the grandest of several Trump efforts to reshape central Washington's landscape of government buildings and national monuments.
+In recent weeks, the Trump administration has repeatedly signaled that a deal to open the strait could be close, only to have Iran deny that talks are under way. It ​was unclear whether the latest flurry of negotiations would yield a more lasting arrangement.
 
-A judge in a separate lawsuit recently said Trump’s name was illegally added to the exterior of the Kennedy Center performing arts center and ordered its removal.
+Iranian strikes on Strait of Hormuz shipping have been coupled with increased attacks by its Yemen-based allies, the Houthis, who have targeted ships at another oil chokepoint on the other side of the Arabian Peninsula between the Red Sea and Gulf of Aden.
 
-In the ballroom case, ​Justice Department attorney Yaakov Roth ​said during D.C. Circuit arguments ⁠on June 5 that the courts have no role in weighing the privately funded project and that it would have been improper to block it at any point.
+Abu Dhabi National Oil Company, one of the world's largest energy producers, said on Friday that [15 of its vessels](https://www.reuters.com/world/middle-east/adnoc-says-attacks-vessels-staff-significantly-impacting-operations-2026-08-07/) had ​been struck in what it called unprovoked attacks while transiting the Strait of Hormuz since the start of the conflict. The attacks have killed one crew member and wounded 20 others, it said.
 
-Roth said the National Trust’s "architectural ​preference" against the ballroom shouldn't take precedence over national security concerns, claiming evidence that the ​former East Wing ⁠left the president and others in the White House vulnerable to attack.
+## NEW ​SECURITY PACT
 
-"They just don't want to go to Congress," countered Thaddeus Heuer, a lawyer for the preservation group.
+Vessels near the Strait of Hormuz, as seen from Musandam, Oman, August 6, 2026. REUTERS/Stringer [Purchase Licensing Rights, opens new tab](https://www.reutersconnect.com/item/vessels-near-the-strait-of-hormuz-as-seen-from-musandam/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1JDMllTTUFUSE1DRA%3D%3D/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead)
 
-Trump has defended his ballroom and its price tag, which has doubled from initial projections. Trump [said in ⁠a post](https://www.reuters.com/world/us/trump-defends-higher-ballroom-costs-targets-less-than-400-million-2026-05-06/) ​on Truth Social last month that the cost rose because "it is approximately twice ​the size, and a far higher quality, than the original proposal" and promised "it will be magnificent, safe, and secure!"
+Alarmed at a regional conflagration that has brought Iranian missile fire onto Gulf oil exporters, Saudi Arabia, Pakistan and Turkey [signed a joint defense agreement](https://www.reuters.com/world/asia-pacific/saudi-arabia-turkey-pakistan-sign-joint-defence-deal-amid-regional-turmoil-2026-08-07/) in Mecca on Friday.
 
-Reporting by Mike Scarcella; Editing by David Bario, Sanjeev Miglani and Andrea Ricci
+The pact among three U.S. allies with majority ‌Sunni Muslim ⁠populations is intended to strengthen collective deterrence against aggression and stipulates that an armed attack against any of the three would be regarded as an attack on all, the countries said in a statement.
+
+Turkey said the agreement was not aimed at any specific country and was purely defensive. But it comes at a time of heightened tensions with Shi'ite-majority Iran.
+
+Meanwhile, the U.S. has been trying to broker an end to fighting on another front of the war between Israel and Iranian-backed Shi'ite group Hezbollah in southern Lebanon.
+
+A Lebanese official said on Friday that Lebanon and Israel [agreed on a shortlist](https://www.reuters.com/world/middle-east/lebanon-israel-agree-shortlist-countries-that-could-send-troops-verify-hezbollah-2026-08-07/) of countries that ​could send troops to verify the disarmament of ​Hezbollah under a U.S.-brokered agreement. The United ⁠States would pick countries from the list.
+
+## IRAN PRESIDENT DEFENDS DIPLOMACY
+
+Washington and Tehran have not engaged in direct high-level talks since U.S. Vice President JD Vance met Iranian officials in Switzerland in June, shortly after the two sides reached a ceasefire agreement. That short-lived June 17 memorandum of understanding established terms ​for resuming Strait of Hormuz oil shipping and led to a ceasefire.
+
+Amid internal opposition to the deal in the U.S. and Iran, hostilities resumed ​on July 7, only ⁠to be put on hold again. The U.S. military's Central Command has not reported any strikes on Iran since July 29.
+
+Analysts have said signs of fissures between Iran's civilian president, Masoud Pezeshkian, and the other power centers in Iran, notably Supreme Leader Ayatollah Mojtaba Khamenei and the Islamic Revolutionary Guard Corps, may be complicating peace efforts.
+
+In an interview with state television broadcast on Friday, Pezeshkian defended his government's policies against hardliners ⁠who have ​opposed negotiations with the United States. He said that most senior military commanders supported talks towards a deal to stop ​the fighting.
+
+"America's biggest enemy is China, why don't they fight? China is doing its own thing and is getting stronger day by day. When we can get our rights through dialogue, why not do it?" he said.
+
+Reporting by Steve Holland ​in Washington, Timour Azhari in Riyadh, Ariba Shahid in Karachi, Tuvan Gumrukcu in Ankara, Samia Nokhoul in Dubai, and Enas Alashray in Cairo; Writing by Daniel Trotta; Editing by Don Durfee and Cynthia Osterman
 
 Our Standards: [The Thomson Reuters Trust Principles., opens new tab](https://www.thomsonreuters.com/en/about-us/trust-principles.html)
 
 - Suggested Topics:
-- [](https://www.reuters.com/legal/government/)
-- [](https://www.reuters.com/legal/public-policy/)
-- [](https://www.reuters.com/legal/appellate/)
+- [](https://www.reuters.com/world/middle-east/)
+- [](https://www.reuters.com/business/energy/exploration-production/)
 
 [](https://www.reutersagency.com/en/licensereuterscontent/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead)
 
 ## Read Next
 
-- [Litigationcategory](https://www.reuters.com/legal/litigation/)
+- [Middle Eastcategory](https://www.reuters.com/world/middle-east/)
     
-    [Republican US Senator Rand Paul asks Justice Department to prosecute Fauci after contempt vote](https://www.reuters.com/legal/litigation/us-senate-panel-votes-hold-fauci-contempt-congress-2026-08-06/)
-    
-    [
-    
-    ](https://www.reuters.com/legal/litigation/us-senate-panel-votes-hold-fauci-contempt-congress-2026-08-06/)
-    
-- [Litigationcategory](https://www.reuters.com/legal/litigation/)
-    
-    [US judge orders Pentagon to lift wind project freeze](https://www.reuters.com/legal/litigation/us-judge-orders-pentagon-lift-wind-project-freeze-2026-08-06/)
+    [Lebanon, Israel agree shortlist of countries that could send troops to verify Hezbollah disarmament](https://www.reuters.com/world/middle-east/lebanon-israel-agree-shortlist-countries-that-could-send-troops-verify-hezbollah-2026-08-07/)
     
     [
     
-    ](https://www.reuters.com/legal/litigation/us-judge-orders-pentagon-lift-wind-project-freeze-2026-08-06/)
+    ](https://www.reuters.com/world/middle-east/lebanon-israel-agree-shortlist-countries-that-could-send-troops-verify-hezbollah-2026-08-07/)
     
-- [Governmentcategory](https://www.reuters.com/legal/government/)
+- [Middle Eastcategory](https://www.reuters.com/world/middle-east/)
     
-    [US scrutinizes more schools over admissions practices, diversity and pro-Palestinian protests](https://www.reuters.com/legal/government/us-scrutinizes-more-schools-over-admissions-practices-diversity-pro-palestinian-2026-08-06/)
-    
-    [
-    
-    ](https://www.reuters.com/legal/government/us-scrutinizes-more-schools-over-admissions-practices-diversity-pro-palestinian-2026-08-06/)
-    
-- [Governmentcategory](https://www.reuters.com/legal/government/)
-    
-    [Kansas voters say no to electing state supreme court justices](https://www.reuters.com/legal/government/kansas-voters-say-no-electing-state-supreme-court-justices-2026-08-05/)
+    [Political struggle of far-right ally Smotrich shows faultline in Netanyahu coalition](https://www.reuters.com/world/middle-east/political-struggle-far-right-ally-smotrich-shows-faultline-netanyahu-coalition-2026-08-07/)
     
     [
     
-    ](https://www.reuters.com/legal/government/kansas-voters-say-no-electing-state-supreme-court-justices-2026-08-05/)
+    ](https://www.reuters.com/world/middle-east/political-struggle-far-right-ally-smotrich-shows-faultline-netanyahu-coalition-2026-08-07/)
     
-- [Governmentcategory](https://www.reuters.com/legal/government/)
+- [Middle Eastcategory](https://www.reuters.com/world/middle-east/)
     
-    [US to vet social media of foreign journalists applying for visas, report says](https://www.reuters.com/legal/government/us-vet-social-media-foreign-journalists-applying-visas-report-says-2026-08-06/)
-    
-    [
-    
-    ](https://www.reuters.com/legal/government/us-vet-social-media-foreign-journalists-applying-visas-report-says-2026-08-06/)
-    
-- [Worldcategory](https://www.reuters.com/world/)
-    
-    [US seeks extradition of Philippines 'Son of God' preacher accused of sexual abuse](https://www.reuters.com/world/asia-pacific/us-seeks-extradition-philippines-son-god-preacher-accused-sexual-abuse-2026-08-06/)
+    [Houthis strike Marib again as UN warns Yemen nearing wider conflict](https://www.reuters.com/world/middle-east/houthis-strike-marib-again-un-warns-yemen-nearing-wider-conflict-2026-08-07/)
     
     [
     
-    ](https://www.reuters.com/world/asia-pacific/us-seeks-extradition-philippines-son-god-preacher-accused-sexual-abuse-2026-08-06/)
+    ](https://www.reuters.com/world/middle-east/houthis-strike-marib-again-un-warns-yemen-nearing-wider-conflict-2026-08-07/)
+    
+- ANALYSIS
+    
+    [Trump's Iran dilemma: He's stuck in war with no exit in sight](https://www.reuters.com/world/middle-east/trumps-iran-dilemma-hes-stuck-war-with-no-exit-sight-2026-08-06/)
+    
+    [
+    
+    ](https://www.reuters.com/world/middle-east/trumps-iran-dilemma-hes-stuck-war-with-no-exit-sight-2026-08-06/)
+    
+- [UAE says Iran attacked ADNOC vessel with missile in Strait of Hormuz](https://www.reuters.com/business/energy/uae-says-iran-attacked-adnoc-vessel-with-missile-strait-hormuz-2026-08-08/)
+    
+    [
+    
+    ](https://www.reuters.com/business/energy/uae-says-iran-attacked-adnoc-vessel-with-missile-strait-hormuz-2026-08-08/)
     
 
 [](https://www.lseg.com/en/data-analytics/products/workspace?utm_source=reuters.com&utm_medium=articlebanner&utm_campaign=Reuters_ProductPage_Links)
@@ -139,45 +144,45 @@ Our Standards: [The Thomson Reuters Trust Principles., opens new tab](https://w
 
 - [
     
-    ](https://www.reuters.com/world/what-is-patriot-missile-system-why-are-supplies-depleted-worldwide-2026-08-07/)
+    ](https://www.reuters.com/world/russia-says-it-struck-vessels-military-facilities-supporting-ukraine-odesa-2026-08-08/)
     
-    ### [What is the Patriot missile system and why are supplies depleted worldwide?](https://www.reuters.com/world/what-is-patriot-missile-system-why-are-supplies-depleted-worldwide-2026-08-07/)
+    ### [Russia says it struck vessels and military facilities supporting Ukraine in Odesa, Mykolaiv](https://www.reuters.com/world/russia-says-it-struck-vessels-military-facilities-supporting-ukraine-odesa-2026-08-08/)
     
-    [Worldcategory](https://www.reuters.com/world/) · August 7, 2026 · 7:56 AM PDT · 8 mins ago
+    [Worldcategory](https://www.reuters.com/world/) · August 8, 2026 · 8:00 AM PDT · 49 mins ago
     
-    First used in the 1991 Gulf War, the U.S. Patriot air defense system has seen demand spike sharply this year, with supplies of interceptor missiles depleted by Ukraine's war against the Russian invasion and the widening war in the Middle East.
-    
-- [
-    
-    ](https://www.reuters.com/world/middle-east/adnoc-says-attacks-vessels-staff-significantly-impacting-operations-2026-08-07/)
-    
-    [Middle Eastcategory](https://www.reuters.com/world/middle-east/)[ADNOC says attacks on vessels, staff significantly impacting operations](https://www.reuters.com/world/middle-east/adnoc-says-attacks-vessels-staff-significantly-impacting-operations-2026-08-07/)
-    
-    7:52 AM PDT
+    Russia ‌continued strikes on Ukrainian port infrastructure and vessels supporting the Ukrainian ​military, Russia's Defence Ministry ​said on Saturday.
     
 - [
     
-    ](https://www.reuters.com/business/canada-discussing-trade-concessions-with-us-return-some-tariff-relief-globe-mail-2026-08-07/)
+    ](https://www.reuters.com/business/energy/libyas-waha-oil-says-it-contained-leak-zaqout-sidra-pipeline-pumping-resumed-2026-08-08/)
     
-    [Businesscategory](https://www.reuters.com/business/)[Canada discussing trade concessions with the U.S. in return for some tariff relief, Globe and Mail says](https://www.reuters.com/business/canada-discussing-trade-concessions-with-us-return-some-tariff-relief-globe-mail-2026-08-07/)
+    [Businesscategory](https://www.reuters.com/business/)[Libya's Waha Oil says it contained leak on Zaqout-Sidra pipeline, pumping resumed after repairs](https://www.reuters.com/business/energy/libyas-waha-oil-says-it-contained-leak-zaqout-sidra-pipeline-pumping-resumed-2026-08-08/)
     
-    7:47 AM PDT
-    
-- [
-    
-    ](https://www.reuters.com/business/canadian-dollar-hits-eight-week-high-jobs-data-beats-estimates-2026-08-07/)
-    
-    [Businesscategory](https://www.reuters.com/business/)[Canadian dollar hits eight-week high as jobs data beats estimates](https://www.reuters.com/business/canadian-dollar-hits-eight-week-high-jobs-data-beats-estimates-2026-08-07/)
-    
-    7:42 AM PDT
+    7:29 AM PDT
     
 - [
     
-    ](https://www.reuters.com/world/us/how-are-reutersipsos-us-public-opinion-polls-conducted-2026-08-07/)
+    ](https://www.reuters.com/business/environment/british-columbia-district-declares-state-emergency-issues-evacuation-orders-2026-08-08/)
     
-    Explainer[Explainer: How are Reuters/Ipsos US public opinion polls conducted?](https://www.reuters.com/world/us/how-are-reutersipsos-us-public-opinion-polls-conducted-2026-08-07/)
+    [category](https://www.reuters.com/business/)[British Columbia district declares state of emergency, issues evacuation orders as wildfire rages](https://www.reuters.com/business/environment/british-columbia-district-declares-state-emergency-issues-evacuation-orders-2026-08-08/)
     
-    7:41 AM PDT
+    6:55 AM PDT
+    
+- [
+    
+    ](https://www.reuters.com/business/leaders-serbia-ukraine-pledge-closer-economic-ties-2026-08-08/)
+    
+    [Businesscategory](https://www.reuters.com/business/)[Leaders of Serbia and Ukraine pledge closer economic ties](https://www.reuters.com/business/leaders-serbia-ukraine-pledge-closer-economic-ties-2026-08-08/)
+    
+    6:21 AM PDT
+    
+- [
+    
+    ](https://www.reuters.com/legal/litigation/michigan-salad-warnings-ease-cyclospora-keeps-shoppers-grocers-edge-2026-08-08/)
+    
+    [Legalcategory](https://www.reuters.com/legal/)[Michigan salad warnings ease, but cyclospora keeps shoppers and grocers on edge](https://www.reuters.com/legal/litigation/michigan-salad-warnings-ease-cyclospora-keeps-shoppers-grocers-edge-2026-08-08/)
+    
+    6:04 AM PDT
     
 
 ### Site Index
