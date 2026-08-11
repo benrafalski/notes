@@ -21,3 +21,9 @@
 - **Duke**: In August 2026 the Trump admin claimed their [probe into admissions practices](https://www.reuters.com/legal/government/us-scrutinizes-more-schools-over-admissions-practices-diversity-pro-palestinian-2026-08-06/) and DEI at Duke were biased in favor of Black and Hispanic applicants.
 - 
 
+
+
+
+# Federal Reserve
+## Lisa Cook
+- **August 7, 2026**: Trump [renews effort to fire Lisa Cook](https://www.reuters.com/world/us/trump-moving-forward-with-attempt-fire-lisa-cook-after-supreme-court-ruling-abc-2026-08-07/), keeping alive his assault on the central ​bank's independence even after the U.S. Supreme Court ruling. The White House told Cook in a letter that the president was "considering" removing her from her role and demanded she respond to unproven mortgage fraud allegations within three weeks.

@@ -24,195 +24,180 @@
 
 [My News](https://www.reuters.com/my-news/feed/)
 
-[](https://www.reuters.com/account/sign-in/?redirect=https%3A%2F%2Fwww.reuters.com%2Flegal%2Fgovernment%2Fsec-drops-insider-trading-suit-against-ex-healthcare-executive-pardoned-by-trump-2026-08-08%2F)[](https://www.reuters.com/account/subscribe/offer/?redirect=https%3A%2F%2Fwww.reuters.com%2Flegal%2Fgovernment%2Fsec-drops-insider-trading-suit-against-ex-healthcare-executive-pardoned-by-trump-2026-08-08%2F&referrer=subscription_button&journeyStart=navigation)
+[](https://www.reuters.com/account/sign-in/?redirect=https%3A%2F%2Fwww.reuters.com%2Fbusiness%2Fhealthcare-pharmaceuticals%2Fwhat-know-about-multistate-salmonella-outbreak-us-2026-08-07%2F)[](https://www.reuters.com/account/subscribe/offer/?redirect=https%3A%2F%2Fwww.reuters.com%2Fbusiness%2Fhealthcare-pharmaceuticals%2Fwhat-know-about-multistate-salmonella-outbreak-us-2026-08-07%2F&referrer=subscription_button&journeyStart=navigation)
 
-# SEC drops insider trading suit against ex-healthcare executive pardoned by Trump
+# What to know about the multistate salmonella outbreak in the US
 
-By [Kanishka Singh](https://www.reuters.com/authors/kanishka-singh/)
+By Reuters
 
-August 7, 20267:11 PM PDTUpdated August 7, 2026
+August 7, 20264:34 AM PDTUpdated 12 hours ago
 
-![Illustration shows United States Securities and Exchange Commission logo and U.S. flag](https://www.reuters.com/resizer/v2/QFEAGVIFOZPIFGXDNLOGCVS34I.jpg?auth=ffe24f42db7842e4f07c5aef0886c815f90b9f835e70c6de457b1a740d41e344&width=1920&quality=80)
+![Salmonella-linked jalapenos add to US food safety worries](https://ajo.prod.reuters.tv/api/v2/img/6a757749e4b098c99033370b?width=1080&quality=80)
 
-United States Securities and Exchange Commission logo and U.S. flag are seen in this illustration created on April 23, 2025. REUTERS/Dado Ruvic/Illustration//File Photo [Purchase Licensing Rights, opens new tab](https://www.reutersconnect.com/item/illustration-shows-united-states-securities-and-exchange-commission-logo-and-us-flag/dGFnOnJldXRlcnMuY29tLDIwMjU6bmV3c21sX1JDMjY0RUFITllMVg%3D%3D/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead)
+August 10 - U.S. health authorities are currently investigating a multistate outbreak of salmonella javiana infections linked to fresh jalapeno peppers.
 
-WASHINGTON, Aug 7 (Reuters) - The U.S. Securities and Exchange Commission said on Friday it was [moving to dismiss, opens new tab](https://www.sec.gov/files/litigation/litreleases/2026/jointstip26603.pdf) an [insider trading, opens new tab](https://www.sec.gov/files/litigation/complaints/2026/comp26603.pdf) lawsuit against [Terren ​Peizer](https://www.reuters.com/legal/government/milken-protege-peizer-gets-3-12-years-prison-insider-trading-plans-appeal-2025-06-23/), a former healthcare executive who was convicted of ‌insider trading by a federal jury in 2024 and then pardoned by President [Donald Trump](https://www.reuters.com/world/us/donald-trump/).
+The investigation is being carried out jointly by the Centers for Disease Control and Prevention and the U.S. Food and Drug Administration, alongside state and ​local health departments.
 
-Here are the details:
+Keep up with the latest medical breakthroughs and healthcare trends with the Reuters Health Rounds newsletter. Sign up [here.](https://www.reuters.com/newsletters/reuters-health-rounds/?location=article-paragraph&redirectUrl=%2Fbusiness%2Fhealthcare-pharmaceuticals%2Fwhat-know-about-multistate-salmonella-outbreak-us-2026-08-07%2F)
 
-Jumpstart your morning with the latest legal news delivered straight to your inbox from The Daily Docket newsletter. Sign up [here.](https://www.reuters.com/newsletters/daily-docket/?location=article-paragraph&redirectUrl=%2Flegal%2Fgovernment%2Fsec-drops-insider-trading-suit-against-ex-healthcare-executive-pardoned-by-trump-2026-08-08%2F)
+The FDA said reported illnesses began between June 19 and July 20.
 
-- In 2023, Peizer, 65, the founder and former ​chief executive of healthcare company Ontrak, was [charged](https://www.reuters.com/legal/us-authorities-charge-healthcare-company-ontraks-boss-with-insider-trading-2023-03-01/) by the Department ​of Justice with insider trading.
-    
-- The SEC also launched civil ⁠insider trading charges against him in a parallel action.
-    
-- At the ​time, authorities called the charges groundbreaking. It was the first criminal ​case involving the use of a pre-arranged stock-selling program designed to help shield executives from such charges.
-    
-- Peizer sold more than $20 million of Ontrak stock between ​May and August 2021 while in possession of material non-public ​negative information related to the company's largest customer, authorities said.
-    
-- He was convicted of ‌insider ⁠trading by a federal jury in Los Angeles in 2024. Jurors found him guilty of two counts of insider trading and one count of securities fraud.
-    
-- He was sentenced in 2025 to 3.5 ​years in prison.
-    
-- Trump ​pardoned him in ⁠January this year.
-    
-- Peizer was a protege of Michael Milken, once considered Wall Street's "junk bond king."
-    
-- In 2020 ​during his first term, Trump [had pardoned Milken](https://www.reuters.com/article/world/trump-commutes-blagojevich-sentence-pardons-junk-bond-king-milken-idUSKBN20C2J8/), who ​had previously ⁠pleaded guilty to securities fraud and served about two years in prison.
-    
-- Critics and rights advocates have often pointed to such pardons as ⁠examples ​of double standards as Trump has used ​fraud claims against some migrants to pursue a hardline [immigration crackdown](https://www.reuters.com/world/us/trump-crackdown-protests-immigration-led-islamophobia-muslim-group-says-2026-03-10/), especially in Minnesota earlier ​this year.
-    
+The salmonella outbreak comes as U.S. health officials also [investigate](https://www.reuters.com/business/healthcare-pharmaceuticals/cyclosporiasis-cases-michigan-climb-over-12000-state-health-officials-say-2026-08-05/) a multistate ‌Cyclosporiasis outbreak linked to lettuce supplied by privately held Taylor Farms, a major food-service producer whose customers include Yum Brands' [(YUM.N), opens new tab](https://www.reuters.com/markets/companies/YUM.N) Taco Bell.
 
-Reporting by Kanishka Singh in Washington; Editing by Edwina Gibbs
+Here is what we know about the salmonella outbreak so far:
+
+## WHAT IS IT ?
+
+Salmonella is a group of rod-shaped bacteria that can cause salmonellosis, a common foodborne illness. Symptoms typically include diarrhea, fever and abdominal cramps, which usually develop 12 to 72 hours after consuming ​contaminated food and last four to seven days.
+
+Young children, older adults and people with weakened immune systems are at greater risk of severe infection and ​complications.
+
+As of August 5, 345 people across 27 states have gotten sick with the strain of salmonella that has now been linked ⁠to jalapenos. Thirty-six people have been hospitalized, and no deaths have been reported.
+
+Cases which have been reported across 27 states span the Midwest, South and West, underscoring ​the broad distribution of the contaminated jalapeno peppers.
+
+Salmonella remains one of the leading causes of foodborne illness in the United States, causing an estimated 1.35 million infections each year, ​according to the CDC.
+
+Historically, some of the largest U.S. salmonella outbreaks include a 1985 milk-linked outbreak that caused 5,770 culture-confirmed cases, a 2010 egg-linked outbreak during which 3,578 illnesses were reported nationwide, and a 2008 outbreak traced to contaminated jalapeno and serrano peppers that sickened 1,442 people.
+
+## WHAT DO WE KNOW ABOUT THE CONTAMINATED PRODUCE?
+
+Jalapeno peppers are pictured in Encinitas, California July 22, 2008. REUTERS/Mike Blake [Purchase Licensing Rights, opens new tab](https://www.reutersconnect.com/item/jalapeno-peppers-are-pictured-in-encinitas/dGFnOnJldXRlcnMuY29tLDIwMDg6bmV3c21sX0dNMUU0N04wRFZEMDE%3D/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead)
+
+The infections have been linked to jalapeno peppers from Sinaloa, Mexico, and ​distributed by Coast Citrus Distributors to distributors, restaurants, and food service companies, including Mexican-style restaurants in the U.S.
+
+After being notified about the outbreak, Chipotle Mexican Grill [(CMG.N), opens new tab](https://www.reuters.com/markets/companies/CMG.N) and QDOBA [stopped ​serving](https://www.reuters.com/business/healthcare-pharmaceuticals/cdc-says-345-sickened-salmonella-outbreak-tied-jalapeno-peppers-2026-08-05/) affected jalapeno peppers. QDOBA restaurants are also no longer serving jalapeno peppers.
+
+Among interviewed patients, a large majority reported eating at Mexican-style restaurants before their illness, including Chipotle Mexican Grill and ‌QDOBA, with ⁠meal dates ranging from June 14 to July 14.
+
+Coast Citrus Distributors has agreed to recall jalapeno peppers linked to this outbreak.
+
+Taylor Farms has [recalled](https://www.reuters.com/business/healthcare-pharmaceuticals/taylor-farms-pulls-salsa-guacamole-over-salmonella-concerns-bloomberg-news-2026-08-09/) prepared food items containing jalapeno peppers, including salsa and guacamole sold by retailers, over concerns about potential salmonella contamination. The California-based supplier has stopped sourcing from a farmer in Sinaloa, Mexico, after it was identified as a possible source of the outbreak.
+
+As the products have been removed from their stores, FDA does not consider there to be a current ongoing risk from these establishments ​to consumers in this outbreak. The regulator ​is working with Coast Citrus Distributors ⁠to determine the full distribution of these products.
+
+## WHAT CAN PEOPLE DO TO PROTECT THEMSELVES?
+
+Distributors, restaurants and food service operators should not sell or serve fresh jalapenos imported from Sinaloa, Mexico, by Coast Citrus Distributors. Recalled jalapenos they may have frozen as well as ​any fresh jalapenos from Sinaloa should be discarded if the supplier cannot be confirmed, according to the FDA.
+
+The FDA advised ​consumers who recently dined ⁠at a Mexican-style restaurant and have become ill to seek immediate medical care.
+
+Common remedies for the infection include antibiotics like fluoroquinolones, azithromycin, and third-generation cephalosporins usually prescribed for severe cases or high-risk patients, according to the CDC.
+
+Restaurants and retailers have been advised to use extra care in cleaning and sanitizing any surfaces and containers that may have come in contact ⁠with this ​product to reduce the risk of cross-contamination.
+
+## WHAT SURVEILLANCE IS BEING DONE ?
+
+The outbreak is monitored through a coordinated ​surveillance system involving the CDC, FDA, and state and local public health agencies. Investigators use epidemiological interviews, laboratory testing and food traceback investigations to identify the source of contamination and track its distribution.
+
+The FDA is ​currently conducting traceback efforts, testing samples, reviewing distribution records and overseeing recalls to prevent additional contaminated products from reaching consumers.
+
+Reporting by Padmanabhan Ananthan in Bengaluru; Editing by Devika Syamnath
 
 Our Standards: [The Thomson Reuters Trust Principles., opens new tab](https://www.thomsonreuters.com/en/about-us/trust-principles.html)
 
 - Suggested Topics:
-- [](https://www.reuters.com/legal/government/)
-- [](https://www.reuters.com/legal/white-collar-crime/)
-- [](https://www.reuters.com/business/healthcare-pharmaceuticals/lawsuits/)
-- [](https://www.reuters.com/legal/health/)
-- [](https://www.reuters.com/legal/securities-enforcement/)
+- [](https://www.reuters.com/business/healthcare-pharmaceuticals/)
 
 [](https://www.reutersagency.com/en/licensereuterscontent/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead)
 
-[
+## Read Next
 
-](https://www.reuters.com/authors/kanishka-singh/)
-
-[Kanishka Singh](https://www.reuters.com/authors/kanishka-singh/)
-
-Thomson Reuters
-
-Kanishka Singh is a breaking news reporter for Reuters in Washington DC, who primarily covers US politics and national affairs in his current role. His past breaking news coverage has spanned across a range of topics like the Black Lives Matter movement; the US elections; the 2021 Capitol riots and their follow up probes; the Brexit deal; US-China trade tensions; the NATO withdrawal from Afghanistan; the COVID-19 pandemic; and a 2019 Supreme Court verdict on a religious dispute site in his native India.
-
-- [](mailto:Kanishka.Singh@thomsonreuters.com)
-- [](https://x.com/kanishka183)
-
-## Read Next / Editor's Picks
-
-- [Worldcategory](https://www.reuters.com/world/)
+- [Healthcare & Pharmaceuticalscategory](https://www.reuters.com/business/healthcare-pharmaceuticals/)
     
-    [Most Americans favor stronger oversight of social-media companies: Reuters/Ipsos poll](https://www.reuters.com/world/three-five-americans-favor-stronger-oversight-social-media-companies-2026-08-09/)
+    [Taylor Farms recalls salsa, guacamole on salmonella outbreak, intensifying food-safety fears](https://www.reuters.com/business/healthcare-pharmaceuticals/taylor-farms-pulls-salsa-guacamole-over-salmonella-concerns-bloomberg-news-2026-08-09/)
     
     [
     
-    ](https://www.reuters.com/world/three-five-americans-favor-stronger-oversight-social-media-companies-2026-08-09/)
+    ](https://www.reuters.com/business/healthcare-pharmaceuticals/taylor-farms-pulls-salsa-guacamole-over-salmonella-concerns-bloomberg-news-2026-08-09/)
     
-- [Governmentcategory](https://www.reuters.com/legal/government/)
+- [Healthcare & Pharmaceuticalscategory](https://www.reuters.com/business/healthcare-pharmaceuticals/)
     
-    [US Senate advances landmark crypto bill before heading on August recess](https://www.reuters.com/legal/government/us-senate-advances-landmark-crypto-bill-before-heading-august-recess-2026-08-08/)
-    
-    [
-    
-    ](https://www.reuters.com/legal/government/us-senate-advances-landmark-crypto-bill-before-heading-august-recess-2026-08-08/)
-    
-- [Litigationcategory](https://www.reuters.com/legal/litigation/)
-    
-    [Michigan salad warnings ease, but cyclospora keeps shoppers and grocers on edge](https://www.reuters.com/legal/litigation/michigan-salad-warnings-ease-cyclospora-keeps-shoppers-grocers-edge-2026-08-08/)
+    [Eli Lilly's weight-loss pill secures first European nod in Britain](https://www.reuters.com/business/healthcare-pharmaceuticals/uk-green-lights-lillys-obesity-pill-2026-08-10/)
     
     [
     
-    ](https://www.reuters.com/legal/litigation/michigan-salad-warnings-ease-cyclospora-keeps-shoppers-grocers-edge-2026-08-08/)
+    ](https://www.reuters.com/business/healthcare-pharmaceuticals/uk-green-lights-lillys-obesity-pill-2026-08-10/)
     
-- [Governmentcategory](https://www.reuters.com/legal/government/)
+- [Legalcategory](https://www.reuters.com/legal/)
     
-    [Democrats plan Trump investigations over impeachment if they win House](https://www.reuters.com/legal/government/democrats-plan-trump-investigations-over-impeachment-if-they-win-house-sources-2026-08-08/)
-    
-    [
-    
-    ](https://www.reuters.com/legal/government/democrats-plan-trump-investigations-over-impeachment-if-they-win-house-sources-2026-08-08/)
-    
-- [Worldcategory](https://www.reuters.com/world/)
-    
-    [Senate passes short-term funding bill to avert federal shutdown](https://www.reuters.com/world/us-senate-passes-short-term-funding-bill-avert-federal-shutdown-before-election-2026-08-08/)
+    [US health agency moves to increase oversight of food additives](https://www.reuters.com/legal/litigation/us-health-agency-moves-increase-oversight-food-additives-2026-08-10/)
     
     [
     
-    ](https://www.reuters.com/world/us-senate-passes-short-term-funding-bill-avert-federal-shutdown-before-election-2026-08-08/)
+    ](https://www.reuters.com/legal/litigation/us-health-agency-moves-increase-oversight-food-additives-2026-08-10/)
     
-- [Governmentcategory](https://www.reuters.com/legal/government/)
+- [Legalcategory](https://www.reuters.com/legal/)
     
-    [US refunds $100 billion in tariffs struck down by Supreme Court, filing shows](https://www.reuters.com/legal/government/us-refunds-100-billion-tariffs-struck-down-by-supreme-court-filing-shows-2026-08-05/)
-    
-    [
-    
-    ](https://www.reuters.com/legal/government/us-refunds-100-billion-tariffs-struck-down-by-supreme-court-filing-shows-2026-08-05/)
-    
-- [Governmentcategory](https://www.reuters.com/legal/government/)
-    
-    [US Senate confirms Trump nominees for labor board, cementing Republican control](https://www.reuters.com/legal/government/us-senate-confirms-trump-nominees-labor-board-cementing-republican-control-2026-08-07/)
+    [Jazz bets on epilepsy treatment with up to $1.32 billion deal for Actio](https://www.reuters.com/legal/litigation/jazz-bets-epilepsy-treatment-with-up-132-billion-deal-actio-2026-08-10/)
     
     [
     
-    ](https://www.reuters.com/legal/government/us-senate-confirms-trump-nominees-labor-board-cementing-republican-control-2026-08-07/)
+    ](https://www.reuters.com/legal/litigation/jazz-bets-epilepsy-treatment-with-up-132-billion-deal-actio-2026-08-10/)
     
-- [Governmentcategory](https://www.reuters.com/legal/government/)
+- [Healthcare & Pharmaceuticalscategory](https://www.reuters.com/business/healthcare-pharmaceuticals/)
     
-    [US judge blocks Trump administration's third attempt to cancel VA union contract](https://www.reuters.com/legal/government/us-judge-blocks-trump-administrations-third-attempt-cancel-va-union-contract-2026-08-07/)
-    
-    [
-    
-    ](https://www.reuters.com/legal/government/us-judge-blocks-trump-administrations-third-attempt-cancel-va-union-contract-2026-08-07/)
-    
-- [Litigationcategory](https://www.reuters.com/legal/litigation/)
-    
-    [Republican US Senator Rand Paul asks Justice Department to prosecute Fauci after contempt vote](https://www.reuters.com/legal/litigation/us-senate-panel-votes-hold-fauci-contempt-congress-2026-08-06/)
+    [AbCellera's menopause drug cuts hot flashes in mid-stage trial, shares surge](https://www.reuters.com/business/healthcare-pharmaceuticals/abcellera-menopause-drug-cuts-hot-flashes-mid-stage-trial-shares-rise-2026-08-10/)
     
     [
     
-    ](https://www.reuters.com/legal/litigation/us-senate-panel-votes-hold-fauci-contempt-congress-2026-08-06/)
+    ](https://www.reuters.com/business/healthcare-pharmaceuticals/abcellera-menopause-drug-cuts-hot-flashes-mid-stage-trial-shares-rise-2026-08-10/)
     
-- [Litigationcategory](https://www.reuters.com/legal/litigation/)
+- [Legalcategory](https://www.reuters.com/legal/)
     
-    [US judge orders Pentagon to lift wind project freeze](https://www.reuters.com/legal/litigation/us-judge-orders-pentagon-lift-wind-project-freeze-2026-08-06/)
-    
-    [
-    
-    ](https://www.reuters.com/legal/litigation/us-judge-orders-pentagon-lift-wind-project-freeze-2026-08-06/)
-    
-- [Worldcategory](https://www.reuters.com/world/)
-    
-    [Trump nominates agency lawyer to serve on Federal Communications Commission](https://www.reuters.com/world/trump-nominates-agency-lawyer-serve-federal-communications-commission-2026-08-07/)
+    [Sionna scraps genetic disorder drug program after trial setback; shares tank](https://www.reuters.com/legal/litigation/sionna-scraps-genetic-disorder-drug-program-after-trial-setback-shares-tank-2026-08-10/)
     
     [
     
-    ](https://www.reuters.com/world/trump-nominates-agency-lawyer-serve-federal-communications-commission-2026-08-07/)
-    
-- [Governmentcategory](https://www.reuters.com/legal/government/)
-    
-    [US scrutinizes more schools over admissions practices, diversity and pro-Palestinian protests](https://www.reuters.com/legal/government/us-scrutinizes-more-schools-over-admissions-practices-diversity-pro-palestinian-2026-08-06/)
-    
-    [
-    
-    ](https://www.reuters.com/legal/government/us-scrutinizes-more-schools-over-admissions-practices-diversity-pro-palestinian-2026-08-06/)
-    
-- [Governmentcategory](https://www.reuters.com/legal/government/)
-    
-    [Kansas voters say no to electing state supreme court justices](https://www.reuters.com/legal/government/kansas-voters-say-no-electing-state-supreme-court-justices-2026-08-05/)
-    
-    [
-    
-    ](https://www.reuters.com/legal/government/kansas-voters-say-no-electing-state-supreme-court-justices-2026-08-05/)
-    
-- [Governmentcategory](https://www.reuters.com/legal/government/)
-    
-    [US to vet social media of foreign journalists applying for visas, report says](https://www.reuters.com/legal/government/us-vet-social-media-foreign-journalists-applying-visas-report-says-2026-08-06/)
-    
-    [
-    
-    ](https://www.reuters.com/legal/government/us-vet-social-media-foreign-journalists-applying-visas-report-says-2026-08-06/)
-    
-- [Worldcategory](https://www.reuters.com/world/)
-    
-    [US seeks extradition of Philippines 'Son of God' preacher accused of sexual abuse](https://www.reuters.com/world/asia-pacific/us-seeks-extradition-philippines-son-god-preacher-accused-sexual-abuse-2026-08-06/)
-    
-    [
-    
-    ](https://www.reuters.com/world/asia-pacific/us-seeks-extradition-philippines-son-god-preacher-accused-sexual-abuse-2026-08-06/)
+    ](https://www.reuters.com/legal/litigation/sionna-scraps-genetic-disorder-drug-program-after-trial-setback-shares-tank-2026-08-10/)
     
 
 [](https://www.lseg.com/en/data-analytics/products/workspace?utm_source=reuters.com&utm_medium=articlebanner&utm_campaign=Reuters_ProductPage_Links)
+
+## [Business](https://www.reuters.com/business/)
+
+- [
+    
+    ](https://www.reuters.com/legal/government/brazilian-police-accuse-goldman-executives-fraud-over-oncoclinicas-tender-offer-2026-08-10/)
+    
+    ### [Brazilian police accuse Goldman executives of fraud over Oncoclinicas tender offer](https://www.reuters.com/legal/government/brazilian-police-accuse-goldman-executives-fraud-over-oncoclinicas-tender-offer-2026-08-10/)
+    
+    [Legalcategory](https://www.reuters.com/legal/) · August 10, 2026 · 4:01 PM PDT · 19 mins ago
+    
+    Sao Paulo civil police have formally accused two Goldman ​Sachs representatives of fraud in a dispute ‌over a public share tender offer demanded by minority shareholders of cancer treatment group Oncoclinicas , according ​to a police document seen by Reuters ​on Monday.
+    
+- [
+    
+    ](https://www.reuters.com/legal/transactional/rbc-bmo-sell-moneris-francisco-partners-144-billion-deal-2026-08-10/)
+    
+    [Legalcategory](https://www.reuters.com/legal/)[RBC, BMO to sell Moneris to Francisco Partners in $1.44 billion deal](https://www.reuters.com/legal/transactional/rbc-bmo-sell-moneris-francisco-partners-144-billion-deal-2026-08-10/)
+    
+    3:37 PM PDT
+    
+- [
+    
+    ](https://www.reuters.com/business/ukrainian-central-bank-issues-biggest-currency-liberalisation-since-2022-2026-08-10/)
+    
+    [Businesscategory](https://www.reuters.com/business/)[Ukrainian central bank issues biggest currency liberalisation since 2022 invasion](https://www.reuters.com/business/ukrainian-central-bank-issues-biggest-currency-liberalisation-since-2022-2026-08-10/)
+    
+    3:25 PM PDT
+    
+- [
+    
+    ](https://www.reuters.com/business/finance/flowers-foods-seeks-divest-tastykake-baked-goods-business-sources-say-2026-08-10/)
+    
+    [Financecategory](https://www.reuters.com/business/finance/)[Flowers Foods seeks to divest Tastykake baked goods business, sources say](https://www.reuters.com/business/finance/flowers-foods-seeks-divest-tastykake-baked-goods-business-sources-say-2026-08-10/)
+    
+    2:38 PM PDT
+    
+- [
+    
+    ](https://www.reuters.com/world/uk/uks-burnham-tackle-vape-betting-shops-search-high-street-revival-2026-08-10/)
+    
+    [Worldcategory](https://www.reuters.com/world/)[UK's Burnham to tackle vape, betting shops in search of high street revival](https://www.reuters.com/world/uk/uks-burnham-tackle-vape-betting-shops-search-high-street-revival-2026-08-10/)
+    
+    2:33 PM PDT
+    
 
 ### Site Index
 
