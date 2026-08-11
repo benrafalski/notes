@@ -21,4 +21,14 @@
 
 # Pardons
 ## Terren ​Peizer
- Peizer, a former healthcare executive, sold more than $20 million of Ontrak stock between ​May and August 2021 while in possession of material non-public ​negative information related to the company's largest customer. He was convicted of ‌insider ⁠trading by a federal jury in Los Angeles in 2024 and sentenced to 3.5 ​years in prison in 2025. Trump [pardoned](https://www.reuters.com/legal/government/sec-drops-insider-trading-suit-against-ex-healthcare-executive-pardoned-by-trump-2026-08-08/) Peizer in January 2026 and later that August, his SEC moved to dismiss the insider trading case against ​the former executive.
+ Peizer, a former healthcare executive, sold more than $20 million of Ontrak stock between ​May and August 2021 while in possession of material non-public ​negative information related to the company's largest customer. He was convicted of ‌insider ⁠trading by a federal jury in Los Angeles in 2024 and sentenced to 3.5 ​years in prison in 2025. Trump [pardoned](https://www.reuters.com/legal/government/sec-drops-insider-trading-suit-against-ex-healthcare-executive-pardoned-by-trump-2026-08-08/) Peizer in January 2026 and later that August, his SEC moved to dismiss the insider trading case against ​the former executive. 
+
+
+# Dropped Federal Cases
+## Adani
+In August 2026, U.S. ‌District Judge Nicholas Garaufis ​[dismissed criminal charges](https://www.reuters.com/legal/government/us-judge-dismisses-criminal-case-against-indian-billionaire-adani-2026-08-10/) against Indian billionaire Gautam Adani, but said the DOJ’s decision to abandon the fraud and bribery case was concerning. Adani had earlier promised in November 2024 to invest $10 billion in the United States but Garaufis said he was satisfied that the investment pledge ​did not factor into the DOJ decision. Adani was ⁠charged in 2024 with agreeing to bribe Indian government officials so a subsidiary of his Adani Group could win approval to develop a solar energy plant, then misleading U.S. investors by providing reassuring information about his company's anti-corruption practices. In a separate resolution to civil charges brought ​by the SEC, ​Gautam Adani agreed to pay $6 million and ⁠his nephew, Sagar Adani, agreed to pay $12 million. Adani Enterprises Limited also separately agreed to pay $275 million to the U.S. Treasury to settle alleged violations of Iran sanctions.
+
+
+# Qatari Jet
+## Security Concerns
+- WaPo reports Trump boarded [secret Turkey flight](https://www.reuters.com/business/aerospace-defense/trump-flew-secretly-turkey-due-iranian-threat-washington-post-reports-2026-08-11/) in July 2026 via catering truck due to credible Iran assassination threat. Trump had taken a newly renovated Qatari-donated jet to Ankara for the NATO summit but unexpectedly announced he would use an older Air Force One when departing the country, ​a move that prompted questions about the newer plane's security.

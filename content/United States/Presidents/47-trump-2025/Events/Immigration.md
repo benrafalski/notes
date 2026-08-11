@@ -1,11 +1,4 @@
-# $100,000 H-1B visa fee
-- EO: 
-- Lawsuit: 
-	- Case: 
-	- Federal Judge:
-	- Timeline:
-		- [July 24](https://www.reuters.com/world/appeals-court-rejects-trump-bid-halt-100000-h-1b-visa-fee-ruling-2026-07-24/): ​Boston-based 1st U.S. Circuit Court of Appeals declined to put ​on hold judge ??? ruling
-	- Result:
+# 
 
 
 # Child Migrants
@@ -122,6 +115,18 @@
 - In [July 2026](https://www.reuters.com/world/us/us-make-visa-bond-program-permanent-people-dozens-countries-2026-08-01/), the State Department made permanent a visa bond program ‌that requires B1 and B2 visas applicants (business and tourism visas) from 50 countries, mostly from Africa, to post bonds of $10,000-$20,000 when seeking U.S. visas.
 ## Expired Visas
 - [Airport arrests](https://www.reuters.com/legal/government/us-ice-detains-johns-hopkins-researcher-airport-arrests-surge-2026-07-31/): in July 2026, the Trump admin started accelerating airport arrests targeting immigrants who had over stayed their visas., including Fatima Ameaka, a Johns Hopkins researcher originally from Cameroon. 
+
+## 100,000 H-1B visa fee
+- EO: 
+- Lawsuit: 
+	- Case: 
+	- Federal Judge:
+	- Timeline:
+		- [July 24](https://www.reuters.com/world/appeals-court-rejects-trump-bid-halt-100000-h-1b-visa-fee-ruling-2026-07-24/): ​Boston-based 1st U.S. Circuit Court of Appeals declined to put ​on hold judge ??? ruling
+	- Result:
+
+## Revoking Visas
+- Total revoked: [175,000](https://www.reuters.com/legal/government/trump-administration-has-revoked-more-than-175000-visas-state-department-says-2026-08-10/) visas during second term as of August 2026
 
 # Due Process
 ## Immigration Courts

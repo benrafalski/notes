@@ -12,192 +12,174 @@
     
 - [Sustainability](https://www.reuters.com/sustainability/)
     
-- [Legal](https://www.reuters.com/legal/)
-    
-- [Commentary](https://www.reuters.com/commentary/)
-    
-- [Technology](https://www.reuters.com/technology/)
-    
-- [Investigations](https://www.reuters.com/investigations/)
 - More
     
 
-[My News](https://www.reuters.com/my-news/feed/)
-
-[](https://www.reuters.com/account/sign-in/?redirect=https%3A%2F%2Fwww.reuters.com%2Fbusiness%2Fhealthcare-pharmaceuticals%2Fwhat-know-about-multistate-salmonella-outbreak-us-2026-08-07%2F)[](https://www.reuters.com/account/subscribe/offer/?redirect=https%3A%2F%2Fwww.reuters.com%2Fbusiness%2Fhealthcare-pharmaceuticals%2Fwhat-know-about-multistate-salmonella-outbreak-us-2026-08-07%2F&referrer=subscription_button&journeyStart=navigation)
-
-# What to know about the multistate salmonella outbreak in the US
+# Trump administration has revoked more than 175,000 visas, State Department says
 
 By Reuters
 
-August 7, 20264:34 AM PDTUpdated 12 hours ago
+August 10, 20265:03 PM UTCUpdated August 10, 2026
 
-![Salmonella-linked jalapenos add to US food safety worries](https://ajo.prod.reuters.tv/api/v2/img/6a757749e4b098c99033370b?width=1080&quality=80)
+![State Department starts firing more than 1,350 workers in Trump's shake-up of diplomatic corps](https://www.reuters.com/resizer/v2/KBP6UW4LPFKHTIOBPTNHN7BQKA.jpg?auth=29beea51c26f3a96f1c4d976500fb17242b302d84f5a043ed9df41c9dced5700&width=1920&quality=80)
 
-August 10 - U.S. health authorities are currently investigating a multistate outbreak of salmonella javiana infections linked to fresh jalapeno peppers.
+A general view of a U.S. State Department sign outside the U.S. State Department building in Washington, D.C., U.S., July 11, 2025. REUTERS/Annabelle Gordon/File Photo [Purchase Licensing Rights, opens new tab](https://www.reutersconnect.com/item/state-department-starts-firing-more-than-1350-workers-in-trumps-shake-up-of-diplomatic-corps/dGFnOnJldXRlcnMuY29tLDIwMjU6bmV3c21sX1JDMkZLRkFWM09KNw%3D%3D/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead)
 
-The investigation is being carried out jointly by the Centers for Disease Control and Prevention and the U.S. Food and Drug Administration, alongside state and ​local health departments.
+Aug 10 (Reuters) - The U.S. State Department said on Monday it has revoked more than 175,000 visas from foreign nationals under President Donald Trump's administration, ​as it continues a [sweeping immigration crackdown](https://www.reuters.com/world/us/trump-set-expand-immigration-crackdown-2026-despite-brewing-backlash-2025-12-21/) that has stripped travel and ‌immigration privileges from tens of thousands more people.
 
-Keep up with the latest medical breakthroughs and healthcare trends with the Reuters Health Rounds newsletter. Sign up [here.](https://www.reuters.com/newsletters/reuters-health-rounds/?location=article-paragraph&redirectUrl=%2Fbusiness%2Fhealthcare-pharmaceuticals%2Fwhat-know-about-multistate-salmonella-outbreak-us-2026-08-07%2F)
+The department said in a statement the revocations targeted foreigners who "violated the terms of their visas, committed crimes, called for ​violence against U.S. citizens, defrauded Americans, abused our immigration system, or ​endangered national security."
 
-The FDA said reported illnesses began between June 19 and July 20.
+Sign up [here.](https://www.reuters.com/legal/government/trump-administration-has-revoked-more-than-175000-visas-state-department-says-2026-08-10/undefined?location=article-paragraph&redirectUrl=%2Flegal%2Fgovernment%2Ftrump-administration-has-revoked-more-than-175000-visas-state-department-says-2026-08-10%2F)
 
-The salmonella outbreak comes as U.S. health officials also [investigate](https://www.reuters.com/business/healthcare-pharmaceuticals/cyclosporiasis-cases-michigan-climb-over-12000-state-health-officials-say-2026-08-05/) a multistate ‌Cyclosporiasis outbreak linked to lettuce supplied by privately held Taylor Farms, a major food-service producer whose customers include Yum Brands' [(YUM.N), opens new tab](https://www.reuters.com/markets/companies/YUM.N) Taco Bell.
+Most visas were revoked following "law enforcement encounters," with ⁠assault, driving under the influence, theft and drug crimes the leading causes, ​the department said.
 
-Here is what we know about the salmonella outbreak so far:
+Specific cases cited by the department include a person charged ​with felony rape and sexual battery, another charged with kidnapping and human trafficking, and a person facing more than a dozen counts of possessing child sexual abuse material. A ​U.S. embassy in North Africa revoked more than 100 visas from "birth ​tourist" parents who allegedly came to the U.S. primarily to give birth so their children ‌would ⁠receive U.S. citizenship, it said.
 
-## WHAT IS IT ?
+The department also said it had revoked the visas of multiple [foreigners who "celebrated" the assassination of conservative activist Charlie Kirk](https://www.reuters.com/world/us/us-revokes-visas-six-foreigners-over-comments-made-about-charlie-kirks-death-2025-10-14/), including one who said he "died too late."
 
-Salmonella is a group of rod-shaped bacteria that can cause salmonellosis, a common foodborne illness. Symptoms typically include diarrhea, fever and abdominal cramps, which usually develop 12 to 72 hours after consuming ​contaminated food and last four to seven days.
+In January, the department said it [had revoked ​more than 100,000 visas](https://www.reuters.com/legal/government/trump-administration-has-revoked-over-100000-visas-state-department-says-2026-01-12/), ​a record ⁠at the time.
 
-Young children, older adults and people with weakened immune systems are at greater risk of severe infection and ​complications.
+The extent of the revocations reflects the broad immigration crackdown initiated when Trump returned to the White ​House last year, deporting an unprecedented number of migrants ​including some ⁠who held valid visas. The administration has also adopted a stricter policy on granting visas, with tightened social media vetting and expanded screening.
 
-As of August 5, 345 people across 27 states have gotten sick with the strain of salmonella that has now been linked ⁠to jalapenos. Thirty-six people have been hospitalized, and no deaths have been reported.
+Rights advocates and ⁠human ​rights experts have [condemned the Trump administration's social media ​screening efforts](https://www.reuters.com/world/us/us-screen-social-media-immigrants-rights-advocates-raise-concerns-2025-04-09/), which they say threaten free speech and are akin to surveillance and singling ​out of immigrants.
 
-Cases which have been reported across 27 states span the Midwest, South and West, underscoring ​the broad distribution of the contaminated jalapeno peppers.
-
-Salmonella remains one of the leading causes of foodborne illness in the United States, causing an estimated 1.35 million infections each year, ​according to the CDC.
-
-Historically, some of the largest U.S. salmonella outbreaks include a 1985 milk-linked outbreak that caused 5,770 culture-confirmed cases, a 2010 egg-linked outbreak during which 3,578 illnesses were reported nationwide, and a 2008 outbreak traced to contaminated jalapeno and serrano peppers that sickened 1,442 people.
-
-## WHAT DO WE KNOW ABOUT THE CONTAMINATED PRODUCE?
-
-Jalapeno peppers are pictured in Encinitas, California July 22, 2008. REUTERS/Mike Blake [Purchase Licensing Rights, opens new tab](https://www.reutersconnect.com/item/jalapeno-peppers-are-pictured-in-encinitas/dGFnOnJldXRlcnMuY29tLDIwMDg6bmV3c21sX0dNMUU0N04wRFZEMDE%3D/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead)
-
-The infections have been linked to jalapeno peppers from Sinaloa, Mexico, and ​distributed by Coast Citrus Distributors to distributors, restaurants, and food service companies, including Mexican-style restaurants in the U.S.
-
-After being notified about the outbreak, Chipotle Mexican Grill [(CMG.N), opens new tab](https://www.reuters.com/markets/companies/CMG.N) and QDOBA [stopped ​serving](https://www.reuters.com/business/healthcare-pharmaceuticals/cdc-says-345-sickened-salmonella-outbreak-tied-jalapeno-peppers-2026-08-05/) affected jalapeno peppers. QDOBA restaurants are also no longer serving jalapeno peppers.
-
-Among interviewed patients, a large majority reported eating at Mexican-style restaurants before their illness, including Chipotle Mexican Grill and ‌QDOBA, with ⁠meal dates ranging from June 14 to July 14.
-
-Coast Citrus Distributors has agreed to recall jalapeno peppers linked to this outbreak.
-
-Taylor Farms has [recalled](https://www.reuters.com/business/healthcare-pharmaceuticals/taylor-farms-pulls-salsa-guacamole-over-salmonella-concerns-bloomberg-news-2026-08-09/) prepared food items containing jalapeno peppers, including salsa and guacamole sold by retailers, over concerns about potential salmonella contamination. The California-based supplier has stopped sourcing from a farmer in Sinaloa, Mexico, after it was identified as a possible source of the outbreak.
-
-As the products have been removed from their stores, FDA does not consider there to be a current ongoing risk from these establishments ​to consumers in this outbreak. The regulator ​is working with Coast Citrus Distributors ⁠to determine the full distribution of these products.
-
-## WHAT CAN PEOPLE DO TO PROTECT THEMSELVES?
-
-Distributors, restaurants and food service operators should not sell or serve fresh jalapenos imported from Sinaloa, Mexico, by Coast Citrus Distributors. Recalled jalapenos they may have frozen as well as ​any fresh jalapenos from Sinaloa should be discarded if the supplier cannot be confirmed, according to the FDA.
-
-The FDA advised ​consumers who recently dined ⁠at a Mexican-style restaurant and have become ill to seek immediate medical care.
-
-Common remedies for the infection include antibiotics like fluoroquinolones, azithromycin, and third-generation cephalosporins usually prescribed for severe cases or high-risk patients, according to the CDC.
-
-Restaurants and retailers have been advised to use extra care in cleaning and sanitizing any surfaces and containers that may have come in contact ⁠with this ​product to reduce the risk of cross-contamination.
-
-## WHAT SURVEILLANCE IS BEING DONE ?
-
-The outbreak is monitored through a coordinated ​surveillance system involving the CDC, FDA, and state and local public health agencies. Investigators use epidemiological interviews, laboratory testing and food traceback investigations to identify the source of contamination and track its distribution.
-
-The FDA is ​currently conducting traceback efforts, testing samples, reviewing distribution records and overseeing recalls to prevent additional contaminated products from reaching consumers.
-
-Reporting by Padmanabhan Ananthan in Bengaluru; Editing by Devika Syamnath
+Reporting by Ryan Patrick Jones in Toronto; Editing by Andrea Ricci
 
 Our Standards: [The Thomson Reuters Trust Principles., opens new tab](https://www.thomsonreuters.com/en/about-us/trust-principles.html)
 
 - Suggested Topics:
-- [](https://www.reuters.com/business/healthcare-pharmaceuticals/)
+- [](https://www.reuters.com/legal/government/)
+- [](https://www.reuters.com/legal/white-collar-crime/)
+- [](https://www.reuters.com/sustainability/human-rights/)
+- [](https://www.reuters.com/legal/civil-rights/)
+- [](https://www.reuters.com/legal/public-policy/)
 
 [](https://www.reutersagency.com/en/licensereuterscontent/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead)
 
-## Read Next
+## Read Next / Editor's Picks
 
-- [Healthcare & Pharmaceuticalscategory](https://www.reuters.com/business/healthcare-pharmaceuticals/)
+- [Worldcategory](https://www.reuters.com/world/)
     
-    [Taylor Farms recalls salsa, guacamole on salmonella outbreak, intensifying food-safety fears](https://www.reuters.com/business/healthcare-pharmaceuticals/taylor-farms-pulls-salsa-guacamole-over-salmonella-concerns-bloomberg-news-2026-08-09/)
-    
-    [
-    
-    ](https://www.reuters.com/business/healthcare-pharmaceuticals/taylor-farms-pulls-salsa-guacamole-over-salmonella-concerns-bloomberg-news-2026-08-09/)
-    
-- [Healthcare & Pharmaceuticalscategory](https://www.reuters.com/business/healthcare-pharmaceuticals/)
-    
-    [Eli Lilly's weight-loss pill secures first European nod in Britain](https://www.reuters.com/business/healthcare-pharmaceuticals/uk-green-lights-lillys-obesity-pill-2026-08-10/)
+    [ACLU, others urge judge to block Trump's latest birthright citizenship orders](https://www.reuters.com/world/aclu-other-groups-sue-block-trump-effort-curtail-birthright-citizenship-2026-08-11/)
     
     [
     
-    ](https://www.reuters.com/business/healthcare-pharmaceuticals/uk-green-lights-lillys-obesity-pill-2026-08-10/)
+    ](https://www.reuters.com/world/aclu-other-groups-sue-block-trump-effort-curtail-birthright-citizenship-2026-08-11/)
     
-- [Legalcategory](https://www.reuters.com/legal/)
+- [Worldcategory](https://www.reuters.com/world/)
     
-    [US health agency moves to increase oversight of food additives](https://www.reuters.com/legal/litigation/us-health-agency-moves-increase-oversight-food-additives-2026-08-10/)
-    
-    [
-    
-    ](https://www.reuters.com/legal/litigation/us-health-agency-moves-increase-oversight-food-additives-2026-08-10/)
-    
-- [Legalcategory](https://www.reuters.com/legal/)
-    
-    [Jazz bets on epilepsy treatment with up to $1.32 billion deal for Actio](https://www.reuters.com/legal/litigation/jazz-bets-epilepsy-treatment-with-up-132-billion-deal-actio-2026-08-10/)
+    [Trump floats possible legal challenge to New York tax on luxury second homes](https://www.reuters.com/world/trump-floats-possible-legal-challenge-new-york-tax-luxury-second-homes-2026-08-11/)
     
     [
     
-    ](https://www.reuters.com/legal/litigation/jazz-bets-epilepsy-treatment-with-up-132-billion-deal-actio-2026-08-10/)
+    ](https://www.reuters.com/world/trump-floats-possible-legal-challenge-new-york-tax-luxury-second-homes-2026-08-11/)
     
-- [Healthcare & Pharmaceuticalscategory](https://www.reuters.com/business/healthcare-pharmaceuticals/)
+- [Worldcategory](https://www.reuters.com/world/)
     
-    [AbCellera's menopause drug cuts hot flashes in mid-stage trial, shares surge](https://www.reuters.com/business/healthcare-pharmaceuticals/abcellera-menopause-drug-cuts-hot-flashes-mid-stage-trial-shares-rise-2026-08-10/)
-    
-    [
-    
-    ](https://www.reuters.com/business/healthcare-pharmaceuticals/abcellera-menopause-drug-cuts-hot-flashes-mid-stage-trial-shares-rise-2026-08-10/)
-    
-- [Legalcategory](https://www.reuters.com/legal/)
-    
-    [Sionna scraps genetic disorder drug program after trial setback; shares tank](https://www.reuters.com/legal/litigation/sionna-scraps-genetic-disorder-drug-program-after-trial-setback-shares-tank-2026-08-10/)
+    [Senate Republicans narrowly confirm Todd Blanche as attorney general](https://www.reuters.com/world/us/senate-republicans-narrowly-confirm-todd-blanche-attorney-general-2026-08-08/)
     
     [
     
-    ](https://www.reuters.com/legal/litigation/sionna-scraps-genetic-disorder-drug-program-after-trial-setback-shares-tank-2026-08-10/)
+    ](https://www.reuters.com/world/us/senate-republicans-narrowly-confirm-todd-blanche-attorney-general-2026-08-08/)
+    
+- [Governmentcategory](https://www.reuters.com/legal/government/)
+    
+    [US human rights groups sue Trump over anti-ICC push](https://www.reuters.com/legal/government/us-human-rights-groups-sue-trump-over-anti-icc-push-2026-08-11/)
+    
+    [
+    
+    ](https://www.reuters.com/legal/government/us-human-rights-groups-sue-trump-over-anti-icc-push-2026-08-11/)
+    
+- [Worldcategory](https://www.reuters.com/world/)
+    
+    [New Jersey opens civil rights probe of privately run ICE detention center in Newark](https://www.reuters.com/world/us/new-jersey-opens-civil-rights-probe-privately-run-ice-detention-center-newark-2026-08-07/)
+    
+    [
+    
+    ](https://www.reuters.com/world/us/new-jersey-opens-civil-rights-probe-privately-run-ice-detention-center-newark-2026-08-07/)
+    
+- [Worldcategory](https://www.reuters.com/world/)
+    
+    [US appeals court blocks Trump’s $400 million White House ballroom project](https://www.reuters.com/world/us-appeals-court-blocks-trumps-400-million-white-house-ballroom-project-2026-08-07/)
+    
+    [
+    
+    ](https://www.reuters.com/world/us-appeals-court-blocks-trumps-400-million-white-house-ballroom-project-2026-08-07/)
+    
+- [Governmentcategory](https://www.reuters.com/legal/government/)
+    
+    [US judge blocks Trump administration's third attempt to cancel VA union contract](https://www.reuters.com/legal/government/us-judge-blocks-trump-administrations-third-attempt-cancel-va-union-contract-2026-08-07/)
+    
+    [
+    
+    ](https://www.reuters.com/legal/government/us-judge-blocks-trump-administrations-third-attempt-cancel-va-union-contract-2026-08-07/)
+    
+- [Worldcategory](https://www.reuters.com/world/)
+    
+    [Most Americans favor stronger oversight of social-media companies: Reuters/Ipsos poll](https://www.reuters.com/world/three-five-americans-favor-stronger-oversight-social-media-companies-2026-08-09/)
+    
+    [
+    
+    ](https://www.reuters.com/world/three-five-americans-favor-stronger-oversight-social-media-companies-2026-08-09/)
+    
+- [Worldcategory](https://www.reuters.com/world/)
+    
+    [Trump names Will Scharf as White House counsel](https://www.reuters.com/world/us/trump-names-will-scharf-white-house-counsel-2026-08-09/)
+    
+    [
+    
+    ](https://www.reuters.com/world/us/trump-names-will-scharf-white-house-counsel-2026-08-09/)
+    
+- [Litigationcategory](https://www.reuters.com/legal/litigation/)
+    
+    [US judge orders Pentagon to lift wind project freeze](https://www.reuters.com/legal/litigation/us-judge-orders-pentagon-lift-wind-project-freeze-2026-08-06/)
+    
+    [
+    
+    ](https://www.reuters.com/legal/litigation/us-judge-orders-pentagon-lift-wind-project-freeze-2026-08-06/)
+    
+- [Litigationcategory](https://www.reuters.com/legal/litigation/)
+    
+    [US FDA urges sanitation, supplier checks to curb fresh-cut produce contamination](https://www.reuters.com/legal/litigation/us-fda-finalizes-new-guidance-freshly-cut-produce-2026-08-11/)
+    
+    [
+    
+    ](https://www.reuters.com/legal/litigation/us-fda-finalizes-new-guidance-freshly-cut-produce-2026-08-11/)
+    
+- [Governmentcategory](https://www.reuters.com/legal/government/)
+    
+    [Kansas voters say no to electing state supreme court justices](https://www.reuters.com/legal/government/kansas-voters-say-no-electing-state-supreme-court-justices-2026-08-05/)
+    
+    [
+    
+    ](https://www.reuters.com/legal/government/kansas-voters-say-no-electing-state-supreme-court-justices-2026-08-05/)
+    
+- [Businesscategory](https://www.reuters.com/business/)
+    
+    [EU packaging rules take effect with limits on 'forever chemicals', plastics curbs](https://www.reuters.com/business/environment/eu-packaging-rules-take-effect-with-limits-forever-chemicals-plastics-curbs-2026-08-11/)
+    
+    [
+    
+    ](https://www.reuters.com/business/environment/eu-packaging-rules-take-effect-with-limits-forever-chemicals-plastics-curbs-2026-08-11/)
+    
+- [Governmentcategory](https://www.reuters.com/legal/government/)
+    
+    [Indian regulator proposes to bring all bullion trades under vault management rules](https://www.reuters.com/legal/government/indian-regulator-proposes-bring-all-bullion-trades-under-vault-management-rules-2026-08-11/)
+    
+    [
+    
+    ](https://www.reuters.com/legal/government/indian-regulator-proposes-bring-all-bullion-trades-under-vault-management-rules-2026-08-11/)
+    
+- [Businesscategory](https://www.reuters.com/business/)
+    
+    [Hims & Hers shares slide as costly weight-loss push squeezes margins](https://www.reuters.com/business/healthcare-pharmaceuticals/hims-hers-shares-slide-costly-weight-loss-push-squeezes-margins-2026-08-11/)
+    
+    [
+    
+    ](https://www.reuters.com/business/healthcare-pharmaceuticals/hims-hers-shares-slide-costly-weight-loss-push-squeezes-margins-2026-08-11/)
     
 
 [](https://www.lseg.com/en/data-analytics/products/workspace?utm_source=reuters.com&utm_medium=articlebanner&utm_campaign=Reuters_ProductPage_Links)
-
-## [Business](https://www.reuters.com/business/)
-
-- [
-    
-    ](https://www.reuters.com/legal/government/brazilian-police-accuse-goldman-executives-fraud-over-oncoclinicas-tender-offer-2026-08-10/)
-    
-    ### [Brazilian police accuse Goldman executives of fraud over Oncoclinicas tender offer](https://www.reuters.com/legal/government/brazilian-police-accuse-goldman-executives-fraud-over-oncoclinicas-tender-offer-2026-08-10/)
-    
-    [Legalcategory](https://www.reuters.com/legal/) · August 10, 2026 · 4:01 PM PDT · 19 mins ago
-    
-    Sao Paulo civil police have formally accused two Goldman ​Sachs representatives of fraud in a dispute ‌over a public share tender offer demanded by minority shareholders of cancer treatment group Oncoclinicas , according ​to a police document seen by Reuters ​on Monday.
-    
-- [
-    
-    ](https://www.reuters.com/legal/transactional/rbc-bmo-sell-moneris-francisco-partners-144-billion-deal-2026-08-10/)
-    
-    [Legalcategory](https://www.reuters.com/legal/)[RBC, BMO to sell Moneris to Francisco Partners in $1.44 billion deal](https://www.reuters.com/legal/transactional/rbc-bmo-sell-moneris-francisco-partners-144-billion-deal-2026-08-10/)
-    
-    3:37 PM PDT
-    
-- [
-    
-    ](https://www.reuters.com/business/ukrainian-central-bank-issues-biggest-currency-liberalisation-since-2022-2026-08-10/)
-    
-    [Businesscategory](https://www.reuters.com/business/)[Ukrainian central bank issues biggest currency liberalisation since 2022 invasion](https://www.reuters.com/business/ukrainian-central-bank-issues-biggest-currency-liberalisation-since-2022-2026-08-10/)
-    
-    3:25 PM PDT
-    
-- [
-    
-    ](https://www.reuters.com/business/finance/flowers-foods-seeks-divest-tastykake-baked-goods-business-sources-say-2026-08-10/)
-    
-    [Financecategory](https://www.reuters.com/business/finance/)[Flowers Foods seeks to divest Tastykake baked goods business, sources say](https://www.reuters.com/business/finance/flowers-foods-seeks-divest-tastykake-baked-goods-business-sources-say-2026-08-10/)
-    
-    2:38 PM PDT
-    
-- [
-    
-    ](https://www.reuters.com/world/uk/uks-burnham-tackle-vape-betting-shops-search-high-street-revival-2026-08-10/)
-    
-    [Worldcategory](https://www.reuters.com/world/)[UK's Burnham to tackle vape, betting shops in search of high street revival](https://www.reuters.com/world/uk/uks-burnham-tackle-vape-betting-shops-search-high-street-revival-2026-08-10/)
-    
-    2:33 PM PDT
-    
 
 ### Site Index
 

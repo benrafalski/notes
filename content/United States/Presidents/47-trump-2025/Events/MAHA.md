@@ -2,7 +2,17 @@
 layout: default
 title: MAHA
 ---
-
+# Vaccines
+## Child Immunization Schedule
+### Executive Orders
+#### August 2026
+- Trump [signs](https://www.reuters.com/business/healthcare-pharmaceuticals/trump-sign-order-seeking-more-vaccine-flexibility-white-house-says-2026-08-10/) executive order calling for fewer childhood ​vaccinations by limiting the inoculation schedule to 11 immunizations, claiming it would give U.S. children "gold-standard" protection and align the country with peer nations that recommend fewer shots. 
+- Also recommends splitting the MMR vaccine into three shots taken at separate visits. 
+- Also directs the DOJ to challenge state vaccination laws, escalating a federal fight over school immunization requirements set by states, by instructing the AG to sue over state laws the administration says conflict with parental authority, religious freedom, disability accommodations and equal protection.
+- Physicians roundly rejected the action, saying no ​new science warranted a change, and that the U.S. schedule reflects decades of evidence and the specific health needs of Americans, rejecting the comparison to other ⁠countries. 
+- They also said fewer recommended shots will leave more children exposed to preventable diseases. 
+- **"72 Injections"**: Trump, Kennedy and ​other officials said the order means U.S. children would receive far fewer than the 72 injections recommended under the previous schedule but vaccine experts say that ​figure is inflated, because it ⁠counts combination shots such as MMR as multiple injections, and assumes annual flu and COVID-19 doses. Other developed countries that may recommend fewer shots also face different disease risks and have different healthcare systems. 
+- **Autism**: Trump also repeated false claims of a link between vaccines and autism, which ⁠40 well-designed studies ​had already examined over a long period of time and found no link.
 # Disease Outbreaks
 ## Measles
 ### Measles Cases + Outbreaks
