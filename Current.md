@@ -12,174 +12,210 @@
     
 - [Sustainability](https://www.reuters.com/sustainability/)
     
+- [Legal](https://www.reuters.com/legal/)
+    
+- [Commentary](https://www.reuters.com/commentary/)
+    
+- [Technology](https://www.reuters.com/technology/)
+    
+- [Investigations](https://www.reuters.com/investigations/)
 - More
     
 
-# Trump administration has revoked more than 175,000 visas, State Department says
+[My News](https://www.reuters.com/my-news/feed/)
 
-By Reuters
+[](https://www.reuters.com/account/sign-in/?redirect=https%3A%2F%2Fwww.reuters.com%2Fworld%2Fjudge-blocks-us-postal-service-restricting-mail-in-voting-2026-08-11%2F)[](https://www.reuters.com/account/subscribe/offer/?redirect=https%3A%2F%2Fwww.reuters.com%2Fworld%2Fjudge-blocks-us-postal-service-restricting-mail-in-voting-2026-08-11%2F&referrer=subscription_button&journeyStart=navigation)
 
-August 10, 20265:03 PM UTCUpdated August 10, 2026
+# Judge blocks US Postal Service from restricting mail-in voting
 
-![State Department starts firing more than 1,350 workers in Trump's shake-up of diplomatic corps](https://www.reuters.com/resizer/v2/KBP6UW4LPFKHTIOBPTNHN7BQKA.jpg?auth=29beea51c26f3a96f1c4d976500fb17242b302d84f5a043ed9df41c9dced5700&width=1920&quality=80)
+By [Nate Raymond](https://www.reuters.com/authors/nate-raymond/) and [Luc Cohen](https://www.reuters.com/authors/luc-cohen/)
 
-A general view of a U.S. State Department sign outside the U.S. State Department building in Washington, D.C., U.S., July 11, 2025. REUTERS/Annabelle Gordon/File Photo [Purchase Licensing Rights, opens new tab](https://www.reutersconnect.com/item/state-department-starts-firing-more-than-1350-workers-in-trumps-shake-up-of-diplomatic-corps/dGFnOnJldXRlcnMuY29tLDIwMjU6bmV3c21sX1JDMkZLRkFWM09KNw%3D%3D/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead)
+August 11, 20262:09 PM PDTUpdated 21 hours ago
 
-Aug 10 (Reuters) - The U.S. State Department said on Monday it has revoked more than 175,000 visas from foreign nationals under President Donald Trump's administration, ​as it continues a [sweeping immigration crackdown](https://www.reuters.com/world/us/trump-set-expand-immigration-crackdown-2026-despite-brewing-backlash-2025-12-21/) that has stripped travel and ‌immigration privileges from tens of thousands more people.
+![Judge wights bid to block Trump's mail-in voting executive order in Boston](https://www.reuters.com/resizer/v2/3K3GRVB7CZLDRIYAWDEOEI4QC4.jpg?auth=0f9058e77acbef27a08a12d0cd1e61032714adfc44d20d49741f0f7a7aea46f1&width=1920&quality=80)
 
-The department said in a statement the revocations targeted foreigners who "violated the terms of their visas, committed crimes, called for ​violence against U.S. citizens, defrauded Americans, abused our immigration system, or ​endangered national security."
+Supporters gather outside the federal courthouse after a hearing in a lawsuit brought by a coalition of Democratic state attorneys general seeking to block U.S. President Donald Trump's executive order tightening rules on mail-in voting, in Boston, Massachusetts, U.S., June 2, 2026. REUTERS/Brian Snyder [Purchase Licensing Rights, opens new tab](https://www.reutersconnect.com/item/judge-wights-bid-to-block-trumps-mail-in-voting-executive-order-in-boston/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1JDMlNMTEFLR0NTSw%3D%3D/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead)
 
-Sign up [here.](https://www.reuters.com/legal/government/trump-administration-has-revoked-more-than-175000-visas-state-department-says-2026-08-10/undefined?location=article-paragraph&redirectUrl=%2Flegal%2Fgovernment%2Ftrump-administration-has-revoked-more-than-175000-visas-state-department-says-2026-08-10%2F)
+- Summary
+- Companies
 
-Most visas were revoked following "law enforcement encounters," with ⁠assault, driving under the influence, theft and drug crimes the leading causes, ​the department said.
+- Order would have let USPS refuse ballot delivery if states withheld eligible voter lists
+- Talwani expands June injunction from 23 mostly Democratic-led states to nationwide
+- Trump asks Supreme Court to halt earlier ruling; justices have not yet ruled
 
-Specific cases cited by the department include a person charged ​with felony rape and sexual battery, another charged with kidnapping and human trafficking, and a person facing more than a dozen counts of possessing child sexual abuse material. A ​U.S. embassy in North Africa revoked more than 100 visas from "birth ​tourist" parents who allegedly came to the U.S. primarily to give birth so their children ‌would ⁠receive U.S. citizenship, it said.
+Aug 11 (Reuters) - A federal judge on Tuesday blocked the U.S. Postal Service ‌from implementing part of President [Donald Trump](https://www.reuters.com/world/us/donald-trump/)'s executive order that aims to tighten rules for mail-in voting ahead of November elections that will decide control of Congress.
 
-The department also said it had revoked the visas of multiple [foreigners who "celebrated" the assassination of conservative activist Charlie Kirk](https://www.reuters.com/world/us/us-revokes-visas-six-foreigners-over-comments-made-about-charlie-kirks-death-2025-10-14/), including one who said he "died too late."
+The ruling by U.S. District Judge Indira Talwani in Boston marked the latest setback for Trump's [push to expand](https://www.reuters.com/world/us/trump-signs-order-mail-ballots-escalating-election-overhaul-push-2026-03-31/) the federal government's role in overseeing elections.
 
-In January, the department said it [had revoked ​more than 100,000 visas](https://www.reuters.com/legal/government/trump-administration-has-revoked-over-100000-visas-state-department-says-2026-01-12/), ​a record ⁠at the time.
+The Reuters Daily Briefing newsletter provides all the news you need to start your day. Sign up [here.](https://www.reuters.com/newsletters/daily-briefing/?location=article-paragraph&redirectUrl=%2Fworld%2Fjudge-blocks-us-postal-service-restricting-mail-in-voting-2026-08-11%2F)
 
-The extent of the revocations reflects the broad immigration crackdown initiated when Trump returned to the White ​House last year, deporting an unprecedented number of migrants ​including some ⁠who held valid visas. The administration has also adopted a stricter policy on granting visas, with tightened social media vetting and expanded screening.
+Trump, a Republican, ​signed his executive order in March after years of calling for [tighter rules](https://www.reuters.com/world/us/elections/) on voting by mail and pushing the false ​claim that his 2020 election defeat was the result of widespread voter fraud.
 
-Rights advocates and ⁠human ​rights experts have [condemned the Trump administration's social media ​screening efforts](https://www.reuters.com/world/us/us-screen-social-media-immigrants-rights-advocates-raise-concerns-2025-04-09/), which they say threaten free speech and are akin to surveillance and singling ​out of immigrants.
+The executive order called on ⁠states to provide lists of eligible voters who may receive mail ballots. If states did not comply, USPS would have refused to ​deliver the ballots.
 
-Reporting by Ryan Patrick Jones in Toronto; Editing by Andrea Ricci
+White House spokesperson Lauren Bis said in a statement: "The entire Trump Administration will continue lawfully enacting the agenda President Trump was ​elected to enact – which includes the safety and security of American elections."
+
+## RULING EXPANDS ON PREVIOUS ORDER
+
+Tuesday's decision effectively expanded on an earlier order Talwani issued in June that prevented Trump's administration from implementing it in 23 mostly Democratic-led states.
+
+Several voting rights groups represented by the American Civil Liberties Union asked the judge ​to go further and bar the USPS altogether from implementing the order anywhere in the nation.
+
+In granting the plaintiffs' request, Talwani, an ​appointee of Democratic President Barack Obama, wrote that the executive branch of the federal government had no authority to regulate elections, a responsibility that the ‌U.S. Constitution ⁠assigns to individual states.
+
+"The (executive order) is presently causing confusion and threatening both increasing chaos and an erosion of trust in our democracy," Talwani wrote. "Enfranchisement heavily outweighs the executive's attempt to unconstitutionally insert itself into the domain of election regulation."
+
+Sophia Lin Lakin, a voting rights lawyer with the ACLU, said in a statement: "Today's ruling sends another necessary message to an administration that continues to weaponize portions of the government to ​sow chaos into our elections."
+
+## TRUMP ​SEEKS SUPREME COURT REVIEW
+
+The Trump ⁠administration has asked the U.S. Supreme Court to put Talwani's earlier decision on hold, arguing the states' case was premature as agencies had not yet finalized plans to implement Trump's order.
+
+The top U.S. court, ​where conservative justices hold a 6-3 majority, has not yet ruled.
+
+In a similar case brought by ​the Democratic Party in ⁠Washington, D.C. federal court, a judge in May declined to immediately block the executive order, finding it would be premature to do so because the USPS had not yet issued its rule.
+
+An appeals court affirmed that decision.
+
+Talwani said the case was now ripe for a decision because ⁠the USPS ​had proposed a rule, and the election was closer.
+
+"That it is now less than ​90 days before the November 3, 2026 midterm elections underscores the critical need for an injunction to prevent Defendants (the federal government) from changing election rules on the eve ​of the election," Talwani wrote.
+
+Reporting by Nate Raymond in Boston and Luc Cohen in New York; Editing by Franklin Paul and Nia Williams
 
 Our Standards: [The Thomson Reuters Trust Principles., opens new tab](https://www.thomsonreuters.com/en/about-us/trust-principles.html)
 
 - Suggested Topics:
 - [](https://www.reuters.com/legal/government/)
-- [](https://www.reuters.com/legal/white-collar-crime/)
-- [](https://www.reuters.com/sustainability/human-rights/)
-- [](https://www.reuters.com/legal/civil-rights/)
 - [](https://www.reuters.com/legal/public-policy/)
+- [](https://www.reuters.com/legal/voting-rights-elections/)
+- [](https://www.reuters.com/legal/constitutional-law/)
 
 [](https://www.reutersagency.com/en/licensereuterscontent/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead)
 
-## Read Next / Editor's Picks
+[
 
-- [Worldcategory](https://www.reuters.com/world/)
-    
-    [ACLU, others urge judge to block Trump's latest birthright citizenship orders](https://www.reuters.com/world/aclu-other-groups-sue-block-trump-effort-curtail-birthright-citizenship-2026-08-11/)
-    
-    [
-    
-    ](https://www.reuters.com/world/aclu-other-groups-sue-block-trump-effort-curtail-birthright-citizenship-2026-08-11/)
-    
-- [Worldcategory](https://www.reuters.com/world/)
-    
-    [Trump floats possible legal challenge to New York tax on luxury second homes](https://www.reuters.com/world/trump-floats-possible-legal-challenge-new-york-tax-luxury-second-homes-2026-08-11/)
-    
-    [
-    
-    ](https://www.reuters.com/world/trump-floats-possible-legal-challenge-new-york-tax-luxury-second-homes-2026-08-11/)
-    
-- [Worldcategory](https://www.reuters.com/world/)
-    
-    [Senate Republicans narrowly confirm Todd Blanche as attorney general](https://www.reuters.com/world/us/senate-republicans-narrowly-confirm-todd-blanche-attorney-general-2026-08-08/)
-    
-    [
-    
-    ](https://www.reuters.com/world/us/senate-republicans-narrowly-confirm-todd-blanche-attorney-general-2026-08-08/)
-    
+](https://www.reuters.com/authors/nate-raymond/)
+
+[Nate Raymond](https://www.reuters.com/authors/nate-raymond/)
+
+Thomson Reuters
+
+Nate Raymond reports on the federal judiciary and litigation. He can be reached at nate.raymond@thomsonreuters.com.
+
+- [](mailto:nate.raymond@thomsonreuters.com)
+- [](https://x.com/nateraymond)
+
+[
+
+](https://www.reuters.com/authors/luc-cohen/)
+
+[Luc Cohen](https://www.reuters.com/authors/luc-cohen/)
+
+Thomson Reuters
+
+Reports on the New York federal courts. Previously worked as a correspondent in Venezuela and Argentina.
+
+- [](mailto:luc.cohen@thomsonreuters.com)
+- [](https://x.com/cohenluc)
+
+## Read Next
+
 - [Governmentcategory](https://www.reuters.com/legal/government/)
     
-    [US human rights groups sue Trump over anti-ICC push](https://www.reuters.com/legal/government/us-human-rights-groups-sue-trump-over-anti-icc-push-2026-08-11/)
+    [US charges 11 in sham marriage immigration scheme, following Trump 'birth tourism' order](https://www.reuters.com/legal/government/us-charges-11-sham-marriage-immigration-scheme-following-trump-birth-tourism-2026-08-12/)
     
     [
     
-    ](https://www.reuters.com/legal/government/us-human-rights-groups-sue-trump-over-anti-icc-push-2026-08-11/)
-    
-- [Worldcategory](https://www.reuters.com/world/)
-    
-    [New Jersey opens civil rights probe of privately run ICE detention center in Newark](https://www.reuters.com/world/us/new-jersey-opens-civil-rights-probe-privately-run-ice-detention-center-newark-2026-08-07/)
-    
-    [
-    
-    ](https://www.reuters.com/world/us/new-jersey-opens-civil-rights-probe-privately-run-ice-detention-center-newark-2026-08-07/)
-    
-- [Worldcategory](https://www.reuters.com/world/)
-    
-    [US appeals court blocks Trump’s $400 million White House ballroom project](https://www.reuters.com/world/us-appeals-court-blocks-trumps-400-million-white-house-ballroom-project-2026-08-07/)
-    
-    [
-    
-    ](https://www.reuters.com/world/us-appeals-court-blocks-trumps-400-million-white-house-ballroom-project-2026-08-07/)
-    
-- [Governmentcategory](https://www.reuters.com/legal/government/)
-    
-    [US judge blocks Trump administration's third attempt to cancel VA union contract](https://www.reuters.com/legal/government/us-judge-blocks-trump-administrations-third-attempt-cancel-va-union-contract-2026-08-07/)
-    
-    [
-    
-    ](https://www.reuters.com/legal/government/us-judge-blocks-trump-administrations-third-attempt-cancel-va-union-contract-2026-08-07/)
-    
-- [Worldcategory](https://www.reuters.com/world/)
-    
-    [Most Americans favor stronger oversight of social-media companies: Reuters/Ipsos poll](https://www.reuters.com/world/three-five-americans-favor-stronger-oversight-social-media-companies-2026-08-09/)
-    
-    [
-    
-    ](https://www.reuters.com/world/three-five-americans-favor-stronger-oversight-social-media-companies-2026-08-09/)
-    
-- [Worldcategory](https://www.reuters.com/world/)
-    
-    [Trump names Will Scharf as White House counsel](https://www.reuters.com/world/us/trump-names-will-scharf-white-house-counsel-2026-08-09/)
-    
-    [
-    
-    ](https://www.reuters.com/world/us/trump-names-will-scharf-white-house-counsel-2026-08-09/)
+    ](https://www.reuters.com/legal/government/us-charges-11-sham-marriage-immigration-scheme-following-trump-birth-tourism-2026-08-12/)
     
 - [Litigationcategory](https://www.reuters.com/legal/litigation/)
     
-    [US judge orders Pentagon to lift wind project freeze](https://www.reuters.com/legal/litigation/us-judge-orders-pentagon-lift-wind-project-freeze-2026-08-06/)
+    [US appeals court voids Biden-era efficiency rule for stoves, ovens](https://www.reuters.com/legal/litigation/us-appeals-court-voids-biden-era-efficiency-rule-stoves-ovens-2026-08-11/)
     
     [
     
-    ](https://www.reuters.com/legal/litigation/us-judge-orders-pentagon-lift-wind-project-freeze-2026-08-06/)
+    ](https://www.reuters.com/legal/litigation/us-appeals-court-voids-biden-era-efficiency-rule-stoves-ovens-2026-08-11/)
     
 - [Litigationcategory](https://www.reuters.com/legal/litigation/)
     
-    [US FDA urges sanitation, supplier checks to curb fresh-cut produce contamination](https://www.reuters.com/legal/litigation/us-fda-finalizes-new-guidance-freshly-cut-produce-2026-08-11/)
+    [US bars federal funding of gender-affirming care for low-income minors](https://www.reuters.com/legal/litigation/us-bars-federal-funding-gender-affirming-care-low-income-minors-2026-08-12/)
     
     [
     
-    ](https://www.reuters.com/legal/litigation/us-fda-finalizes-new-guidance-freshly-cut-produce-2026-08-11/)
+    ](https://www.reuters.com/legal/litigation/us-bars-federal-funding-gender-affirming-care-low-income-minors-2026-08-12/)
     
 - [Governmentcategory](https://www.reuters.com/legal/government/)
     
-    [Kansas voters say no to electing state supreme court justices](https://www.reuters.com/legal/government/kansas-voters-say-no-electing-state-supreme-court-justices-2026-08-05/)
+    [US Justice Department charges former Southern Poverty Law Center executive in fraud scheme](https://www.reuters.com/legal/government/us-justice-department-charges-former-southern-poverty-law-center-executive-fraud-2026-08-12/)
     
     [
     
-    ](https://www.reuters.com/legal/government/kansas-voters-say-no-electing-state-supreme-court-justices-2026-08-05/)
-    
-- [Businesscategory](https://www.reuters.com/business/)
-    
-    [EU packaging rules take effect with limits on 'forever chemicals', plastics curbs](https://www.reuters.com/business/environment/eu-packaging-rules-take-effect-with-limits-forever-chemicals-plastics-curbs-2026-08-11/)
-    
-    [
-    
-    ](https://www.reuters.com/business/environment/eu-packaging-rules-take-effect-with-limits-forever-chemicals-plastics-curbs-2026-08-11/)
+    ](https://www.reuters.com/legal/government/us-justice-department-charges-former-southern-poverty-law-center-executive-fraud-2026-08-12/)
     
 - [Governmentcategory](https://www.reuters.com/legal/government/)
     
-    [Indian regulator proposes to bring all bullion trades under vault management rules](https://www.reuters.com/legal/government/indian-regulator-proposes-bring-all-bullion-trades-under-vault-management-rules-2026-08-11/)
+    [Palestinian students and staff sue Columbia University alleging discrimination](https://www.reuters.com/legal/government/palestinian-students-staff-sue-columbia-university-alleging-discrimination-2026-08-12/)
     
     [
     
-    ](https://www.reuters.com/legal/government/indian-regulator-proposes-bring-all-bullion-trades-under-vault-management-rules-2026-08-11/)
+    ](https://www.reuters.com/legal/government/palestinian-students-staff-sue-columbia-university-alleging-discrimination-2026-08-12/)
     
-- [Businesscategory](https://www.reuters.com/business/)
+- [Governmentcategory](https://www.reuters.com/legal/government/)
     
-    [Hims & Hers shares slide as costly weight-loss push squeezes margins](https://www.reuters.com/business/healthcare-pharmaceuticals/hims-hers-shares-slide-costly-weight-loss-push-squeezes-margins-2026-08-11/)
+    [White House asked DOJ to explore new Reflecting Pool charges, sources say](https://www.reuters.com/legal/government/trump-white-house-asked-doj-explore-new-reflecting-pool-charges-sources-say-2026-08-11/)
     
     [
     
-    ](https://www.reuters.com/business/healthcare-pharmaceuticals/hims-hers-shares-slide-costly-weight-loss-push-squeezes-margins-2026-08-11/)
+    ](https://www.reuters.com/legal/government/trump-white-house-asked-doj-explore-new-reflecting-pool-charges-sources-say-2026-08-11/)
     
 
 [](https://www.lseg.com/en/data-analytics/products/workspace?utm_source=reuters.com&utm_medium=articlebanner&utm_campaign=Reuters_ProductPage_Links)
+
+## [World](https://www.reuters.com/world/)
+
+- [
+    
+    ](https://www.reuters.com/business/aerospace-defense/after-trumps-turkey-ruse-look-past-secret-presidential-trips-2026-08-12/)
+    
+    ### [After Trump's Turkey ruse, a look at past secret presidential trips](https://www.reuters.com/business/aerospace-defense/after-trumps-turkey-ruse-look-past-secret-presidential-trips-2026-08-12/)
+    
+    [category](https://www.reuters.com/business/)· August 12, 2026 · 3:40 PM PDT · 11 mins ago
+    
+    Closed aircraft window shades. A ballcap pulled low to hide the president's face. Seized cellphones. Strict warnings against leaks.
+    
+- [
+    
+    ](https://www.reuters.com/business/autos-transportation/automaker-ford-move-production-some-lincoln-models-china-us-2026-08-12/)
+    
+    [Businesscategory](https://www.reuters.com/business/)[Automaker Ford to move production of some Lincoln models from China to US](https://www.reuters.com/business/autos-transportation/automaker-ford-move-production-some-lincoln-models-china-us-2026-08-12/)
+    
+    3:13 PM PDT
+    
+- [
+    
+    ](https://www.reuters.com/legal/government/trump-sued-over-service-that-offers-paid-early-access-truth-social-posts-2026-08-12/)
+    
+    [Legalcategory](https://www.reuters.com/legal/)[Trump sued over service that offers paid early access to Truth Social posts](https://www.reuters.com/legal/government/trump-sued-over-service-that-offers-paid-early-access-truth-social-posts-2026-08-12/)
+    
+    3:12 PM PDT
+    
+- [
+    
+    ](https://www.reuters.com/world/trump-signed-memo-allow-use-cyber-tools-target-transnational-criminal-orgs-white-2026-08-12/)
+    
+    [Worldcategory](https://www.reuters.com/world/)[Trump signed memo to allow use of cyber tools to target transnational criminal orgs, White House says](https://www.reuters.com/world/trump-signed-memo-allow-use-cyber-tools-target-transnational-criminal-orgs-white-2026-08-12/)
+    
+    3:04 PM PDT
+    
+- [
+    
+    ](https://www.reuters.com/world/blue-paint-meets-green-algae-lincoln-memorial-reflecting-pool-clone-2026-06-18/)
+    
+    [Worldcategory](https://www.reuters.com/world/)[Desperate search for survivors after deadly Colombia quake](https://www.reuters.com/world/blue-paint-meets-green-algae-lincoln-memorial-reflecting-pool-clone-2026-06-18/)
+    
+    2:56 PM PDT
+    
 
 ### Site Index
 

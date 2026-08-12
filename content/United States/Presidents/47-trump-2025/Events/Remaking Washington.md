@@ -5,5 +5,5 @@
 
 # White House Ballroom
 - Court Battle:
-	- Appeal: Washington-based U.S. Court of Appeals for the District of Columbia Circuit rules 2-1 to uphold Judge Leon's injunction.
+	- Appeal: Washington-based U.S. Court of Appeals for the District of Columbia Circuit rules 2-1 to [uphold Judge Leon's injunction](https://www.reuters.com/world/us-appeals-court-blocks-trumps-400-million-white-house-ballroom-project-2026-08-07/).
 

@@ -7,7 +7,7 @@ title: MAHA
 ### Executive Orders
 #### August 2026
 - Trump [signs](https://www.reuters.com/business/healthcare-pharmaceuticals/trump-sign-order-seeking-more-vaccine-flexibility-white-house-says-2026-08-10/) executive order calling for fewer childhood ​vaccinations by limiting the inoculation schedule to 11 immunizations, claiming it would give U.S. children "gold-standard" protection and align the country with peer nations that recommend fewer shots. 
-- Also recommends splitting the MMR vaccine into three shots taken at separate visits. 
+- Also recommends splitting the MMR vaccine into three shots taken at separate visits despite no published scientific evidence supporting the separation of ​the vaccines and decades of evidence supporting the safety of their combined shots. Single measles, mumps and rubella shots have not been available in US since 2008 and could take 10 years to be approved by the FDA.
 - Also directs the DOJ to challenge state vaccination laws, escalating a federal fight over school immunization requirements set by states, by instructing the AG to sue over state laws the administration says conflict with parental authority, religious freedom, disability accommodations and equal protection.
 - Physicians roundly rejected the action, saying no ​new science warranted a change, and that the U.S. schedule reflects decades of evidence and the specific health needs of Americans, rejecting the comparison to other ⁠countries. 
 - They also said fewer recommended shots will leave more children exposed to preventable diseases. 

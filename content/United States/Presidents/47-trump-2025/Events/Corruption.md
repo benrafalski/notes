@@ -31,4 +31,4 @@ In August 2026, U.S. ‌District Judge Nicholas Garaufis ​[dismissed criminal 
 
 # Qatari Jet
 ## Security Concerns
-- WaPo reports Trump boarded [secret Turkey flight](https://www.reuters.com/business/aerospace-defense/trump-flew-secretly-turkey-due-iranian-threat-washington-post-reports-2026-08-11/) in July 2026 via catering truck due to credible Iran assassination threat. Trump had taken a newly renovated Qatari-donated jet to Ankara for the NATO summit but unexpectedly announced he would use an older Air Force One when departing the country, ​a move that prompted questions about the newer plane's security.
+- WaPo reports Trump boarded [secret Turkey flight](https://www.reuters.com/business/aerospace-defense/trump-flew-secretly-turkey-due-iranian-threat-washington-post-reports-2026-08-11/) in July 2026 via catering truck due to credible Iran assassination threat. Trump had taken a newly renovated Qatari-donated jet to Ankara for the NATO summit but unexpectedly announced he would use an older Air Force One when departing the country, ​a move that prompted questions about the newer plane's security. 
