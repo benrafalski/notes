@@ -24,150 +24,96 @@
 
 [My News](https://www.reuters.com/my-news/feed/)
 
-[](https://www.reuters.com/account/sign-in/?redirect=https%3A%2F%2Fwww.reuters.com%2Fworld%2Fjudge-blocks-us-postal-service-restricting-mail-in-voting-2026-08-11%2F)[](https://www.reuters.com/account/subscribe/offer/?redirect=https%3A%2F%2Fwww.reuters.com%2Fworld%2Fjudge-blocks-us-postal-service-restricting-mail-in-voting-2026-08-11%2F&referrer=subscription_button&journeyStart=navigation)
+[](https://www.reuters.com/account/sign-in/?redirect=https%3A%2F%2Fwww.reuters.com%2Fworld%2Fus%2Fworld-war-two-memorial-washington-vandalized-with-bubbles-graffiti-2026-08-13%2F)[](https://www.reuters.com/account/subscribe/offer/?redirect=https%3A%2F%2Fwww.reuters.com%2Fworld%2Fus%2Fworld-war-two-memorial-washington-vandalized-with-bubbles-graffiti-2026-08-13%2F&referrer=subscription_button&journeyStart=navigation)
 
-# Judge blocks US Postal Service from restricting mail-in voting
+# World War Two memorial in Washington vandalized with bubbles and graffiti
 
-By [Nate Raymond](https://www.reuters.com/authors/nate-raymond/) and [Luc Cohen](https://www.reuters.com/authors/luc-cohen/)
+By Reuters
 
-August 11, 20262:09 PM PDTUpdated 21 hours ago
+August 13, 20263:28 PM PDTUpdated 13 hours ago
 
-![Judge wights bid to block Trump's mail-in voting executive order in Boston](https://www.reuters.com/resizer/v2/3K3GRVB7CZLDRIYAWDEOEI4QC4.jpg?auth=0f9058e77acbef27a08a12d0cd1e61032714adfc44d20d49741f0f7a7aea46f1&width=1920&quality=80)
+Item 1 of 5 Members of the National Guard stand near the World War II Memorial, after the pool was reportedly vandalized with soap and graffiti, in Washington, D.C., U.S., August 13, 2026. REUTERS/Kylie Cooper
 
-Supporters gather outside the federal courthouse after a hearing in a lawsuit brought by a coalition of Democratic state attorneys general seeking to block U.S. President Donald Trump's executive order tightening rules on mail-in voting, in Boston, Massachusetts, U.S., June 2, 2026. REUTERS/Brian Snyder [Purchase Licensing Rights, opens new tab](https://www.reutersconnect.com/item/judge-wights-bid-to-block-trumps-mail-in-voting-executive-order-in-boston/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1JDMlNMTEFLR0NTSw%3D%3D/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead)
+**[1/5]**Members of the National Guard stand near the World War II Memorial, after the pool was reportedly vandalized with soap and graffiti, in Washington, D.C., U.S., August 13, 2026. REUTERS/Kylie Cooper [Purchase Licensing Rights, opens new tab](https://www.reutersconnect.com/item/world-war-ii-memorial-reportedly-vandalized-in-washington/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1JDMlhYTUFaMjIzTA%3D%3D/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead)
 
-- Summary
-- Companies
+Aug 13 (Reuters) - The World War Two memorial in Washington was vandalized with bubbly soap and graffiti on Thursday, prompting vows from the ​U.S. government to find the perpetrator.
 
-- Order would have let USPS refuse ballot delivery if states withheld eligible voter lists
-- Talwani expands June injunction from 23 mostly Democratic-led states to nationwide
-- Trump asks Supreme Court to halt earlier ruling; justices have not yet ruled
+The fountain bubbled over with suds and ‌someone painted "Clean hands Dirty $" on one surface, splattering the area with red and green paint. Uniformed police and National Guard troops converged on the scene, which was cordoned off with yellow crime scene tape, keeping ​visitors away.
 
-Aug 11 (Reuters) - A federal judge on Tuesday blocked the U.S. Postal Service ‌from implementing part of President [Donald Trump](https://www.reuters.com/world/us/donald-trump/)'s executive order that aims to tighten rules for mail-in voting ahead of November elections that will decide control of Congress.
+The Reuters Daily Briefing newsletter provides all the news you need to start your day. Sign up [here.](https://www.reuters.com/newsletters/daily-briefing/?location=article-paragraph&redirectUrl=%2Fworld%2Fus%2Fworld-war-two-memorial-washington-vandalized-with-bubbles-graffiti-2026-08-13%2F)
 
-The ruling by U.S. District Judge Indira Talwani in Boston marked the latest setback for Trump's [push to expand](https://www.reuters.com/world/us/trump-signs-order-mail-ballots-escalating-election-overhaul-push-2026-03-31/) the federal government's role in overseeing elections.
+One investigator in plainclothes bent over the site of the graffiti, ​measuring the damage with a tape measure, Reuters pictures showed. Workers arrived ⁠to remove the graffiti, the Washington Post reported, citing Park Police officers at ​the site.
 
-The Reuters Daily Briefing newsletter provides all the news you need to start your day. Sign up [here.](https://www.reuters.com/newsletters/daily-briefing/?location=article-paragraph&redirectUrl=%2Fworld%2Fjudge-blocks-us-postal-service-restricting-mail-in-voting-2026-08-11%2F)
+Dedicated in 2004, the memorial features 56 granite pillars around the edge of an ​elliptical plaza on the National Mall as a monument to the 400,000 Americans who died and 16 million who served in the armed forces during the conflict, according to the National Park Service.
 
-Trump, a Republican, ​signed his executive order in March after years of calling for [tighter rules](https://www.reuters.com/world/us/elections/) on voting by mail and pushing the false ​claim that his 2020 election defeat was the result of widespread voter fraud.
+"The ​vandalism that occurred is an utter disgrace and will not be tolerated," the ​Interior Department, which oversees the National Park Service, said in a statement. "Our U.S. Park Police are on ‌the ⁠scene and the investigation is ongoing. The public should know we will find the person responsible for this disgusting act."
 
-The executive order called on ⁠states to provide lists of eligible voters who may receive mail ballots. If states did not comply, USPS would have refused to ​deliver the ballots.
+The Friends of the National WWII Memorial, a nonprofit group dedicated to preserving the memorial, called the vandalism "unacceptable," saying the memorial was a "sacred place ​of remembrance."
 
-White House spokesperson Lauren Bis said in a statement: "The entire Trump Administration will continue lawfully enacting the agenda President Trump was ​elected to enact – which includes the safety and security of American elections."
+"There are ​many places in our ⁠country for expression, debate, and disagreement. A national memorial honoring those who served and those who never returned home should never ​be used as a canvas for vandalism," the Friends said in ​a statement.
 
-## RULING EXPANDS ON PREVIOUS ORDER
+The ⁠U.S. role in World War Two is largely a matter of national pride and unity even in highly polarizing times, though many Americans still debate whether the U.S. should ⁠have dropped ​two atomic bombs on Japan to end the ​war.
 
-Tuesday's decision effectively expanded on an earlier order Talwani issued in June that prevented Trump's administration from implementing it in 23 mostly Democratic-led states.
+The vandalism comes as President Donald Trump has launched a personal and sometimes politically divisive campaign to [alter memorials ​around Washington](https://www.reuters.com/world/us/trump-undertakes-sweeping-makeover-white-house-washington-2026-08-03/).
 
-Several voting rights groups represented by the American Civil Liberties Union asked the judge ​to go further and bar the USPS altogether from implementing the order anywhere in the nation.
-
-In granting the plaintiffs' request, Talwani, an ​appointee of Democratic President Barack Obama, wrote that the executive branch of the federal government had no authority to regulate elections, a responsibility that the ‌U.S. Constitution ⁠assigns to individual states.
-
-"The (executive order) is presently causing confusion and threatening both increasing chaos and an erosion of trust in our democracy," Talwani wrote. "Enfranchisement heavily outweighs the executive's attempt to unconstitutionally insert itself into the domain of election regulation."
-
-Sophia Lin Lakin, a voting rights lawyer with the ACLU, said in a statement: "Today's ruling sends another necessary message to an administration that continues to weaponize portions of the government to ​sow chaos into our elections."
-
-## TRUMP ​SEEKS SUPREME COURT REVIEW
-
-The Trump ⁠administration has asked the U.S. Supreme Court to put Talwani's earlier decision on hold, arguing the states' case was premature as agencies had not yet finalized plans to implement Trump's order.
-
-The top U.S. court, ​where conservative justices hold a 6-3 majority, has not yet ruled.
-
-In a similar case brought by ​the Democratic Party in ⁠Washington, D.C. federal court, a judge in May declined to immediately block the executive order, finding it would be premature to do so because the USPS had not yet issued its rule.
-
-An appeals court affirmed that decision.
-
-Talwani said the case was now ripe for a decision because ⁠the USPS ​had proposed a rule, and the election was closer.
-
-"That it is now less than ​90 days before the November 3, 2026 midterm elections underscores the critical need for an injunction to prevent Defendants (the federal government) from changing election rules on the eve ​of the election," Talwani wrote.
-
-Reporting by Nate Raymond in Boston and Luc Cohen in New York; Editing by Franklin Paul and Nia Williams
+Reporting by Daniel Trotta in Vista, California; Editing by Noeleen Walder and Stephen Coates
 
 Our Standards: [The Thomson Reuters Trust Principles., opens new tab](https://www.thomsonreuters.com/en/about-us/trust-principles.html)
 
 - Suggested Topics:
-- [](https://www.reuters.com/legal/government/)
-- [](https://www.reuters.com/legal/public-policy/)
-- [](https://www.reuters.com/legal/voting-rights-elections/)
-- [](https://www.reuters.com/legal/constitutional-law/)
+- [](https://www.reuters.com/world/us/)
 
 [](https://www.reutersagency.com/en/licensereuterscontent/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead)
 
-[
-
-](https://www.reuters.com/authors/nate-raymond/)
-
-[Nate Raymond](https://www.reuters.com/authors/nate-raymond/)
-
-Thomson Reuters
-
-Nate Raymond reports on the federal judiciary and litigation. He can be reached at nate.raymond@thomsonreuters.com.
-
-- [](mailto:nate.raymond@thomsonreuters.com)
-- [](https://x.com/nateraymond)
-
-[
-
-](https://www.reuters.com/authors/luc-cohen/)
-
-[Luc Cohen](https://www.reuters.com/authors/luc-cohen/)
-
-Thomson Reuters
-
-Reports on the New York federal courts. Previously worked as a correspondent in Venezuela and Argentina.
-
-- [](mailto:luc.cohen@thomsonreuters.com)
-- [](https://x.com/cohenluc)
-
 ## Read Next
 
-- [Governmentcategory](https://www.reuters.com/legal/government/)
+- [Legalcategory](https://www.reuters.com/legal/)
     
-    [US charges 11 in sham marriage immigration scheme, following Trump 'birth tourism' order](https://www.reuters.com/legal/government/us-charges-11-sham-marriage-immigration-scheme-following-trump-birth-tourism-2026-08-12/)
-    
-    [
-    
-    ](https://www.reuters.com/legal/government/us-charges-11-sham-marriage-immigration-scheme-following-trump-birth-tourism-2026-08-12/)
-    
-- [Litigationcategory](https://www.reuters.com/legal/litigation/)
-    
-    [US appeals court voids Biden-era efficiency rule for stoves, ovens](https://www.reuters.com/legal/litigation/us-appeals-court-voids-biden-era-efficiency-rule-stoves-ovens-2026-08-11/)
+    [Luigi Mangione pleads guilty in federal case over insurance CEO killing](https://www.reuters.com/legal/government/luigi-mangione-accused-insurance-ceo-killer-due-court-amid-plea-deal-reports-2026-08-14/)
     
     [
     
-    ](https://www.reuters.com/legal/litigation/us-appeals-court-voids-biden-era-efficiency-rule-stoves-ovens-2026-08-11/)
+    ](https://www.reuters.com/legal/government/luigi-mangione-accused-insurance-ceo-killer-due-court-amid-plea-deal-reports-2026-08-14/)
     
-- [Litigationcategory](https://www.reuters.com/legal/litigation/)
+- [United Statescategory](https://www.reuters.com/world/us/)
     
-    [US bars federal funding of gender-affirming care for low-income minors](https://www.reuters.com/legal/litigation/us-bars-federal-funding-gender-affirming-care-low-income-minors-2026-08-12/)
-    
-    [
-    
-    ](https://www.reuters.com/legal/litigation/us-bars-federal-funding-gender-affirming-care-low-income-minors-2026-08-12/)
-    
-- [Governmentcategory](https://www.reuters.com/legal/government/)
-    
-    [US Justice Department charges former Southern Poverty Law Center executive in fraud scheme](https://www.reuters.com/legal/government/us-justice-department-charges-former-southern-poverty-law-center-executive-fraud-2026-08-12/)
+    [Woman charged over vandalism of Washington's World War Two memorial, prosecutor says](https://www.reuters.com/world/us/woman-charged-over-vandalism-washingtons-world-war-two-memorial-prosecutor-says-2026-08-14/)
     
     [
     
-    ](https://www.reuters.com/legal/government/us-justice-department-charges-former-southern-poverty-law-center-executive-fraud-2026-08-12/)
+    ](https://www.reuters.com/world/us/woman-charged-over-vandalism-washingtons-world-war-two-memorial-prosecutor-says-2026-08-14/)
     
-- [Governmentcategory](https://www.reuters.com/legal/government/)
+- [Worldcategory](https://www.reuters.com/world/)
     
-    [Palestinian students and staff sue Columbia University alleging discrimination](https://www.reuters.com/legal/government/palestinian-students-staff-sue-columbia-university-alleging-discrimination-2026-08-12/)
-    
-    [
-    
-    ](https://www.reuters.com/legal/government/palestinian-students-staff-sue-columbia-university-alleging-discrimination-2026-08-12/)
-    
-- [Governmentcategory](https://www.reuters.com/legal/government/)
-    
-    [White House asked DOJ to explore new Reflecting Pool charges, sources say](https://www.reuters.com/legal/government/trump-white-house-asked-doj-explore-new-reflecting-pool-charges-sources-say-2026-08-11/)
+    [Trump asks US Supreme Court to allow White House ballroom construction to continue](https://www.reuters.com/world/trump-asks-us-supreme-court-allow-white-house-ballroom-construction-continue-2026-08-14/)
     
     [
     
-    ](https://www.reuters.com/legal/government/trump-white-house-asked-doj-explore-new-reflecting-pool-charges-sources-say-2026-08-11/)
+    ](https://www.reuters.com/world/trump-asks-us-supreme-court-allow-white-house-ballroom-construction-continue-2026-08-14/)
+    
+- [Legalcategory](https://www.reuters.com/legal/)
+    
+    [Trump to tout drop in US crime rates with an eye on midterms](https://www.reuters.com/legal/government/trump-tout-drop-us-crime-rates-with-an-eye-midterms-2026-08-14/)
+    
+    [
+    
+    ](https://www.reuters.com/legal/government/trump-tout-drop-us-crime-rates-with-an-eye-midterms-2026-08-14/)
+    
+- [Legalcategory](https://www.reuters.com/legal/)
+    
+    [US CDC records more than 2,500 measles cases so far in 2026](https://www.reuters.com/legal/litigation/us-cdc-records-more-than-2500-measles-cases-so-far-2026-2026-08-14/)
+    
+    [
+    
+    ](https://www.reuters.com/legal/litigation/us-cdc-records-more-than-2500-measles-cases-so-far-2026-2026-08-14/)
+    
+- [United Statescategory](https://www.reuters.com/world/us/)
+    
+    [Kennedy Center board votes to inscribe Trump's name on building](https://www.reuters.com/world/us/kennedy-center-board-votes-inscribe-trumps-name-building-2026-08-13/)
+    
+    [
+    
+    ](https://www.reuters.com/world/us/kennedy-center-board-votes-inscribe-trumps-name-building-2026-08-13/)
     
 
 [](https://www.lseg.com/en/data-analytics/products/workspace?utm_source=reuters.com&utm_medium=articlebanner&utm_campaign=Reuters_ProductPage_Links)
@@ -176,45 +122,45 @@ Reports on the New York federal courts. Previously worked as a correspondent in 
 
 - [
     
-    ](https://www.reuters.com/business/aerospace-defense/after-trumps-turkey-ruse-look-past-secret-presidential-trips-2026-08-12/)
+    ](https://www.reuters.com/world/asia-pacific/sk-group-chairman-chey-appeals-divorce-settlement-ruling-yonhap-reports-2026-08-14/)
     
-    ### [After Trump's Turkey ruse, a look at past secret presidential trips](https://www.reuters.com/business/aerospace-defense/after-trumps-turkey-ruse-look-past-secret-presidential-trips-2026-08-12/)
+    ### [SK group chairman Chey appeals divorce settlement ruling, Yonhap reports](https://www.reuters.com/world/asia-pacific/sk-group-chairman-chey-appeals-divorce-settlement-ruling-yonhap-reports-2026-08-14/)
     
-    [category](https://www.reuters.com/business/)· August 12, 2026 · 3:40 PM PDT · 11 mins ago
+    [Asia Pacificcategory](https://www.reuters.com/world/asia-pacific/) · August 14, 2026 · 8:49 AM PDT · 2 mins ago
     
-    Closed aircraft window shades. A ballcap pulled low to hide the president's face. Seized cellphones. Strict warnings against leaks.
-    
-- [
-    
-    ](https://www.reuters.com/business/autos-transportation/automaker-ford-move-production-some-lincoln-models-china-us-2026-08-12/)
-    
-    [Businesscategory](https://www.reuters.com/business/)[Automaker Ford to move production of some Lincoln models from China to US](https://www.reuters.com/business/autos-transportation/automaker-ford-move-production-some-lincoln-models-china-us-2026-08-12/)
-    
-    3:13 PM PDT
+    SK Group Chairman Chey Tae-won has appealed against a ​South Korean court ruling ordering him to pay ‌944 billion won ($668.52 million) to his former wife Roh Soh-yeong in a record divorce settlement, the Yonhap news agency reported on Saturday, ​citing his lawyers.
     
 - [
     
-    ](https://www.reuters.com/legal/government/trump-sued-over-service-that-offers-paid-early-access-truth-social-posts-2026-08-12/)
+    ](https://www.reuters.com/world/americas/son-former-mexican-president-says-us-revoked-his-visa-2026-08-14/)
     
-    [Legalcategory](https://www.reuters.com/legal/)[Trump sued over service that offers paid early access to Truth Social posts](https://www.reuters.com/legal/government/trump-sued-over-service-that-offers-paid-early-access-truth-social-posts-2026-08-12/)
+    [Americascategory](https://www.reuters.com/world/americas/)[Son of former Mexican president says US revoked his visa](https://www.reuters.com/world/americas/son-former-mexican-president-says-us-revoked-his-visa-2026-08-14/)
     
-    3:12 PM PDT
-    
-- [
-    
-    ](https://www.reuters.com/world/trump-signed-memo-allow-use-cyber-tools-target-transnational-criminal-orgs-white-2026-08-12/)
-    
-    [Worldcategory](https://www.reuters.com/world/)[Trump signed memo to allow use of cyber tools to target transnational criminal orgs, White House says](https://www.reuters.com/world/trump-signed-memo-allow-use-cyber-tools-target-transnational-criminal-orgs-white-2026-08-12/)
-    
-    3:04 PM PDT
+    8:27 AM PDT
     
 - [
     
-    ](https://www.reuters.com/world/blue-paint-meets-green-algae-lincoln-memorial-reflecting-pool-clone-2026-06-18/)
+    ](https://www.reuters.com/world/us/live-updates-luigi-mangione-pleads-guilty-federal-charges-insurance-ceo-killing-2026-08-14/)
     
-    [Worldcategory](https://www.reuters.com/world/)[Desperate search for survivors after deadly Colombia quake](https://www.reuters.com/world/blue-paint-meets-green-algae-lincoln-memorial-reflecting-pool-clone-2026-06-18/)
+    [United Statescategory](https://www.reuters.com/world/us/)[Updates: Luigi Mangione pleads guilty to federal charges in insurance CEO killing](https://www.reuters.com/world/us/live-updates-luigi-mangione-pleads-guilty-federal-charges-insurance-ceo-killing-2026-08-14/)
     
-    2:56 PM PDT
+    8:21 AM PDT
+    
+- [
+    
+    ](https://www.reuters.com/world/spain-investigates-likely-shooting-endangered-grandmother-orca-2026-08-14/)
+    
+    [Worldcategory](https://www.reuters.com/world/)[Spain investigates likely shooting of endangered 'grandmother' orca](https://www.reuters.com/world/spain-investigates-likely-shooting-endangered-grandmother-orca-2026-08-14/)
+    
+    8:02 AM PDT
+    
+- [
+    
+    ](https://www.reuters.com/world/us/woman-charged-over-vandalism-washingtons-world-war-two-memorial-prosecutor-says-2026-08-14/)
+    
+    [United Statescategory](https://www.reuters.com/world/us/)[Woman charged over vandalism of Washington's World War Two memorial, prosecutor says](https://www.reuters.com/world/us/woman-charged-over-vandalism-washingtons-world-war-two-memorial-prosecutor-says-2026-08-14/)
+    
+    7:52 AM PDT
     
 
 ### Site Index

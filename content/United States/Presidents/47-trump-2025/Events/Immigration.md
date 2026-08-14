@@ -1,4 +1,5 @@
-# 
+# Diverting Resources
+- [Sex trafficking](https://www.reuters.com/legal/government/trump-promised-sex-trafficking-crackdown-his-justice-department-hasnt-delivered-2026-08-13/): Sex-trafficking prosecutions were down significantly in 2026 as probes are hampered by staffing shortages, funding cuts and Trump's immigration focus. Federal sex-trafficking ‌charges dropped to the slowest pace since 2010 with only 73 charged through June, about 22% lower than the number of people charged during the first half of the past three years. Charges for related crimes also declined with 1,230 people charged for child pornography, 3% less than three year average and 318 charged people with violating the Mann Act, which targets interstate prostitution, 18% less than average.
 
 
 # Child Migrants
@@ -9,8 +10,10 @@
 
 
 # ICE Tactics
-- Detention centers
-	- [California](https://www.reuters.com/legal/government/californias-largest-ice-facility-did-not-provide-adequate-medical-care-monitor-2026-07-28/): court-appointed monitor has found that California's largest ​immigration detention facility did not provide adequate medical care to detainees and violated an ‌earlier court order to do so
+## Detention centers
+- [California City detention center](https://www.reuters.com/legal/government/californias-largest-ice-facility-did-not-provide-adequate-medical-care-monitor-2026-07-28/): court-appointed monitor has found that California's largest ​immigration detention facility did not provide adequate medical care to detainees and violated an ‌earlier court order to do so
+## Militarization
+- [Shock Gloves](https://www.reuters.com/world/us-immigration-agency-plans-buy-electric-shock-gloves-raising-alarm-among-rights-2026-08-13/): AP reports that ICE plans to buy electric shock gloves for officers in the field.
 
 # TPS
 ## Trump Changes
@@ -88,7 +91,7 @@
 	- **Birth Tourism Initiative**: In April 2026, Trump [ordered]((https://www.reuters.com/world/ice-launches-new-effort-uncover-us-birth-tourism-schemes-2026-04-10) ICE to focus on new 'Birth Tourism Initiative,' with those engaged in alleged birth tourism to be prosecuted for fraud or other related crimes. The operation will seek to root out networks that help pregnant foreign nationals come to the U.S. to give birth so their children can receive citizenship. No U.S. law outright bars birth tourism, but a federal regulation implemented in 2020 [during Trump's first term](https://www.federalregister.gov/documents/2020/01/24/2020-01218/visas-temporary-visitors-for-business-or-pleasure) prohibits using temporary tourist and business visas for the primary purpose of obtaining U.S. citizenship for a newborn.
 	- **After Supreme Court Loss**: Following the ruling, the DOJ directed federal prosecutors to [prioritize](https://www.reuters.com/world/us-doj-directs-prosecutors-prioritize-birth-tourism-probes-following-court-2026-06-30) investigations of so-called birth tourism schemes.
 - **Stats**: The Center for Immigration Studies, which supports lower levels of immigration, estimated in an analysis in 2020 that between 20,000-25,000 mothers came to the U.S. for birth tourism in a year-long period between 2016-2017.
-- **Criminal cases**: In one of several federal cases in 2019, more than a dozen people were charged in a scheme to [operate “birth houses”](https://www.justice.gov/usao-cdca/pr/federal-prosecutors-unseal-indictments-naming-19-people-linked-chinese-birth-tourism) in Southern California that catered to wealthy women from China.
+- **Criminal cases**: In one of several federal cases in 2019, more than a dozen people were charged in a scheme to [operate “birth houses”](https://www.justice.gov/usao-cdca/pr/federal-prosecutors-unseal-indictments-naming-19-people-linked-chinese-birth-tourism) in Southern California that catered to wealthy women from China. Shortly after signing his August 2026 birth tourism order, the Trump admin charged 11 people in a decade-long scheme that ​arranged about [1,000 sham marriages](https://www.reuters.com/legal/government/us-charges-11-sham-marriage-immigration-scheme-following-trump-birth-tourism-2026-08-12/) to allow mostly ‌Chinese nationals to achieve legal immigration status in the United States.
 
 ## Legal Battle
 ### Result
