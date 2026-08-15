@@ -24,144 +24,190 @@
 
 [My News](https://www.reuters.com/my-news/feed/)
 
-[](https://www.reuters.com/account/sign-in/?redirect=https%3A%2F%2Fwww.reuters.com%2Fworld%2Fus%2Fworld-war-two-memorial-washington-vandalized-with-bubbles-graffiti-2026-08-13%2F)[](https://www.reuters.com/account/subscribe/offer/?redirect=https%3A%2F%2Fwww.reuters.com%2Fworld%2Fus%2Fworld-war-two-memorial-washington-vandalized-with-bubbles-graffiti-2026-08-13%2F&referrer=subscription_button&journeyStart=navigation)
+[](https://www.reuters.com/account/sign-in/?redirect=https%3A%2F%2Fwww.reuters.com%2Flegal%2Fgovernment%2Fus-judge-clears-way-trump-end-somalis-deportation-protections-2026-08-14%2F)[](https://www.reuters.com/account/subscribe/offer/?redirect=https%3A%2F%2Fwww.reuters.com%2Flegal%2Fgovernment%2Fus-judge-clears-way-trump-end-somalis-deportation-protections-2026-08-14%2F&referrer=subscription_button&journeyStart=navigation)
 
-# World War Two memorial in Washington vandalized with bubbles and graffiti
+# US judge clears way for Trump to end Somalis' deportation protections
 
-By Reuters
+By [Nate Raymond](https://www.reuters.com/authors/nate-raymond/)
 
-August 13, 20263:28 PM PDTUpdated 13 hours ago
+August 14, 20262:12 PM PDTUpdated 19 hours ago
 
-Item 1 of 5 Members of the National Guard stand near the World War II Memorial, after the pool was reportedly vandalized with soap and graffiti, in Washington, D.C., U.S., August 13, 2026. REUTERS/Kylie Cooper
+![Minnesota Somali community tense amid reported federal operation against immigrants](https://www.reuters.com/resizer/v2/74I2NPWWKVM6JDIO4R6LGPJBWM.jpg?auth=615c054fb90e9f54fe52d97526f71231ae73f92fd7b764c348c9cf5dee2149b3&width=1920&quality=80)
 
-**[1/5]**Members of the National Guard stand near the World War II Memorial, after the pool was reportedly vandalized with soap and graffiti, in Washington, D.C., U.S., August 13, 2026. REUTERS/Kylie Cooper [Purchase Licensing Rights, opens new tab](https://www.reutersconnect.com/item/world-war-ii-memorial-reportedly-vandalized-in-washington/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1JDMlhYTUFaMjIzTA%3D%3D/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead)
+Men take part in a weekly Friday Jum’ah prayer session at Abubakar As-Saddique Islamic Center amid a reported ongoing federal immigration operation targeting the Somali community in Minneapolis, Minnesota, U.S. December 5, 2025. REUTERS/Tim Evans/File Photo [Purchase Licensing Rights, opens new tab](https://www.reutersconnect.com/item/minnesota-somali-community-tense-amid-reported-federal-operation-against-immigrants/dGFnOnJldXRlcnMuY29tLDIwMjU6bmV3c21sX1JDMklBSUFQT1NIUA%3D%3D/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead)
 
-Aug 13 (Reuters) - The World War Two memorial in Washington was vandalized with bubbly soap and graffiti on Thursday, prompting vows from the ​U.S. government to find the perpetrator.
+Aug 14 (Reuters) - A federal judge on Friday cleared the way for U.S. President [Donald Trump's](https://www.reuters.com/world/us/donald-trump/) administration to strip nearly 1,100 Somalis of legal protections against deportation that ​have allowed them to live and work in the United States.
 
-The fountain bubbled over with suds and ‌someone painted "Clean hands Dirty $" on one surface, splattering the area with red and green paint. Uniformed police and National Guard troops converged on the scene, which was cordoned off with yellow crime scene tape, keeping ​visitors away.
+U.S. ‌District Judge Allison Burroughs in Boston allowed the U.S. Department of Homeland Security to terminate the Temporary Protected Status designation for Somalia after the U.S. Supreme Court ​in June allowed the administration to end similar protections [for thousands of ​people from Haiti and Syria](https://www.reuters.com/world/supreme-court-lets-trump-end-deportation-protections-syrians-haitians-2026-06-25/).
 
-The Reuters Daily Briefing newsletter provides all the news you need to start your day. Sign up [here.](https://www.reuters.com/newsletters/daily-briefing/?location=article-paragraph&redirectUrl=%2Fworld%2Fus%2Fworld-war-two-memorial-washington-vandalized-with-bubbles-graffiti-2026-08-13%2F)
+Jumpstart your morning with the latest legal news delivered straight to your inbox from The Daily Docket newsletter. Sign up [here.](https://www.reuters.com/newsletters/daily-docket/?location=article-paragraph&redirectUrl=%2Flegal%2Fgovernment%2Fus-judge-clears-way-trump-end-somalis-deportation-protections-2026-08-14%2F)
 
-One investigator in plainclothes bent over the site of the graffiti, ​measuring the damage with a tape measure, Reuters pictures showed. Workers arrived ⁠to remove the graffiti, the Washington Post reported, citing Park Police officers at ​the site.
+The [Supreme Court's ruling](https://www.reuters.com/world/supreme-court-lets-trump-end-deportation-protections-syrians-haitians-2026-06-25/), powered by its ⁠6-3 conservative majority, curtailed the ability of judges to review DHS efforts ​under Trump to end TPS designations for 13 countries that provided humanitarian ​immigration protection to eligible migrants from those nations.
 
-Dedicated in 2004, the memorial features 56 granite pillars around the edge of an ​elliptical plaza on the National Mall as a monument to the 400,000 Americans who died and 16 million who served in the armed forces during the conflict, according to the National Park Service.
+Lawyers for the plaintiffs and DHS did not immediately respond to requests for comment.
 
-"The ​vandalism that occurred is an utter disgrace and will not be tolerated," the ​Interior Department, which oversees the National Park Service, said in a statement. "Our U.S. Park Police are on ‌the ⁠scene and the investigation is ongoing. The public should know we will find the person responsible for this disgusting act."
+Two other judges last week allowed the administration to [similarly end ​TPS](https://www.reuters.com/legal/government/us-judge-allows-deportation-protections-end-south-sudanese-2026-08-07/) for South Sudan and Myanmar. Only the end of TPS for ​Ethiopia remains blocked by a judge.
 
-The Friends of the National WWII Memorial, a nonprofit group dedicated to preserving the memorial, called the vandalism "unacceptable," saying the memorial was a "sacred place ​of remembrance."
+Former Homeland Security Secretary Kristi Noem in January announced ‌plans ⁠to end TPS for Somalis, arguing Somalia's conditions had improved, [despite ongoing fighting](https://www.reuters.com/world/africa/somalia-says-it-killed-29-al-shabaab-militants-with-international-support-2026-01-01/) between Somali forces and al-Shabaab militants.
 
-"There are ​many places in our ⁠country for expression, debate, and disagreement. A national memorial honoring those who served and those who never returned home should never ​be used as a canvas for vandalism," the Friends said in ​a statement.
+Burroughs, an appointee of Democratic President Barack Obama, in March blocked Noem's decision from taking effect in a lawsuit brought ​by four Somalis ​and two advocacy ⁠groups including African Communities Together.
 
-The ⁠U.S. role in World War Two is largely a matter of national pride and unity even in highly polarizing times, though many Americans still debate whether the U.S. should ⁠have dropped ​two atomic bombs on Japan to end the ​war.
+The plaintiffs argued the administration sought to end TPS for Somalia due to bias ​against non-white immigrants, pointing to Trump's past descriptions of ​Somalis as "garbage" ⁠and "low IQ people."
 
-The vandalism comes as President Donald Trump has launched a personal and sometimes politically divisive campaign to [alter memorials ​around Washington](https://www.reuters.com/world/us/trump-undertakes-sweeping-makeover-white-house-washington-2026-08-03/).
+After the Supreme Court ruled, Burroughs issued a new order that continued to temporarily block the end of the Somalis' TPS while she ⁠considered whether ​to allow the plaintiffs to try to ​challenge DHS action on grounds the Supreme Court's ruling did not address.
 
-Reporting by Daniel Trotta in Vista, California; Editing by Noeleen Walder and Stephen Coates
+Reporting by Nate Raymond ​in Boston; Additional reporting by Mike Scarcella in Washington; Editing by Cynthia Osterman
 
 Our Standards: [The Thomson Reuters Trust Principles., opens new tab](https://www.thomsonreuters.com/en/about-us/trust-principles.html)
 
 - Suggested Topics:
-- [](https://www.reuters.com/world/us/)
+- [](https://www.reuters.com/legal/government/)
+- [](https://www.reuters.com/legal/constitutional-law/)
+- [](https://www.reuters.com/legal/civil-rights/)
+- [](https://www.reuters.com/legal/public-policy/)
+- [](https://www.reuters.com/legal/immigration/)
 
 [](https://www.reutersagency.com/en/licensereuterscontent/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead)
 
-## Read Next
+[
 
-- [Legalcategory](https://www.reuters.com/legal/)
+](https://www.reuters.com/authors/nate-raymond/)
+
+[Nate Raymond](https://www.reuters.com/authors/nate-raymond/)
+
+Thomson Reuters
+
+Nate Raymond reports on the federal judiciary and litigation. He can be reached at nate.raymond@thomsonreuters.com.
+
+- [](mailto:nate.raymond@thomsonreuters.com)
+- [](https://x.com/nateraymond)
+
+## Read Next / Editor's Picks
+
+- [Litigationcategory](https://www.reuters.com/legal/litigation/)
     
-    [Luigi Mangione pleads guilty in federal case over insurance CEO killing](https://www.reuters.com/legal/government/luigi-mangione-accused-insurance-ceo-killer-due-court-amid-plea-deal-reports-2026-08-14/)
+    [US appeals court revives Justice Department subpoena to gender-affirming care provider](https://www.reuters.com/legal/litigation/us-appeals-court-revives-justice-department-subpoena-gender-affirming-care-2026-08-14/)
     
     [
     
-    ](https://www.reuters.com/legal/government/luigi-mangione-accused-insurance-ceo-killer-due-court-amid-plea-deal-reports-2026-08-14/)
-    
-- [United Statescategory](https://www.reuters.com/world/us/)
-    
-    [Woman charged over vandalism of Washington's World War Two memorial, prosecutor says](https://www.reuters.com/world/us/woman-charged-over-vandalism-washingtons-world-war-two-memorial-prosecutor-says-2026-08-14/)
-    
-    [
-    
-    ](https://www.reuters.com/world/us/woman-charged-over-vandalism-washingtons-world-war-two-memorial-prosecutor-says-2026-08-14/)
+    ](https://www.reuters.com/legal/litigation/us-appeals-court-revives-justice-department-subpoena-gender-affirming-care-2026-08-14/)
     
 - [Worldcategory](https://www.reuters.com/world/)
     
-    [Trump asks US Supreme Court to allow White House ballroom construction to continue](https://www.reuters.com/world/trump-asks-us-supreme-court-allow-white-house-ballroom-construction-continue-2026-08-14/)
+    EXCLUSIVE
+    
+    [FTC probes health records giant Epic Systems, sources say](https://www.reuters.com/world/us-ftc-probing-health-records-company-epic-systems-2026-08-14/)
     
     [
     
-    ](https://www.reuters.com/world/trump-asks-us-supreme-court-allow-white-house-ballroom-construction-continue-2026-08-14/)
+    ](https://www.reuters.com/world/us-ftc-probing-health-records-company-epic-systems-2026-08-14/)
     
-- [Legalcategory](https://www.reuters.com/legal/)
+- [Governmentcategory](https://www.reuters.com/legal/government/)
     
-    [Trump to tout drop in US crime rates with an eye on midterms](https://www.reuters.com/legal/government/trump-tout-drop-us-crime-rates-with-an-eye-midterms-2026-08-14/)
-    
-    [
-    
-    ](https://www.reuters.com/legal/government/trump-tout-drop-us-crime-rates-with-an-eye-midterms-2026-08-14/)
-    
-- [Legalcategory](https://www.reuters.com/legal/)
-    
-    [US CDC records more than 2,500 measles cases so far in 2026](https://www.reuters.com/legal/litigation/us-cdc-records-more-than-2500-measles-cases-so-far-2026-2026-08-14/)
+    [New US appeals court pick would create first Trump-appointed majority](https://www.reuters.com/legal/government/new-us-appeals-court-pick-would-create-first-trump-appointed-majority-2026-08-13/)
     
     [
     
-    ](https://www.reuters.com/legal/litigation/us-cdc-records-more-than-2500-measles-cases-so-far-2026-2026-08-14/)
+    ](https://www.reuters.com/legal/government/new-us-appeals-court-pick-would-create-first-trump-appointed-majority-2026-08-13/)
     
-- [United Statescategory](https://www.reuters.com/world/us/)
+- [Worldcategory](https://www.reuters.com/world/)
     
-    [Kennedy Center board votes to inscribe Trump's name on building](https://www.reuters.com/world/us/kennedy-center-board-votes-inscribe-trumps-name-building-2026-08-13/)
+    [Woman charged over vandalism of Washington's World War Two Memorial](https://www.reuters.com/world/us/woman-charged-over-vandalism-washingtons-world-war-two-memorial-prosecutor-says-2026-08-14/)
     
     [
-    
-    ](https://www.reuters.com/world/us/kennedy-center-board-votes-inscribe-trumps-name-building-2026-08-13/)
-    
-
-[](https://www.lseg.com/en/data-analytics/products/workspace?utm_source=reuters.com&utm_medium=articlebanner&utm_campaign=Reuters_ProductPage_Links)
-
-## [World](https://www.reuters.com/world/)
-
-- [
-    
-    ](https://www.reuters.com/world/asia-pacific/sk-group-chairman-chey-appeals-divorce-settlement-ruling-yonhap-reports-2026-08-14/)
-    
-    ### [SK group chairman Chey appeals divorce settlement ruling, Yonhap reports](https://www.reuters.com/world/asia-pacific/sk-group-chairman-chey-appeals-divorce-settlement-ruling-yonhap-reports-2026-08-14/)
-    
-    [Asia Pacificcategory](https://www.reuters.com/world/asia-pacific/) · August 14, 2026 · 8:49 AM PDT · 2 mins ago
-    
-    SK Group Chairman Chey Tae-won has appealed against a ​South Korean court ruling ordering him to pay ‌944 billion won ($668.52 million) to his former wife Roh Soh-yeong in a record divorce settlement, the Yonhap news agency reported on Saturday, ​citing his lawyers.
-    
-- [
-    
-    ](https://www.reuters.com/world/americas/son-former-mexican-president-says-us-revoked-his-visa-2026-08-14/)
-    
-    [Americascategory](https://www.reuters.com/world/americas/)[Son of former Mexican president says US revoked his visa](https://www.reuters.com/world/americas/son-former-mexican-president-says-us-revoked-his-visa-2026-08-14/)
-    
-    8:27 AM PDT
-    
-- [
-    
-    ](https://www.reuters.com/world/us/live-updates-luigi-mangione-pleads-guilty-federal-charges-insurance-ceo-killing-2026-08-14/)
-    
-    [United Statescategory](https://www.reuters.com/world/us/)[Updates: Luigi Mangione pleads guilty to federal charges in insurance CEO killing](https://www.reuters.com/world/us/live-updates-luigi-mangione-pleads-guilty-federal-charges-insurance-ceo-killing-2026-08-14/)
-    
-    8:21 AM PDT
-    
-- [
-    
-    ](https://www.reuters.com/world/spain-investigates-likely-shooting-endangered-grandmother-orca-2026-08-14/)
-    
-    [Worldcategory](https://www.reuters.com/world/)[Spain investigates likely shooting of endangered 'grandmother' orca](https://www.reuters.com/world/spain-investigates-likely-shooting-endangered-grandmother-orca-2026-08-14/)
-    
-    8:02 AM PDT
-    
-- [
     
     ](https://www.reuters.com/world/us/woman-charged-over-vandalism-washingtons-world-war-two-memorial-prosecutor-says-2026-08-14/)
     
-    [United Statescategory](https://www.reuters.com/world/us/)[Woman charged over vandalism of Washington's World War Two memorial, prosecutor says](https://www.reuters.com/world/us/woman-charged-over-vandalism-washingtons-world-war-two-memorial-prosecutor-says-2026-08-14/)
+- Insight
     
-    7:52 AM PDT
+    [Insight: Trump promised a sex-trafficking crackdown. His Justice Department hasn't delivered](https://www.reuters.com/legal/government/trump-promised-sex-trafficking-crackdown-his-justice-department-hasnt-delivered-2026-08-13/)
     
+    [
+    
+    ](https://www.reuters.com/legal/government/trump-promised-sex-trafficking-crackdown-his-justice-department-hasnt-delivered-2026-08-13/)
+    
+- [Governmentcategory](https://www.reuters.com/legal/government/)
+    
+    [Los Angeles to speed up gun licensing process to settle US government lawsuit](https://www.reuters.com/legal/government/los-angeles-speed-up-gun-licensing-process-settle-us-government-lawsuit-2026-08-13/)
+    
+    [
+    
+    ](https://www.reuters.com/legal/government/los-angeles-speed-up-gun-licensing-process-settle-us-government-lawsuit-2026-08-13/)
+    
+- [Governmentcategory](https://www.reuters.com/legal/government/)
+    
+    [US charges 11 in sham marriage immigration scheme, following Trump 'birth tourism' order](https://www.reuters.com/legal/government/us-charges-11-sham-marriage-immigration-scheme-following-trump-birth-tourism-2026-08-12/)
+    
+    [
+    
+    ](https://www.reuters.com/legal/government/us-charges-11-sham-marriage-immigration-scheme-following-trump-birth-tourism-2026-08-12/)
+    
+- [Businesscategory](https://www.reuters.com/business/)
+    
+    [White House says transshipped goods cost up to $26 billion in lost tariffs](https://www.reuters.com/business/autos-transportation/white-house-says-transshipped-goods-cost-19-billion-26-billion-lost-tariffs-2026-08-14/)
+    
+    [
+    
+    ](https://www.reuters.com/business/autos-transportation/white-house-says-transshipped-goods-cost-19-billion-26-billion-lost-tariffs-2026-08-14/)
+    
+- [Worldcategory](https://www.reuters.com/world/)
+    
+    [Immigrant who was detained at ICE facility in New Jersey died after medical emergency](https://www.reuters.com/world/us/immigrant-who-was-detained-ice-facility-new-jersey-died-after-medical-emergency-2026-08-13/)
+    
+    [
+    
+    ](https://www.reuters.com/world/us/immigrant-who-was-detained-ice-facility-new-jersey-died-after-medical-emergency-2026-08-13/)
+    
+- [Governmentcategory](https://www.reuters.com/legal/government/)
+    
+    [US anti-bias agency says Nike complied with subpoena, drops lawsuit](https://www.reuters.com/legal/government/us-anti-bias-agency-says-nike-complied-with-subpoena-drops-lawsuit-2026-08-13/)
+    
+    [
+    
+    ](https://www.reuters.com/legal/government/us-anti-bias-agency-says-nike-complied-with-subpoena-drops-lawsuit-2026-08-13/)
+    
+- [Litigationcategory](https://www.reuters.com/legal/litigation/)
+    
+    [Trump administration accuses hospitals of improper billing over gender care for minors](https://www.reuters.com/legal/litigation/trump-administration-accuses-hospitals-improper-billing-over-gender-care-minors-2026-08-13/)
+    
+    [
+    
+    ](https://www.reuters.com/legal/litigation/trump-administration-accuses-hospitals-improper-billing-over-gender-care-minors-2026-08-13/)
+    
+- [Worldcategory](https://www.reuters.com/world/)
+    
+    [Trump signed memo to allow use of cyber tools to target transnational criminal organizations, White House says](https://www.reuters.com/world/trump-signed-memo-allow-use-cyber-tools-target-transnational-criminal-orgs-white-2026-08-12/)
+    
+    [
+    
+    ](https://www.reuters.com/world/trump-signed-memo-allow-use-cyber-tools-target-transnational-criminal-orgs-white-2026-08-12/)
+    
+- [Governmentcategory](https://www.reuters.com/legal/government/)
+    
+    [JPMorgan debanked Polymarket last year over regulatory concerns, source says](https://www.reuters.com/legal/government/jpmorgan-debanked-polymarket-last-year-over-regulatory-concerns-source-says-2026-08-15/)
+    
+    [
+    
+    ](https://www.reuters.com/legal/government/jpmorgan-debanked-polymarket-last-year-over-regulatory-concerns-source-says-2026-08-15/)
+    
+- [Businesscategory](https://www.reuters.com/business/)
+    
+    [Alphabet becomes Berkshire Hathaway's third-largest investment](https://www.reuters.com/business/finance/berkshire-buys-more-alphabet-which-becomes-its-third-largest-stock-investment-2026-08-14/)
+    
+    [
+    
+    ](https://www.reuters.com/business/finance/berkshire-buys-more-alphabet-which-becomes-its-third-largest-stock-investment-2026-08-14/)
+    
+- [Governmentcategory](https://www.reuters.com/legal/government/)
+    
+    [Investors reveal cautious approach to tech favorites](https://www.reuters.com/legal/government/institutional-investors-reveal-cautious-approach-tech-favorites-us-quarterly-13f-2026-08-14/)
+    
+    [
+    
+    ](https://www.reuters.com/legal/government/institutional-investors-reveal-cautious-approach-tech-favorites-us-quarterly-13f-2026-08-14/)
+    
+
+[](https://www.lseg.com/en/data-analytics/products/workspace?utm_source=reuters.com&utm_medium=articlebanner&utm_campaign=Reuters_ProductPage_Links)
 
 ### Site Index
 
@@ -261,6 +307,7 @@ Reuters, the news and media division of Thomson Reuters, is the world’s larges
 - [Corrections](https://www.reuters.com/info-pages/contact-us/)
 - [Data Disclosure and Sources, opens new tab](https://www.reuters.com/info-pages/data-disclosure-and-sources/)
 - [Site Feedback, opens new tab](https://trdigital.iad1.qualtrics.com/jfe/form/SV_8kte8gArGyCGVhz)
+- Manage Cookies & Your Privacy Choices
 
 All quotes delayed a minimum of 15 minutes. [See here for a list of exchanges and delays.](https://www.reuters.com/info-pages/disclaimer/)
 

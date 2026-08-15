@@ -1,7 +1,0 @@
-# Mass Shootings
-## 2025
-## 2026
-- [Philadelphia Islamic Center Arson](https://www.reuters.com/legal/litigation/doj-says-man-charged-philadelphia-mosque-fire-targeted-it-because-it-was-mosque-2026-08-07/) (July 5): Man sets fire to the Northeast Philadelphia Islamic Center but no injuries were reported from the incident. The suspect who was later charged said he had targeted the house of worship because it was a mosque. 
-- [Utah Muslim Stabbing](https://www.reuters.com/legal/government/federal-grand-jury-returns-hate-crime-indictment-stabbing-muslim-man-utah-2026-08-12/) (July 17): Man in Utah's West Valley City stabbed a Muslim man multiple times. The attacker purchased a knife from a store inside a West Valley mall and went around asking mall employees if they were Muslim. When the victim responded that he was a ​Muslim, the attacker began stabbing ​him.
-- [Seattle Food Festival Shooting](https://www.reuters.com/world/us/seattle-shooting-leaves-2-dead-5-injured-according-reports-2026-07-27/) (July 26):  Three killed and four others, including a toddler, wounded in a shooting at the downtown Bite of Seattle ​food festival.
-- [Idaho In-N-Out Shooting](https://www.reuters.com/world/us/three-dead-idaho-shopping-center-shooting-2026-08-02/) (August 1): Two killed after gunman opens fire near In-N-Out Burger ​restaurant in a high-traffic commercial area. Shooter was also killed.
