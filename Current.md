@@ -24,190 +24,168 @@
 
 [My News](https://www.reuters.com/my-news/feed/)
 
-[](https://www.reuters.com/account/sign-in/?redirect=https%3A%2F%2Fwww.reuters.com%2Flegal%2Fgovernment%2Fus-judge-clears-way-trump-end-somalis-deportation-protections-2026-08-14%2F)[](https://www.reuters.com/account/subscribe/offer/?redirect=https%3A%2F%2Fwww.reuters.com%2Flegal%2Fgovernment%2Fus-judge-clears-way-trump-end-somalis-deportation-protections-2026-08-14%2F&referrer=subscription_button&journeyStart=navigation)
+[](https://www.reuters.com/account/sign-in/?redirect=https%3A%2F%2Fwww.reuters.com%2Fworld%2Fasia-pacific%2Ftrump-seeks-cuts-us-south-korea-drills-reviving-earlier-objections-2026-08-17%2F)[](https://www.reuters.com/account/subscribe/offer/?redirect=https%3A%2F%2Fwww.reuters.com%2Fworld%2Fasia-pacific%2Ftrump-seeks-cuts-us-south-korea-drills-reviving-earlier-objections-2026-08-17%2F&referrer=subscription_button&journeyStart=navigation)
 
-# US judge clears way for Trump to end Somalis' deportation protections
+# Trump seeks cuts to US-South Korea drills, reviving earlier objections
 
-By [Nate Raymond](https://www.reuters.com/authors/nate-raymond/)
+By Reuters
 
-August 14, 20262:12 PM PDTUpdated 19 hours ago
+August 16, 202611:10 PM PDTUpdated 8 hours ago
 
-![Minnesota Somali community tense amid reported federal operation against immigrants](https://www.reuters.com/resizer/v2/74I2NPWWKVM6JDIO4R6LGPJBWM.jpg?auth=615c054fb90e9f54fe52d97526f71231ae73f92fd7b764c348c9cf5dee2149b3&width=1920&quality=80)
+Item 1 of 2 An anti-war protester chants slogans during a rally calling for a halt to the annual Ulchi Freedom Shield joint military exercises between South Korea and the United States, in front of the U.S. Embassy in Seoul, South Korea, August 17, 2026. REUTERS/Kim Hong-Ji
 
-Men take part in a weekly Friday Jum’ah prayer session at Abubakar As-Saddique Islamic Center amid a reported ongoing federal immigration operation targeting the Somali community in Minneapolis, Minnesota, U.S. December 5, 2025. REUTERS/Tim Evans/File Photo [Purchase Licensing Rights, opens new tab](https://www.reutersconnect.com/item/minnesota-somali-community-tense-amid-reported-federal-operation-against-immigrants/dGFnOnJldXRlcnMuY29tLDIwMjU6bmV3c21sX1JDMklBSUFQT1NIUA%3D%3D/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead)
+**[1/2]**An anti-war protester chants slogans during a rally calling for a halt to the annual Ulchi Freedom Shield joint military exercises between South Korea and the United States, in front of the U.S. Embassy in Seoul, South Korea, August 17, 2026. REUTERS/Kim Hong-Ji [Purchase Licensing Rights, opens new tab](https://www.reutersconnect.com/item/protesters-in-seoul-rally-against-us-south-korea-joint-military-exercise/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1JDMjEwTkFESllCWA%3D%3D/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead)
 
-Aug 14 (Reuters) - A federal judge on Friday cleared the way for U.S. President [Donald Trump's](https://www.reuters.com/world/us/donald-trump/) administration to strip nearly 1,100 Somalis of legal protections against deportation that ​have allowed them to live and work in the United States.
+Aug 17 (Reuters) - U.S. President Donald Trump has told the Pentagon to "[substantially reduce](https://www.reuters.com/world/china/trump-instructs-pentagon-reduce-military-exercises-with-south-korea-2026-08-16/)" joint military exercises with South Korea that began on Monday, citing the cost and Seoul's refusal to take part in actions against Iran.
 
-U.S. ‌District Judge Allison Burroughs in Boston allowed the U.S. Department of Homeland Security to terminate the Temporary Protected Status designation for Somalia after the U.S. Supreme Court ​in June allowed the administration to end similar protections [for thousands of ​people from Haiti and Syria](https://www.reuters.com/world/supreme-court-lets-trump-end-deportation-protections-syrians-haitians-2026-06-25/).
+Here are some details on the drills and Trump's previous ​stance.
 
-Jumpstart your morning with the latest legal news delivered straight to your inbox from The Daily Docket newsletter. Sign up [here.](https://www.reuters.com/newsletters/daily-docket/?location=article-paragraph&redirectUrl=%2Flegal%2Fgovernment%2Fus-judge-clears-way-trump-end-somalis-deportation-protections-2026-08-14%2F)
+Make sense of global markets with the Trading Day newsletter. Sign up [here.](https://www.reuters.com/newsletters/trading-day/?location=article-paragraph&redirectUrl=%2Fworld%2Fasia-pacific%2Ftrump-seeks-cuts-us-south-korea-drills-reviving-earlier-objections-2026-08-17%2F)
 
-The [Supreme Court's ruling](https://www.reuters.com/world/supreme-court-lets-trump-end-deportation-protections-syrians-haitians-2026-06-25/), powered by its ⁠6-3 conservative majority, curtailed the ability of judges to review DHS efforts ​under Trump to end TPS designations for 13 countries that provided humanitarian ​immigration protection to eligible migrants from those nations.
+## WHAT IS PLANNED FOR THIS YEAR
 
-Lawyers for the plaintiffs and DHS did not immediately respond to requests for comment.
+South Korea's Joint Chiefs of Staff confirmed the annual Ulchi Freedom Shield drills, due ‌to run to August 27, started on Monday.
 
-Two other judges last week allowed the administration to [similarly end ​TPS](https://www.reuters.com/legal/government/us-judge-allows-deportation-protections-end-south-sudanese-2026-08-07/) for South Sudan and Myanmar. Only the end of TPS for ​Ethiopia remains blocked by a judge.
+Military officials said last week the drills will incorporate exercises to counter drones, GPS disruption and cyberattacks to reflect North Korea's evolving capabilities.
 
-Former Homeland Security Secretary Kristi Noem in January announced ‌plans ⁠to end TPS for Somalis, arguing Somalia's conditions had improved, [despite ongoing fighting](https://www.reuters.com/world/africa/somalia-says-it-killed-29-al-shabaab-militants-with-international-support-2026-01-01/) between Somali forces and al-Shabaab militants.
+The drills were focused on threats to the Korean Peninsula and the defence of South Korea, a U.S. official said, noting how North ​Korean soldiers deployed to fight against Ukraine had taken back lessons from the conflict.
 
-Burroughs, an appointee of Democratic President Barack Obama, in March blocked Noem's decision from taking effect in a lawsuit brought ​by four Somalis ​and two advocacy ⁠groups including African Communities Together.
+The official highlighted the changing character of ​war, including the growing use of unmanned systems, electronic warfare and cyber operations.
 
-The plaintiffs argued the administration sought to end TPS for Somalia due to bias ​against non-white immigrants, pointing to Trump's past descriptions of ​Somalis as "garbage" ⁠and "low IQ people."
+About 18,000 South Korean troops will ⁠take part, a scale similar to previous years, said Captain Jang Doyoung of South Korea's Joint Chiefs of Staff.
 
-After the Supreme Court ruled, Burroughs issued a new order that continued to temporarily block the end of the Somalis' TPS while she ⁠considered whether ​to allow the plaintiffs to try to ​challenge DHS action on grounds the Supreme Court's ruling did not address.
+## HOW HAS NORTH KOREA ​REACTED?
 
-Reporting by Nate Raymond ​in Boston; Additional reporting by Mike Scarcella in Washington; Editing by Cynthia Osterman
+While the U.S. and South Korea say the drills are defensive in nature, Pyongyang routinely denounces them as rehearsals for invasion.
+
+North Korea ​on Friday [condemned the drills](https://www.reuters.com/world/asia-pacific/north-korea-denounces-us-south-korea-drills-kcna-says-2026-08-13/) as more provocative than last year's exercises, state media reported.
+
+U.S.-Japan-South Korea military cooperation is turning into a nuclear alliance and North Korea will respond to a new level of threat with a new level of deterrent, state media KCNA cited a spokesperson for North Korea's Foreign Ministry as ​saying.
+
+North Korea also said on Friday it would further strengthen its nuclear deterrence, accusing the United States of pursuing a new nuclear strategy ​that lowers the threshold for using weapons and could push global security "to the brink of a nuclear war."
+
+## HISTORY OF THE DRILLS
+
+The first combined exercises took ‌place soon ⁠after the Korean War ended with an armistice in 1953. The exercises have since evolved to focus on interoperability and command relations between the militaries, shaped by perceived and actual threats from the North.
+
+In 1976, the Ulchi and Focus Lens drills were combined into Ulchi Focus Lens, an expanded exercise, which eventually became the largest computer-assisted military simulation in the world, according to 38 North, a U.S.-based think ​tank.
+
+They have undergone several name changes ​before their current label, as ⁠well as changes in scale and focus. There has also been a shift away from live-fire exercises to computer-simulated missile and cyberattacks.
+
+## TRUMP'S VIEWS TOWARD THE EXERCISES
+
+It is not the first time Trump has criticised the ​drills.
+
+After trading threats of nuclear annihilation during the first year of his initial term, Trump held ​three unprecedented meetings with ⁠North Korean leader Kim Jong Un in Singapore, Hanoi, and at the border between North and South Korea.
+
+In 2018, he announced after his summit in Singapore that the U.S. was [suspending](https://www.reuters.com/article/world/pentagon-indefinitely-suspends-some-training-exercises-with-south-korea-idUSKBN1JI2YY/) the summer’s joint military drills with South Korea, then known as Ulchi Freedom Guardian.
+
+Trump said at the ⁠time he ​would halt what he [called](https://www.reuters.com/article/world/trump-says-to-stop-expensive-provocative-south-korea-war-games-idUSKBN1J80UH/) “very provocative” and expensive regular military exercises that the United States ​holds with South Korea.
+
+While the drills later resumed when the diplomatic efforts foundered over North Korea's nuclear programme, Trump has during his second term continued to tout his ​special relationship with Kim and his willingness to hold new talks.
+
+SOURCES: Reuters, 38 North.
+
+Reporting by Ed Davies and Heejin Kim Editing by Lincoln Feast.
 
 Our Standards: [The Thomson Reuters Trust Principles., opens new tab](https://www.thomsonreuters.com/en/about-us/trust-principles.html)
 
 - Suggested Topics:
-- [](https://www.reuters.com/legal/government/)
-- [](https://www.reuters.com/legal/constitutional-law/)
-- [](https://www.reuters.com/legal/civil-rights/)
-- [](https://www.reuters.com/legal/public-policy/)
-- [](https://www.reuters.com/legal/immigration/)
+- [](https://www.reuters.com/world/asia-pacific/)
 
 [](https://www.reutersagency.com/en/licensereuterscontent/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead)
 
-[
+## Read Next
 
-](https://www.reuters.com/authors/nate-raymond/)
-
-[Nate Raymond](https://www.reuters.com/authors/nate-raymond/)
-
-Thomson Reuters
-
-Nate Raymond reports on the federal judiciary and litigation. He can be reached at nate.raymond@thomsonreuters.com.
-
-- [](mailto:nate.raymond@thomsonreuters.com)
-- [](https://x.com/nateraymond)
-
-## Read Next / Editor's Picks
-
-- [Litigationcategory](https://www.reuters.com/legal/litigation/)
+- [Asia Pacificcategory](https://www.reuters.com/world/asia-pacific/)
     
-    [US appeals court revives Justice Department subpoena to gender-affirming care provider](https://www.reuters.com/legal/litigation/us-appeals-court-revives-justice-department-subpoena-gender-affirming-care-2026-08-14/)
+    [In Bangkok's gun district, traders say Thai crackdown misses the mark](https://www.reuters.com/world/asia-pacific/bangkoks-gun-district-traders-say-thai-crackdown-misses-mark-2026-08-17/)
     
     [
     
-    ](https://www.reuters.com/legal/litigation/us-appeals-court-revives-justice-department-subpoena-gender-affirming-care-2026-08-14/)
+    ](https://www.reuters.com/world/asia-pacific/bangkoks-gun-district-traders-say-thai-crackdown-misses-mark-2026-08-17/)
     
-- [Worldcategory](https://www.reuters.com/world/)
-    
-    EXCLUSIVE
-    
-    [FTC probes health records giant Epic Systems, sources say](https://www.reuters.com/world/us-ftc-probing-health-records-company-epic-systems-2026-08-14/)
+- [Indonesian mother 'grateful' after emergency birth during 7.7 quake](https://www.reuters.com/business/environment/indonesian-mother-grateful-after-emergency-birth-during-77-quake-2026-08-17/)
     
     [
     
-    ](https://www.reuters.com/world/us-ftc-probing-health-records-company-epic-systems-2026-08-14/)
+    ](https://www.reuters.com/business/environment/indonesian-mother-grateful-after-emergency-birth-during-77-quake-2026-08-17/)
     
-- [Governmentcategory](https://www.reuters.com/legal/government/)
+- [Asia Pacificcategory](https://www.reuters.com/world/asia-pacific/)
     
-    [New US appeals court pick would create first Trump-appointed majority](https://www.reuters.com/legal/government/new-us-appeals-court-pick-would-create-first-trump-appointed-majority-2026-08-13/)
-    
-    [
-    
-    ](https://www.reuters.com/legal/government/new-us-appeals-court-pick-would-create-first-trump-appointed-majority-2026-08-13/)
-    
-- [Worldcategory](https://www.reuters.com/world/)
-    
-    [Woman charged over vandalism of Washington's World War Two Memorial](https://www.reuters.com/world/us/woman-charged-over-vandalism-washingtons-world-war-two-memorial-prosecutor-says-2026-08-14/)
+    [Six die at temple in India's Bihar after 'stampede-like' event, officials say](https://www.reuters.com/world/asia-pacific/six-die-temple-indias-bihar-after-stampede-like-event-officials-say-2026-08-17/)
     
     [
     
-    ](https://www.reuters.com/world/us/woman-charged-over-vandalism-washingtons-world-war-two-memorial-prosecutor-says-2026-08-14/)
+    ](https://www.reuters.com/world/asia-pacific/six-die-temple-indias-bihar-after-stampede-like-event-officials-say-2026-08-17/)
     
-- Insight
-    
-    [Insight: Trump promised a sex-trafficking crackdown. His Justice Department hasn't delivered](https://www.reuters.com/legal/government/trump-promised-sex-trafficking-crackdown-his-justice-department-hasnt-delivered-2026-08-13/)
+- [Search for Indonesia earthquake victims underway on Independence Day](https://www.reuters.com/business/environment/search-indonesia-quake-victims-underway-independence-day-2026-08-17/)
     
     [
     
-    ](https://www.reuters.com/legal/government/trump-promised-sex-trafficking-crackdown-his-justice-department-hasnt-delivered-2026-08-13/)
+    ](https://www.reuters.com/business/environment/search-indonesia-quake-victims-underway-independence-day-2026-08-17/)
     
-- [Governmentcategory](https://www.reuters.com/legal/government/)
-    
-    [Los Angeles to speed up gun licensing process to settle US government lawsuit](https://www.reuters.com/legal/government/los-angeles-speed-up-gun-licensing-process-settle-us-government-lawsuit-2026-08-13/)
+- [South Korea landslide kills one as heavy rains sweep southern areas, media reports](https://www.reuters.com/business/environment/south-korea-landslide-kills-one-heavy-rains-sweep-southern-areas-media-reports-2026-08-17/)
     
     [
     
-    ](https://www.reuters.com/legal/government/los-angeles-speed-up-gun-licensing-process-settle-us-government-lawsuit-2026-08-13/)
+    ](https://www.reuters.com/business/environment/south-korea-landslide-kills-one-heavy-rains-sweep-southern-areas-media-reports-2026-08-17/)
     
-- [Governmentcategory](https://www.reuters.com/legal/government/)
+- [Asia Pacificcategory](https://www.reuters.com/world/asia-pacific/)
     
-    [US charges 11 in sham marriage immigration scheme, following Trump 'birth tourism' order](https://www.reuters.com/legal/government/us-charges-11-sham-marriage-immigration-scheme-following-trump-birth-tourism-2026-08-12/)
-    
-    [
-    
-    ](https://www.reuters.com/legal/government/us-charges-11-sham-marriage-immigration-scheme-following-trump-birth-tourism-2026-08-12/)
-    
-- [Businesscategory](https://www.reuters.com/business/)
-    
-    [White House says transshipped goods cost up to $26 billion in lost tariffs](https://www.reuters.com/business/autos-transportation/white-house-says-transshipped-goods-cost-19-billion-26-billion-lost-tariffs-2026-08-14/)
+    [Cambodian opposition figure's daughter appointed PM's envoy in rare concession](https://www.reuters.com/world/asia-pacific/cambodian-opposition-figures-daughter-appointed-pms-envoy-rare-concession-2026-08-17/)
     
     [
     
-    ](https://www.reuters.com/business/autos-transportation/white-house-says-transshipped-goods-cost-19-billion-26-billion-lost-tariffs-2026-08-14/)
-    
-- [Worldcategory](https://www.reuters.com/world/)
-    
-    [Immigrant who was detained at ICE facility in New Jersey died after medical emergency](https://www.reuters.com/world/us/immigrant-who-was-detained-ice-facility-new-jersey-died-after-medical-emergency-2026-08-13/)
-    
-    [
-    
-    ](https://www.reuters.com/world/us/immigrant-who-was-detained-ice-facility-new-jersey-died-after-medical-emergency-2026-08-13/)
-    
-- [Governmentcategory](https://www.reuters.com/legal/government/)
-    
-    [US anti-bias agency says Nike complied with subpoena, drops lawsuit](https://www.reuters.com/legal/government/us-anti-bias-agency-says-nike-complied-with-subpoena-drops-lawsuit-2026-08-13/)
-    
-    [
-    
-    ](https://www.reuters.com/legal/government/us-anti-bias-agency-says-nike-complied-with-subpoena-drops-lawsuit-2026-08-13/)
-    
-- [Litigationcategory](https://www.reuters.com/legal/litigation/)
-    
-    [Trump administration accuses hospitals of improper billing over gender care for minors](https://www.reuters.com/legal/litigation/trump-administration-accuses-hospitals-improper-billing-over-gender-care-minors-2026-08-13/)
-    
-    [
-    
-    ](https://www.reuters.com/legal/litigation/trump-administration-accuses-hospitals-improper-billing-over-gender-care-minors-2026-08-13/)
-    
-- [Worldcategory](https://www.reuters.com/world/)
-    
-    [Trump signed memo to allow use of cyber tools to target transnational criminal organizations, White House says](https://www.reuters.com/world/trump-signed-memo-allow-use-cyber-tools-target-transnational-criminal-orgs-white-2026-08-12/)
-    
-    [
-    
-    ](https://www.reuters.com/world/trump-signed-memo-allow-use-cyber-tools-target-transnational-criminal-orgs-white-2026-08-12/)
-    
-- [Governmentcategory](https://www.reuters.com/legal/government/)
-    
-    [JPMorgan debanked Polymarket last year over regulatory concerns, source says](https://www.reuters.com/legal/government/jpmorgan-debanked-polymarket-last-year-over-regulatory-concerns-source-says-2026-08-15/)
-    
-    [
-    
-    ](https://www.reuters.com/legal/government/jpmorgan-debanked-polymarket-last-year-over-regulatory-concerns-source-says-2026-08-15/)
-    
-- [Businesscategory](https://www.reuters.com/business/)
-    
-    [Alphabet becomes Berkshire Hathaway's third-largest investment](https://www.reuters.com/business/finance/berkshire-buys-more-alphabet-which-becomes-its-third-largest-stock-investment-2026-08-14/)
-    
-    [
-    
-    ](https://www.reuters.com/business/finance/berkshire-buys-more-alphabet-which-becomes-its-third-largest-stock-investment-2026-08-14/)
-    
-- [Governmentcategory](https://www.reuters.com/legal/government/)
-    
-    [Investors reveal cautious approach to tech favorites](https://www.reuters.com/legal/government/institutional-investors-reveal-cautious-approach-tech-favorites-us-quarterly-13f-2026-08-14/)
-    
-    [
-    
-    ](https://www.reuters.com/legal/government/institutional-investors-reveal-cautious-approach-tech-favorites-us-quarterly-13f-2026-08-14/)
+    ](https://www.reuters.com/world/asia-pacific/cambodian-opposition-figures-daughter-appointed-pms-envoy-rare-concession-2026-08-17/)
     
 
 [](https://www.lseg.com/en/data-analytics/products/workspace?utm_source=reuters.com&utm_medium=articlebanner&utm_campaign=Reuters_ProductPage_Links)
+
+## [World](https://www.reuters.com/world/)
+
+- [
+    
+    ](https://www.reuters.com/business/energy/canadian-miner-nexgen-energy-holds-talks-with-bhp-it-seeks-1-billion-uranium-2026-08-17/)
+    
+    ### [Canadian miner NexGen Energy holds talks with BHP as it seeks $1 billion for uranium project](https://www.reuters.com/business/energy/canadian-miner-nexgen-energy-holds-talks-with-bhp-it-seeks-1-billion-uranium-2026-08-17/) 
+    
+    [Businesscategory](https://www.reuters.com/business/) · August 17, 2026 · 7:32 AM PDT · 14 mins ago
+    
+    Canadian uranium miner NexGen Energy is sharing information and "talking regularly" with mining giant BHP, about its Rook ‌I mining project in Saskatchewan, CEO Leigh Curyer told Reuters when asked about a potential equity stake.
+    
+- [
+    
+    ](https://www.reuters.com/legal/government/us-civil-rights-group-joins-team-seeking-answers-death-black-teen-nolan-wells-2026-08-17/)
+    
+    [Legalcategory](https://www.reuters.com/legal/)[US civil rights group joins team seeking answers in death of Black teen Nolan Wells](https://www.reuters.com/legal/government/us-civil-rights-group-joins-team-seeking-answers-death-black-teen-nolan-wells-2026-08-17/)
+    
+    7:13 AM PDT
+    
+- [
+    
+    ](https://www.reuters.com/world/ukraine-russia-war/how-soldiers-video-diary-ukraines-front-line-became-reuters-documentary-2026-08-17/)
+    
+    [Ukraine and Russia at Warcategory](https://www.reuters.com/world/ukraine-russia-war/)[How a soldier’s video diary from Ukraine’s front line became a Reuters documentary](https://www.reuters.com/world/ukraine-russia-war/how-soldiers-video-diary-ukraines-front-line-became-reuters-documentary-2026-08-17/)
+    
+    7:09 AM PDT
+    
+- [
+    
+    ](https://www.reuters.com/world/asia-pacific/cambodian-opposition-figures-daughter-appointed-pms-envoy-rare-concession-2026-08-17/)
+    
+    [Asia Pacificcategory](https://www.reuters.com/world/asia-pacific/)[Cambodian opposition figure's daughter appointed PM's envoy in rare concession](https://www.reuters.com/world/asia-pacific/cambodian-opposition-figures-daughter-appointed-pms-envoy-rare-concession-2026-08-17/)
+    
+    6:53 AM PDT
+    
+- [
+    
+    ](https://www.reuters.com/world/middle-east/iran-threatens-go-offensive-strait-hormuz-if-diplomacy-with-us-fails-2026-08-17/)
+    
+    [Middle Eastcategory](https://www.reuters.com/world/middle-east/)[Iran threatens to go on offensive in Strait of Hormuz if diplomacy with US fails](https://www.reuters.com/world/middle-east/iran-threatens-go-offensive-strait-hormuz-if-diplomacy-with-us-fails-2026-08-17/)
+    
+    6:45 AM PDT
+    
 
 ### Site Index
 
@@ -307,7 +285,6 @@ Reuters, the news and media division of Thomson Reuters, is the world’s larges
 - [Corrections](https://www.reuters.com/info-pages/contact-us/)
 - [Data Disclosure and Sources, opens new tab](https://www.reuters.com/info-pages/data-disclosure-and-sources/)
 - [Site Feedback, opens new tab](https://trdigital.iad1.qualtrics.com/jfe/form/SV_8kte8gArGyCGVhz)
-- Manage Cookies & Your Privacy Choices
 
 All quotes delayed a minimum of 15 minutes. [See here for a list of exchanges and delays.](https://www.reuters.com/info-pages/disclaimer/)
 

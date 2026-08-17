@@ -61,7 +61,7 @@
 		- 34 counts of falsifying business records in the first degree
 		- Each count corresponded to a separate falsified entry (invoices, ledger entries, checks)
 		- Related to hush-money payments to Stormy Daniels to conceal information from voters during the 2016 election
-# Alvin Bragg
+## Alvin Bragg
 - Timeline
 	- February–March 2019: Manhattan District Attorney's Office under DA Cyrus Vance Jr. begins investigating Trump-related financial matters, including the hush money payments (state level case) [cite]
 	- June 2019: Bragg launches campaign for Manhattan DA
@@ -226,3 +226,11 @@ When this?:
 - After that, Bragg convened a new grand jury, securing the indictment accusing Trump of falsely recording payments to Cohen as legal expenses, when they were for orchestrating payoffs to porn actor Stormy Daniels and former Playboy model Karen McDougal, to prevent them from going public with claims they had extramarital sexual encounters with Trump.
 
 Trump quotes: Echoing the racist tropes he has deployed frequently against his legal adversaries, Trump has called Bragg a "thug" and a "degenerate psychopath," urging his supporters to take action against the "danger to our country."
+
+
+
+
+
+
+# E. Jean Carroll
+- August 17: Supreme Court [declines](https://www.reuters.com/world/us-supreme-court-again-rebuffs-trump-5-million-e-jean-carroll-case-2026-08-17/) to hear Trump appeal in $5 million case.
