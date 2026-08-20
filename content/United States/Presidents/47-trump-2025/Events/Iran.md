@@ -12,6 +12,7 @@
 - [August 5](https://www.reuters.com/world/middle-east/iran-threatens-hit-gulf-states-if-us-launches-new-strikes-2026-08-05/): Iran warns Gulf states US strikes will trigger attacks on their critical energy infrastructure, threatening to escalate the war wider across the region.
 - [August 7](https://www.reuters.com/world/asia-pacific/saudi-arabia-turkey-pakistan-sign-joint-defence-deal-amid-regional-turmoil-2026-08-07/): Suni allies Saudi Arabia, Turkey, Pakistan sign Article 5 like joint defense agreement amid Iranian aggression.
 - [August 11](https://www.reuters.com/world/china/three-killed-attacks-ships-red-sea-gulf-sources-say-2026-08-11/): Three crew members ​killed in Houthi attack on a small cargo vessel in the Bab el-Mandeb strait while a ‌container ship was hit by a missile off Pakistan in a suspected U.S. attack.
+- [August 18](https://www.reuters.com/world/middle-east/trump-says-no-talks-planned-with-iran-tehran-says-strait-hormuz-still-shut-2026-08-18/): MOU 60-day time frame for a broader ⁠deal on Iran's nuclear program and U.S. sanctions elapses and Trump said he had no plans to extend it. Current status: Trump says Strait is open but it isn't, negotiations seem to be at a stand-still.
 
 
 

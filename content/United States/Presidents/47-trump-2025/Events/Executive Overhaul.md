@@ -33,7 +33,8 @@
 - **DOD Funds**: Twelve universities and three academic trade groups, including ​the Association of American Universities , sued the DOD in May 2025 after the department said ​it would cap reimbursed for "indirect ⁠costs" of funded research at 15%. U.S. District Judge Brian Murphy in ‌Boston, declared the reimbursement cap illegal in December and further awarded [$450,000 in legal fees](https://www.reuters.com/legal/government/us-must-pay-university-groups-legal-fees-case-over-pentagon-research-funds-2026-08-05/) to the AAU since the DOD implemented the policy after judges already ruled against similar policies in the NIH and DOE.
 
 ## Targeting Schools
-- **Duke**: In August 2026 the Trump admin claimed their [probe into admissions practices](https://www.reuters.com/legal/government/us-scrutinizes-more-schools-over-admissions-practices-diversity-pro-palestinian-2026-08-06/) and DEI at Duke were biased in favor of Black and Hispanic applicants.
+- **Admissions Practives**: In August 2026 the Trump admin claimed their [probe into admissions practices](https://www.reuters.com/legal/government/us-scrutinizes-more-schools-over-admissions-practices-diversity-pro-palestinian-2026-08-06/) and DEI at Duke were biased in favor of Black and Hispanic applicants.
+- **Antisemitism**: Former DOJ attorney Haley Van Erem says Trump admin probes of ​U.S. universities over accusations of antisemitism [lacked evidence and had predetermined outcomes](https://www.reuters.com/legal/government/trump-administration-antisemitism-probes-into-universities-lacked-evidence-ex-2026-08-19/).
 ### Harvard
 In April 2025, the Trump admin [set conditions](https://www.reuters.com/world/us/us-plans-freeze-510-million-grants-brown-university-official-says-2025-04-03/) for Harvard to not lose funding, including banning masks and ending DEI.
 #### Funding Cuts
@@ -84,6 +85,87 @@ Case: [President and Fellows of Harvard College v. US Department of Health and
 	- June 5: US District Judge Allison Burroughs in Boston [issued a TRO](https://www.reuters.com/world/us/harvard-urge-judge-extend-block-trumps-effort-bar-foreign-students-2025-05-29/) (later [extended](https://www.reuters.com/world/us/harvard-urge-judge-bar-trump-closing-doors-international-students-2025-06-16/)) on Trump's foreign national ban to Harvard, saying the move would case "immediate and irreparable injury."
 	- June 23: Burroughs issued a [preliminary injunction](https://www.reuters.com/world/us/us-judge-blocks-trump-plan-close-harvards-doors-international-students-2025-06-24/) blocking Trump's Harvard international student plan.
 
+## Targeting Anti-Israel Protestors
+### Mahmoud Khalil
+
+
+          
+
+
+
+        
+
+          
+
+          <sup><a href=" target="_blank">[6]</a></sup>
+
+          On 
+
+          <sup><a href="" target="_blank">[8]</a></sup>
+
+          On 
+
+          <sup><a href="" target="_blank">[9]</a></sup>
+
+          
+          <sup><a href="" target="_blank">[10]</a></sup>
+
+          On June 11, Farbiarz ruled that Trump cannot use US foreign policy intrests to justify Khalil's detention but stopped short of ordering his release.
+
+          <sup><a href="https://www.reuters.com/world/us/judge-says-trump-cannot-detain-columbia-protester-khalil-delays-release-order-2025-06-11/" target="_blank">[11]</a></sup>
+
+          On June 13, Farbiarz denied Khalil be release from detention after the Trump admin changed their reasoning to holding him to being for a charge of immigration fraud.
+
+          <sup><a href="https://www.reuters.com/world/us/pro-palestinian-activist-khalils-lawyers-ask-judge-order-his-release-2025-06-13/" target="_blank">[12]</a></sup>
+
+          On June 20, Farbiarz ordered Khalil's release from detention, saying that the DOJ made no attempt to rebut evidence provided by Khalil's lawyers that he was not a flight risk or a danger to the public.
+
+          <sup><a href="https://www.reuters.com/legal/government/us-judge-orders-release-pro-palestinian-activist-khalil-2025-06-20/" target="_blank">[13]</a></sup>
+
+          Hours later, Khalil was released and flew back to New York to be with his wife and their baby, vowing to continue pro-Palestinian activism.
+
+          <sup><a href="https://www.reuters.com/world/us/mahmoud-khalil-vows-resume-pro-palestinian-activism-after-release-us-jail-2025-06-21/" target="_blank">[14]</a></sup>
+
+          Also on June 20, the immigration judge in Khalils' case had denied his asylum request, ruling he could be deported based on the government's allegations of immigration fraud (Farbiarz had earlier blocked his deportation while the challenge plays out in court).
+
+          <sup><a href="https://www.reuters.com/legal/government/us-judge-orders-release-pro-palestinian-activist-khalil-2025-06-20/" target="_blank">[13]</a></sup>
+
+          On July 10, Khalil sued the Trump admin for $20 million over what he says was his false imprisonment and malicious prosecution.
+
+          <sup><a href="https://www.reuters.com/legal/government/mahmoud-khalil-seeks-20-million-trump-administration-over-immigration-arrest-2025-07-10/" target="_blank">[14]</a></sup>
+
+          On September 17, immigration judge Jamee Comans ordered Khalil be deported to Algeria or Syria, saying he "willfully misrepresented material fact(s) for the sole purpose of circumventing the immigration process and reducing the likelihood his application would be denied."
+
+          Khalil's lawyers said the federal district court's separate orders remain in effect that prohibit the government from immediately deporting or detaining him as his federal court case proceeds.
+
+          <sup><a href="https://www.reuters.com/world/us/us-immigration-judge-orders-khalil-deportation-his-lawyers-say-separate-ruling-2025-09-18/" target="_blank">[15]</a></sup>
+
+          January 15, 2026: Philadelphia-based 3rd U.S. Circuit Court of Appeals rules 2-1 that Judge Farbiarz had no jurisdiction to order the release of Khalil.
+
+          The court said his claims needed to be instead heard through an appeal of a final order of removal from an immigration judge.
+
+          <sup><a href="https://www.reuters.com/world/trump-administration-wins-appeal-ruling-releasing-pro-palestinian-activist-2026-01-15/" target="_blank">[16]</a></sup>
+#### Arrest
+On March 9, 2025, Columbia grad student and Palestinian refugee with permanent US green card residency, Mahmoud Khalil, was [arrested by US ICE agents](https://www.reuters.com/world/us/us-authorities-arrest-palestinian-student-protester-columbia-university-students-2025-03-09/) and taken to a deportation jail due to his participation in the 2023 Gaza protests. 
+##### Rational
+- Rubio tweeted, "We will be revoking the visas and/or green cards of Hamas supporters in America so they can be deported." Under a provision of the 1952 U.S. Immigration and Nationality Act, any immigrants may be deported if the secretary of state deems their presence in the country potentially adverse to American foreign policy. The DHS said Khalil was arrested because he "[led activities aligned to Hamas](https://www.reuters.com/world/arrested-palestinian-columbia-student-moved-louisiana-jail-lawyers-fight-2025-03-10/)," which is not illegal under US law, the US only prohibits providing "material support or resources" to terrorist groups.
+- A couple weeks after the arrest, the Trump admin said that they wanted to deport Khalil because he withheld that he was [part of UNRWA](https://www.reuters.com/world/us/us-alleges-columbia-student-covered-up-his-work-unrwa-2025-03-24/) and that he worked for the Syria office in the British embassy in Beirut on his visa application.
+##### Deportation
+- On April 11, immigration Judge Jamee Comans (appointed by the DOJ) of the LaSalle Immigration Court in Louisiana ruled that [Khalil could be deported]("https://www.reuters.com/world/us/us-immigration-judge-decide-whether-columbia-student-mahmoud-khalil-can-be-2025-04-11/), saying she didn't have the authority to overrule Rubio.
+#### Legal Battle
+##### Timeline
+- March 10: US District Court Judge Jesse Furman [put a hold (later extended) on Khalil's deportation](https://www.reuters.com/legal/judge-hold-hearing-over-columbia-student-protesters-challenge-arrest-2025-03-12/) "unless and until the Court orders otherwise."
+- March 13: Khalil asked a federal court to block Columbia from [sharing student disciplinary records](https://www.reuters.com/world/us/trump-administration-seeks-toss-columbia-students-challenge-arrest-2025-03-13/) from campus protests with a Republican-led House committee.
+- May 7: US District Court Judge Michael Farbiarz in Newark, New Jersey ordered Trump [to detail the legal precedent](https://www.reuters.com/legal/judge-demands-trump-officials-detail-legal-grounds-deporting-palestinian-2025-05-07/) for Rubio's deportation determination for Khalil, giving them 2 days to respond.
+- May 21: Farbiarz ordered that Khalil [must be allowed to meet with his wife](https://www.reuters.com/world/us/detained-columbia-student-protester-must-be-allowed-meet-with-wife-judge-rules-2025-05-21/), after ICE denied her access to her husband when she tried to have him see their first born child for the first time.
+- May 28, Farbiarz ruled that Khalil's detention was [likely unconstitutional](https://www.reuters.com/world/us/trump-bid-deport-columbia-activist-khalil-likely-unconstitutional-judge-says-2025-05-28/) and that the law Trump was using, known as Section 1227, was vague because people would have no way of knowing what might get them deported.
+
+
+
 # Federal Reserve
 ## Lisa Cook
 - **August 7, 2026**: Trump [renews effort to fire Lisa Cook](https://www.reuters.com/world/us/trump-moving-forward-with-attempt-fire-lisa-cook-after-supreme-court-ruling-abc-2026-08-07/), keeping alive his assault on the central ​bank's independence even after the U.S. Supreme Court ruling. The White House told Cook in a letter that the president was "considering" removing her from her role and demanded she respond to unproven mortgage fraud allegations within three weeks.
+
+# National Guard Deployments
+## Washington D.C.
+- **Report Card**: May 2026 [study](https://www.niskanencenter.org/washington-dc-crime-decline-and-its-lessons-for-american-policing/#the-national-guard-as-natural-experiment) by the nonpartisan Niskanen Center found that sending soldiers into Washington led to fewer stolen cars but had no impact on violent crimes. August 2026 Reuters report [finds](https://www.reuters.com/world/us/trump-put-thousands-soldiers-washingtons-streets-they-seldom-stop-crime-2026-08-19/) National Guard only mentioned in 1.3% of criminal prosecutions during year-long deployment. The Trump admin projects that sending troops to Washington will cost $1.4 billion through 2029 as National Guard are much more expensive than normal police. Soldiers also mostly responded to incidents in wealthier, whiter areas and were absent from neighborhoods where 82% of murders take place.

@@ -233,4 +233,15 @@ Trump quotes: Echoing the racist tropes he has deployed frequently against his l
 
 
 # E. Jean Carroll
-- August 17: Supreme Court [declines](https://www.reuters.com/world/us-supreme-court-again-rebuffs-trump-5-million-e-jean-carroll-case-2026-08-17/) to hear Trump appeal in $5 million case.
+## Civil Rape Case
+### To read
+https://www.reuters.com/world/us/writer-accuses-donald-trump-rape-2023-04-25/
+https://www.reuters.com/legal/jurors-set-deliberate-civil-rape-case-against-donald-trump-2023-05-09/
+https://www.reuters.com/world/us/us-appeals-court-wont-reconsider-trumps-5-million-loss-e-jean-carroll-2025-06-13/
+
+
+### $5 Million Verdict
+In July 2026, U.S. District Judge Lewis Kaplan in Manhattan [ordered the disbursement](https://www.reuters.com/legal/government/trump-opposes-letting-e-jean-carroll-collect-5-million-award-cites-supreme-court-2026-07-08/) of nearly $5.8 million to Carroll, representing the original $5 million verdict plus interest. The next week, Carroll was [paid out her $5.63 million](https://www.reuters.com/legal/government/e-jean-carroll-receives-563-million-owed-by-trump-sex-abuse-case-2026-07-14/) from Donald Trump.
+### Rejected Appeals
+In June 2026 the [Supreme Court declined]("https://www.reuters.com/world/us/us-supreme-court-rebuffs-trumps-appeal-e-jean-carroll-case-2026-06-29/) to hear Trump's bid to overturn a $5 million verdict in favor of E. Jean Carroll in civil sexually abusing and defamation case. In August, the [Supreme Court again declined](https://www.reuters.com/world/us-supreme-court-again-rebuffs-trump-5-million-e-jean-carroll-case-2026-08-17/) to hear Trump appeal in the $5 million case.
+## Defamation Case

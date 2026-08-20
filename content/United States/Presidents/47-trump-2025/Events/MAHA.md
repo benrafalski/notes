@@ -21,8 +21,8 @@ title: MAHA
 ### Outbreak (May-August 2026)
 - [Public Health Cuts](https://www.reuters.com/legal/litigation/michigan-battles-massive-outbreak-state-reels-trump-cuts-2026-07-25/): reports that Michigan lost 23 infectious disease workers and 123 county health staff disease and health workers after federal cuts that likely contributed to bad response to cyclosporiasis outbreak
 - [Source](https://www.reuters.com/business/healthcare-pharmaceuticals/what-know-about-us-outbreak-intestinal-illness-cyclosporiasis-2026-07-28/): Iceberg lettuce sourced from privately held Taylor Farms ​operations in central Mexico and served at Yum Brands-owned Taco Bell
-- Case totals:
-	- [Michigan](https://www.reuters.com/business/healthcare-pharmaceuticals/michigan-reports-two-deaths-ongoing-cyclosporiasis-outbreak-2026-08-03/): 11,234 cases and two deaths
+- [Case totals](https://www.reuters.com/business/healthcare-pharmaceuticals/cyclosporiasis-cases-us-climb-15716-cdc-says-2026-08-18/): 15,716 total confirmed
+	- Michigan: 13,909 cases and two deaths
 	- [Other states](https://www.reuters.com/business/healthcare-pharmaceuticals/us-cdc-links-four-more-states-cyclosporiasis-outbreak-washington-post-reports-2026-07-24/): Illinois, Indiana, Kansas, Kentucky, Ohio, Oklahoma, Pennsylvania, and West Virginia,
 ## Salmonella
 ### July 2026 Outbreak

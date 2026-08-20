@@ -20,13 +20,18 @@
 #### Botched North Korea Operation Story
 The Trump admin also subpoenaed the records of Matthew Cole, a freelance journalist for ​the New York Times as part of a probe ‌into the sourcing of a 2025 story about a botched U.S. military operation in North Korea. 
 
+## FCC 
+### ABC
+#### Broadcast License Lawsuit
+In August 2026, Disney and its ABC unit [sued the FCC](https://www.reuters.com/world/disney-abc-sue-us-regulator-over-threats-broadcast-licenses-2026-08-18/) over threats to broadcast licenses, saying it threatened their free speech rights.
+
 
 # Free Speech
 - [Court rulings](https://www.reuters.com/legal/government/trump-vowed-bring-free-speech-back-judges-75-cases-ruled-that-he-has-stifled-it-2026-08-04/): Reuters review identifies 75 rulings against Trump administration among 93 cases decided on First-Amendment grounds , with Republican-appointed judges ruling against Trump in 10 of the 75 cases. During Biden there were 13 rulings of 27 against his admin on First Amendment grounds. 
 
 
 # Political Enemies
-- Fauci: in August 2026, a Senate panel votes 8-7 in party-line vote to hold Fauci in [contempt of Congress](https://www.reuters.com/legal/litigation/us-senate-panel-votes-hold-fauci-contempt-congress-2026-08-06/) after he invoked the Fifth Amendment more than 100 times during a Senate hearing about his handling of the COVID-19 pandemic.
+- **Fauci**: in August 2026, a Senate panel votes 8-7 in party-line vote to hold Fauci in [contempt of Congress](https://www.reuters.com/legal/litigation/us-senate-panel-votes-hold-fauci-contempt-congress-2026-08-06/) after he invoked the Fifth Amendment more than 100 times during a Senate hearing about his handling of the COVID-19 pandemic. Former NIH Fauci adviser, [David Morens](https://www.reuters.com/legal/government/former-fauci-adviser-pleads-guilty-us-conspiring-conceal-covid-19-records-2026-08-19/), pleaded ‌guilty to conspiring to evade public records laws and conceal government documents related to grant research funding and the COVID-19 pandemic. Prosecutors did not accuse Fauci of any ‌wrongdoing in ⁠connection with Morens' case.
 ## SPLC
 - [Fraud Charges](https://www.reuters.com/world/us-criminally-charges-southern-poverty-law-center-blanche-says-2026-04-21/) (April 2026): DOJ brings criminal charges against the Southern Poverty Law Center, a civil rights organization that tracks extremist groups, alleging financial misconduct.
 - [Heidi Beirich](https://www.reuters.com/legal/government/us-justice-department-charges-former-southern-poverty-law-center-executive-fraud-2026-08-12/) (August 2026): Former SPLC CFO Heidi Beirich indicted by DOJ for wire fraud conspiracy, conspiracy to submit false statements to a bank, and conspiracy ​to commit money laundering. Prosecutors alleged Beirich opened bank accounts connected ⁠to fictitious entities to disguise the source of the funds and also alleged Beirich was ​in a romantic relationship with one of the undercover informants and that donor money flowed into a ​joint account that was used to pay the couple's personal living expenses. 

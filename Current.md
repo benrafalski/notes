@@ -24,168 +24,208 @@
 
 [My News](https://www.reuters.com/my-news/feed/)
 
-[](https://www.reuters.com/account/sign-in/?redirect=https%3A%2F%2Fwww.reuters.com%2Fworld%2Fasia-pacific%2Ftrump-seeks-cuts-us-south-korea-drills-reviving-earlier-objections-2026-08-17%2F)[](https://www.reuters.com/account/subscribe/offer/?redirect=https%3A%2F%2Fwww.reuters.com%2Fworld%2Fasia-pacific%2Ftrump-seeks-cuts-us-south-korea-drills-reviving-earlier-objections-2026-08-17%2F&referrer=subscription_button&journeyStart=navigation)
+[](https://www.reuters.com/account/sign-in/?redirect=https%3A%2F%2Fwww.reuters.com%2Flegal%2Fgovernment%2Fminnesota-sues-texas-seeking-extradition-us-immigration-agent-assault-charges-2026-08-18%2F)[](https://www.reuters.com/account/subscribe/offer/?redirect=https%3A%2F%2Fwww.reuters.com%2Flegal%2Fgovernment%2Fminnesota-sues-texas-seeking-extradition-us-immigration-agent-assault-charges-2026-08-18%2F&referrer=subscription_button&journeyStart=navigation)
 
-# Trump seeks cuts to US-South Korea drills, reviving earlier objections
+# Minnesota sues Texas for refusing extradition of ICE agent in Minneapolis shooting
 
-By Reuters
+By [Jonathan Allen](https://www.reuters.com/authors/jonathan-allen/)
 
-August 16, 202611:10 PM PDTUpdated 8 hours ago
+August 18, 202612:51 PM PDTUpdated August 18, 2026
 
-Item 1 of 2 An anti-war protester chants slogans during a rally calling for a halt to the annual Ulchi Freedom Shield joint military exercises between South Korea and the United States, in front of the U.S. Embassy in Seoul, South Korea, August 17, 2026. REUTERS/Kim Hong-Ji
+![Texas Gov. Abbott arrives to cast his early vote in the state’s primary runoff election in Austin](https://www.reuters.com/resizer/v2/YV2MT5PF7ZKTXO3SGVWZLIKCPI.jpg?auth=5c31805406707a371a5838af1c5157209c3a0612804e33ea2b273226238a27f0&width=1920&quality=80)
 
-**[1/2]**An anti-war protester chants slogans during a rally calling for a halt to the annual Ulchi Freedom Shield joint military exercises between South Korea and the United States, in front of the U.S. Embassy in Seoul, South Korea, August 17, 2026. REUTERS/Kim Hong-Ji [Purchase Licensing Rights, opens new tab](https://www.reutersconnect.com/item/protesters-in-seoul-rally-against-us-south-korea-joint-military-exercise/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1JDMjEwTkFESllCWA%3D%3D/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead)
+Texas Governor Greg Abbott speaks to reporters in Austin, Texas, U.S. May 18, 2026. REUTERS/Joel Angel Juarez [Purchase Licensing Rights, opens new tab](https://www.reutersconnect.com/item/texas-gov-abbott-arrives-to-cast-his-early-vote-in-the-states-primary-runoff-election-in-austin/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1JDMlBCTEFNUElLSQ%3D%3D/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead)
 
-Aug 17 (Reuters) - U.S. President Donald Trump has told the Pentagon to "[substantially reduce](https://www.reuters.com/world/china/trump-instructs-pentagon-reduce-military-exercises-with-south-korea-2026-08-16/)" joint military exercises with South Korea that began on Monday, citing the cost and Seoul's refusal to take part in actions against Iran.
+- Summary
 
-Here are some details on the drills and Trump's previous ​stance.
+- Federal immigration agent Christian Castro has been in Texas jail since May
+- Castro wanted in Minnesota to face state assault charges for shooting Venezuelan man in leg in January
+- Minnesota says Castro could be freed from jail next week and ​is a flight risk
+- Texas Governor Abbott said he is refusing to sign because he mistrusts Minnesota Governor Walz
 
-Make sense of global markets with the Trading Day newsletter. Sign up [here.](https://www.reuters.com/newsletters/trading-day/?location=article-paragraph&redirectUrl=%2Fworld%2Fasia-pacific%2Ftrump-seeks-cuts-us-south-korea-drills-reviving-earlier-objections-2026-08-17%2F)
+Aug 18 (Reuters) - Minnesota sued ‌Texas Governor Greg Abbott on Tuesday for refusing to extradite a federal immigration agent facing assault charges for shooting a Venezuelan man in the leg in Minneapolis during last winter's deportation surge.
 
-## WHAT IS PLANNED FOR THIS YEAR
+Christian Castro, a U.S. Immigration and Customs Enforcement agent, has been in a Texas county jail near the border with Mexico since Texas Rangers [arrested](https://www.reuters.com/legal/government/us-immigration-agent-arrested-texas-minneapolis-shooting-2026-05-29/) him on May 29 on a warrant ​issued by a Minnesota judge.
 
-South Korea's Joint Chiefs of Staff confirmed the annual Ulchi Freedom Shield drills, due ‌to run to August 27, started on Monday.
+Jumpstart your morning with the latest legal news delivered straight to your inbox from The Daily Docket newsletter. Sign up [here.](https://www.reuters.com/newsletters/daily-docket/?location=article-paragraph&redirectUrl=%2Flegal%2Fgovernment%2Fminnesota-sues-texas-seeking-extradition-us-immigration-agent-assault-charges-2026-08-18%2F)
 
-Military officials said last week the drills will incorporate exercises to counter drones, GPS disruption and cyberattacks to reflect North Korea's evolving capabilities.
+Castro is wanted in Minnesota to face charges for wounding Julio Cesar Sosa-Celis on January 14, at the height of ​U.S. President Donald Trump's deportation campaign in Minnesota, which drew weeks of protests.
 
-The drills were focused on threats to the Korean Peninsula and the defence of South Korea, a U.S. official said, noting how North ​Korean soldiers deployed to fight against Ukraine had taken back lessons from the conflict.
+The case highlights the partisan divide over Trump's ⁠immigration policies. Abbott, a fellow Republican, has been a vocal supporter of Trump's deportation efforts. Minnesota's Democratic leaders, including Governor Tim Walz, have condemned Trump's surge of ​armed ICE patrols in Minneapolis and other cities, during which immigration agents killed two American citizens in January.
 
-The official highlighted the changing character of ​war, including the growing use of unmanned systems, electronic warfare and cyber operations.
+The U.S. Constitution and federal law require states to extradite people wanted ​for crimes in another state. But Minnesota Attorney General Keith Ellison, who filed the lawsuit, said Abbott was "refusing to honor the extradition request" sent by Walz in June knowing that, under Texas law, Castro must be released from jail after 90 days, which would elapse next week, if Abbott has not signed the rendition warrant.
 
-About 18,000 South Korean troops will ⁠take part, a scale similar to previous years, said Captain Jang Doyoung of South Korea's Joint Chiefs of Staff.
+"Christian Castro could walk free from jail in Texas and ​flee justice in Minnesota, including by leaving the country," Ellison told reporters.
 
-## HOW HAS NORTH KOREA ​REACTED?
+Later on Tuesday, 
 
-While the U.S. and South Korea say the drills are defensive in nature, Pyongyang routinely denounces them as rehearsals for invasion.
+"I don't trust Tim Walz on anything, let alone something like this," Abbott said. "I will not respond to them at all until they step up and do what's right, and ‌they acknowledge ⁠their fault in the fraud that took place," he said, referring to multiple unrelated state and federal investigations of individual Minnesotans and nonprofit groups for defrauding federal welfare funding during the COVID-19 pandemic.
 
-North Korea ​on Friday [condemned the drills](https://www.reuters.com/world/asia-pacific/north-korea-denounces-us-south-korea-drills-kcna-says-2026-08-13/) as more provocative than last year's exercises, state media reported.
+## AN UNUSUAL PROSECUTION
 
-U.S.-Japan-South Korea military cooperation is turning into a nuclear alliance and North Korea will respond to a new level of threat with a new level of deterrent, state media KCNA cited a spokesperson for North Korea's Foreign Ministry as ​saying.
+It is rare for county or state prosecutors to charge federal law enforcement officials, but Castro, 52, is the second federal immigration agent to be charged this year by Hennepin County Attorney Mary Moriarty, the chief state prosecutor in Minneapolis.
 
-North Korea also said on Friday it would further strengthen its nuclear deterrence, accusing the United States of pursuing a new nuclear strategy ​that lowers the threshold for using weapons and could push global security "to the brink of a nuclear war."
+She charged Castro with four counts of second-degree assault with ​a dangerous weapon and falsely reporting ​a crime after his superiors at ⁠the U.S. Department of Homeland Security learned his account that Sosa-Celis and others attacked him with a snow shovel and broom was disproved by video evidence. Federal prosecutors dismissed their criminal charges against Sosa-Celis and DHS suspended Castro.
 
-## HISTORY OF THE DRILLS
+Castro could not be reached for ​comment and it was unclear whether he had a lawyer.
 
-The first combined exercises took ‌place soon ⁠after the Korean War ended with an armistice in 1953. The exercises have since evolved to focus on interoperability and command relations between the militaries, shaped by perceived and actual threats from the North.
+White House officials have defended the conduct of ICE agents and said, ​incorrectly, that they have ⁠immunity from state prosecutions.
 
-In 1976, the Ulchi and Focus Lens drills were combined into Ulchi Focus Lens, an expanded exercise, which eventually became the largest computer-assisted military simulation in the world, according to 38 North, a U.S.-based think ​tank.
+[Ellison filed the lawsuit, opens new tab](https://www.ag.state.mn.us/Office/Communications/2026/docs/00906_Abbott_Complaint.pdf) in federal court in Brownsville in Texas, and it asks a judge to order Abbott to sign the rendition warrant for Castro, which Minnesota says is a "mandatory obligation" under the U.S. Constitution and federal and Texas law.
 
-They have undergone several name changes ​before their current label, as ⁠well as changes in scale and focus. There has also been a shift away from live-fire exercises to computer-simulated missile and cyberattacks.
+Cameron County Sheriff Manuel Treviño, who has custody of Castro in his jail, is also named as ⁠a respondent ​in the lawsuit, which asks that he be ordered not to release free Castro before he ​is extradited. Treviño declined to comment.
 
-## TRUMP'S VIEWS TOWARD THE EXERCISES
+Sosa-Celis' attorney, Robin Wolpert, wrote in an email that if Abbott did not sign the extradition papers there was a serious risk that Castro could flee to Mexico.
 
-It is not the first time Trump has criticised the ​drills.
+"This would be a ​double injustice for Mr. Sosa Celis and a profound blow to the rule of law," she wrote.
 
-After trading threats of nuclear annihilation during the first year of his initial term, Trump held ​three unprecedented meetings with ⁠North Korean leader Kim Jong Un in Singapore, Hanoi, and at the border between North and South Korea.
-
-In 2018, he announced after his summit in Singapore that the U.S. was [suspending](https://www.reuters.com/article/world/pentagon-indefinitely-suspends-some-training-exercises-with-south-korea-idUSKBN1JI2YY/) the summer’s joint military drills with South Korea, then known as Ulchi Freedom Guardian.
-
-Trump said at the ⁠time he ​would halt what he [called](https://www.reuters.com/article/world/trump-says-to-stop-expensive-provocative-south-korea-war-games-idUSKBN1J80UH/) “very provocative” and expensive regular military exercises that the United States ​holds with South Korea.
-
-While the drills later resumed when the diplomatic efforts foundered over North Korea's nuclear programme, Trump has during his second term continued to tout his ​special relationship with Kim and his willingness to hold new talks.
-
-SOURCES: Reuters, 38 North.
-
-Reporting by Ed Davies and Heejin Kim Editing by Lincoln Feast.
+Reporting by Jonathan Allen in New York; Editing by Sanjeev Miglani
 
 Our Standards: [The Thomson Reuters Trust Principles., opens new tab](https://www.thomsonreuters.com/en/about-us/trust-principles.html)
 
 - Suggested Topics:
-- [](https://www.reuters.com/world/asia-pacific/)
+- [](https://www.reuters.com/legal/government/)
+- [](https://www.reuters.com/legal/constitutional-law/)
+- [](https://www.reuters.com/legal/public-policy/)
+- [](https://www.reuters.com/legal/immigration/)
+- [](https://www.reuters.com/legal/civil-rights/)
 
 [](https://www.reutersagency.com/en/licensereuterscontent/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead)
 
-## Read Next
+## Read Next / Editor's Picks
 
-- [Asia Pacificcategory](https://www.reuters.com/world/asia-pacific/)
+- [Governmentcategory](https://www.reuters.com/legal/government/)
     
-    [In Bangkok's gun district, traders say Thai crackdown misses the mark](https://www.reuters.com/world/asia-pacific/bangkoks-gun-district-traders-say-thai-crackdown-misses-mark-2026-08-17/)
-    
-    [
-    
-    ](https://www.reuters.com/world/asia-pacific/bangkoks-gun-district-traders-say-thai-crackdown-misses-mark-2026-08-17/)
-    
-- [Indonesian mother 'grateful' after emergency birth during 7.7 quake](https://www.reuters.com/business/environment/indonesian-mother-grateful-after-emergency-birth-during-77-quake-2026-08-17/)
+    [US families, healthcare providers under strain after Trump crackdown on Haitian immigrants](https://www.reuters.com/legal/government/us-families-healthcare-providers-under-strain-after-trump-crackdown-haitian-2026-08-19/)
     
     [
     
-    ](https://www.reuters.com/business/environment/indonesian-mother-grateful-after-emergency-birth-during-77-quake-2026-08-17/)
+    ](https://www.reuters.com/legal/government/us-families-healthcare-providers-under-strain-after-trump-crackdown-haitian-2026-08-19/)
     
-- [Asia Pacificcategory](https://www.reuters.com/world/asia-pacific/)
+- [Governmentcategory](https://www.reuters.com/legal/government/)
     
-    [Six die at temple in India's Bihar after 'stampede-like' event, officials say](https://www.reuters.com/world/asia-pacific/six-die-temple-indias-bihar-after-stampede-like-event-officials-say-2026-08-17/)
-    
-    [
-    
-    ](https://www.reuters.com/world/asia-pacific/six-die-temple-indias-bihar-after-stampede-like-event-officials-say-2026-08-17/)
-    
-- [Search for Indonesia earthquake victims underway on Independence Day](https://www.reuters.com/business/environment/search-indonesia-quake-victims-underway-independence-day-2026-08-17/)
+    [Trump picks White House adviser Heidi Overton to run FDA, source says](https://www.reuters.com/legal/government/trump-picks-heidi-overton-run-fda-bloomberg-news-reports-2026-08-19/)
     
     [
     
-    ](https://www.reuters.com/business/environment/search-indonesia-quake-victims-underway-independence-day-2026-08-17/)
+    ](https://www.reuters.com/legal/government/trump-picks-heidi-overton-run-fda-bloomberg-news-reports-2026-08-19/)
     
-- [South Korea landslide kills one as heavy rains sweep southern areas, media reports](https://www.reuters.com/business/environment/south-korea-landslide-kills-one-heavy-rains-sweep-southern-areas-media-reports-2026-08-17/)
+- [Governmentcategory](https://www.reuters.com/legal/government/)
     
-    [
-    
-    ](https://www.reuters.com/business/environment/south-korea-landslide-kills-one-heavy-rains-sweep-southern-areas-media-reports-2026-08-17/)
-    
-- [Asia Pacificcategory](https://www.reuters.com/world/asia-pacific/)
-    
-    [Cambodian opposition figure's daughter appointed PM's envoy in rare concession](https://www.reuters.com/world/asia-pacific/cambodian-opposition-figures-daughter-appointed-pms-envoy-rare-concession-2026-08-17/)
+    [Biden-era 'ghost guns' restrictions are unconstitutional, US judge rules](https://www.reuters.com/legal/government/biden-era-ghost-guns-restrictions-are-unconstitutional-us-judge-rules-2026-08-18/)
     
     [
     
-    ](https://www.reuters.com/world/asia-pacific/cambodian-opposition-figures-daughter-appointed-pms-envoy-rare-concession-2026-08-17/)
+    ](https://www.reuters.com/legal/government/biden-era-ghost-guns-restrictions-are-unconstitutional-us-judge-rules-2026-08-18/)
+    
+- [Governmentcategory](https://www.reuters.com/legal/government/)
+    
+    [US FTC considers requiring disclosure of personalized pricing](https://www.reuters.com/legal/government/us-ftc-considers-requiring-disclosure-personalized-pricing-2026-08-19/)
+    
+    [
+    
+    ](https://www.reuters.com/legal/government/us-ftc-considers-requiring-disclosure-personalized-pricing-2026-08-19/)
+    
+- [Governmentcategory](https://www.reuters.com/legal/government/)
+    
+    [US appeals court blocks Trump immigration enforcement near some houses of worship](https://www.reuters.com/legal/government/us-appeals-court-blocks-immigration-enforcement-actions-under-trump-near-some-2026-08-18/)
+    
+    [
+    
+    ](https://www.reuters.com/legal/government/us-appeals-court-blocks-immigration-enforcement-actions-under-trump-near-some-2026-08-18/)
+    
+- [Litigationcategory](https://www.reuters.com/legal/litigation/)
+    
+    [Court upholds US rule designating PFAS chemicals as 'hazardous'](https://www.reuters.com/legal/litigation/court-upholds-us-rule-designating-pfas-chemicals-hazardous-2026-08-18/)
+    
+    [
+    
+    ](https://www.reuters.com/legal/litigation/court-upholds-us-rule-designating-pfas-chemicals-hazardous-2026-08-18/)
+    
+- [Governmentcategory](https://www.reuters.com/legal/government/)
+    
+    [DOJ unseals new charges against 17 hackers in Iran-backed campaign](https://www.reuters.com/legal/government/doj-unseals-new-charges-against-17-hackers-iran-backed-campaign-2026-08-18/)
+    
+    [
+    
+    ](https://www.reuters.com/legal/government/doj-unseals-new-charges-against-17-hackers-iran-backed-campaign-2026-08-18/)
+    
+- [Governmentcategory](https://www.reuters.com/legal/government/)
+    
+    [Trump administration unlawfully appointed Nevada's top federal prosecutor, court rules](https://www.reuters.com/legal/government/trump-administration-unlawfully-appointed-nevadas-top-federal-prosecutor-court-2026-08-17/)
+    
+    [
+    
+    ](https://www.reuters.com/legal/government/trump-administration-unlawfully-appointed-nevadas-top-federal-prosecutor-court-2026-08-17/)
+    
+- [Worldcategory](https://www.reuters.com/world/)
+    
+    [US judge blocks Trump administration's plan to scrap FBI headquarters move to Maryland](https://www.reuters.com/world/us-judge-blocks-trump-administrations-plan-scrap-fbi-headquarters-move-maryland-2026-08-17/)
+    
+    [
+    
+    ](https://www.reuters.com/world/us-judge-blocks-trump-administrations-plan-scrap-fbi-headquarters-move-maryland-2026-08-17/)
+    
+- [Governmentcategory](https://www.reuters.com/legal/government/)
+    
+    [US pauses border construction in Big Bend National Park after widespread criticism](https://www.reuters.com/legal/government/us-pauses-border-construction-big-bend-national-park-after-widespread-criticism-2026-08-17/)
+    
+    [
+    
+    ](https://www.reuters.com/legal/government/us-pauses-border-construction-big-bend-national-park-after-widespread-criticism-2026-08-17/)
+    
+- [Governmentcategory](https://www.reuters.com/legal/government/)
+    
+    [DOJ probes College of William & Mary alleging discrimination in favor of minorities](https://www.reuters.com/legal/government/doj-probes-college-william-mary-alleging-discrimination-favor-minorities-2026-08-17/)
+    
+    [
+    
+    ](https://www.reuters.com/legal/government/doj-probes-college-william-mary-alleging-discrimination-favor-minorities-2026-08-17/)
+    
+- [Governmentcategory](https://www.reuters.com/legal/government/)
+    
+    [US ICE puts forward insurance plan to protect local officers making immigration arrests](https://www.reuters.com/legal/government/us-ice-puts-forward-insurance-plan-protect-local-officers-making-immigration-2026-08-18/)
+    
+    [
+    
+    ](https://www.reuters.com/legal/government/us-ice-puts-forward-insurance-plan-protect-local-officers-making-immigration-2026-08-18/)
+    
+- [Governmentcategory](https://www.reuters.com/legal/government/)
+    
+    [Ex-Google engineer's conviction for stealing AI secrets partially overturned](https://www.reuters.com/legal/government/ex-google-engineers-conviction-stealing-ai-secrets-partially-overturned-2026-08-20/)    
+    
+    [
+    
+    ](https://www.reuters.com/legal/government/ex-google-engineers-conviction-stealing-ai-secrets-partially-overturned-2026-08-20/)
+    
+- [Governmentcategory](https://www.reuters.com/legal/government/)
+    
+    [India's BSE cleared as eligible exchange in FTSE Russell equity indices](https://www.reuters.com/legal/government/indias-bse-cleared-eligible-exchange-ftse-russell-equity-indices-2026-08-20/)
+    
+    [
+    
+    ](https://www.reuters.com/legal/government/indias-bse-cleared-eligible-exchange-ftse-russell-equity-indices-2026-08-20/)
+    
+- [Worldcategory](https://www.reuters.com/world/)
+    
+    EXCLUSIVE
+    
+    [How a Texas student blew the whistle on a rogue AI hacking attempt](https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20/)
+    
+    [
+    
+    ](https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20/)
+    
+- [Worldcategory](https://www.reuters.com/world/)
+    
+    [Delta, Aeromexico win US court battle to keep joint venture](https://www.reuters.com/world/delta-aeromexico-win-court-battle-keep-joint-venture-2026-08-20/)
+    
+    [
+    
+    ](https://www.reuters.com/world/delta-aeromexico-win-court-battle-keep-joint-venture-2026-08-20/)
     
 
 [](https://www.lseg.com/en/data-analytics/products/workspace?utm_source=reuters.com&utm_medium=articlebanner&utm_campaign=Reuters_ProductPage_Links)
-
-## [World](https://www.reuters.com/world/)
-
-- [
-    
-    ](https://www.reuters.com/business/energy/canadian-miner-nexgen-energy-holds-talks-with-bhp-it-seeks-1-billion-uranium-2026-08-17/)
-    
-    ### [Canadian miner NexGen Energy holds talks with BHP as it seeks $1 billion for uranium project](https://www.reuters.com/business/energy/canadian-miner-nexgen-energy-holds-talks-with-bhp-it-seeks-1-billion-uranium-2026-08-17/) 
-    
-    [Businesscategory](https://www.reuters.com/business/) · August 17, 2026 · 7:32 AM PDT · 14 mins ago
-    
-    Canadian uranium miner NexGen Energy is sharing information and "talking regularly" with mining giant BHP, about its Rook ‌I mining project in Saskatchewan, CEO Leigh Curyer told Reuters when asked about a potential equity stake.
-    
-- [
-    
-    ](https://www.reuters.com/legal/government/us-civil-rights-group-joins-team-seeking-answers-death-black-teen-nolan-wells-2026-08-17/)
-    
-    [Legalcategory](https://www.reuters.com/legal/)[US civil rights group joins team seeking answers in death of Black teen Nolan Wells](https://www.reuters.com/legal/government/us-civil-rights-group-joins-team-seeking-answers-death-black-teen-nolan-wells-2026-08-17/)
-    
-    7:13 AM PDT
-    
-- [
-    
-    ](https://www.reuters.com/world/ukraine-russia-war/how-soldiers-video-diary-ukraines-front-line-became-reuters-documentary-2026-08-17/)
-    
-    [Ukraine and Russia at Warcategory](https://www.reuters.com/world/ukraine-russia-war/)[How a soldier’s video diary from Ukraine’s front line became a Reuters documentary](https://www.reuters.com/world/ukraine-russia-war/how-soldiers-video-diary-ukraines-front-line-became-reuters-documentary-2026-08-17/)
-    
-    7:09 AM PDT
-    
-- [
-    
-    ](https://www.reuters.com/world/asia-pacific/cambodian-opposition-figures-daughter-appointed-pms-envoy-rare-concession-2026-08-17/)
-    
-    [Asia Pacificcategory](https://www.reuters.com/world/asia-pacific/)[Cambodian opposition figure's daughter appointed PM's envoy in rare concession](https://www.reuters.com/world/asia-pacific/cambodian-opposition-figures-daughter-appointed-pms-envoy-rare-concession-2026-08-17/)
-    
-    6:53 AM PDT
-    
-- [
-    
-    ](https://www.reuters.com/world/middle-east/iran-threatens-go-offensive-strait-hormuz-if-diplomacy-with-us-fails-2026-08-17/)
-    
-    [Middle Eastcategory](https://www.reuters.com/world/middle-east/)[Iran threatens to go on offensive in Strait of Hormuz if diplomacy with US fails](https://www.reuters.com/world/middle-east/iran-threatens-go-offensive-strait-hormuz-if-diplomacy-with-us-fails-2026-08-17/)
-    
-    6:45 AM PDT
-    
 
 ### Site Index
 
