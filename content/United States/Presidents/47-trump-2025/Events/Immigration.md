@@ -15,6 +15,9 @@
 ## Militarization
 - [Shock Gloves](https://www.reuters.com/world/us-immigration-agency-plans-buy-electric-shock-gloves-raising-alarm-among-rights-2026-08-13/): AP reports that ICE plans to buy electric shock gloves for officers in the field.
 
+## Protected Areas
+### Places of Worship
+Upon returning to the White House, Trump rescinded a 2021 policy from Biden limiting immigration enforcement in "protected areas." Following, eight houses of worship sued, arguing the new policy would ​infringe their rights to ⁠religious exercise under the Religious Freedom Restoration Act and the U.S. Constitution's First Amendment. U.S. District Judge Theodore Chuang in Maryland agreed in February 2026 and issued a preliminary injunction. In August, the 4th U.S. Circuit Court of Appeals [upholds the block](https://www.reuters.com/legal/government/us-appeals-court-blocks-immigration-enforcement-actions-under-trump-near-some-2026-08-18/) on Trump immigration enforcement near some houses of worship (Quaker, Sikh, and Cooperative Baptist Fellowship).
 # TPS
 ## Trump Changes
 - **July 21, 2026**: U.S. District Judge Nathaniel Gorton in Boston temporarily blocks Trump admin implement new immigration-related restrictions enacted under his Big Beautiful Bill that would strip TPS holders of their [ability to work in the US](https://www.reuters.com/legal/government/us-judge-blocks-trump-administration-stripping-immigrants-work-permits-2026-07-21/).

@@ -1,3 +1,7 @@
+# TODO
+- [PBS](https://youtu.be/_zD2V_250Bk?si=XDwdnegWowFJHGuX)
+- [Mr Beat](https://youtu.be/viwPzlIYosU?si=VVAop75Wf4ReMqxc)
+
 # Overview
 - In last year of Eisenhower admin, CIA trained anticommunist Cuban exiles for a Cuban invasion
 - Kennedy's Joint Chiefs of Staff unanimously advised him that this force, once ashore, would spark a general uprising against the Fidel Castro.

@@ -1,0 +1,2 @@
+# 2026
+- [Alaska Crash](https://www.reuters.com/world/charter-plane-carrying-8-crashes-near-remote-site-western-alaska-ap-reports-2026-08-21/) (August 20): 8 killed in charter plane crash near remote site in western Alaska

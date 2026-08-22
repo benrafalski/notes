@@ -24,76 +24,147 @@
 
 [My News](https://www.reuters.com/my-news/feed/)
 
-[](https://www.reuters.com/account/sign-in/?redirect=https%3A%2F%2Fwww.reuters.com%2Flegal%2Fgovernment%2Fminnesota-sues-texas-seeking-extradition-us-immigration-agent-assault-charges-2026-08-18%2F)[](https://www.reuters.com/account/subscribe/offer/?redirect=https%3A%2F%2Fwww.reuters.com%2Flegal%2Fgovernment%2Fminnesota-sues-texas-seeking-extradition-us-immigration-agent-assault-charges-2026-08-18%2F&referrer=subscription_button&journeyStart=navigation)
+[](https://www.reuters.com/account/sign-in/?redirect=https%3A%2F%2Fwww.reuters.com%2Fworld%2Fus-plans-725-million-payment-towards-its-large-un-debt-2026-08-21%2F)[](https://www.reuters.com/account/subscribe/offer/?redirect=https%3A%2F%2Fwww.reuters.com%2Fworld%2Fus-plans-725-million-payment-towards-its-large-un-debt-2026-08-21%2F&referrer=subscription_button&journeyStart=navigation)
 
-# Minnesota sues Texas for refusing extradition of ICE agent in Minneapolis shooting
+EXCLUSIVE
 
-By [Jonathan Allen](https://www.reuters.com/authors/jonathan-allen/)
+# US plans $725 million payment towards its large UN debt
 
-August 18, 202612:51 PM PDTUpdated August 18, 2026
+By [Humeyra Pamuk](https://www.reuters.com/authors/humeyra-pamuk/) and [Emma Farge](https://www.reuters.com/authors/emma-farge/)
 
-![Texas Gov. Abbott arrives to cast his early vote in the state’s primary runoff election in Austin](https://www.reuters.com/resizer/v2/YV2MT5PF7ZKTXO3SGVWZLIKCPI.jpg?auth=5c31805406707a371a5838af1c5157209c3a0612804e33ea2b273226238a27f0&width=1920&quality=80)
+August 21, 202610:00 AM PDTUpdated 19 hours ago
 
-Texas Governor Greg Abbott speaks to reporters in Austin, Texas, U.S. May 18, 2026. REUTERS/Joel Angel Juarez [Purchase Licensing Rights, opens new tab](https://www.reutersconnect.com/item/texas-gov-abbott-arrives-to-cast-his-early-vote-in-the-states-primary-runoff-election-in-austin/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1JDMlBCTEFNUElLSQ%3D%3D/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead)
+![The United Nations headquarters building is pictured though a window with the UN logo in the foreground in the Manhattan borough of New York](https://www.reuters.com/resizer/v2/FZD3XK6G6BKOVDSO6QZZDLBBAM.jpg?auth=3f3895194af4ab94ec2c1b233be593380fd281e7544ddf0ed9e6032255f60b10&width=1920&quality=80)
+
+The United Nations headquarters building is pictured though a window with the UN logo in the foreground in the Manhattan borough of New York August 15, 2014. REUTERS/Carlo Allegri [Purchase Licensing Rights, opens new tab](https://www.reutersconnect.com/item/the-united-nations-headquarters-building-is-pictured-though-a-window-with-the-un-logo-in-the-foreground-in-the-manhattan-borough-of-new-york/dGFnOnJldXRlcnMuY29tLDIwMjI6bmV3c21sX1JDMkdJVTk2UFBVUA%3D%3D/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead)
 
 - Summary
 
-- Federal immigration agent Christian Castro has been in Texas jail since May
-- Castro wanted in Minnesota to face state assault charges for shooting Venezuelan man in leg in January
-- Minnesota says Castro could be freed from jail next week and ​is a flight risk
-- Texas Governor Abbott said he is refusing to sign because he mistrusts Minnesota Governor Walz
+- Less than 20% of what the UN says it is owed by Washington
+- Payment could stave off immediate cuts, expert says
+- Countries in arrears to UN can lose voting rights
+- US is biggest contributor to UN, ahead of China
 
-Aug 18 (Reuters) - Minnesota sued ‌Texas Governor Greg Abbott on Tuesday for refusing to extradite a federal immigration agent facing assault charges for shooting a Venezuelan man in the leg in Minneapolis during last winter's deportation surge.
+WASHINGTON/GENEVA, Aug 21 (Reuters) - The Trump administration has informed Congress of its intention to pay $725 ​million to the United Nations, a congressional notification seen by Reuters showed, a move aid experts said was a welcome step towards paying billions in dues owed.
 
-Christian Castro, a U.S. Immigration and Customs Enforcement agent, has been in a Texas county jail near the border with Mexico since Texas Rangers [arrested](https://www.reuters.com/legal/government/us-immigration-agent-arrested-texas-minneapolis-shooting-2026-05-29/) him on May 29 on a warrant ​issued by a Minnesota judge.
+The ‌administration has [criticized](https://www.reuters.com/world/trump-blasts-un-not-helping-us-led-peace-efforts-backs-it-100-2025-09-23/) the global body for not living up to its potential and slashed funding to many U.N. agencies. When asked about the planned payment, a U.S. official said any payments will be [contingent on continued reforms](https://www.reuters.com/world/china/us-conditions-paying-un-dues-include-china-curbs-report-2026-04-28/) of the organization and added that the U.S. has not transferred any funds as of Friday.
 
-Jumpstart your morning with the latest legal news delivered straight to your inbox from The Daily Docket newsletter. Sign up [here.](https://www.reuters.com/newsletters/daily-docket/?location=article-paragraph&redirectUrl=%2Flegal%2Fgovernment%2Fminnesota-sues-texas-seeking-extradition-us-immigration-agent-assault-charges-2026-08-18%2F)
+The Reuters Daily Briefing newsletter provides all the news you need to start your day. Sign up [here.](https://www.reuters.com/newsletters/daily-briefing/?location=article-paragraph&redirectUrl=%2Fworld%2Fus-plans-725-million-payment-towards-its-large-un-debt-2026-08-21%2F)
 
-Castro is wanted in Minnesota to face charges for wounding Julio Cesar Sosa-Celis on January 14, at the height of ​U.S. President Donald Trump's deportation campaign in Minnesota, which drew weeks of protests.
+The allocation of funds - mentioned in an August 4 State Department notification letter to Congress that has not been previously reported - comes ahead of ​an expected speech by U.S. President Donald Trump to the U.N. General Assembly in New York next month.
 
-The case highlights the partisan divide over Trump's ⁠immigration policies. Abbott, a fellow Republican, has been a vocal supporter of Trump's deportation efforts. Minnesota's Democratic leaders, including Governor Tim Walz, have condemned Trump's surge of ​armed ICE patrols in Minneapolis and other cities, during which immigration agents killed two American citizens in January.
+## 'IT KEEPS THE SHIP AFLOAT A LITTLE LONGER'
 
-The U.S. Constitution and federal law require states to extradite people wanted ​for crimes in another state. But Minnesota Attorney General Keith Ellison, who filed the lawsuit, said Abbott was "refusing to honor the extradition request" sent by Walz in June knowing that, under Texas law, Castro must be released from jail after 90 days, which would elapse next week, if Abbott has not signed the rendition warrant.
+U.N. Secretary-General Antonio Guterres said ​this year that the U.N. faced "[imminent financial collapse](https://www.reuters.com/world/un-chief-guterres-warns-imminent-financial-collapse-2026-01-30/)" due to unpaid contributions from member states, and the global body has brought in large budget ⁠cuts.
 
-"Christian Castro could walk free from jail in Texas and ​flee justice in Minnesota, including by leaving the country," Ellison told reporters.
+"Over the past six months, the United States has achieved historic reforms across the U.N. – reforms long considered impossible – including the first real budget cut in U.N. history, resulting in nearly ​one billion in cuts," a State Department official, responding to Reuters questions about the payment, said in an email.
 
-Later on Tuesday, 
+In April, Devex, a development news agency, reported that the [U.S. had set specific conditions for ​the release of funds](https://www.reuters.com/world/china/us-conditions-paying-un-dues-include-china-curbs-report-2026-04-28/), such as more cost-cutting and moves to counter China's influence.
 
-"I don't trust Tim Walz on anything, let alone something like this," Abbott said. "I will not respond to them at all until they step up and do what's right, and ‌they acknowledge ⁠their fault in the fraud that took place," he said, referring to multiple unrelated state and federal investigations of individual Minnesotans and nonprofit groups for defrauding federal welfare funding during the COVID-19 pandemic.
+The Trump administration has carried out an unprecedented shrinking of its federal government, saying it was bloated and has significantly cut back on domestic and foreign grants in an effort that it says was to put money into causes that aligned with U.S. taxpayer interests.
 
-## AN UNUSUAL PROSECUTION
+The $725 million would be less than 20% of the more than $4 billion that the U.N. said in ​May that the United States owed — though Washington has said that total figure [is much lower](https://www.reuters.com/world/trump-says-us-will-give-un-money-make-it-stronger-more-viable-2026-02-19/) and that it has made some payments.
 
-It is rare for county or state prosecutors to charge federal law enforcement officials, but Castro, 52, is the second federal immigration agent to be charged this year by Hennepin County Attorney Mary Moriarty, the chief state prosecutor in Minneapolis.
+Eugene Chen, a former U.N. official, said such a transfer would ​help pay U.N. salaries for a period, but might not cover them all. "It keeps the ship afloat a little longer," he said.
 
-She charged Castro with four counts of second-degree assault with ​a dangerous weapon and falsely reporting ​a crime after his superiors at ⁠the U.S. Department of Homeland Security learned his account that Sosa-Celis and others attacked him with a snow shovel and broom was disproved by video evidence. Federal prosecutors dismissed their criminal charges against Sosa-Celis and DHS suspended Castro.
+"If the U.S. does not make further payments it will likely lose its voting rights ‌in January," ⁠he added.
 
-Castro could not be reached for ​comment and it was unclear whether he had a lawyer.
+Under Article 19 of the U.N. Charter, a member state loses its voting rights in the General Assembly if its arrears exceed two years in annual fees, although grace periods are possible.
 
-White House officials have defended the conduct of ICE agents and said, ​incorrectly, that they have ⁠immunity from state prosecutions.
+A significant transfer now could avert the need for immediate spending cuts, Ronny Patz, an expert in U.N. finance with German think tank IDOS, said.
 
-[Ellison filed the lawsuit, opens new tab](https://www.ag.state.mn.us/Office/Communications/2026/docs/00906_Abbott_Complaint.pdf) in federal court in Brownsville in Texas, and it asks a judge to order Abbott to sign the rendition warrant for Castro, which Minnesota says is a "mandatory obligation" under the U.S. Constitution and federal and Texas law.
+"If they pay a big chunk, the U.N. still runs on zero reserves but it gets through the year," Patz added. “If they don’t pay, the U.N. might really be in trouble for the last two or three months of the year in terms ​of paying salaries and keeping the doors open.”
 
-Cameron County Sheriff Manuel Treviño, who has custody of Castro in his jail, is also named as ⁠a respondent ​in the lawsuit, which asks that he be ordered not to release free Castro before he ​is extradited. Treviño declined to comment.
+The ​U.S. is the biggest contributor to the ⁠U.N. budget, but under the Trump administration it has refused to make mandatory payments to regular and peacekeeping budgets, and has slashed voluntary funding to U.N. agencies with their own budgets.
 
-Sosa-Celis' attorney, Robin Wolpert, wrote in an email that if Abbott did not sign the extradition papers there was a serious risk that Castro could flee to Mexico.
+Washington [has also withdrawn from](https://www.reuters.com/world/trump-signs-proclamation-withdrawing-international-organizations-white-house-2026-01-07/) dozens of U.N. and other international agencies.
 
-"This would be a ​double injustice for Mr. Sosa Celis and a profound blow to the rule of law," she wrote.
+The U.N. had been counting on collecting around 90% ​of dues from its 193 members for this year's budget, its Controller Chandramouli Ramanathan said last month.
 
-Reporting by Jonathan Allen in New York; Editing by Sanjeev Miglani
+As of August 18, some 129 members ​had paid in full, ⁠a U.N. document showed. China, the No. 2 contributor after Washington, was also absent from the list.
+
+The State Department said in its August 4 letter it was obligating a total of $725 million for the U.N.'s regular budget.
+
+In May, the U.N. said the more than $4 billion owed to it by Washington included $2.04 billion for the regular budget, $2.2 billion for current and past peacekeeping missions and $44 million for U.N. tribunals.
+
+Washington has ⁠not transferred around $153.4 ​million in what it calls "policy-based withholdings". That included $10.6 million meant for the Human Rights Council — which Washington disengaged from ​last year alleging an anti-Israel bias — and funds for the [U.N. Palestinian Refugee Agency](https://www.reuters.com/world/middle-east/us-weighs-hitting-un-palestinian-refugee-agency-with-terrorism-related-sanctions-2025-12-10/).
+
+The 80-year-old institution has been undergoing a reform and cost-cutting exercise known as "UN80" amid its financial crisis.
+
+It has already cut its 2026 budget by 9.2% and transferred over ​2,000 jobs out of expensive cities like [Geneva](https://www.reuters.com/world/once-city-peace-geneva-sees-united-nations-presence-fade-2026-05-07/) and New York to lower-cost hubs.
+
+Reporting by Humeyra Pamuk and Emma Farge; Additional reporting by David Brunnstrom in Washington; Editing by Andrew Heavens and Lisa Shumaker
 
 Our Standards: [The Thomson Reuters Trust Principles., opens new tab](https://www.thomsonreuters.com/en/about-us/trust-principles.html)
 
 - Suggested Topics:
 - [](https://www.reuters.com/legal/government/)
-- [](https://www.reuters.com/legal/constitutional-law/)
 - [](https://www.reuters.com/legal/public-policy/)
-- [](https://www.reuters.com/legal/immigration/)
-- [](https://www.reuters.com/legal/civil-rights/)
+- [](https://www.reuters.com/sustainability/human-rights/)
 
 [](https://www.reutersagency.com/en/licensereuterscontent/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead)
 
-## Read Next / Editor's Picks
+[
 
+](https://www.reuters.com/authors/humeyra-pamuk/)
+
+[Humeyra Pamuk](https://www.reuters.com/authors/humeyra-pamuk/)
+
+Thomson Reuters
+
+Humeyra Pamuk is a senior foreign policy correspondent based in Washington DC. She covers the U.S. State Department, regularly traveling with U.S. Secretary of State. During her 20 years with Reuters, she has had postings in London, Dubai, Cairo and Turkey, covering everything from the Arab Spring and Syria's civil war to numerous Turkish elections and the Kurdish insurgency in the southeast. In 2017, she won the Knight-Bagehot fellowship program at Columbia University’s School of Journalism. She holds a BA in International Relations and an MA on European Union studies.
+
+- [](mailto:humeyra.pamuk@thomsonreuters.com)
+- [](https://x.com/humeyra_pamuk)
+- [](https://www.instagram.com/humeyra_reuters/)
+- [](https://www.linkedin.com/in/humeyra-pamuk-1b971127/)
+
+[
+
+](https://www.reuters.com/authors/emma-farge/)
+
+[Emma Farge](https://www.reuters.com/authors/emma-farge/)
+
+Thomson Reuters
+
+Emma Farge reports on the U.N. beat and Swiss news from Geneva since 2019. She has produced a string of exclusives on diplomacy, the environment and global trade and covered Switzerland’s first war crimes trial. Her Reuters career started in 2009 covering oil swaps from London and she has since written about the West African Ebola outbreak, embedded with U.N. troops in north Mali and was the first reporter to enter deposed Gambian dictator Yahya Jammeh’s estate. She co-authored a winning story for the Elizabeth Neuffer Memorial Prize on Russia’s diplomatic isolation in 2022 and was also part of a team of journalists nominated in 2012 as Pulitzer finalists in the international reporting category for coverage of the Libyan revolution. She holds a BA from Oxford University (First) and an MSc from the LSE in International Relations. She is currently on the board of the press association for UN correspondents in Geneva (ACANU).
+
+- [](mailto:emma.farge@thomsonreuters.com)
+- [](https://www.linkedin.com/in/emma-farge-3b954a17/)
+- [](https://www.reuters.com/world/us-plans-725-million-payment-towards-its-large-un-debt-2026-08-21/REUTERSFARGE)
+
+## Read Next
+
+- [Worldcategory](https://www.reuters.com/world/)
+    
+    [Appeals court upholds block on US Justice Department subpoenas to NY AG James' office](https://www.reuters.com/world/appeals-court-upholds-block-doj-subpoenas-ny-ag-james-office-2026-08-21/)
+    
+    [
+    
+    ](https://www.reuters.com/world/appeals-court-upholds-block-doj-subpoenas-ny-ag-james-office-2026-08-21/)
+    
+- [Litigationcategory](https://www.reuters.com/legal/litigation/)
+    
+    [US highway agency expands probe into GM pickups, SUVs over engine failures](https://www.reuters.com/legal/litigation/nhtsa-opens-probe-into-nearly-1-million-gm-pickups-suvs-over-engine-failure-2026-08-21/)
+    
+    [
+    
+    ](https://www.reuters.com/legal/litigation/nhtsa-opens-probe-into-nearly-1-million-gm-pickups-suvs-over-engine-failure-2026-08-21/)
+    
+- [Governmentcategory](https://www.reuters.com/legal/government/)
+    
+    [Trump, former fixer Michael Cohen have warm interview at political low point for president](https://www.reuters.com/legal/government/trump-former-fixer-michael-cohen-have-warm-interview-political-low-point-2026-08-21/)
+    
+    [
+    
+    ](https://www.reuters.com/legal/government/trump-former-fixer-michael-cohen-have-warm-interview-political-low-point-2026-08-21/)
+    
+- [US EPA to extend renewable fuel standard compliance deadline for refiners](https://www.reuters.com/business/energy/epa-extends-renewable-fuel-standard-compliance-deadline-refiners-2026-08-21/)
+    
+    [
+    
+    ](https://www.reuters.com/business/energy/epa-extends-renewable-fuel-standard-compliance-deadline-refiners-2026-08-21/)
+    
 - [Governmentcategory](https://www.reuters.com/legal/government/)
     
     [US families, healthcare providers under strain after Trump crackdown on Haitian immigrants](https://www.reuters.com/legal/government/us-families-healthcare-providers-under-strain-after-trump-crackdown-haitian-2026-08-19/)
@@ -110,122 +181,53 @@ Our Standards: [The Thomson Reuters Trust Principles., opens new tab](https://w
     
     ](https://www.reuters.com/legal/government/trump-picks-heidi-overton-run-fda-bloomberg-news-reports-2026-08-19/)
     
-- [Governmentcategory](https://www.reuters.com/legal/government/)
-    
-    [Biden-era 'ghost guns' restrictions are unconstitutional, US judge rules](https://www.reuters.com/legal/government/biden-era-ghost-guns-restrictions-are-unconstitutional-us-judge-rules-2026-08-18/)
-    
-    [
-    
-    ](https://www.reuters.com/legal/government/biden-era-ghost-guns-restrictions-are-unconstitutional-us-judge-rules-2026-08-18/)
-    
-- [Governmentcategory](https://www.reuters.com/legal/government/)
-    
-    [US FTC considers requiring disclosure of personalized pricing](https://www.reuters.com/legal/government/us-ftc-considers-requiring-disclosure-personalized-pricing-2026-08-19/)
-    
-    [
-    
-    ](https://www.reuters.com/legal/government/us-ftc-considers-requiring-disclosure-personalized-pricing-2026-08-19/)
-    
-- [Governmentcategory](https://www.reuters.com/legal/government/)
-    
-    [US appeals court blocks Trump immigration enforcement near some houses of worship](https://www.reuters.com/legal/government/us-appeals-court-blocks-immigration-enforcement-actions-under-trump-near-some-2026-08-18/)
-    
-    [
-    
-    ](https://www.reuters.com/legal/government/us-appeals-court-blocks-immigration-enforcement-actions-under-trump-near-some-2026-08-18/)
-    
-- [Litigationcategory](https://www.reuters.com/legal/litigation/)
-    
-    [Court upholds US rule designating PFAS chemicals as 'hazardous'](https://www.reuters.com/legal/litigation/court-upholds-us-rule-designating-pfas-chemicals-hazardous-2026-08-18/)
-    
-    [
-    
-    ](https://www.reuters.com/legal/litigation/court-upholds-us-rule-designating-pfas-chemicals-hazardous-2026-08-18/)
-    
-- [Governmentcategory](https://www.reuters.com/legal/government/)
-    
-    [DOJ unseals new charges against 17 hackers in Iran-backed campaign](https://www.reuters.com/legal/government/doj-unseals-new-charges-against-17-hackers-iran-backed-campaign-2026-08-18/)
-    
-    [
-    
-    ](https://www.reuters.com/legal/government/doj-unseals-new-charges-against-17-hackers-iran-backed-campaign-2026-08-18/)
-    
-- [Governmentcategory](https://www.reuters.com/legal/government/)
-    
-    [Trump administration unlawfully appointed Nevada's top federal prosecutor, court rules](https://www.reuters.com/legal/government/trump-administration-unlawfully-appointed-nevadas-top-federal-prosecutor-court-2026-08-17/)
-    
-    [
-    
-    ](https://www.reuters.com/legal/government/trump-administration-unlawfully-appointed-nevadas-top-federal-prosecutor-court-2026-08-17/)
-    
-- [Worldcategory](https://www.reuters.com/world/)
-    
-    [US judge blocks Trump administration's plan to scrap FBI headquarters move to Maryland](https://www.reuters.com/world/us-judge-blocks-trump-administrations-plan-scrap-fbi-headquarters-move-maryland-2026-08-17/)
-    
-    [
-    
-    ](https://www.reuters.com/world/us-judge-blocks-trump-administrations-plan-scrap-fbi-headquarters-move-maryland-2026-08-17/)
-    
-- [Governmentcategory](https://www.reuters.com/legal/government/)
-    
-    [US pauses border construction in Big Bend National Park after widespread criticism](https://www.reuters.com/legal/government/us-pauses-border-construction-big-bend-national-park-after-widespread-criticism-2026-08-17/)
-    
-    [
-    
-    ](https://www.reuters.com/legal/government/us-pauses-border-construction-big-bend-national-park-after-widespread-criticism-2026-08-17/)
-    
-- [Governmentcategory](https://www.reuters.com/legal/government/)
-    
-    [DOJ probes College of William & Mary alleging discrimination in favor of minorities](https://www.reuters.com/legal/government/doj-probes-college-william-mary-alleging-discrimination-favor-minorities-2026-08-17/)
-    
-    [
-    
-    ](https://www.reuters.com/legal/government/doj-probes-college-william-mary-alleging-discrimination-favor-minorities-2026-08-17/)
-    
-- [Governmentcategory](https://www.reuters.com/legal/government/)
-    
-    [US ICE puts forward insurance plan to protect local officers making immigration arrests](https://www.reuters.com/legal/government/us-ice-puts-forward-insurance-plan-protect-local-officers-making-immigration-2026-08-18/)
-    
-    [
-    
-    ](https://www.reuters.com/legal/government/us-ice-puts-forward-insurance-plan-protect-local-officers-making-immigration-2026-08-18/)
-    
-- [Governmentcategory](https://www.reuters.com/legal/government/)
-    
-    [Ex-Google engineer's conviction for stealing AI secrets partially overturned](https://www.reuters.com/legal/government/ex-google-engineers-conviction-stealing-ai-secrets-partially-overturned-2026-08-20/)    
-    
-    [
-    
-    ](https://www.reuters.com/legal/government/ex-google-engineers-conviction-stealing-ai-secrets-partially-overturned-2026-08-20/)
-    
-- [Governmentcategory](https://www.reuters.com/legal/government/)
-    
-    [India's BSE cleared as eligible exchange in FTSE Russell equity indices](https://www.reuters.com/legal/government/indias-bse-cleared-eligible-exchange-ftse-russell-equity-indices-2026-08-20/)
-    
-    [
-    
-    ](https://www.reuters.com/legal/government/indias-bse-cleared-eligible-exchange-ftse-russell-equity-indices-2026-08-20/)
-    
-- [Worldcategory](https://www.reuters.com/world/)
-    
-    EXCLUSIVE
-    
-    [How a Texas student blew the whistle on a rogue AI hacking attempt](https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20/)
-    
-    [
-    
-    ](https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20/)
-    
-- [Worldcategory](https://www.reuters.com/world/)
-    
-    [Delta, Aeromexico win US court battle to keep joint venture](https://www.reuters.com/world/delta-aeromexico-win-court-battle-keep-joint-venture-2026-08-20/)
-    
-    [
-    
-    ](https://www.reuters.com/world/delta-aeromexico-win-court-battle-keep-joint-venture-2026-08-20/)
-    
 
 [](https://www.lseg.com/en/data-analytics/products/workspace?utm_source=reuters.com&utm_medium=articlebanner&utm_campaign=Reuters_ProductPage_Links)
+
+## [World](https://www.reuters.com/world/)
+
+- [
+    
+    ](https://www.reuters.com/business/carney-says-new-canadian-tariffs-us-goods-will-come-into-effect-september-8-2026-08-22/)
+    
+    ### [Carney says new Canadian tariffs on US goods will come into effect on September 8](https://www.reuters.com/business/carney-says-new-canadian-tariffs-us-goods-will-come-into-effect-september-8-2026-08-22/)
+    
+    [Businesscategory](https://www.reuters.com/business/) · August 22, 2026 · 8:39 AM PDT · 7 mins ago
+    
+    Canadian Prime Minister Mark ​Carney said on ‌Saturday that retaliatory Canadian tariffs on ​U.S. goods ​would come into effect ⁠on September ​8, after trade ​negotiations to avert new punitive U.S. tariffs ​collapsed on ​Friday.
+    
+- [
+    
+    ](https://www.reuters.com/sports/formula1/norris-puts-mclaren-pole-zandvoort-2026-08-22/)
+    
+    [Sportscategory](https://www.reuters.com/sports/)[Norris puts McLaren on pole at Zandvoort](https://www.reuters.com/sports/formula1/norris-puts-mclaren-pole-zandvoort-2026-08-22/)
+    
+    8:13 AM PDT
+    
+- [
+    
+    ](https://www.reuters.com/business/environment/eu-sends-helicopters-firefighters-serbia-tackle-wildfires-2026-08-22/)
+    
+    [category](https://www.reuters.com/business/)[EU sends helicopters, firefighters to Serbia to tackle wildfires](https://www.reuters.com/business/environment/eu-sends-helicopters-firefighters-serbia-tackle-wildfires-2026-08-22/)
+    
+    7:44 AM PDT
+    
+- [
+    
+    ](https://www.reuters.com/world/africa/gunmen-abduct-over-60-worshippers-nigeria-mosque-police-say-2026-08-22/)
+    
+    [Africacategory](https://www.reuters.com/world/africa/)[Gunmen abduct worshippers from Nigeria mosque, police say](https://www.reuters.com/world/africa/gunmen-abduct-over-60-worshippers-nigeria-mosque-police-say-2026-08-22/)
+    
+    6:44 AM PDT
+    
+- [
+    
+    ](https://www.reuters.com/world/ukraines-zelenskiy-says-macron-agreed-accelerate-air-defence-deliveries-2026-08-22/)
+    
+    [Worldcategory](https://www.reuters.com/world/)[Ukraine's Zelenskiy says Macron agreed to accelerate air defence deliveries](https://www.reuters.com/world/ukraines-zelenskiy-says-macron-agreed-accelerate-air-defence-deliveries-2026-08-22/)
+    
+    6:39 AM PDT
+    
 
 ### Site Index
 

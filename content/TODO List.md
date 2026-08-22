@@ -1,3 +1,10 @@
+# Reading
+- [ ] Oregon
+- [ ] January 6
+- [ ] Arizona
+- [ ] Yeltsin
+- [ ] Putin
+- [ ] JFK
 # YouTube
 ## US Issues
 [Steven Camarota - Welfare Use by Legal and Illegal Immigrants](https://youtu.be/xf6i4X6MxdU?si=HZEHUXCMQj0b4E-s)
