@@ -24,125 +24,92 @@
 
 [My News](https://www.reuters.com/my-news/feed/)
 
-[](https://www.reuters.com/account/sign-in/?redirect=https%3A%2F%2Fwww.reuters.com%2Fworld%2Fus-plans-725-million-payment-towards-its-large-un-debt-2026-08-21%2F)[](https://www.reuters.com/account/subscribe/offer/?redirect=https%3A%2F%2Fwww.reuters.com%2Fworld%2Fus-plans-725-million-payment-towards-its-large-un-debt-2026-08-21%2F&referrer=subscription_button&journeyStart=navigation)
+[](https://www.reuters.com/account/sign-in/?redirect=https%3A%2F%2Fwww.reuters.com%2Fworld%2Fappeals-court-upholds-block-doj-subpoenas-ny-ag-james-office-2026-08-21%2F)[](https://www.reuters.com/account/subscribe/offer/?redirect=https%3A%2F%2Fwww.reuters.com%2Fworld%2Fappeals-court-upholds-block-doj-subpoenas-ny-ag-james-office-2026-08-21%2F&referrer=subscription_button&journeyStart=navigation)
 
-EXCLUSIVE
+# Appeals court upholds block on US Justice Department subpoenas to NY AG James' office
 
-# US plans $725 million payment towards its large UN debt
+By [Luc Cohen](https://www.reuters.com/authors/luc-cohen/)
 
-By [Humeyra Pamuk](https://www.reuters.com/authors/humeyra-pamuk/) and [Emma Farge](https://www.reuters.com/authors/emma-farge/)
+August 21, 20266:36 AM PDTUpdated August 21, 2026
 
-August 21, 202610:00 AM PDTUpdated 19 hours ago
+Item 1 of 2 New York Attorney General Letitia James speaks to the media in Norfolk, Virginia, U.S., October 24, 2025. REUTERS/Jonathan Ernst/File Photo
 
-![The United Nations headquarters building is pictured though a window with the UN logo in the foreground in the Manhattan borough of New York](https://www.reuters.com/resizer/v2/FZD3XK6G6BKOVDSO6QZZDLBBAM.jpg?auth=3f3895194af4ab94ec2c1b233be593380fd281e7544ddf0ed9e6032255f60b10&width=1920&quality=80)
-
-The United Nations headquarters building is pictured though a window with the UN logo in the foreground in the Manhattan borough of New York August 15, 2014. REUTERS/Carlo Allegri [Purchase Licensing Rights, opens new tab](https://www.reutersconnect.com/item/the-united-nations-headquarters-building-is-pictured-though-a-window-with-the-un-logo-in-the-foreground-in-the-manhattan-borough-of-new-york/dGFnOnJldXRlcnMuY29tLDIwMjI6bmV3c21sX1JDMkdJVTk2UFBVUA%3D%3D/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead)
+**[1/2]**New York Attorney General Letitia James speaks to the media in Norfolk, Virginia, U.S., October 24, 2025. REUTERS/Jonathan Ernst/File Photo [Purchase Licensing Rights, opens new tab](https://www.reutersconnect.com/item/new-york-attorney-general-letitia-james-at-us-district-court-for-the-eastern-district-of-virginia/dGFnOnJldXRlcnMuY29tLDIwMjU6bmV3c21sX1JDMkdJSEEyM0ZSTw%3D%3D/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead)
 
 - Summary
 
-- Less than 20% of what the UN says it is owed by Washington
-- Payment could stave off immediate cuts, expert says
-- Countries in arrears to UN can lose voting rights
-- US is biggest contributor to UN, ahead of China
+- 2nd Circuit says Trump ally unlawfully served as lead prosecutor on probe
+- Subpoenas sought records on James' lawsuits against Trump, family business and NRA
+- Ruling marks third appeals court rejection of Trump efforts to bypass US Attorney appointment ​process
 
-WASHINGTON/GENEVA, Aug 21 (Reuters) - The Trump administration has informed Congress of its intention to pay $725 ​million to the United Nations, a congressional notification seen by Reuters showed, a move aid experts said was a welcome step towards paying billions in dues owed.
+NEW YORK, Aug 21 (Reuters) - A U.S. appeals court ruled on Friday that the Justice Department could not enforce subpoenas seeking ‌information about cases pursued by New York Attorney General Letitia James because it had unlawfully installed an ally of President [Donald Trump](https://www.reuters.com/world/us/donald-trump/) as a top prosecutor.
 
-The ‌administration has [criticized](https://www.reuters.com/world/trump-blasts-un-not-helping-us-led-peace-efforts-backs-it-100-2025-09-23/) the global body for not living up to its potential and slashed funding to many U.N. agencies. When asked about the planned payment, a U.S. official said any payments will be [contingent on continued reforms](https://www.reuters.com/world/china/us-conditions-paying-un-dues-include-china-curbs-report-2026-04-28/) of the organization and added that the U.S. has not transferred any funds as of Friday.
+The case stems from [subpoenas](https://www.reuters.com/legal/government/us-judge-blocks-doj-demands-info-ny-lawsuits-against-trump-nra-2026-01-08/) that the top federal prosecutor in Albany, Trump ally John Sarcone, issued to James' office in August 2025 seeking records about civil lawsuits James filed against Trump and his family business ​and against the National Rifle Association gun rights group.
 
-The Reuters Daily Briefing newsletter provides all the news you need to start your day. Sign up [here.](https://www.reuters.com/newsletters/daily-briefing/?location=article-paragraph&redirectUrl=%2Fworld%2Fus-plans-725-million-payment-towards-its-large-un-debt-2026-08-21%2F)
+The Reuters Daily Briefing newsletter provides all the news you need to start your day. Sign up [here.](https://www.reuters.com/newsletters/daily-briefing/?location=article-paragraph&redirectUrl=%2Fworld%2Fappeals-court-upholds-block-doj-subpoenas-ny-ag-james-office-2026-08-21%2F)
 
-The allocation of funds - mentioned in an August 4 State Department notification letter to Congress that has not been previously reported - comes ahead of ​an expected speech by U.S. President Donald Trump to the U.N. General Assembly in New York next month.
+The Manhattan-based 2nd U.S. Circuit Court of Appeals upheld on Friday in a 2-1 ruling ​a lower court's decision to bar Sarcone from investigating the case, finding he was unlawfully serving as the lead prosecutor ⁠on the probe.
 
-## 'IT KEEPS THE SHIP AFLOAT A LITTLE LONGER'
+That marked the [third time](https://www.reuters.com/legal/government/trump-administration-unlawfully-appointed-nevadas-top-federal-prosecutor-court-2026-08-17/) a U.S. appeals court had rejected the Trump administration's efforts to circumvent the appointment process for U.S. Attorneys, who ​serve as the top federal prosecutors in their districts and must be either confirmed by the U.S. Senate or approved by federal judges.
 
-U.N. Secretary-General Antonio Guterres said ​this year that the U.N. faced "[imminent financial collapse](https://www.reuters.com/world/un-chief-guterres-warns-imminent-financial-collapse-2026-01-30/)" due to unpaid contributions from member states, and the global body has brought in large budget ⁠cuts.
+A Justice Department spokesperson ​said in a statement, "We disagree with the court's decision, and intend to take this case to the Supreme Court."
 
-"Over the past six months, the United States has achieved historic reforms across the U.N. – reforms long considered impossible – including the first real budget cut in U.N. history, resulting in nearly ​one billion in cuts," a State Department official, responding to Reuters questions about the payment, said in an email.
+James' office declined to comment.
 
-In April, Devex, a development news agency, reported that the [U.S. had set specific conditions for ​the release of funds](https://www.reuters.com/world/china/us-conditions-paying-un-dues-include-china-curbs-report-2026-04-28/), such as more cost-cutting and moves to counter China's influence.
+## CIVIL RIGHTS INVESTIGATION
 
-The Trump administration has carried out an unprecedented shrinking of its federal government, saying it was bloated and has significantly cut back on domestic and foreign grants in an effort that it says was to put money into causes that aligned with U.S. taxpayer interests.
+Both Trump, a Republican, and the NRA were found liable following trials in cases brought by James, a Democrat. They said they were targeted for political purposes.
 
-The $725 million would be less than 20% of the more than $4 billion that the U.N. said in ​May that the United States owed — though Washington has said that total figure [is much lower](https://www.reuters.com/world/trump-says-us-will-give-un-money-make-it-stronger-more-viable-2026-02-19/) and that it has made some payments.
+The subpoenas issued by Sarcone's office were part ​of a criminal investigation into potential civil rights violations associated with those cases, Reuters reported at the time. No charges have been filed.
 
-Eugene Chen, a former U.N. official, said such a transfer would ​help pay U.N. salaries for a period, but might not cover them all. "It keeps the ship afloat a little longer," he said.
+James has denied ​wrongdoing and argued that the investigations are payback for suing Trump's family business.
 
-"If the U.S. does not make further payments it will likely lose its voting rights ‌in January," ⁠he added.
+In January, Manhattan-based U.S. District Judge Lorna Schofield found that a series of procedural maneuvers the Justice ‌Department used ⁠to keep Sarcone in place as acting U.S. Attorney for the Northern District of New York after the federal court in that district declined to extend his 120-day interim appointment were improper.
 
-Under Article 19 of the U.N. Charter, a member state loses its voting rights in the General Assembly if its arrears exceed two years in annual fees, although grace periods are possible.
+That ruling [weakened](https://www.reuters.com/legal/government/us-justice-department-stumbles-retribution-campaign-against-trump-foes-2025-11-25/) the Justice Department's efforts to pursue Trump's political enemies.
 
-A significant transfer now could avert the need for immediate spending cuts, Ronny Patz, an expert in U.N. finance with German think tank IDOS, said.
+James had previously been indicted in Virginia on accusations that she provided misleading information on mortgage documents. That case was dismissed after a judge found the federal prosecutor who secured that indictment was also unlawfully appointed.
 
-"If they pay a big chunk, the U.N. still runs on zero reserves but it gets through the year," Patz added. “If they don’t pay, the U.N. might really be in trouble for the last two or three months of the year in terms ​of paying salaries and keeping the doors open.”
+## 'POLITICAL STALEMATE'
 
-The ​U.S. is the biggest contributor to the ⁠U.N. budget, but under the Trump administration it has refused to make mandatory payments to regular and peacekeeping budgets, and has slashed voluntary funding to U.N. agencies with their own budgets.
+Sarcone ​was named interim U.S. Attorney in ​Albany early in Trump's term. When ⁠his 120-day interim term expired on July 14, the judges in the Northern District of New York declined to extend his term.
 
-Washington [has also withdrawn from](https://www.reuters.com/world/trump-signs-proclamation-withdrawing-international-organizations-white-house-2026-01-07/) dozens of U.N. and other international agencies.
+The Justice Department then appointed Sarcone to other roles in the U.S. Attorney's office that he said ​gave him the authority to act as U.S. Attorney indefinitely.
 
-The U.N. had been counting on collecting around 90% ​of dues from its 193 members for this year's budget, its Controller Chandramouli Ramanathan said last month.
+Circuit Judges Guido Calabresi and Maria Kahn said that move ​circumvented the federal ⁠law governing how long presidential appointees can remain in their positions on a temporary basis. The judges were appointed by Democratic presidents Bill Clinton and Joe Biden, respectively.
 
-As of August 18, some 129 members ​had paid in full, ⁠a U.N. document showed. China, the No. 2 contributor after Washington, was also absent from the list.
+Other U.S. appeals courts have similarly ruled that Trump-aligned U.S. Attorneys in Nevada and New Jersey had been unlawfully appointed.
 
-The State Department said in its August 4 letter it was obligating a total of $725 million for the U.N.'s regular budget.
+In appealing Schofield's order, the Justice Department said the ⁠federal government ​had followed the rules for appointing temporary lead prosecutors.
 
-In May, the U.N. said the more than $4 billion owed to it by Washington included $2.04 billion for the regular budget, $2.2 billion for current and past peacekeeping missions and $44 million for U.N. tribunals.
+In a dissent, Circuit Judge Michael Park, ​a Trump appointee, agreed, writing that Senate Democrats had been slow to confirm Trump's nominees for U.S. Attorney roles and that the law provided that the executive branch must be able to ​function during periods of "political stalemate."
 
-Washington has ⁠not transferred around $153.4 ​million in what it calls "policy-based withholdings". That included $10.6 million meant for the Human Rights Council — which Washington disengaged from ​last year alleging an anti-Israel bias — and funds for the [U.N. Palestinian Refugee Agency](https://www.reuters.com/world/middle-east/us-weighs-hitting-un-palestinian-refugee-agency-with-terrorism-related-sanctions-2025-12-10/).
-
-The 80-year-old institution has been undergoing a reform and cost-cutting exercise known as "UN80" amid its financial crisis.
-
-It has already cut its 2026 budget by 9.2% and transferred over ​2,000 jobs out of expensive cities like [Geneva](https://www.reuters.com/world/once-city-peace-geneva-sees-united-nations-presence-fade-2026-05-07/) and New York to lower-cost hubs.
-
-Reporting by Humeyra Pamuk and Emma Farge; Additional reporting by David Brunnstrom in Washington; Editing by Andrew Heavens and Lisa Shumaker
+Reporting by Luc Cohen in New York; Additional reporting by Nate Raymond; Editing by Franklin Paul, Alex Richardson, Philippa Fletcher, Rod Nickel
 
 Our Standards: [The Thomson Reuters Trust Principles., opens new tab](https://www.thomsonreuters.com/en/about-us/trust-principles.html)
 
 - Suggested Topics:
 - [](https://www.reuters.com/legal/government/)
 - [](https://www.reuters.com/legal/public-policy/)
-- [](https://www.reuters.com/sustainability/human-rights/)
+- [](https://www.reuters.com/legal/appellate/)
 
 [](https://www.reutersagency.com/en/licensereuterscontent/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead)
 
 [
 
-](https://www.reuters.com/authors/humeyra-pamuk/)
+](https://www.reuters.com/authors/luc-cohen/)
 
-[Humeyra Pamuk](https://www.reuters.com/authors/humeyra-pamuk/)
-
-Thomson Reuters
-
-Humeyra Pamuk is a senior foreign policy correspondent based in Washington DC. She covers the U.S. State Department, regularly traveling with U.S. Secretary of State. During her 20 years with Reuters, she has had postings in London, Dubai, Cairo and Turkey, covering everything from the Arab Spring and Syria's civil war to numerous Turkish elections and the Kurdish insurgency in the southeast. In 2017, she won the Knight-Bagehot fellowship program at Columbia University’s School of Journalism. She holds a BA in International Relations and an MA on European Union studies.
-
-- [](mailto:humeyra.pamuk@thomsonreuters.com)
-- [](https://x.com/humeyra_pamuk)
-- [](https://www.instagram.com/humeyra_reuters/)
-- [](https://www.linkedin.com/in/humeyra-pamuk-1b971127/)
-
-[
-
-](https://www.reuters.com/authors/emma-farge/)
-
-[Emma Farge](https://www.reuters.com/authors/emma-farge/)
+[Luc Cohen](https://www.reuters.com/authors/luc-cohen/)
 
 Thomson Reuters
 
-Emma Farge reports on the U.N. beat and Swiss news from Geneva since 2019. She has produced a string of exclusives on diplomacy, the environment and global trade and covered Switzerland’s first war crimes trial. Her Reuters career started in 2009 covering oil swaps from London and she has since written about the West African Ebola outbreak, embedded with U.N. troops in north Mali and was the first reporter to enter deposed Gambian dictator Yahya Jammeh’s estate. She co-authored a winning story for the Elizabeth Neuffer Memorial Prize on Russia’s diplomatic isolation in 2022 and was also part of a team of journalists nominated in 2012 as Pulitzer finalists in the international reporting category for coverage of the Libyan revolution. She holds a BA from Oxford University (First) and an MSc from the LSE in International Relations. She is currently on the board of the press association for UN correspondents in Geneva (ACANU).
+Reports on the New York federal courts. Previously worked as a correspondent in Venezuela and Argentina.
 
-- [](mailto:emma.farge@thomsonreuters.com)
-- [](https://www.linkedin.com/in/emma-farge-3b954a17/)
-- [](https://www.reuters.com/world/us-plans-725-million-payment-towards-its-large-un-debt-2026-08-21/REUTERSFARGE)
+- [](mailto:luc.cohen@thomsonreuters.com)
+- [](https://x.com/cohenluc)
 
 ## Read Next
 
-- [Worldcategory](https://www.reuters.com/world/)
-    
-    [Appeals court upholds block on US Justice Department subpoenas to NY AG James' office](https://www.reuters.com/world/appeals-court-upholds-block-doj-subpoenas-ny-ag-james-office-2026-08-21/)
-    
-    [
-    
-    ](https://www.reuters.com/world/appeals-court-upholds-block-doj-subpoenas-ny-ag-james-office-2026-08-21/)
-    
 - [Litigationcategory](https://www.reuters.com/legal/litigation/)
     
     [US highway agency expands probe into GM pickups, SUVs over engine failures](https://www.reuters.com/legal/litigation/nhtsa-opens-probe-into-nearly-1-million-gm-pickups-suvs-over-engine-failure-2026-08-21/)
@@ -188,45 +155,45 @@ Emma Farge reports on the U.N. beat and Swiss news from Geneva since 2019. She h
 
 - [
     
-    ](https://www.reuters.com/business/carney-says-new-canadian-tariffs-us-goods-will-come-into-effect-september-8-2026-08-22/)
+    ](https://www.reuters.com/world/germanys-afd-eyes-saxony-anhalt-win-first-step-toward-federal-power-2026-08-23/)
     
-    ### [Carney says new Canadian tariffs on US goods will come into effect on September 8](https://www.reuters.com/business/carney-says-new-canadian-tariffs-us-goods-will-come-into-effect-september-8-2026-08-22/)
+    ### [Germany's AfD eyes Saxony-Anhalt win as first step toward federal power](https://www.reuters.com/world/germanys-afd-eyes-saxony-anhalt-win-first-step-toward-federal-power-2026-08-23/)
     
-    [Businesscategory](https://www.reuters.com/business/) · August 22, 2026 · 8:39 AM PDT · 7 mins ago
+    [Worldcategory](https://www.reuters.com/world/) · August 23, 2026 · 9:42 AM PDT · 27 mins ago
     
-    Canadian Prime Minister Mark ​Carney said on ‌Saturday that retaliatory Canadian tariffs on ​U.S. goods ​would come into effect ⁠on September ​8, after trade ​negotiations to avert new punitive U.S. tariffs ​collapsed on ​Friday.
-    
-- [
-    
-    ](https://www.reuters.com/sports/formula1/norris-puts-mclaren-pole-zandvoort-2026-08-22/)
-    
-    [Sportscategory](https://www.reuters.com/sports/)[Norris puts McLaren on pole at Zandvoort](https://www.reuters.com/sports/formula1/norris-puts-mclaren-pole-zandvoort-2026-08-22/)
-    
-    8:13 AM PDT
+    Germany's far-right Alternative for Germany (AfD) is banking on a breakthrough in next month's state election to build momentum for ​a future national victory, the party's co-leader Alice Weidel said ‌on Sunday.
     
 - [
     
-    ](https://www.reuters.com/business/environment/eu-sends-helicopters-firefighters-serbia-tackle-wildfires-2026-08-22/)
+    ](https://www.reuters.com/sports/formula1/norris-wins-dutch-gp-complete-mclaren-hat-trick-2026-08-23/)
     
-    [category](https://www.reuters.com/business/)[EU sends helicopters, firefighters to Serbia to tackle wildfires](https://www.reuters.com/business/environment/eu-sends-helicopters-firefighters-serbia-tackle-wildfires-2026-08-22/)
+    [Sportscategory](https://www.reuters.com/sports/)[Norris wins Dutch GP as Antonelli stretches his F1 lead](https://www.reuters.com/sports/formula1/norris-wins-dutch-gp-complete-mclaren-hat-trick-2026-08-23/)
     
-    7:44 AM PDT
-    
-- [
-    
-    ](https://www.reuters.com/world/africa/gunmen-abduct-over-60-worshippers-nigeria-mosque-police-say-2026-08-22/)
-    
-    [Africacategory](https://www.reuters.com/world/africa/)[Gunmen abduct worshippers from Nigeria mosque, police say](https://www.reuters.com/world/africa/gunmen-abduct-over-60-worshippers-nigeria-mosque-police-say-2026-08-22/)
-    
-    6:44 AM PDT
+    8:16 AM PDT
     
 - [
     
-    ](https://www.reuters.com/world/ukraines-zelenskiy-says-macron-agreed-accelerate-air-defence-deliveries-2026-08-22/)
+    ](https://www.reuters.com/world/europe/tunisia-coast-guard-recovers-eight-bodies-migrants-whose-boat-sank-2026-08-23/)
     
-    [Worldcategory](https://www.reuters.com/world/)[Ukraine's Zelenskiy says Macron agreed to accelerate air defence deliveries](https://www.reuters.com/world/ukraines-zelenskiy-says-macron-agreed-accelerate-air-defence-deliveries-2026-08-22/)
+    [Europecategory](https://www.reuters.com/world/europe/)[Eleven bodies recovered after boat carrying migrants sinks off Tunisia](https://www.reuters.com/world/europe/tunisia-coast-guard-recovers-eight-bodies-migrants-whose-boat-sank-2026-08-23/)
     
-    6:39 AM PDT
+    7:02 AM PDT
+    
+- [
+    
+    ](https://www.reuters.com/world/asia-pacific/israeli-airstrikes-gaza-kill-two-people-including-4-year-old-boy-medics-say-2026-08-23/)
+    
+    [Asia Pacificcategory](https://www.reuters.com/world/asia-pacific/)[Israeli airstrikes in Gaza kill two people](https://www.reuters.com/world/asia-pacific/israeli-airstrikes-gaza-kill-two-people-including-4-year-old-boy-medics-say-2026-08-23/)
+    
+    6:02 AM PDT
+    
+- [
+    
+    ](https://www.reuters.com/world/asia-pacific/iran-says-new-sanctions-threatened-by-desperate-us-will-fail-2026-08-23/)
+    
+    [Asia Pacificcategory](https://www.reuters.com/world/asia-pacific/)[Iran says new sanctions threatened by 'desperate' US will fail](https://www.reuters.com/world/asia-pacific/iran-says-new-sanctions-threatened-by-desperate-us-will-fail-2026-08-23/)
+    
+    5:25 AM PDT
     
 
 ### Site Index

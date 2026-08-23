@@ -1,0 +1,6 @@
+# Alex Jones Case
+## Main Case
+- In 2022, a judge and jury found Alex Jones guilty of making false statements about Sandy Hook and issued a $1.4 billion judgment to pay to 14 family members of the shooting victims. Jones was sued for defamation after calling the shooting a "false flag" operation meant to stir up anti-gun sentiment among Americans, and he has said that the parents of slain children were "crisis actors" who were faking their grief in television interviews. It is believed to be the largest judgment in American libel case history. In October 2025, the [Supreme Court rejected Jones' bid](https://www.reuters.com/world/us-supreme-court-rejects-alex-jones-challenge-14-billion-defamation-judgment-2025-10-14/) to have the ruling overturned. 
+## Texas Case
+- **Bankruptcy**: He also lost a similar lawsuit in Texas to plaintiffs Neil Heslin and Scarlett Lewis with a roughly $50 million judgment and he declared bankruptcy after losing the lawsuits.
+- **Appeal**: in 2026, an appeals court cut the punitive damages for Jones in his Texas case [to $1.5 million](https://www.reuters.com/legal/government/alex-jones-gets-sandy-hook-familys-texas-verdict-reduced-appeal-2026-08-21/) from $45 million. The court ruled Texas law typically caps punitive damages at $750,000 per plaintiff. 

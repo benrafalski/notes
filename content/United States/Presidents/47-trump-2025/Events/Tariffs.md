@@ -6,7 +6,9 @@
 - By August 5, 2026, the Trump admin had [refunded](https://www.reuters.com/legal/government/us-refunds-100-billion-tariffs-struck-down-by-supreme-court-filing-shows-2026-08-05/) about $100 billion from tariffs ruled illegal by the Supreme Court (of the $166 billion collected).
 
 
-
+# Beef Tariffs
+## August 2026 Pause
+Trump temporarily [expanded](https://www.reuters.com/world/us/trump-ease-ground-beef-import-quotas-90-days-2026-08-21/) to 300,000 tons the amount of ground beef that can enter the U.S. with lower import ​tariffs. The meat would be 25% below market prices and for 90 days. Economists and traders said the 300,000 tons affected is too small to have much impact while cattlemen warned the move would undermine US producers' ​efforts to rebuild herds.
 
 # Section 232 Tariffs
 - [Polysilicon](https://www.reuters.com/world/asia-pacific/trump-signs-executive-order-protect-us-polysilicon-industry-2026-08-06/): in August 2026, Trump imposed a series of ​price floors and a 15% tariff on products made from polysilicon, the raw material used in semiconductors and solar panels that ‌is primarily produced by China.

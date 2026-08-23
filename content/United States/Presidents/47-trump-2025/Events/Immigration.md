@@ -123,6 +123,14 @@ Upon returning to the White House, Trump rescinded a 2021 policy from Biden limi
 - **Big Bend National Park**: U.S. government [paused](https://www.reuters.com/legal/government/us-pauses-border-construction-big-bend-national-park-after-widespread-criticism-2026-08-17/) border security construction in Big Bend National Park in Texas in August 2026 after the project drew bipartisan ‌criticism over its potential impact on the park's landscape and wildlife.
 
 # Visas + Green Cards
+## Visa Program Suspension
+In January 2026, the State Department [suspended processing visas](https://www.reuters.com/world/us/us-suspend-visa-processing-75-nations-next-week-fox-news-reports-2026-01-14/) for applicants from 75 countries, from Latin American countries including Brazil, Colombia, and Uruguay, Balkan countries such as Bosnia and Albania, South Asian countries Pakistan and Bangladesh, and those from many nations in Africa, the Middle East, and the Caribbean. The State Dept said there were indications that nationals from these countries had sought public benefits in the United States.
+### Lawsuit
+- **Case**: [Catholic Legal Immigration Network, Inc. v. Rubio (1:26-cv-00858)](https://www.courtlistener.com/docket/72218277/catholic-legal-immigration-network-inc-v-rubio/)
+- **Judge**: U.S. District Judge Jeannette Vargas in Manhattan, Biden appointee
+- **Timeline**
+	- [August 21, 2026](https://www.reuters.com/legal/government/us-judge-strikes-down-policy-suspending-immigrant-visa-processing-75-nations-2026-08-22/):  Judge Vargas strikes down Trump policy suspending the issuance of immigrant visas to ​applicants from 75 countries, saying that the policy exceeded Rubio's statutory authority.
+
 ## Visa Bond
 - In [July 2026](https://www.reuters.com/world/us/us-make-visa-bond-program-permanent-people-dozens-countries-2026-08-01/), the State Department made permanent a visa bond program ‌that requires B1 and B2 visas applicants (business and tourism visas) from 50 countries, mostly from Africa, to post bonds of $10,000-$20,000 when seeking U.S. visas.
 ## Expired Visas
