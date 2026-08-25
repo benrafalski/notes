@@ -14,6 +14,9 @@
 - [California City detention center](https://www.reuters.com/legal/government/californias-largest-ice-facility-did-not-provide-adequate-medical-care-monitor-2026-07-28/): court-appointed monitor has found that California's largest ​immigration detention facility did not provide adequate medical care to detainees and violated an ‌earlier court order to do so
 ## Militarization
 - [Shock Gloves](https://www.reuters.com/world/us-immigration-agency-plans-buy-electric-shock-gloves-raising-alarm-among-rights-2026-08-13/): AP reports that ICE plans to buy electric shock gloves for officers in the field.
+## Deportations
+### US Military Family Members
+By August 2026, the Trump admin had deported [seven spouses or parents](https://www.reuters.com/legal/government/wife-active-duty-us-army-sergeant-is-deported-2026-08-25/) of active-duty ⁠U.S. military service members under his expanded immigration crackdown during his second term. 
 
 ## Protected Areas
 ### Places of Worship
@@ -147,7 +150,7 @@ In January 2026, the State Department [suspended processing visas](https://www.r
 
 ## Revoking Visas
 - Total revoked: [175,000](https://www.reuters.com/legal/government/trump-administration-has-revoked-more-than-175000-visas-state-department-says-2026-08-10/) visas during second term as of August 2026
-
+- [Non-immigrant visas](https://www.reuters.com/world/us-plans-revoke-up-200000-tourism-business-visas-ap-reports-2026-08-24/): In August 2026 the State Department said they planned to mass revoke non-immigrant visas of foreigners who have applied for or are currently seeking asylum status in the U.S. (~200,000 visas, largest mass revocation in history).
 # Due Process
 ## Immigration Courts
 - **Alien Terrorist Removal Court**: Court established ⁠by Congress in 1996 that allows the government to rely on classified evidence in deportation cases. The secretive U.S. court ​convened for the first time in [July 2026](https://www.reuters.com/legal/government/first-case-secretive-us-court-meant-deport-alleged-terrorists-2026-07-30/) to hear a case of a woman accused of supporting ISIS and helping conceal a failed Election Day 2024 mass shooting ​plot. 

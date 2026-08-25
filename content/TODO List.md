@@ -2,6 +2,8 @@
 - [ ] Oregon
 - [ ] January 6
 - [ ] Arizona
+- [ ] Malaysia
+	- [ ] MH370
 - [ ] Yeltsin
 - [ ] Putin
 - [ ] JFK

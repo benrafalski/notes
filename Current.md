@@ -24,201 +24,161 @@
 
 [My News](https://www.reuters.com/my-news/feed/)
 
-[](https://www.reuters.com/account/sign-in/?redirect=https%3A%2F%2Fwww.reuters.com%2Fbusiness%2Fcarney-says-new-canadian-tariffs-us-goods-will-come-into-effect-september-8-2026-08-22%2F)[](https://www.reuters.com/account/subscribe/offer/?redirect=https%3A%2F%2Fwww.reuters.com%2Fbusiness%2Fcarney-says-new-canadian-tariffs-us-goods-will-come-into-effect-september-8-2026-08-22%2F&referrer=subscription_button&journeyStart=navigation)
+[](https://www.reuters.com/account/sign-in/?redirect=https%3A%2F%2Fwww.reuters.com%2Fworld%2Fus-plans-revoke-up-200000-tourism-business-visas-ap-reports-2026-08-24%2F)[](https://www.reuters.com/account/subscribe/offer/?redirect=https%3A%2F%2Fwww.reuters.com%2Fworld%2Fus-plans-revoke-up-200000-tourism-business-visas-ap-reports-2026-08-24%2F&referrer=subscription_button&journeyStart=navigation)
 
-# Canada to retaliate for US tariffs, worsening ties after talks fail
+# Trump administration plans to revoke visas of foreigners seeking asylum
 
-By [Promit Mukherjee](https://www.reuters.com/authors/promit-mukherjee/) and [Bhargav Acharya](https://www.reuters.com/authors/bhargav-acharya/)
+By [Kanishka Singh](https://www.reuters.com/authors/kanishka-singh/)
 
-August 22, 20268:39 AM PDTUpdated August 23, 2026
+August 24, 20261:46 PM PDTUpdated 17 hours ago
 
-![US hits Canadian goods with 50% tariffs after trade talks fail](https://ajo.prod.reuters.tv/api/v2/img/6a89879ce4b08e2aff527903?width=1080&quality=80)
+![A general view of a U.S. State Department sign](https://www.reuters.com/resizer/v2/KBP6UW4LPFKHTIOBPTNHN7BQKA.jpg?auth=29beea51c26f3a96f1c4d976500fb17242b302d84f5a043ed9df41c9dced5700&width=1920&quality=80)
+
+A general view of a U.S. State Department sign outside the U.S. State Department building in Washington, D.C., U.S., July 11, 2025. REUTERS/Annabelle Gordon/File Photo [Purchase Licensing Rights, opens new tab](https://www.reutersconnect.com/item/a-general-view-of-a-us-state-department-sign/dGFnOnJldXRlcnMuY29tLDIwMjU6bmV3c21sX1JDMkZLRkFWM09KNw%3D%3D/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead)
 
 - Summary
 
-- Retaliatory tariffs start September 8 and match US duties dollar for dollar
-- Measures target steel, dairy, appliances, agricultural equipment, pulp and paper and electronics
-- New US tariffs cover about $20 billion of Canadian exports, affecting sectors from wine to hockey equipment
+- Trump has pursued an aggressive immigration crackdown
+- Rights groups say crackdown has violated free speech, due process rights
+- State Dept says it will coordinate with DHS to revoke visas
 
-OTTAWA, Aug 22 (Reuters) - Canada will impose tariffs on some U.S. goods in retaliation for 50% ​levies ordered by President Donald Trump on Canadian products, Prime Minister Mark Carney said on Saturday, after trade talks collapsed between the two neighbors.
+WASHINGTON, Aug 24 (Reuters) - President [Donald Trump's](https://www.reuters.com/world/us/donald-trump/) administration said on ‌Monday it planned to revoke the non-immigrant visas of foreigners who have applied for or are currently seeking asylum status in the U.S., marking its latest step in a sweeping immigration crackdown.
 
-The "dollar for dollar" tariffs ‌on imports of U.S. steel, electronics and other products, to take effect on September 8, mark a further worsening of relations between the longtime allies and major trading partners.
+A State Department spokesman said it was ​coordinating with the Department of Homeland Security "to identify and revoke the non-immigrant visas of foreigners ​who have come to the United States claiming to be short-term visitors, but ⁠then file for asylum to stay here permanently."
 
-The Reuters Daily Briefing newsletter provides all the news you need to start your day. Sign up [here.](https://www.reuters.com/newsletters/daily-briefing/?location=article-paragraph&redirectUrl=%2Fbusiness%2Fcarney-says-new-canadian-tariffs-us-goods-will-come-into-effect-september-8-2026-08-22%2F)
+The Reuters Daily Briefing newsletter provides all the news you need to start your day. Sign up [here.](https://www.reuters.com/newsletters/daily-briefing/?location=article-paragraph&redirectUrl=%2Fworld%2Fus-plans-revoke-up-200000-tourism-business-visas-ap-reports-2026-08-24%2F)
 
-The two countries [failed to reach](https://www.reuters.com/world/americas/us-canadian-trade-teams-meet-again-tariffs-deadline-looms-2026-08-21/) a trade deal late on Friday, with each side blaming the other for derailing three days of intensive negotiations. The breakdown complicates the future of a U.S.-Mexico-Canada free-trade pact.
+The State Department statement did not specify the number ​of visas that will be revoked in the process.
 
-Trump's new tariffs hit sectors including wine, furniture, dairy products, cement, clothing, fishing rods and [hockey equipment,](https://www.reuters.com/business/trump-misses-net-with-tariff-canadian-ice-hockey-sticks-2026-07-21/) covering some $20 ​billion of Canadian exports to the U.S. These duties do not exempt Canadian products under the three-nation trade deal, which has shielded most Canadian exports to the U.S. in the ​last 18 months.
+The Associated Press put the number of foreigners whose business ​and tourism visas is planned to be revoked at up to 200,000, which if materialized, would be the largest single mass revocation of visas in U.S. history. The AP cited State Department documents and two U.S. officials.
 
-## 'WE GOT ATTACKED,' CARNEY SAYS
+The State Department will revoke ​so-called B1 and B2 visas issued between 2016 and 2026 whose holders have sought asylum or ​are now seeking asylum, the AP report added. The B1 and B2 non-immigrant [visas are issued](https://www.reuters.com/world/us/us-make-visa-bond-program-permanent-people-dozens-countries-2026-08-01/) for business and tourism ‌travel.
 
-"Canada will match Washington's new tariffs dollar for dollar in order to protect Canadian workers, farmers, families, and businesses," ⁠Carney told a press conference.
+The visa ⁠revocations would not necessarily result in immediate deportation, the AP report said, adding that most of those with asylum cases currently pending would be re-categorized but would lose their status as business or tourism travelers.
 
-"You're at war when you get attacked. We got attacked," Carney said when asked a question about whether Canada was engaged in a trade war.
+Earlier on Monday, Deputy Secretary of State Christopher Landau alleged on X that the American immigration ​system "has long been swamped by ​frivolous asylum claims."
 
-Carney is one of the ​few global leaders to retaliate against U.S. tariffs and has pledged to forge new trade and military alliances, despite Canada's dependence on the United States for nearly 70% of its exports.
+The ⁠State Department said earlier this month that under the Trump administration, it has [revoked more than 175,000 visas](https://www.reuters.com/legal/government/trump-administration-has-revoked-more-than-175000-visas-state-department-says-2026-08-10/) of foreign nationals.
 
-U.S. Trade Representative Jamieson ​Greer called the breakdown "a missed opportunity for Canada to partner with the United States," saying no new talks were planned with Canada.
+Trump has pursued an [immigration crackdown](https://www.reuters.com/legal/government/father-sailor-aboard-uss-abraham-lincoln-taken-into-us-immigration-detention-2026-08-24/) that ​includes revocations of visas and green cards and an aggressive deportation drive. He says ​the crackdown ⁠aims to improve domestic security.
 
-"We're moving forward with measures that respond to Canadian retaliation," Greer told Fox News. "They've always had the best deal, and they still would have an even better deal, but they didn't want that."
+Rights groups say the crackdown has violated free speech and due process rights and created an unsafe environment, particularly for ethnic minorities, who have raised concerns about [racial profiling](https://www.reuters.com/world/us/trump-crackdown-protests-immigration-led-islamophobia-muslim-group-says-2026-03-10/).
 
-The White House, the U.S. commerce secretary's office and the U.S. trade representative's office did not immediately respond to requests for comment.
+While Trump campaigned in ⁠2024 on ​a platform of stopping illegal immigration, his administration has also ​made legal immigration more difficult - for example, by [imposing new and expensive fees](https://www.reuters.com/world/us/trump-set-expand-immigration-crackdown-2026-despite-brewing-backlash-2025-12-21/) for applicants of certain work visas. The government's crackdown ​has faced legal challenges.
 
-Canada will impose ​tariffs on U.S. steel, dairy, appliances, agricultural equipment, pulp and paper, and electronics, along with some products the U.S. previously targeted in Canada, Carney said from Ottawa's Parliament building. The government will release ​details on its response in the coming days, he said.
-
-"We cannot accept what they have offered, and we will not give what they have asked," Carney said.
-
-Item 1 of 5 Canada’s Prime Minister Mark Carney speaks with the news media after he suspended trade negotiations with the United States, in Ottawa, Ontario, Canada August 22, 2026. REUTERS/Chris Tanouye
-
-**[1/5]**Canada’s Prime Minister Mark Carney speaks with the news media after he suspended trade negotiations with the United States, in Ottawa, Ontario, Canada August 22, 2026. REUTERS/Chris Tanouye [Purchase Licensing Rights, opens new tab](https://www.reutersconnect.com/item/canadas-prime-minister-mark-carney-suspends-trade-negotiations-with-the-us/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1JDMlIzTkFWNjZRNw%3D%3D/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead)
-
-Trump had expressed hope that a deal with Canada could happen ‌on Friday.
-
-But Carney ⁠said the U.S. administration's last-minute demands halted progress.
-
-"In recent days, the U.S. proposed new terms that were uneconomic, unfair, and undermined the net benefits to Canada, calling into question the reliability of any deal," he said, adding these demands included curtailing Canada's ability to forge new trade deals.
-
-## LARGER VEHICLES, OTHER STICKING POINTS
-
-Carney said Canada would announce support measures next week for industries hit by the new U.S. duties, adding these measures could last years.
-
-The new U.S. tariffs cover around 5% of Canada's exports to the U.S. They could expose some vulnerable industries such as softwood lumber and wine to severe damage and lead ​to job losses and business closures, trade experts ​have said.
-
-"We will be mobilizing our network ⁠of businesses in all regions and all sectors to brace for impact and make the best of a bad situation," said Candace Laing, CEO of the Canadian Chamber of Commerce.
-
-Ontario Premier Doug Ford, one of the most vocal opponents of U.S. tariffs, supported Carney's decision to retaliate.
-
-"I'm glad he didn't sign ​that deal because it was a bad deal. It was a bad deal for Ontario. It was a bad deal for the auto sector, ​the steel sector, and manufacturing ⁠sector," Ford told reporters on Saturday.
-
-One of the main sticking points was the treatment of larger vehicles.
-
-Three sources said Canada wanted favorable tariff terms proposed for light-duty vehicles to extend to medium- and heavy-duty trucks, something the U.S. resisted. Carney said the U.S. position would have excluded Canadian-made models, including Ford's F-350, F-450 and F-550 trucks and General Motors' Silverado, making Canadian production less competitive.
-
-There were also U.S. proposals that affected ⁠Canadian culture, language ​and sovereignty, Carney said, without elaborating.
-
-Carney was elected last year on a promise to be a tough negotiator with Trump, ​and remains broadly popular. Polls show most Canadians oppose making any concessions to the U.S.
-
-"Canadians must stand united to defend our country against these unfair attacks on our jobs and businesses," Pierre Poilievre, the leader of the official opposition Conservative Party, said ​in a statement.
-
-Reporting by Promit Mukherjee, Chibuike Oguh, Bhargav Acharya and David Shepardson. Additional reporting by Susan Heavey and Marianna Parraga. Editing by Ross Colvin, Caroline Stauffer, Rod Nickel, Alistair Bell and William Mallard
+Reporting by Kanishka Singh and Costas Pitas; Editing by Christian Martinez and Caitlin Webber
 
 Our Standards: [The Thomson Reuters Trust Principles., opens new tab](https://www.thomsonreuters.com/en/about-us/trust-principles.html)
 
 - Suggested Topics:
-- [](https://www.reuters.com/business/)
+- [](https://www.reuters.com/legal/government/)
+- [](https://www.reuters.com/legal/immigration/)
+- [](https://www.reuters.com/sustainability/human-rights/)
+- [](https://www.reuters.com/legal/public-policy/)
 
 [](https://www.reutersagency.com/en/licensereuterscontent/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead)
 
 [
 
-](https://www.reuters.com/authors/bhargav-acharya/)
+](https://www.reuters.com/authors/kanishka-singh/)
 
-[Bhargav Acharya](https://www.reuters.com/authors/bhargav-acharya/)
+[Kanishka Singh](https://www.reuters.com/authors/kanishka-singh/)
 
 Thomson Reuters
 
-Based in Toronto, Bhargav reports on breaking news across U.S. and Canada. Previously he spent three years with Reuters' Sub-Saharan Africa breaking news hub in Johannesburg, and covered former Paralympic star Oscar Pistorius's release, and the historic 2024 South African election. He was part of a team of reporters that Reuters named Journalists of the Year in 2023 in the Speed category for coverage of Africa. He has also spent three years in India with the news agency's Global News Monitoring team. He has a master's degree in International Studies. When he is not working, Bhargav likes to read and travel.
+Kanishka Singh is a breaking news reporter for Reuters in Washington DC, who primarily covers US politics and national affairs in his current role. His past breaking news coverage has spanned across a range of topics like the Black Lives Matter movement; the US elections; the 2021 Capitol riots and their follow up probes; the Brexit deal; US-China trade tensions; the NATO withdrawal from Afghanistan; the COVID-19 pandemic; and a 2019 Supreme Court verdict on a religious dispute site in his native India.
 
-- [](mailto:Bhargav.Acharya@thomsonreuters.com)
-- [](https://x.com/mrbhargav_)
-- [](https://www.linkedin.com/in/linkedin.com/in/bhargav-acharya-a6b073164)
+- [](mailto:Kanishka.Singh@thomsonreuters.com)
+- [](https://x.com/kanishka183)
 
 ## Read Next
 
-- [Businesscategory](https://www.reuters.com/business/)
+- [Litigationcategory](https://www.reuters.com/legal/litigation/)
     
-    [S&P 500, Nasdaq end down on tech stocks, investors weigh Iran moves](https://www.reuters.com/business/sp-nasdaq-futures-slip-markets-await-iran-sanctions-nvidia-results-2026-08-24/)
-    
-    [
-    
-    ](https://www.reuters.com/business/sp-nasdaq-futures-slip-markets-await-iran-sanctions-nvidia-results-2026-08-24/)
-    
-- [Legalcategory](https://www.reuters.com/legal/)
-    
-    [California cancels talks with Paramount over Warner Bros deal](https://www.reuters.com/legal/litigation/california-cancels-talks-with-paramount-over-warner-bros-merger-nyt-reports-2026-08-24/)
+    [US lawmakers question Health Secretary Kennedy on vaccine settlement disclosures](https://www.reuters.com/legal/litigation/us-lawmakers-question-health-secretary-kennedy-vaccine-settlement-disclosures-2026-08-25/)
     
     [
     
-    ](https://www.reuters.com/legal/litigation/california-cancels-talks-with-paramount-over-warner-bros-merger-nyt-reports-2026-08-24/)
+    ](https://www.reuters.com/legal/litigation/us-lawmakers-question-health-secretary-kennedy-vaccine-settlement-disclosures-2026-08-25/)
     
-- [Autos & Transportationcategory](https://www.reuters.com/business/autos-transportation/)
+- [Governmentcategory](https://www.reuters.com/legal/government/)
     
-    [Trump threatens 50% tariffs on all cars and trucks from Canada amid trade fight](https://www.reuters.com/business/autos-transportation/trump-says-he-will-raise-tariffs-all-cars-trucks-50-amid-canada-trade-spat-2026-08-24/)
-    
-    [
-    
-    ](https://www.reuters.com/business/autos-transportation/trump-says-he-will-raise-tariffs-all-cars-trucks-50-amid-canada-trade-spat-2026-08-24/)
-    
-- [Legalcategory](https://www.reuters.com/legal/)
-    
-    [Fentanyl, a Reagan ad and a near deal: Trump's trade war with Canada](https://www.reuters.com/legal/transactional/fentanyl-reagan-ad-near-deal-trumps-trade-war-with-canada-2026-08-24/) 
+    [Trump cannot impose conditions on transportation, homelessness grants, US appeals court rules](https://www.reuters.com/legal/government/trump-cannot-impose-conditions-transportation-homelessness-grants-us-appeals-2026-08-25/)
     
     [
     
-    ](https://www.reuters.com/legal/transactional/fentanyl-reagan-ad-near-deal-trumps-trade-war-with-canada-2026-08-24/)
+    ](https://www.reuters.com/legal/government/trump-cannot-impose-conditions-transportation-homelessness-grants-us-appeals-2026-08-25/)
     
-- Focus
+- [World at Workcategory](https://www.reuters.com/business/world-at-work/)
     
-    [Focus: Shein's stock market listing will not mask sustainability challenges](https://www.reuters.com/business/retail-consumer/sheins-stock-market-listing-will-not-mask-sustainability-challenges-2026-08-24/)
-    
-    [
-    
-    ](https://www.reuters.com/business/retail-consumer/sheins-stock-market-listing-will-not-mask-sustainability-challenges-2026-08-24/)
-    
-- [Commentarycategory](https://www.reuters.com/commentary/)
-    
-    [TRADING DAY Tech, tariffs & Treasuries](https://www.reuters.com/commentary/reuters-open-interest/global-markets-trading-day-graphic-2026-08-24/)
+    [What are H-1B visas for skilled workers and what changes loom?](https://www.reuters.com/business/world-at-work/what-are-h-1b-visas-skilled-workers-what-changes-loom-2026-08-25/)
     
     [
     
-    ](https://www.reuters.com/commentary/reuters-open-interest/global-markets-trading-day-graphic-2026-08-24/)
+    ](https://www.reuters.com/business/world-at-work/what-are-h-1b-visas-skilled-workers-what-changes-loom-2026-08-25/)
+    
+- [Litigationcategory](https://www.reuters.com/legal/litigation/)
+    
+    [Nevada sues to block Trump administration's Colorado River plan](https://www.reuters.com/legal/litigation/nevada-sues-block-trump-administrations-colorado-river-plan-2026-08-24/)
+    
+    [
+    
+    ](https://www.reuters.com/legal/litigation/nevada-sues-block-trump-administrations-colorado-river-plan-2026-08-24/)
+    
+- [Litigationcategory](https://www.reuters.com/legal/litigation/)
+    
+    [Alabama launches probe into OpenAI after Hugging Face breach](https://www.reuters.com/legal/litigation/alabama-launches-probe-into-openai-after-hugging-face-breach-2026-08-25/)
+    
+    [
+    
+    ](https://www.reuters.com/legal/litigation/alabama-launches-probe-into-openai-after-hugging-face-breach-2026-08-25/)
     
 
 [](https://www.lseg.com/en/data-analytics/products/workspace?utm_source=reuters.com&utm_medium=articlebanner&utm_campaign=Reuters_ProductPage_Links)
 
-## [Business](https://www.reuters.com/business/)
+## [World](https://www.reuters.com/world/)
 
 - [
     
-    ](https://www.reuters.com/legal/litigation/judge-rejects-first-brands-plan-pay-down-debts-by-pursuing-lawsuits-2026-08-24/)
+    ](https://www.reuters.com/world/middle-east/trump-sends-saudi-nuclear-deal-congress-says-riyadh-must-recognize-israel-2026-08-25/)
     
-    ### [Judge rejects First Brands' plan to pay down debts by pursuing lawsuits](https://www.reuters.com/legal/litigation/judge-rejects-first-brands-plan-pay-down-debts-by-pursuing-lawsuits-2026-08-24/)
+    ### [Trump sends Saudi nuclear deal to Congress but says Riyadh must recognize Israel](https://www.reuters.com/world/middle-east/trump-sends-saudi-nuclear-deal-congress-says-riyadh-must-recognize-israel-2026-08-25/)
     
-    [Legalcategory](https://www.reuters.com/legal/) · August 24, 2026 · 4:12 PM PDT · 51 mins ago
+    [Middle Eastcategory](https://www.reuters.com/world/middle-east/) · August 25, 2026 · 4:24 PM PDT · 29 mins ago
     
-    A U.S. bankruptcy judge on Monday rejected auto parts maker First Brands' proposal to pay back creditors by pursuing litigation against insiders, instead converting the case ​to a more straightforward Chapter 7 liquidation.
-    
-- [
-    
-    ](https://www.reuters.com/world/asia-pacific/australias-no-2-grocer-coles-posts-137-rise-full-year-profit-2026-08-24/)
-    
-    [category](https://www.reuters.com/world/)[Australia's No. 2 grocer Coles posts better-than-expected annual profit](https://www.reuters.com/world/asia-pacific/australias-no-2-grocer-coles-posts-137-rise-full-year-profit-2026-08-24/)
-    
-    4:08 PM PDT
+    President Donald Trump has sent Congress a proposed agreement with Saudi Arabia on civil ​nuclear energy while insisting the pact will only be approved if the kingdom normalizes ‌relations with Israel, a U.S. administration official told Reuters on Tuesday.
     
 - [
     
-    ](https://www.reuters.com/business/retail-consumer/sheins-stock-market-listing-will-not-mask-sustainability-challenges-2026-08-24/)
+    ](https://www.reuters.com/world/americas/bolivias-paz-taps-deputy-lead-economy-after-ministers-ousting-2026-08-25/)
     
-    Focus[Focus: Shein's stock market listing will not mask sustainability challenges](https://www.reuters.com/business/retail-consumer/sheins-stock-market-listing-will-not-mask-sustainability-challenges-2026-08-24/)
+    [Americascategory](https://www.reuters.com/world/americas/)[Bolivia's Paz taps deputy to lead economy after minister's ousting](https://www.reuters.com/world/americas/bolivias-paz-taps-deputy-lead-economy-after-ministers-ousting-2026-08-25/)
     
-    4:05 PM PDT
-    
-- [
-    
-    ](https://www.reuters.com/business/shell-shelves-aphrodite-offshore-gas-project-trinidad-now-2026-08-24/)
-    
-    [Businesscategory](https://www.reuters.com/business/)[Shell shelves Aphrodite offshore gas project in Trinidad for now](https://www.reuters.com/business/shell-shelves-aphrodite-offshore-gas-project-trinidad-now-2026-08-24/)
-    
-    3:47 PM PDT
+    4:14 PM PDT
     
 - [
     
-    ](https://www.reuters.com/business/aerospace-defense/boeing-awarded-contract-with-ceiling-value-1312-billion-f-15-program-2026-08-24/)
+    ](https://www.reuters.com/business/world-at-work/one-three-uk-employers-have-cut-entry-level-jobs-survey-shows-2026-08-25/)
     
-    [Aerospace & Defensecategory](https://www.reuters.com/business/aerospace-defense/)[Boeing awarded contract with ceiling value of $131.2 billion for F-15 program](https://www.reuters.com/business/aerospace-defense/boeing-awarded-contract-with-ceiling-value-1312-billion-f-15-program-2026-08-24/)
+    [World at Workcategory](https://www.reuters.com/business/world-at-work/)[One in three UK employers have cut entry-level jobs, survey shows](https://www.reuters.com/business/world-at-work/one-three-uk-employers-have-cut-entry-level-jobs-survey-shows-2026-08-25/)
     
-    3:20 PM PDT
+    4:02 PM PDT
+    
+- [
+    
+    ](https://www.reuters.com/world/china/iran-oman-discuss-temporary-hormuz-corridor-impasse-with-us-drags-2026-08-25/)
+    
+    [Chinacategory](https://www.reuters.com/world/china/)[Iran and Oman discuss temporary Hormuz corridor as impasse with US drags on](https://www.reuters.com/world/china/iran-oman-discuss-temporary-hormuz-corridor-impasse-with-us-drags-2026-08-25/)
+    
+    3:21 PM PDT
+    
+- [
+    
+    ](https://www.reuters.com/world/asia-pacific/boj-speed-up-its-tightening-campaign-raise-key-rate-125-september-2026-08-25/)
+    
+    [Asia Pacificcategory](https://www.reuters.com/world/asia-pacific/)[BOJ to speed up its tightening campaign, raise key rate to 1.25% in September](https://www.reuters.com/world/asia-pacific/boj-speed-up-its-tightening-campaign-raise-key-rate-125-september-2026-08-25/)
+    
+    3:03 PM PDT
     
 
 ### Site Index

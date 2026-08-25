@@ -7,6 +7,7 @@
 	- Timeline:
 		- [July 25](https://www.reuters.com/world/us-appeals-court-rules-trump-cannot-implement-mail-in-voting-order-2026-07-25/): ‌Boston-based 1st U.S. Circuit Court of Appeals rejects Trump's request to lift judge Talwani's injunction.
 		- [August 11](https://www.reuters.com/world/judge-blocks-us-postal-service-restricting-mail-in-voting-2026-08-11/): Talwani expands June injunction from 23 mostly Democratic-led states to nationwide
+		- [August 24](https://www.reuters.com/world/us-supreme-court-lifts-judicial-hurdle-trumps-mail-in-ballot-curbs-2026-08-24/): 6-3 Supreme Court ruling lifts Talwani's June injunction but keeps her August 11 nationwide injunction in place. The court's conservative majority agreed with the DOJ that the lawsuit challenging Trump's directive was premature and that the states did not have the required legal standing at this stage to sue.
 	- Result:
 
 
