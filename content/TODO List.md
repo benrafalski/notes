@@ -5,6 +5,9 @@
 - [ ] Yeltsin
 - [ ] Putin
 - [ ] JFK
+- [ ] Bush 1
+	- [ ] PBS 1: https://youtu.be/moAg9Xed1EY?si=oNKIh083fnE8do8G
+	- [ ] PBS 2: https://youtu.be/cXmUV1xcP0U?si=TQnsSWr2zISOGkKT
 # YouTube
 ## US Issues
 [Steven Camarota - Welfare Use by Legal and Illegal Immigrants](https://youtu.be/xf6i4X6MxdU?si=HZEHUXCMQj0b4E-s)

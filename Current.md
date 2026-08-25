@@ -24,176 +24,201 @@
 
 [My News](https://www.reuters.com/my-news/feed/)
 
-[](https://www.reuters.com/account/sign-in/?redirect=https%3A%2F%2Fwww.reuters.com%2Fworld%2Fappeals-court-upholds-block-doj-subpoenas-ny-ag-james-office-2026-08-21%2F)[](https://www.reuters.com/account/subscribe/offer/?redirect=https%3A%2F%2Fwww.reuters.com%2Fworld%2Fappeals-court-upholds-block-doj-subpoenas-ny-ag-james-office-2026-08-21%2F&referrer=subscription_button&journeyStart=navigation)
+[](https://www.reuters.com/account/sign-in/?redirect=https%3A%2F%2Fwww.reuters.com%2Fbusiness%2Fcarney-says-new-canadian-tariffs-us-goods-will-come-into-effect-september-8-2026-08-22%2F)[](https://www.reuters.com/account/subscribe/offer/?redirect=https%3A%2F%2Fwww.reuters.com%2Fbusiness%2Fcarney-says-new-canadian-tariffs-us-goods-will-come-into-effect-september-8-2026-08-22%2F&referrer=subscription_button&journeyStart=navigation)
 
-# Appeals court upholds block on US Justice Department subpoenas to NY AG James' office
+# Canada to retaliate for US tariffs, worsening ties after talks fail
 
-By [Luc Cohen](https://www.reuters.com/authors/luc-cohen/)
+By [Promit Mukherjee](https://www.reuters.com/authors/promit-mukherjee/) and [Bhargav Acharya](https://www.reuters.com/authors/bhargav-acharya/)
 
-August 21, 20266:36 AM PDTUpdated August 21, 2026
+August 22, 20268:39 AM PDTUpdated August 23, 2026
 
-Item 1 of 2 New York Attorney General Letitia James speaks to the media in Norfolk, Virginia, U.S., October 24, 2025. REUTERS/Jonathan Ernst/File Photo
-
-**[1/2]**New York Attorney General Letitia James speaks to the media in Norfolk, Virginia, U.S., October 24, 2025. REUTERS/Jonathan Ernst/File Photo [Purchase Licensing Rights, opens new tab](https://www.reutersconnect.com/item/new-york-attorney-general-letitia-james-at-us-district-court-for-the-eastern-district-of-virginia/dGFnOnJldXRlcnMuY29tLDIwMjU6bmV3c21sX1JDMkdJSEEyM0ZSTw%3D%3D/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead)
+![US hits Canadian goods with 50% tariffs after trade talks fail](https://ajo.prod.reuters.tv/api/v2/img/6a89879ce4b08e2aff527903?width=1080&quality=80)
 
 - Summary
 
-- 2nd Circuit says Trump ally unlawfully served as lead prosecutor on probe
-- Subpoenas sought records on James' lawsuits against Trump, family business and NRA
-- Ruling marks third appeals court rejection of Trump efforts to bypass US Attorney appointment ​process
+- Retaliatory tariffs start September 8 and match US duties dollar for dollar
+- Measures target steel, dairy, appliances, agricultural equipment, pulp and paper and electronics
+- New US tariffs cover about $20 billion of Canadian exports, affecting sectors from wine to hockey equipment
 
-NEW YORK, Aug 21 (Reuters) - A U.S. appeals court ruled on Friday that the Justice Department could not enforce subpoenas seeking ‌information about cases pursued by New York Attorney General Letitia James because it had unlawfully installed an ally of President [Donald Trump](https://www.reuters.com/world/us/donald-trump/) as a top prosecutor.
+OTTAWA, Aug 22 (Reuters) - Canada will impose tariffs on some U.S. goods in retaliation for 50% ​levies ordered by President Donald Trump on Canadian products, Prime Minister Mark Carney said on Saturday, after trade talks collapsed between the two neighbors.
 
-The case stems from [subpoenas](https://www.reuters.com/legal/government/us-judge-blocks-doj-demands-info-ny-lawsuits-against-trump-nra-2026-01-08/) that the top federal prosecutor in Albany, Trump ally John Sarcone, issued to James' office in August 2025 seeking records about civil lawsuits James filed against Trump and his family business ​and against the National Rifle Association gun rights group.
+The "dollar for dollar" tariffs ‌on imports of U.S. steel, electronics and other products, to take effect on September 8, mark a further worsening of relations between the longtime allies and major trading partners.
 
-The Reuters Daily Briefing newsletter provides all the news you need to start your day. Sign up [here.](https://www.reuters.com/newsletters/daily-briefing/?location=article-paragraph&redirectUrl=%2Fworld%2Fappeals-court-upholds-block-doj-subpoenas-ny-ag-james-office-2026-08-21%2F)
+The Reuters Daily Briefing newsletter provides all the news you need to start your day. Sign up [here.](https://www.reuters.com/newsletters/daily-briefing/?location=article-paragraph&redirectUrl=%2Fbusiness%2Fcarney-says-new-canadian-tariffs-us-goods-will-come-into-effect-september-8-2026-08-22%2F)
 
-The Manhattan-based 2nd U.S. Circuit Court of Appeals upheld on Friday in a 2-1 ruling ​a lower court's decision to bar Sarcone from investigating the case, finding he was unlawfully serving as the lead prosecutor ⁠on the probe.
+The two countries [failed to reach](https://www.reuters.com/world/americas/us-canadian-trade-teams-meet-again-tariffs-deadline-looms-2026-08-21/) a trade deal late on Friday, with each side blaming the other for derailing three days of intensive negotiations. The breakdown complicates the future of a U.S.-Mexico-Canada free-trade pact.
 
-That marked the [third time](https://www.reuters.com/legal/government/trump-administration-unlawfully-appointed-nevadas-top-federal-prosecutor-court-2026-08-17/) a U.S. appeals court had rejected the Trump administration's efforts to circumvent the appointment process for U.S. Attorneys, who ​serve as the top federal prosecutors in their districts and must be either confirmed by the U.S. Senate or approved by federal judges.
+Trump's new tariffs hit sectors including wine, furniture, dairy products, cement, clothing, fishing rods and [hockey equipment,](https://www.reuters.com/business/trump-misses-net-with-tariff-canadian-ice-hockey-sticks-2026-07-21/) covering some $20 ​billion of Canadian exports to the U.S. These duties do not exempt Canadian products under the three-nation trade deal, which has shielded most Canadian exports to the U.S. in the ​last 18 months.
 
-A Justice Department spokesperson ​said in a statement, "We disagree with the court's decision, and intend to take this case to the Supreme Court."
+## 'WE GOT ATTACKED,' CARNEY SAYS
 
-James' office declined to comment.
+"Canada will match Washington's new tariffs dollar for dollar in order to protect Canadian workers, farmers, families, and businesses," ⁠Carney told a press conference.
 
-## CIVIL RIGHTS INVESTIGATION
+"You're at war when you get attacked. We got attacked," Carney said when asked a question about whether Canada was engaged in a trade war.
 
-Both Trump, a Republican, and the NRA were found liable following trials in cases brought by James, a Democrat. They said they were targeted for political purposes.
+Carney is one of the ​few global leaders to retaliate against U.S. tariffs and has pledged to forge new trade and military alliances, despite Canada's dependence on the United States for nearly 70% of its exports.
 
-The subpoenas issued by Sarcone's office were part ​of a criminal investigation into potential civil rights violations associated with those cases, Reuters reported at the time. No charges have been filed.
+U.S. Trade Representative Jamieson ​Greer called the breakdown "a missed opportunity for Canada to partner with the United States," saying no new talks were planned with Canada.
 
-James has denied ​wrongdoing and argued that the investigations are payback for suing Trump's family business.
+"We're moving forward with measures that respond to Canadian retaliation," Greer told Fox News. "They've always had the best deal, and they still would have an even better deal, but they didn't want that."
 
-In January, Manhattan-based U.S. District Judge Lorna Schofield found that a series of procedural maneuvers the Justice ‌Department used ⁠to keep Sarcone in place as acting U.S. Attorney for the Northern District of New York after the federal court in that district declined to extend his 120-day interim appointment were improper.
+The White House, the U.S. commerce secretary's office and the U.S. trade representative's office did not immediately respond to requests for comment.
 
-That ruling [weakened](https://www.reuters.com/legal/government/us-justice-department-stumbles-retribution-campaign-against-trump-foes-2025-11-25/) the Justice Department's efforts to pursue Trump's political enemies.
+Canada will impose ​tariffs on U.S. steel, dairy, appliances, agricultural equipment, pulp and paper, and electronics, along with some products the U.S. previously targeted in Canada, Carney said from Ottawa's Parliament building. The government will release ​details on its response in the coming days, he said.
 
-James had previously been indicted in Virginia on accusations that she provided misleading information on mortgage documents. That case was dismissed after a judge found the federal prosecutor who secured that indictment was also unlawfully appointed.
+"We cannot accept what they have offered, and we will not give what they have asked," Carney said.
 
-## 'POLITICAL STALEMATE'
+Item 1 of 5 Canada’s Prime Minister Mark Carney speaks with the news media after he suspended trade negotiations with the United States, in Ottawa, Ontario, Canada August 22, 2026. REUTERS/Chris Tanouye
 
-Sarcone ​was named interim U.S. Attorney in ​Albany early in Trump's term. When ⁠his 120-day interim term expired on July 14, the judges in the Northern District of New York declined to extend his term.
+**[1/5]**Canada’s Prime Minister Mark Carney speaks with the news media after he suspended trade negotiations with the United States, in Ottawa, Ontario, Canada August 22, 2026. REUTERS/Chris Tanouye [Purchase Licensing Rights, opens new tab](https://www.reutersconnect.com/item/canadas-prime-minister-mark-carney-suspends-trade-negotiations-with-the-us/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1JDMlIzTkFWNjZRNw%3D%3D/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead)
 
-The Justice Department then appointed Sarcone to other roles in the U.S. Attorney's office that he said ​gave him the authority to act as U.S. Attorney indefinitely.
+Trump had expressed hope that a deal with Canada could happen ‌on Friday.
 
-Circuit Judges Guido Calabresi and Maria Kahn said that move ​circumvented the federal ⁠law governing how long presidential appointees can remain in their positions on a temporary basis. The judges were appointed by Democratic presidents Bill Clinton and Joe Biden, respectively.
+But Carney ⁠said the U.S. administration's last-minute demands halted progress.
 
-Other U.S. appeals courts have similarly ruled that Trump-aligned U.S. Attorneys in Nevada and New Jersey had been unlawfully appointed.
+"In recent days, the U.S. proposed new terms that were uneconomic, unfair, and undermined the net benefits to Canada, calling into question the reliability of any deal," he said, adding these demands included curtailing Canada's ability to forge new trade deals.
 
-In appealing Schofield's order, the Justice Department said the ⁠federal government ​had followed the rules for appointing temporary lead prosecutors.
+## LARGER VEHICLES, OTHER STICKING POINTS
 
-In a dissent, Circuit Judge Michael Park, ​a Trump appointee, agreed, writing that Senate Democrats had been slow to confirm Trump's nominees for U.S. Attorney roles and that the law provided that the executive branch must be able to ​function during periods of "political stalemate."
+Carney said Canada would announce support measures next week for industries hit by the new U.S. duties, adding these measures could last years.
 
-Reporting by Luc Cohen in New York; Additional reporting by Nate Raymond; Editing by Franklin Paul, Alex Richardson, Philippa Fletcher, Rod Nickel
+The new U.S. tariffs cover around 5% of Canada's exports to the U.S. They could expose some vulnerable industries such as softwood lumber and wine to severe damage and lead ​to job losses and business closures, trade experts ​have said.
+
+"We will be mobilizing our network ⁠of businesses in all regions and all sectors to brace for impact and make the best of a bad situation," said Candace Laing, CEO of the Canadian Chamber of Commerce.
+
+Ontario Premier Doug Ford, one of the most vocal opponents of U.S. tariffs, supported Carney's decision to retaliate.
+
+"I'm glad he didn't sign ​that deal because it was a bad deal. It was a bad deal for Ontario. It was a bad deal for the auto sector, ​the steel sector, and manufacturing ⁠sector," Ford told reporters on Saturday.
+
+One of the main sticking points was the treatment of larger vehicles.
+
+Three sources said Canada wanted favorable tariff terms proposed for light-duty vehicles to extend to medium- and heavy-duty trucks, something the U.S. resisted. Carney said the U.S. position would have excluded Canadian-made models, including Ford's F-350, F-450 and F-550 trucks and General Motors' Silverado, making Canadian production less competitive.
+
+There were also U.S. proposals that affected ⁠Canadian culture, language ​and sovereignty, Carney said, without elaborating.
+
+Carney was elected last year on a promise to be a tough negotiator with Trump, ​and remains broadly popular. Polls show most Canadians oppose making any concessions to the U.S.
+
+"Canadians must stand united to defend our country against these unfair attacks on our jobs and businesses," Pierre Poilievre, the leader of the official opposition Conservative Party, said ​in a statement.
+
+Reporting by Promit Mukherjee, Chibuike Oguh, Bhargav Acharya and David Shepardson. Additional reporting by Susan Heavey and Marianna Parraga. Editing by Ross Colvin, Caroline Stauffer, Rod Nickel, Alistair Bell and William Mallard
 
 Our Standards: [The Thomson Reuters Trust Principles., opens new tab](https://www.thomsonreuters.com/en/about-us/trust-principles.html)
 
 - Suggested Topics:
-- [](https://www.reuters.com/legal/government/)
-- [](https://www.reuters.com/legal/public-policy/)
-- [](https://www.reuters.com/legal/appellate/)
+- [](https://www.reuters.com/business/)
 
 [](https://www.reutersagency.com/en/licensereuterscontent/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead)
 
 [
 
-](https://www.reuters.com/authors/luc-cohen/)
+](https://www.reuters.com/authors/bhargav-acharya/)
 
-[Luc Cohen](https://www.reuters.com/authors/luc-cohen/)
+[Bhargav Acharya](https://www.reuters.com/authors/bhargav-acharya/)
 
 Thomson Reuters
 
-Reports on the New York federal courts. Previously worked as a correspondent in Venezuela and Argentina.
+Based in Toronto, Bhargav reports on breaking news across U.S. and Canada. Previously he spent three years with Reuters' Sub-Saharan Africa breaking news hub in Johannesburg, and covered former Paralympic star Oscar Pistorius's release, and the historic 2024 South African election. He was part of a team of reporters that Reuters named Journalists of the Year in 2023 in the Speed category for coverage of Africa. He has also spent three years in India with the news agency's Global News Monitoring team. He has a master's degree in International Studies. When he is not working, Bhargav likes to read and travel.
 
-- [](mailto:luc.cohen@thomsonreuters.com)
-- [](https://x.com/cohenluc)
+- [](mailto:Bhargav.Acharya@thomsonreuters.com)
+- [](https://x.com/mrbhargav_)
+- [](https://www.linkedin.com/in/linkedin.com/in/bhargav-acharya-a6b073164)
 
 ## Read Next
 
-- [Litigationcategory](https://www.reuters.com/legal/litigation/)
+- [Businesscategory](https://www.reuters.com/business/)
     
-    [US highway agency expands probe into GM pickups, SUVs over engine failures](https://www.reuters.com/legal/litigation/nhtsa-opens-probe-into-nearly-1-million-gm-pickups-suvs-over-engine-failure-2026-08-21/)
-    
-    [
-    
-    ](https://www.reuters.com/legal/litigation/nhtsa-opens-probe-into-nearly-1-million-gm-pickups-suvs-over-engine-failure-2026-08-21/)
-    
-- [Governmentcategory](https://www.reuters.com/legal/government/)
-    
-    [Trump, former fixer Michael Cohen have warm interview at political low point for president](https://www.reuters.com/legal/government/trump-former-fixer-michael-cohen-have-warm-interview-political-low-point-2026-08-21/)
+    [S&P 500, Nasdaq end down on tech stocks, investors weigh Iran moves](https://www.reuters.com/business/sp-nasdaq-futures-slip-markets-await-iran-sanctions-nvidia-results-2026-08-24/)
     
     [
     
-    ](https://www.reuters.com/legal/government/trump-former-fixer-michael-cohen-have-warm-interview-political-low-point-2026-08-21/)
+    ](https://www.reuters.com/business/sp-nasdaq-futures-slip-markets-await-iran-sanctions-nvidia-results-2026-08-24/)
     
-- [US EPA to extend renewable fuel standard compliance deadline for refiners](https://www.reuters.com/business/energy/epa-extends-renewable-fuel-standard-compliance-deadline-refiners-2026-08-21/)
+- [Legalcategory](https://www.reuters.com/legal/)
     
-    [
-    
-    ](https://www.reuters.com/business/energy/epa-extends-renewable-fuel-standard-compliance-deadline-refiners-2026-08-21/)
-    
-- [Governmentcategory](https://www.reuters.com/legal/government/)
-    
-    [US families, healthcare providers under strain after Trump crackdown on Haitian immigrants](https://www.reuters.com/legal/government/us-families-healthcare-providers-under-strain-after-trump-crackdown-haitian-2026-08-19/)
+    [California cancels talks with Paramount over Warner Bros deal](https://www.reuters.com/legal/litigation/california-cancels-talks-with-paramount-over-warner-bros-merger-nyt-reports-2026-08-24/)
     
     [
     
-    ](https://www.reuters.com/legal/government/us-families-healthcare-providers-under-strain-after-trump-crackdown-haitian-2026-08-19/)
+    ](https://www.reuters.com/legal/litigation/california-cancels-talks-with-paramount-over-warner-bros-merger-nyt-reports-2026-08-24/)
     
-- [Governmentcategory](https://www.reuters.com/legal/government/)
+- [Autos & Transportationcategory](https://www.reuters.com/business/autos-transportation/)
     
-    [Trump picks White House adviser Heidi Overton to run FDA, source says](https://www.reuters.com/legal/government/trump-picks-heidi-overton-run-fda-bloomberg-news-reports-2026-08-19/)
+    [Trump threatens 50% tariffs on all cars and trucks from Canada amid trade fight](https://www.reuters.com/business/autos-transportation/trump-says-he-will-raise-tariffs-all-cars-trucks-50-amid-canada-trade-spat-2026-08-24/)
     
     [
     
-    ](https://www.reuters.com/legal/government/trump-picks-heidi-overton-run-fda-bloomberg-news-reports-2026-08-19/)
+    ](https://www.reuters.com/business/autos-transportation/trump-says-he-will-raise-tariffs-all-cars-trucks-50-amid-canada-trade-spat-2026-08-24/)
+    
+- [Legalcategory](https://www.reuters.com/legal/)
+    
+    [Fentanyl, a Reagan ad and a near deal: Trump's trade war with Canada](https://www.reuters.com/legal/transactional/fentanyl-reagan-ad-near-deal-trumps-trade-war-with-canada-2026-08-24/) 
+    
+    [
+    
+    ](https://www.reuters.com/legal/transactional/fentanyl-reagan-ad-near-deal-trumps-trade-war-with-canada-2026-08-24/)
+    
+- Focus
+    
+    [Focus: Shein's stock market listing will not mask sustainability challenges](https://www.reuters.com/business/retail-consumer/sheins-stock-market-listing-will-not-mask-sustainability-challenges-2026-08-24/)
+    
+    [
+    
+    ](https://www.reuters.com/business/retail-consumer/sheins-stock-market-listing-will-not-mask-sustainability-challenges-2026-08-24/)
+    
+- [Commentarycategory](https://www.reuters.com/commentary/)
+    
+    [TRADING DAY Tech, tariffs & Treasuries](https://www.reuters.com/commentary/reuters-open-interest/global-markets-trading-day-graphic-2026-08-24/)
+    
+    [
+    
+    ](https://www.reuters.com/commentary/reuters-open-interest/global-markets-trading-day-graphic-2026-08-24/)
     
 
 [](https://www.lseg.com/en/data-analytics/products/workspace?utm_source=reuters.com&utm_medium=articlebanner&utm_campaign=Reuters_ProductPage_Links)
 
-## [World](https://www.reuters.com/world/)
+## [Business](https://www.reuters.com/business/)
 
 - [
     
-    ](https://www.reuters.com/world/germanys-afd-eyes-saxony-anhalt-win-first-step-toward-federal-power-2026-08-23/)
+    ](https://www.reuters.com/legal/litigation/judge-rejects-first-brands-plan-pay-down-debts-by-pursuing-lawsuits-2026-08-24/)
     
-    ### [Germany's AfD eyes Saxony-Anhalt win as first step toward federal power](https://www.reuters.com/world/germanys-afd-eyes-saxony-anhalt-win-first-step-toward-federal-power-2026-08-23/)
+    ### [Judge rejects First Brands' plan to pay down debts by pursuing lawsuits](https://www.reuters.com/legal/litigation/judge-rejects-first-brands-plan-pay-down-debts-by-pursuing-lawsuits-2026-08-24/)
     
-    [Worldcategory](https://www.reuters.com/world/) · August 23, 2026 · 9:42 AM PDT · 27 mins ago
+    [Legalcategory](https://www.reuters.com/legal/) · August 24, 2026 · 4:12 PM PDT · 51 mins ago
     
-    Germany's far-right Alternative for Germany (AfD) is banking on a breakthrough in next month's state election to build momentum for ​a future national victory, the party's co-leader Alice Weidel said ‌on Sunday.
-    
-- [
-    
-    ](https://www.reuters.com/sports/formula1/norris-wins-dutch-gp-complete-mclaren-hat-trick-2026-08-23/)
-    
-    [Sportscategory](https://www.reuters.com/sports/)[Norris wins Dutch GP as Antonelli stretches his F1 lead](https://www.reuters.com/sports/formula1/norris-wins-dutch-gp-complete-mclaren-hat-trick-2026-08-23/)
-    
-    8:16 AM PDT
+    A U.S. bankruptcy judge on Monday rejected auto parts maker First Brands' proposal to pay back creditors by pursuing litigation against insiders, instead converting the case ​to a more straightforward Chapter 7 liquidation.
     
 - [
     
-    ](https://www.reuters.com/world/europe/tunisia-coast-guard-recovers-eight-bodies-migrants-whose-boat-sank-2026-08-23/)
+    ](https://www.reuters.com/world/asia-pacific/australias-no-2-grocer-coles-posts-137-rise-full-year-profit-2026-08-24/)
     
-    [Europecategory](https://www.reuters.com/world/europe/)[Eleven bodies recovered after boat carrying migrants sinks off Tunisia](https://www.reuters.com/world/europe/tunisia-coast-guard-recovers-eight-bodies-migrants-whose-boat-sank-2026-08-23/)
+    [category](https://www.reuters.com/world/)[Australia's No. 2 grocer Coles posts better-than-expected annual profit](https://www.reuters.com/world/asia-pacific/australias-no-2-grocer-coles-posts-137-rise-full-year-profit-2026-08-24/)
     
-    7:02 AM PDT
-    
-- [
-    
-    ](https://www.reuters.com/world/asia-pacific/israeli-airstrikes-gaza-kill-two-people-including-4-year-old-boy-medics-say-2026-08-23/)
-    
-    [Asia Pacificcategory](https://www.reuters.com/world/asia-pacific/)[Israeli airstrikes in Gaza kill two people](https://www.reuters.com/world/asia-pacific/israeli-airstrikes-gaza-kill-two-people-including-4-year-old-boy-medics-say-2026-08-23/)
-    
-    6:02 AM PDT
+    4:08 PM PDT
     
 - [
     
-    ](https://www.reuters.com/world/asia-pacific/iran-says-new-sanctions-threatened-by-desperate-us-will-fail-2026-08-23/)
+    ](https://www.reuters.com/business/retail-consumer/sheins-stock-market-listing-will-not-mask-sustainability-challenges-2026-08-24/)
     
-    [Asia Pacificcategory](https://www.reuters.com/world/asia-pacific/)[Iran says new sanctions threatened by 'desperate' US will fail](https://www.reuters.com/world/asia-pacific/iran-says-new-sanctions-threatened-by-desperate-us-will-fail-2026-08-23/)
+    Focus[Focus: Shein's stock market listing will not mask sustainability challenges](https://www.reuters.com/business/retail-consumer/sheins-stock-market-listing-will-not-mask-sustainability-challenges-2026-08-24/)
     
-    5:25 AM PDT
+    4:05 PM PDT
+    
+- [
+    
+    ](https://www.reuters.com/business/shell-shelves-aphrodite-offshore-gas-project-trinidad-now-2026-08-24/)
+    
+    [Businesscategory](https://www.reuters.com/business/)[Shell shelves Aphrodite offshore gas project in Trinidad for now](https://www.reuters.com/business/shell-shelves-aphrodite-offshore-gas-project-trinidad-now-2026-08-24/)
+    
+    3:47 PM PDT
+    
+- [
+    
+    ](https://www.reuters.com/business/aerospace-defense/boeing-awarded-contract-with-ceiling-value-1312-billion-f-15-program-2026-08-24/)
+    
+    [Aerospace & Defensecategory](https://www.reuters.com/business/aerospace-defense/)[Boeing awarded contract with ceiling value of $131.2 billion for F-15 program](https://www.reuters.com/business/aerospace-defense/boeing-awarded-contract-with-ceiling-value-1312-billion-f-15-program-2026-08-24/)
+    
+    3:20 PM PDT
     
 
 ### Site Index
