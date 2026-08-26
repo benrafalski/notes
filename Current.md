@@ -24,114 +24,133 @@
 
 [My News](https://www.reuters.com/my-news/feed/)
 
-[](https://www.reuters.com/account/sign-in/?redirect=https%3A%2F%2Fwww.reuters.com%2Fworld%2Fus-plans-revoke-up-200000-tourism-business-visas-ap-reports-2026-08-24%2F)[](https://www.reuters.com/account/subscribe/offer/?redirect=https%3A%2F%2Fwww.reuters.com%2Fworld%2Fus-plans-revoke-up-200000-tourism-business-visas-ap-reports-2026-08-24%2F&referrer=subscription_button&journeyStart=navigation)
+[](https://www.reuters.com/account/sign-in/?redirect=https%3A%2F%2Fwww.reuters.com%2Fworld%2Fchina%2Firan-oman-discuss-temporary-hormuz-corridor-impasse-with-us-drags-2026-08-25%2F)[](https://www.reuters.com/account/subscribe/offer/?redirect=https%3A%2F%2Fwww.reuters.com%2Fworld%2Fchina%2Firan-oman-discuss-temporary-hormuz-corridor-impasse-with-us-drags-2026-08-25%2F&referrer=subscription_button&journeyStart=navigation)
 
-# Trump administration plans to revoke visas of foreigners seeking asylum
+# Iran and Oman still working on Strait of Hormuz accord, says senior Iranian source
 
-By [Kanishka Singh](https://www.reuters.com/authors/kanishka-singh/)
+By [Parisa Hafezi](https://www.reuters.com/authors/parisa-hafezi/) and [Jana Choukeir](https://www.reuters.com/authors/jana-choukeir/)
 
-August 24, 20261:46 PM PDTUpdated 17 hours ago
+August 25, 20263:21 PM PDTUpdated 5 hours ago
 
-![A general view of a U.S. State Department sign](https://www.reuters.com/resizer/v2/KBP6UW4LPFKHTIOBPTNHN7BQKA.jpg?auth=29beea51c26f3a96f1c4d976500fb17242b302d84f5a043ed9df41c9dced5700&width=1920&quality=80)
+Item 1 of 4 Birds on the beach, with vessels in the Strait of Hormuz visible near the beach of Bandar Abbas, Iran, August 25, 2026. Majid Asgaripour/WANA (West Asia News Agency) via REUTERS
 
-A general view of a U.S. State Department sign outside the U.S. State Department building in Washington, D.C., U.S., July 11, 2025. REUTERS/Annabelle Gordon/File Photo [Purchase Licensing Rights, opens new tab](https://www.reutersconnect.com/item/a-general-view-of-a-us-state-department-sign/dGFnOnJldXRlcnMuY29tLDIwMjU6bmV3c21sX1JDMkZLRkFWM09KNw%3D%3D/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead)
+**[1/4]**Birds on the beach, with vessels in the Strait of Hormuz visible near the beach of Bandar Abbas, Iran, August 25, 2026. Majid Asgaripour/WANA (West Asia News Agency) via REUTERS [Purchase Licensing Rights, opens new tab](https://www.reutersconnect.com/item/vessels-in-the-strait-of-hormuz-are-visible-near-the-beach-of-bandar-abbas/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1JDMko1TkFXT0FHOQ%3D%3D/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead)
 
 - Summary
 
-- Trump has pursued an aggressive immigration crackdown
-- Rights groups say crackdown has violated free speech, due process rights
-- State Dept says it will coordinate with DHS to revoke visas
+- Iran and Oman have not finalised deal on Strait of Hormuz, source says
+- Iran's Revolutionary Guards say US trying to obstruct an accord
+- Strait remains blockaded, some shippers deterred by blacklist
+- Oil prices fall despite latest US sanctions
 
-WASHINGTON, Aug 24 (Reuters) - President [Donald Trump's](https://www.reuters.com/world/us/donald-trump/) administration said on ‌Monday it planned to revoke the non-immigrant visas of foreigners who have applied for or are currently seeking asylum status in the U.S., marking its latest step in a sweeping immigration crackdown.
+DUBAI, Aug 26 (Reuters) - Iran and Oman are still working on the details of an agreement on the Strait of Hormuz, a senior ​Iranian source said on Wednesday, after Iran's Revolutionary Guards said the two countries had agreed how to share the waterway and its revenues.
 
-A State Department spokesman said it was ​coordinating with the Department of Homeland Security "to identify and revoke the non-immigrant visas of foreigners ​who have come to the United States claiming to be short-term visitors, but ⁠then file for asylum to stay here permanently."
+The elite force's spokesperson, echoing Tehran's official ‌stance, also said the strait would not open unless the U.S. met [Tehran's conditions](https://www.reuters.com/world/china/whats-included-talks-end-iran-war-reopen-hormuz-2026-05-07/) under an interim ceasefire agreement that was struck in June before unravelling. Those conditions include an end to the U.S. blockade on Iranian ports, compensation and removal of sanctions.
 
-The Reuters Daily Briefing newsletter provides all the news you need to start your day. Sign up [here.](https://www.reuters.com/newsletters/daily-briefing/?location=article-paragraph&redirectUrl=%2Fworld%2Fus-plans-revoke-up-200000-tourism-business-visas-ap-reports-2026-08-24%2F)
+Make sense of global markets with the Trading Day newsletter. Sign up [here.](https://www.reuters.com/newsletters/trading-day/?location=article-paragraph&redirectUrl=%2Fworld%2Fchina%2Firan-oman-discuss-temporary-hormuz-corridor-impasse-with-us-drags-2026-08-25%2F)
 
-The State Department statement did not specify the number ​of visas that will be revoked in the process.
+Iran and Oman have held on-and-off talks for weeks [about controlling traffic](https://www.reuters.com/world/middle-east/can-iran-charge-fees-ships-transit-strait-hormuz-2026-07-28/) through the strait, which handled one-fifth of global oil and liquefied natural gas shipments before the war began in February.
 
-The Associated Press put the number of foreigners whose business ​and tourism visas is planned to be revoked at up to 200,000, which if materialized, would be the largest single mass revocation of visas in U.S. history. The AP cited State Department documents and two U.S. officials.
+Most shipping has since been shut down, driving global energy prices ​higher, as Tehran and Washington have tried to assert control over the channel, imposing separate blockades.
 
-The State Department will revoke ​so-called B1 and B2 visas issued between 2016 and 2026 whose holders have sought asylum or ​are now seeking asylum, the AP report added. The B1 and B2 non-immigrant [visas are issued](https://www.reuters.com/world/us/us-make-visa-bond-program-permanent-people-dozens-countries-2026-08-01/) for business and tourism ‌travel.
+## IRANIAN SOURCE SAYS NO FINAL AGREEMENT REACHED ON STRAIT
 
-The visa ⁠revocations would not necessarily result in immediate deportation, the AP report said, adding that most of those with asylum cases currently pending would be re-categorized but would lose their status as business or tourism travelers.
+"An agreement with Oman over the Strait of Hormuz ​has not been finalised," the senior Iranian source told Reuters, adding that the talks were continuing on the details of an accord.
 
-Earlier on Monday, Deputy Secretary of State Christopher Landau alleged on X that the American immigration ​system "has long been swamped by ​frivolous asylum claims."
+A spokesperson for Iran's Islamic ⁠Revolutionary Guard Corps (IRGC) said Iran and Oman had reached an agreement on their shares of the territory and revenues.
 
-The ⁠State Department said earlier this month that under the Trump administration, it has [revoked more than 175,000 visas](https://www.reuters.com/legal/government/trump-administration-has-revoked-more-than-175000-visas-state-department-says-2026-08-10/) of foreign nationals.
+"The Strait of Hormuz belongs to Iran and the country of Oman... We have been in negotiations ​with Oman for about a month, and we have reached results that are acceptable to both sides," Hossein Mohebbi said in comments published by Iranian state media.
 
-Trump has pursued an [immigration crackdown](https://www.reuters.com/legal/government/father-sailor-aboard-uss-abraham-lincoln-taken-into-us-immigration-detention-2026-08-24/) that ​includes revocations of visas and green cards and an aggressive deportation drive. He says ​the crackdown ⁠aims to improve domestic security.
+"In these negotiations, agreements have been reached regarding the share ​of each country in the waters of the Strait and the share of Iran and Oman in its revenues," he added.
 
-Rights groups say the crackdown has violated free speech and due process rights and created an unsafe environment, particularly for ethnic minorities, who have raised concerns about [racial profiling](https://www.reuters.com/world/us/trump-crackdown-protests-immigration-led-islamophobia-muslim-group-says-2026-03-10/).
+It was not immediately clear at what stage of the negotiations the agreements had been reached. Iran had said [earlier this month](https://www.reuters.com/world/asia-pacific/iran-says-oman-deal-is-final-stages-us-must-act-open-hormuz-2026-08-09/) that a deal on the strait was close.
 
-While Trump campaigned in ⁠2024 on ​a platform of stopping illegal immigration, his administration has also ​made legal immigration more difficult - for example, by [imposing new and expensive fees](https://www.reuters.com/world/us/trump-set-expand-immigration-crackdown-2026-despite-brewing-backlash-2025-12-21/) for applicants of certain work visas. The government's crackdown ​has faced legal challenges.
+Following talks on Tuesday between Iran and Oman, Omani Foreign Minister Badr Albusaidi said he was "hopeful we will soon announce a temporary corridor for the Strait of Hormuz and practical arrangements to restore ​safe navigation".
 
-Reporting by Kanishka Singh and Costas Pitas; Editing by Christian Martinez and Caitlin Webber
+U.S. President Donald Trump [has warned Oman](https://www.reuters.com/world/middle-east/trump-says-iran-should-surrender-threatens-bomb-oman-2026-08-17/) against cooperating with Iran, telling Fox News on August 17: "If Oman gets in the way, we'll bomb the shit out of them."
+
+The IRGC accused the United States of ​seeking to obstruct Iran's negotiations with Oman and said this had caused an agreement to be delayed.
+
+"If the United States stops obstructing and returns to the agreement, we can open the Strait of Hormuz within the framework of the ‌agreement reached ... ⁠If the United States does not accept our conditions, the Strait of Hormuz will not be opened under any circumstances," Mohebbi said.
+
+## ATTACKS ON SHIPPING
+
+Though active hostilities between the U.S. and Iran have largely subsided in recent weeks, diplomatic efforts to reach a peace deal have stalled, and continuing attacks on ships mean passage through the Strait of Hormuz remains perilous.
+
+Iran [announced a blacklist](https://www.reuters.com/world/middle-east/iran-warns-vessels-violating-hormuz-transit-rules-fines-detention-2026-08-24/) on Sunday of 45 ships in an apparent effort to stop ship-to-ship transfers used by Gulf energy producers to evade the Iranian blockade. Some companies [plan to stop](https://www.reuters.com/business/energy/some-oil-companies-avoid-ships-iran-blacklist-sources-say-2026-08-26/) using vessels added to the blacklist, sources said.
+
+In an effort to tighten pressure on Iran's economy, the United States ​has [threatened to punish countries](https://www.reuters.com/world/middle-east/us-treasury-broaden-scope-secondary-sanctions-iran-source-says-2026-08-24/) that continue to do business ​with Iran, but said it would not impose ⁠penalties immediately.
+
+Iran has denounced the U.S. effort to isolate its economy as an act of "gross lawlessness", expressing confidence that many countries would not join the pressure campaign.
+
+In a letter to the United Nations published on Thursday, Iranian Foreign Minister Abbas Araqchi again denounced the new U.S. sanctions, saying they imposed collective punishment by ​denying Iranians access to food, medicine and other necessities.
+
+"Either we defend the principles of sovereign equality, non-interference, and respect for the sovereign rights of States, ​or we surrender to the ⁠unilateralism and bullying of a rogue state," Araqchi wrote.
+
+Oil prices [fell for a third day](https://www.reuters.com/world/asia-pacific/us-oil-prices-extend-losses-hopes-iran-oman-talks-strait-hormuz-2026-08-25/), dropping more than 1.5%, following [signs of renewed efforts](https://www.reuters.com/world/asia-pacific/pakistan-iran-made-significant-progress-talks-conflict-minister-says-2026-08-25/) to seek a mediated end to the war that began on February 28 with U.S. and Israeli strikes on Iran.
+
+## U.S. REPORTEDLY NOT PLANNING NEW STRIKES FOR NOW
+
+Secretary of State Marco Rubio told allies that the U.S. did not expect to launch new strikes against Iran for now, and would instead focus on other means ⁠of pressure, Axios ​reported on Tuesday.
+
+U.S. public approval of the war has fallen to its lowest level since the conflict's early days, and Trump's ​popularity is likewise at a record low ahead of congressional elections in November, according to [Reuters/Ipsos polling](https://www.reuters.com/world/us/trumps-approval-holds-record-low-us-support-iran-war-falls-reuters-ipsos-poll-2026-08-24/).
+
+Thousands of people have died in the conflict, most of them in Iran and Lebanon, while the U.S. and Israel have degraded much of Iran's conventional military capacity. The ​exact state of its nuclear program, which the U.S. and Israel aim to dismantle, remains unknown.
+
+Additional reporting by Reuters bureaux; Writing by Aidan Lewis and Gareth Jones; Editing by Sanjeev Miglani, Conor Humphries and Hugh Lawson
 
 Our Standards: [The Thomson Reuters Trust Principles., opens new tab](https://www.thomsonreuters.com/en/about-us/trust-principles.html)
 
 - Suggested Topics:
-- [](https://www.reuters.com/legal/government/)
-- [](https://www.reuters.com/legal/immigration/)
-- [](https://www.reuters.com/sustainability/human-rights/)
-- [](https://www.reuters.com/legal/public-policy/)
+- [](https://www.reuters.com/world/china/)
 
 [](https://www.reutersagency.com/en/licensereuterscontent/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead)
 
-[
-
-](https://www.reuters.com/authors/kanishka-singh/)
-
-[Kanishka Singh](https://www.reuters.com/authors/kanishka-singh/)
-
-Thomson Reuters
-
-Kanishka Singh is a breaking news reporter for Reuters in Washington DC, who primarily covers US politics and national affairs in his current role. His past breaking news coverage has spanned across a range of topics like the Black Lives Matter movement; the US elections; the 2021 Capitol riots and their follow up probes; the Brexit deal; US-China trade tensions; the NATO withdrawal from Afghanistan; the COVID-19 pandemic; and a 2019 Supreme Court verdict on a religious dispute site in his native India.
-
-- [](mailto:Kanishka.Singh@thomsonreuters.com)
-- [](https://x.com/kanishka183)
-
 ## Read Next
 
-- [Litigationcategory](https://www.reuters.com/legal/litigation/)
+- [Legalcategory](https://www.reuters.com/legal/)
     
-    [US lawmakers question Health Secretary Kennedy on vaccine settlement disclosures](https://www.reuters.com/legal/litigation/us-lawmakers-question-health-secretary-kennedy-vaccine-settlement-disclosures-2026-08-25/)
-    
-    [
-    
-    ](https://www.reuters.com/legal/litigation/us-lawmakers-question-health-secretary-kennedy-vaccine-settlement-disclosures-2026-08-25/)
-    
-- [Governmentcategory](https://www.reuters.com/legal/government/)
-    
-    [Trump cannot impose conditions on transportation, homelessness grants, US appeals court rules](https://www.reuters.com/legal/government/trump-cannot-impose-conditions-transportation-homelessness-grants-us-appeals-2026-08-25/)
+    [Trump signs order banning some foreign equipment from US energy grid](https://www.reuters.com/legal/government/trump-signs-order-banning-some-foreign-equipment-us-energy-grid-2026-08-26/)
     
     [
     
-    ](https://www.reuters.com/legal/government/trump-cannot-impose-conditions-transportation-homelessness-grants-us-appeals-2026-08-25/)
+    ](https://www.reuters.com/legal/government/trump-signs-order-banning-some-foreign-equipment-us-energy-grid-2026-08-26/)
     
-- [World at Workcategory](https://www.reuters.com/business/world-at-work/)
+- [Businesscategory](https://www.reuters.com/business/)
     
-    [What are H-1B visas for skilled workers and what changes loom?](https://www.reuters.com/business/world-at-work/what-are-h-1b-visas-skilled-workers-what-changes-loom-2026-08-25/)
-    
-    [
-    
-    ](https://www.reuters.com/business/world-at-work/what-are-h-1b-visas-skilled-workers-what-changes-loom-2026-08-25/)
-    
-- [Litigationcategory](https://www.reuters.com/legal/litigation/)
-    
-    [Nevada sues to block Trump administration's Colorado River plan](https://www.reuters.com/legal/litigation/nevada-sues-block-trump-administrations-colorado-river-plan-2026-08-24/)
+    [Nvidia forecasts quarterly revenue above estimates, shares rise](https://www.reuters.com/business/media-telecom/nvidia-forecasts-quarterly-revenue-above-estimates-2026-08-26/)
     
     [
     
-    ](https://www.reuters.com/legal/litigation/nevada-sues-block-trump-administrations-colorado-river-plan-2026-08-24/)
+    ](https://www.reuters.com/business/media-telecom/nvidia-forecasts-quarterly-revenue-above-estimates-2026-08-26/)
     
-- [Litigationcategory](https://www.reuters.com/legal/litigation/)
+- [Chinacategory](https://www.reuters.com/world/china/)
     
-    [Alabama launches probe into OpenAI after Hugging Face breach](https://www.reuters.com/legal/litigation/alabama-launches-probe-into-openai-after-hugging-face-breach-2026-08-25/)
+    [China, India reaffirm border peace, expand communication channels](https://www.reuters.com/world/china/china-india-reaffirm-border-peace-expand-communication-channels-2026-08-26/)
     
     [
     
-    ](https://www.reuters.com/legal/litigation/alabama-launches-probe-into-openai-after-hugging-face-breach-2026-08-25/)
+    ](https://www.reuters.com/world/china/china-india-reaffirm-border-peace-expand-communication-channels-2026-08-26/)
+    
+- [Glacier collapse may have triggered deadly Nepal flash flood, experts say](https://www.reuters.com/business/environment/glacier-collapse-may-have-triggered-deadly-nepal-flash-flood-experts-say-2026-08-26/)
+    
+    [
+    
+    ](https://www.reuters.com/business/environment/glacier-collapse-may-have-triggered-deadly-nepal-flash-flood-experts-say-2026-08-26/)
+    
+- ['Saved by a mango tree': How a Nepali labourer survived deadly flash flood](https://www.reuters.com/business/environment/saved-by-mango-tree-how-nepali-labourer-survived-deadly-flash-flood-2026-08-26/)
+    
+    [
+    
+    ](https://www.reuters.com/business/environment/saved-by-mango-tree-how-nepali-labourer-survived-deadly-flash-flood-2026-08-26/)
+    
+- [Chinacategory](https://www.reuters.com/world/china/)
+    
+    [US says Chinese hackers broke into Justice Department, NASA, Federal Reserve, Senate](https://www.reuters.com/world/china/china-sponsored-hacking-platforms-seized-by-us-justice-department-says-2026-08-26/)
+    
+    [
+    
+    ](https://www.reuters.com/world/china/china-sponsored-hacking-platforms-seized-by-us-justice-department-says-2026-08-26/)
     
 
 [](https://www.lseg.com/en/data-analytics/products/workspace?utm_source=reuters.com&utm_medium=articlebanner&utm_campaign=Reuters_ProductPage_Links)
@@ -140,45 +159,45 @@ Kanishka Singh is a breaking news reporter for Reuters in Washington DC, who pri
 
 - [
     
-    ](https://www.reuters.com/world/middle-east/trump-sends-saudi-nuclear-deal-congress-says-riyadh-must-recognize-israel-2026-08-25/)
+    ](https://www.reuters.com/world/asia-pacific/png-parliament-consider-bougainville-regions-bid-independence-2026-08-26/)
     
-    ### [Trump sends Saudi nuclear deal to Congress but says Riyadh must recognize Israel](https://www.reuters.com/world/middle-east/trump-sends-saudi-nuclear-deal-congress-says-riyadh-must-recognize-israel-2026-08-25/)
+    ### [PNG parliament to consider Bougainville region's bid for independence](https://www.reuters.com/world/asia-pacific/png-parliament-consider-bougainville-regions-bid-independence-2026-08-26/)
     
-    [Middle Eastcategory](https://www.reuters.com/world/middle-east/) · August 25, 2026 · 4:24 PM PDT · 29 mins ago
+    [Asia Pacificcategory](https://www.reuters.com/world/asia-pacific/) · August 26, 2026 · 4:26 PM PDT · 4 mins ago
     
-    President Donald Trump has sent Congress a proposed agreement with Saudi Arabia on civil ​nuclear energy while insisting the pact will only be approved if the kingdom normalizes ‌relations with Israel, a U.S. administration official told Reuters on Tuesday.
-    
-- [
-    
-    ](https://www.reuters.com/world/americas/bolivias-paz-taps-deputy-lead-economy-after-ministers-ousting-2026-08-25/)
-    
-    [Americascategory](https://www.reuters.com/world/americas/)[Bolivia's Paz taps deputy to lead economy after minister's ousting](https://www.reuters.com/world/americas/bolivias-paz-taps-deputy-lead-economy-after-ministers-ousting-2026-08-25/)
-    
-    4:14 PM PDT
+    Papua New Guinea's autonomous region of Bougainville moved a step closer to possible ​independence on Thursday as the country's parliament ‌prepared to consider the results of a non-binding referendum in which voters overwhelmingly backed secession.
     
 - [
     
-    ](https://www.reuters.com/business/world-at-work/one-three-uk-employers-have-cut-entry-level-jobs-survey-shows-2026-08-25/)
+    ](https://www.reuters.com/world/middle-east/qatar-pm-visit-tehran-pursue-mediation-efforts-2026-08-26/)
     
-    [World at Workcategory](https://www.reuters.com/business/world-at-work/)[One in three UK employers have cut entry-level jobs, survey shows](https://www.reuters.com/business/world-at-work/one-three-uk-employers-have-cut-entry-level-jobs-survey-shows-2026-08-25/)
+    [Middle Eastcategory](https://www.reuters.com/world/middle-east/)[Qatar PM to visit Tehran to pursue mediation efforts](https://www.reuters.com/world/middle-east/qatar-pm-visit-tehran-pursue-mediation-efforts-2026-08-26/)
+    
+    4:15 PM PDT
+    
+- [
+    
+    ](https://www.reuters.com/business/environment/wildfires-kill-12-people-across-several-algerian-provinces-2026-08-26/)
+    
+    [category](https://www.reuters.com/business/)[Wildfires kill 12 people across several Algerian provinces](https://www.reuters.com/business/environment/wildfires-kill-12-people-across-several-algerian-provinces-2026-08-26/)
+    
+    4:08 PM PDT
+    
+- [
+    
+    ](https://www.reuters.com/world/uk/london-police-hail-their-expanded-e-bike-fleet-game-changer-against-phone-theft-2026-08-26/)
+    
+    [United Kingdomcategory](https://www.reuters.com/world/uk/)[London police hail their expanded e-bike fleet as 'game changer' against phone theft](https://www.reuters.com/world/uk/london-police-hail-their-expanded-e-bike-fleet-game-changer-against-phone-theft-2026-08-26/)
+    
+    4:07 PM PDT
+    
+- [
+    
+    ](https://www.reuters.com/world/uk/uks-july-auto-output-falls-weak-exports-shutdowns-weigh-industry-data-shows-2026-08-26/)
+    
+    [United Kingdomcategory](https://www.reuters.com/world/uk/)[UK's July auto output falls as weak exports and shutdowns weigh, industry data shows](https://www.reuters.com/world/uk/uks-july-auto-output-falls-weak-exports-shutdowns-weigh-industry-data-shows-2026-08-26/)
     
     4:02 PM PDT
-    
-- [
-    
-    ](https://www.reuters.com/world/china/iran-oman-discuss-temporary-hormuz-corridor-impasse-with-us-drags-2026-08-25/)
-    
-    [Chinacategory](https://www.reuters.com/world/china/)[Iran and Oman discuss temporary Hormuz corridor as impasse with US drags on](https://www.reuters.com/world/china/iran-oman-discuss-temporary-hormuz-corridor-impasse-with-us-drags-2026-08-25/)
-    
-    3:21 PM PDT
-    
-- [
-    
-    ](https://www.reuters.com/world/asia-pacific/boj-speed-up-its-tightening-campaign-raise-key-rate-125-september-2026-08-25/)
-    
-    [Asia Pacificcategory](https://www.reuters.com/world/asia-pacific/)[BOJ to speed up its tightening campaign, raise key rate to 1.25% in September](https://www.reuters.com/world/asia-pacific/boj-speed-up-its-tightening-campaign-raise-key-rate-125-september-2026-08-25/)
-    
-    3:03 PM PDT
     
 
 ### Site Index

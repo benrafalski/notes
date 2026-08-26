@@ -17,12 +17,14 @@ title: MAHA
 ## Measles
 ### Measles Cases + Outbreaks
 - July 2025: US confirms [2,318 measles infections](https://www.reuters.com/business/healthcare-pharmaceuticals/us-cdc-records-over-2300-measles-cases-so-far-2026-2026-07-24/) over the year (highest number of U.S. cases in a single year since 1991), with the surge largely attributed to a steady ​slump in MMR immunization rates for children since the start of the COVID-19 pandemic.
+#### August 2026 Outbreak
+- Measles outbreak centered in Lancaster County in [Pennsylvania](https://www.reuters.com/business/healthcare-pharmaceuticals/pennsylvania-reports-two-deaths-measles-health-department-says-2026-08-25/) results in 393 cases statewide and two deaths. Pennsylvania Governor Josh Shapiro said he declined an offer from Kennedy to provide federal assistance for ​the state's measles outbreak response due to the admin's actions and rhetoric on vaccines. 
 ## Cyclosporiasis
 ### May 2026 Outbreak
 - [Public Health Cuts](https://www.reuters.com/legal/litigation/michigan-battles-massive-outbreak-state-reels-trump-cuts-2026-07-25/): reports that Michigan lost 23 infectious disease workers and 123 county health staff disease and health workers after federal cuts that likely contributed to bad response to cyclosporiasis outbreak
 - [Source](https://www.reuters.com/business/healthcare-pharmaceuticals/what-know-about-us-outbreak-intestinal-illness-cyclosporiasis-2026-07-28/): Iceberg lettuce sourced from privately held Taylor Farms ​operations in central Mexico and served at Yum Brands-owned Taco Bell
-- [Case totals](https://www.reuters.com/business/healthcare-pharmaceuticals/cyclosporiasis-cases-us-climb-15716-cdc-says-2026-08-18/): 15,716 total confirmed
-	- Michigan: 13,909 cases and two deaths
+- [Case totals](https://www.reuters.com/business/healthcare-pharmaceuticals/cyclosporiasis-cases-us-climb-17180-cdc-says-2026-08-25/): 17,180 total confirmed
+	- Michigan: 14,277 cases and two deaths
 	- [Other states](https://www.reuters.com/business/healthcare-pharmaceuticals/us-cdc-links-four-more-states-cyclosporiasis-outbreak-washington-post-reports-2026-07-24/): Illinois, Indiana, Kansas, Kentucky, Ohio, Oklahoma, Pennsylvania, and West Virginia,
 ## Salmonella
 ### July 2026 Outbreak
