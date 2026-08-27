@@ -133,6 +133,9 @@ In January 2026, the State Department [suspended processing visas](https://www.r
 - **Judge**: U.S. District Judge Jeannette Vargas in Manhattan, Biden appointee
 - **Timeline**
 	- [August 21, 2026](https://www.reuters.com/legal/government/us-judge-strikes-down-policy-suspending-immigrant-visa-processing-75-nations-2026-08-22/):  Judge Vargas strikes down Trump policy suspending the issuance of immigrant visas to ​applicants from 75 countries, saying that the policy exceeded Rubio's statutory authority.
+# Visa Program Pause
+In August 2026, the State Department paused immigrant visa appointments for applicants [worldwide](https://www.reuters.com/legal/government/trump-administration-issues-pause-visa-appointments-applicants-worldwide-2026-08-26/) while they train foreign embassies to screen out applicants deemed likely to become dependent on U.S. public benefits and to ensure evaluation of visa applicants "comprehensively and consistently." 
+
 
 ## Visa Bond
 - In [July 2026](https://www.reuters.com/world/us/us-make-visa-bond-program-permanent-people-dozens-countries-2026-08-01/), the State Department made permanent a visa bond program ‌that requires B1 and B2 visas applicants (business and tourism visas) from 50 countries, mostly from Africa, to post bonds of $10,000-$20,000 when seeking U.S. visas.
@@ -176,6 +179,7 @@ January 13: Four senior DOJ civil rights [lawyers resign](https://www.reuters.co
 - **Charged** (May 18): Minnesota prosecutors charge ICE agent, [Christian Castro](https://www.reuters.com/legal/government/minnesota-officials-charge-ice-agent-shooting-venezuelan-immigrant-2026-05-18/), with assault in connection with the shooting of Venezuelan immigrant Julio Cesar Sosa-Celis. 
 - **Arrested** (May 29): ICE agent [Christian Castro is arrested in Texas](https://www.reuters.com/legal/government/us-immigration-agent-arrested-texas-minneapolis-shooting-2026-05-29/) and is awaiting a transfer to Minnesota. 
 - **Extradition Refusal** (August 18): [Minnesota sues ‌Texas](https://www.reuters.com/legal/government/minnesota-sues-texas-seeking-extradition-us-immigration-agent-assault-charges-2026-08-18/) Governor Greg Abbott for refusing to extradite federal immigration agent Christian Castro. Abbott said he was not signing Minnesota's rendition warrant because he mistrusted ​Walz.
+- **Judge Refuses Forceful Extradition** (August 26): U.S. District Judge Fernando Rodriguez Jr. [denies request](https://www.reuters.com/legal/government/us-judge-refuses-force-extradition-jailed-ice-agent-texas-minnesota-2026-08-26/) by Minnesota to ​force Abbott to immediately extradite Castro, clearing the way for him to be freed from custody the next day (90-day detention ​limit in Texas). Rodriguez ruled that Abbott had not been shown to have refused the extradition request, only that he had not yet made a decision and concluded that the law does not require Abbott to turn over a fugitive ⁠within a ​certain time frame. 
 
 
 January 15: As [protests continue in Minneapolis](https://www.reuters.com/world/us/trump-threatens-use-insurrection-act-minnesota-2026-01-15/), Trump threatens to invoke the Insurrection Act to deploy military forces in Minnesota.
