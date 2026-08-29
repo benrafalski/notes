@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Quartz 5
+  pageTitle: Notes
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
@@ -21,25 +21,25 @@ configuration:
       code: IBM Plex Mono
     colors:
       lightMode:
-        light: "#f8f8f2"
-        lightgray: "#e6e6f0"
+        light: "#282a36"
+        lightgray: "#44475a"
         gray: "#6272a4"
-        darkgray: "#282a36"
-        dark: "#1e1f29"
-        secondary: "#7c3fc4"
-        tertiary: "#d6249f"
-        highlight: rgba(189, 147, 249, 0.15)
-        textHighlight: "#f1fa8c88"
+        darkgray: "#f8f8f2"
+        dark: "#f8f8f2"
+        secondary: "#ffb86c"
+        tertiary: "#8be9fd"
+        highlight: rgba(255, 184, 108, 0.15)
+        textHighlight: "#ff555588"
       darkMode:
         light: "#282a36"
         lightgray: "#44475a"
         gray: "#6272a4"
         darkgray: "#f8f8f2"
-        dark: "#ffffff"
-        secondary: "#bd93f9"
-        tertiary: "#ff79c6"
-        highlight: rgba(98, 114, 164, 0.15)
-        textHighlight: "#f1fa8c88"
+        dark: "#f8f8f2"
+        secondary: "#ffb86c"
+        tertiary: "#8be9fd"
+        highlight: rgba(255, 184, 108, 0.15)
+        textHighlight: "#ff555588"
 plugins:
   - source: "@quartz-community/created-modified-date"
     enabled: true
