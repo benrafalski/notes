@@ -24,132 +24,122 @@
 
 [My News](https://www.reuters.com/my-news/feed/)
 
-[](https://www.reuters.com/account/sign-in/?redirect=https%3A%2F%2Fwww.reuters.com%2Fworld%2Fmiddle-east%2Firan-war-diplomacy-turns-toward-reopening-strait-hormuz-2026-08-28%2F)[](https://www.reuters.com/account/subscribe/offer/?redirect=https%3A%2F%2Fwww.reuters.com%2Fworld%2Fmiddle-east%2Firan-war-diplomacy-turns-toward-reopening-strait-hormuz-2026-08-28%2F&referrer=subscription_button&journeyStart=navigation)
+[](https://www.reuters.com/account/sign-in/?redirect=https%3A%2F%2Fwww.reuters.com%2Fworld%2Fjudge-blocks-rule-implementing-trump-plan-restrict-mail-in-voting-2026-08-28%2F)[](https://www.reuters.com/account/subscribe/offer/?redirect=https%3A%2F%2Fwww.reuters.com%2Fworld%2Fjudge-blocks-rule-implementing-trump-plan-restrict-mail-in-voting-2026-08-28%2F&referrer=subscription_button&journeyStart=navigation)
 
-# Iran urges other nations not to join new US sanctions, mediators focus on reopening strait
+# Judge blocks rule implementing Trump plan to restrict mail-in voting
 
-By [Elwely Elwelly](https://www.reuters.com/authors/elwely-elwelly/) and [Eman Abouhassira](https://www.reuters.com/authors/eman-abouhassira/)
+By [Nate Raymond](https://www.reuters.com/authors/nate-raymond/)
 
-August 27, 20266:34 PM PDTUpdated 2 hours ago
+August 27, 20266:59 PM PDTUpdated August 28, 2026
 
-Item 1 of 2 Vessels in the Strait of Hormuz are visible near the beach of Bandar Abbas, Iran, August 27, 2026. Majid Asgaripour/WANA (West Asia News Agency) via REUTERS
+Item 1 of 2 A mail-in ballot, during the Pennsylvania primary election, is displayed in this illustration picture created in Philadelphia, Pennsylvania, U.S., May 19, 2026. REUTERS/Hannah Beier/Illustration//File Photo
 
-**[1/2]**Vessels in the Strait of Hormuz are visible near the beach of Bandar Abbas, Iran, August 27, 2026. Majid Asgaripour/WANA (West Asia News Agency) via REUTERS [Purchase Licensing Rights, opens new tab](https://www.reutersconnect.com/item/vessels-in-the-strait-of-hormuz-are-visible-near-the-beach-of-bandar-abbas/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1JDMlE2TkE2N0pGRQ%3D%3D/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead)
+**[1/2]**A mail-in ballot, during the Pennsylvania primary election, is displayed in this illustration picture created in Philadelphia, Pennsylvania, U.S., May 19, 2026. REUTERS/Hannah Beier/Illustration//File Photo [Purchase Licensing Rights, opens new tab](https://www.reutersconnect.com/item/mail-in-ballot-illustration-in-philadelphia/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1JDMkxDTEExTVBJNA%3D%3D/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead)
 
 - Summary
+- Companies
 
-- Iran brands new US sanctions as 'crime against humanity'
-- US issues additional targeted Iran-related measures
-- Qatari visit to Tehran put emphasis on freedom of navigation
-- Iran says it is preparing a list of conditions to allow traffic to flow
-- US military says it has removed Iranian mines from the strait
+- Federal judge blocks rule implementing Trump plan to restrict mail-in voting
+- Judge issues temporary restraining order
+- During 2024 election, USPS says it processed nearly 100 million ballots
 
-DUBAI, Aug 28 (Reuters) - Iran condemned the United States' new economic ​sanctions on Friday as "state terrorism" and said other countries were legally obliged not to implement them, while the U.S. Treasury Department announced additional targeted Iran-related measures.
+BOSTON, Aug 27 (Reuters) - A federal judge on Thursday blocked the ​U.S. Postal Service from implementing core parts of a new rule it adopted at President Donald Trump's direction that would ‌tighten mail-in voting requirements ahead of the November congressional elections.
 
-The Iranian ‌foreign ministry's statement came as mediators stepped up efforts to reopen the Strait of Hormuz, which handled 20% of world oil supplies before the [war](https://www.reuters.com/world/iran/) began six months ago and whose status remains the biggest obstacle to a peace deal.
+U.S. District Judge Indira Talwani in Boston issued a [temporary restraining order, opens new tab](https://fingfx.thomsonreuters.com/gfx/legaldocs/dwvknxdqjpm/08272026voting_tro.pdf) at the behest of Democratic-led states and voting rights groups after the U.S. Supreme Court on Monday issued a ruling that led to the lifting of earlier injunctions blocking Trump's plans to restrict mail-in voting.
 
-The Reuters Iran Briefing newsletter keeps you informed with the latest developments and analysis of the Iran war. Sign up [here.](https://www.reuters.com/newsletters/reuters-iran-briefing/?location=article-paragraph&redirectUrl=%2Fworld%2Fmiddle-east%2Firan-war-diplomacy-turns-toward-reopening-strait-hormuz-2026-08-28%2F)
+The Reuters Daily Briefing newsletter provides all the news you need to start your day. Sign up [here.](https://www.reuters.com/newsletters/daily-briefing/?location=article-paragraph&redirectUrl=%2Fworld%2Fjudge-blocks-rule-implementing-trump-plan-restrict-mail-in-voting-2026-08-28%2F)
 
-President Donald Trump's administration on Monday [warned countries](https://www.reuters.com/world/middle-east/us-treasury-broaden-scope-secondary-sanctions-iran-source-says-2026-08-24/) to cut their business ties with Iran or face secondary sanctions as part of what it billed as an "economic D-Day," though the Treasury Department stopped short of actually imposing penalties.
+That decision led to ​a [frantic effort](https://www.reuters.com/legal/government/democratic-led-states-renew-challenge-trump-plans-restrict-mail-in-voting-2026-08-26/) by dozens of Democratic state attorneys general and voting rights groups including the League of Women Voters to renew ​their legal fight and secure an order that would prevent the USPS from enforcing a rule that was allowed ⁠to take effect on Wednesday.
 
-Trump [reiterated](https://www.reuters.com/world/middle-east/trump-says-us-is-not-talking-with-iran-economic-war-focus-2026-08-27/) on Thursday that the ​U.S. was not talking with Iran, while the White House said Washington's economic campaign would continue until Tehran decided to "come to the table in a meaningful way".
+In Thursday's ruling, Talwani said the rule risked preventing citizens from casting ballots by mail unless states secure the Postal ​Service's sign-off on the envelopes used for that purpose and upload information on each voter into an electronic portal run by the agency.
 
-Iran’s Foreign Ministry ​said in a statement on Friday that all countries were obligated under international law to refrain from implementing U.S. sanctions against Tehran, adding that participation in ⁠them amounted to complicity in imposing one state’s unlawful will on independent states.
+The judge said ​the agency had presented no evidence regarding fraudulent mail-in voting that would necessitate such a rule, which she said likely was unlawful and adopted in violation of the U.S. Constitution, which gives states the authority to administer elections.
 
-It branded the new U.S. measures a "crime against humanity" that put the health and livelihood of millions of civilians at ​serious risk, and called on other nations and United Nations bodies to uphold the rule of law.
+"USPS's interest in correcting an unsubstantiated problem through likely unconstitutional means is dwarfed by the overwhelming risk of pervasive ​disenfranchisement of citizens who need access to mail ballots in order to vote," she wrote.
 
-## NEW MEASURES TARGET EGYPTIAN BANK
+The restraining order Talwani issued will remain in place for 14 ​days while she considers whether to issue a longer-term preliminary injunction blocking the rule. The judge, an appointee of Democratic President Barack Obama, plans to consider whether to ‌do so ⁠during a September 3 hearing.
 
-Later on Friday, a U.S. official told Reuters the Trump administration plans to ​impose limits on Egypt's Banque Misr for doing business with Tehran by revoking U.S. financial access to its branches in the United Arab Emirates.
+"Today’s order presses pause on an unlawful power grab that would sow chaos and confusion for the millions of voters who depend on mail ballots," Sophia Lin Lakin, a lawyer for the voting rights groups at the American Civil Liberties Union, said in a statement.
 
-The official said the proposed rule, if finalised, would withdraw Banque Misr UAE's correspondent banking access to U.S. financial institutions.
+The White House and USPS did not immediately respond to requests for comment.
 
-Treasury officials separately issued sanctions targeting one entity based in Hong Kong and one person linked to Iran's Bank Melli, according to a notice posted on the department's website.
+USPS issued the rule to implement an executive order the Republican president signed in March ​after years of Trump calling for ​tighter rules on voting by ⁠mail and pushing the false claim that his 2020 presidential election defeat to Democrat Joe Biden was the result of widespread voter fraud.
 
-With the U.S. focused on its ​economic pressure campaign, others have sought to revive diplomatic efforts to end the war.
+Under the rule, states must supply the USPS with lists of mail ballot recipients, and ​all outbound and return ballot envelopes must bear unique barcodes. The USPS, under the rule, may refuse to ​deliver ballots that ⁠do not comply with the new standards or are associated with voters who do not appear on the lists.
 
-Qatari Prime Minister Sheikh Mohammed bin Abdulrahman Al Thani said he had stressed during talks with Iranian leaders in Tehran on ​Thursday the importance of returning to the pre-war status of open shipping through the Strait of Hormuz.
+All 50 states allow for some form of mail-in voting, with 29 allowing voters to ask to cast ballots that way without providing a reason and eight conducting their elections entirely by mail.
 
-## 'PRESSURE DOESN'T WORK,' IRAN TELLS US
+During the ⁠2024 election, ​the USPS says it processed nearly 100 million ballots, and about 30% of voters nationwide ​cast ballots by mail, according to the states.
 
-Iranian Foreign Minister Abbas Araqchi on Friday described the talks with Al Thani as "creative", and he ‌renewed his appeal ⁠to the U.S. to stop putting military and economic pressure on his country and to resume negotiations.
+They argue the new federal restrictions risk disenfranchising voters and would unduly burden states in the weeks running up to the election, forcing ​them to buy new envelopes and equipment, establish new systems and train staff.
 
-"Putting diplomacy back on track isn't impossible. It hinges on U.S. understanding of one simple fact: pressure doesn't work," Araqchi said on X.
-
-Qatar, a U.S. ally, and Pakistan helped broker a memorandum of understanding in June that led to a ceasefire but that quickly unravelled due to disagreements between Iran and the U.S. over the Strait of Hormuz.
-
-## IRANIAN LEVERAGE
-
-After the U.S. and Israel launched the war on February 28, Iran threatened to strike any vessel transiting the strait without its authorisation, driving down traffic and sending up the ​price of oil, providing Tehran with leverage in ​the bargain.
-
-The U.S. insists that the strait remain ⁠an open international waterway.
-
-Mohsen Rezaei, secretary of Iran's Supreme National Security Council, said on Thursday Iran was preparing a list of conditions for reopening the strait.
-
-In the past Iran's conditions have included an end to the U.S. blockade on Iranian ports, compensation and removal of sanctions. It remained unclear whether Iran ​intended to amend those demands in a way that might be acceptable to Washington.
-
-## CLEARING SEA MINES
-
-U.S. military commanders say American forces have cleared sea ​mines from the strait that ⁠had been laid months ago by Iran's Islamic Revolutionary Guard Corps.
-
-"Bottom line: today, international shipping lanes are open and momentum is building," Admiral Brad Cooper, commander of the U.S. military's Central Command, said in a video message posted on social media.
-
-Trump has repeatedly said the strait was open, but many vessels have opted against sailing through it because of Iranian threats, and ship tracking services have estimated activity at roughly 5% to 15% ⁠of normal volumes.
-
-Preliminary ​shipping data released on Friday showed that only seven commodity vessels had [transited the Strait of Hormuz](https://www.reuters.com/business/energy/shipping-traffic-via-strait-hormuz-slips-below-10-day-average-data-shows-2026-08-28/) on Thursday, down from ​17 a day earlier and below the 10-day average of 15.
-
-However, [oil prices fell](https://www.reuters.com/business/energy/oil-track-weekly-loss-even-iran-tensions-simmer-2026-08-28/) on Friday and were on track for a weekly drop, amid what analysts said were signs that more oil was flowing through the strait despite the diplomatic stalemate and ​that producers were [increasingly adapting](https://www.reuters.com/business/energy/pipelines-ports-iran-war-spurs-gulf-infrastructure-investment-2026-08-28/) to the new realities in the Gulf region.
-
-Additional reporting by Ahmed Tolba and Enas Elashray in Cairo; Writing by Daniel Trotta and Gareth Jones; Editing by Kim Coghill and Sharon Singleton
+Reporting by Nate Raymond in Boston; Editing by Thomas Derpinghaus and Christian Schmollinger
 
 Our Standards: [The Thomson Reuters Trust Principles., opens new tab](https://www.thomsonreuters.com/en/about-us/trust-principles.html)
 
 - Suggested Topics:
-- [](https://www.reuters.com/world/middle-east/)
+- [](https://www.reuters.com/legal/government/)
+- [](https://www.reuters.com/legal/constitutional-law/)
+- [](https://www.reuters.com/legal/judiciary/)
+- [](https://www.reuters.com/legal/supreme-court-of-the-united-states/)
+- [](https://www.reuters.com/legal/civil-rights/)
 
 [](https://www.reutersagency.com/en/licensereuterscontent/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead)
 
+[
+
+](https://www.reuters.com/authors/nate-raymond/)
+
+[Nate Raymond](https://www.reuters.com/authors/nate-raymond/)
+
+Thomson Reuters
+
+Nate Raymond reports on the federal judiciary and litigation. He can be reached at nate.raymond@thomsonreuters.com.
+
+- [](mailto:nate.raymond@thomsonreuters.com)
+- [](https://x.com/nateraymond)
+
 ## Read Next
 
-- [Middle Eastcategory](https://www.reuters.com/world/middle-east/)
+- [Worldcategory](https://www.reuters.com/world/)
     
-    [Israeli strike kills three in West Bank; Israel says it targeted Hamas operative](https://www.reuters.com/world/middle-east/israeli-strike-kills-three-west-bank-israel-says-it-targeted-hamas-operative-2026-08-28/)
-    
-    [
-    
-    ](https://www.reuters.com/world/middle-east/israeli-strike-kills-three-west-bank-israel-says-it-targeted-hamas-operative-2026-08-28/)
-    
-- [Middle Eastcategory](https://www.reuters.com/world/middle-east/)
-    
-    [Iran's disfigured supreme leader remains invisible six months into an existential war](https://www.reuters.com/world/middle-east/irans-disfigured-supreme-leader-remains-invisible-six-months-into-an-existential-2026-08-28/)
+    [US judge questions but won't yet block Trump's new birthright citizenship order](https://www.reuters.com/world/us-judge-wont-immediately-block-trumps-newest-order-limiting-birthright-2026-08-28/)
     
     [
     
-    ](https://www.reuters.com/world/middle-east/irans-disfigured-supreme-leader-remains-invisible-six-months-into-an-existential-2026-08-28/)
+    ](https://www.reuters.com/world/us-judge-wont-immediately-block-trumps-newest-order-limiting-birthright-2026-08-28/)
     
-- ANALYSIS
+- [Governmentcategory](https://www.reuters.com/legal/government/)
     
-    [Iran war drives US transport fuel surcharges, but also industry profits](https://www.reuters.com/business/energy/iran-war-drives-us-transport-fuel-surcharges-also-industry-profits-2026-08-28/) 
-    
-    [
-    
-    ](https://www.reuters.com/business/energy/iran-war-drives-us-transport-fuel-surcharges-also-industry-profits-2026-08-28/)
-    
-- [Businesscategory](https://www.reuters.com/business/)
-    
-    [Oil slides on clues about Fed policy, rumors of Hormuz deal](https://www.reuters.com/business/energy/oil-track-weekly-loss-even-iran-tensions-simmer-2026-08-28/)
+    [US judge blocks Pentagon's Anthropic blacklisting](https://www.reuters.com/legal/government/us-judge-blocks-pentagons-anthropic-blacklisting-2026-08-28/)
     
     [
     
-    ](https://www.reuters.com/business/energy/oil-track-weekly-loss-even-iran-tensions-simmer-2026-08-28/)
+    ](https://www.reuters.com/legal/government/us-judge-blocks-pentagons-anthropic-blacklisting-2026-08-28/)
     
-- [Middle Eastcategory](https://www.reuters.com/world/middle-east/)
+- [Worldcategory](https://www.reuters.com/world/)
     
-    [Syrian president names former commander of Kurdish-led force as adviser](https://www.reuters.com/world/middle-east/syrian-president-names-former-commander-kurdish-led-force-adviser-2026-08-28/)
+    [Trump vows legal order to break up 'nasty monopoly' in food processing](https://www.reuters.com/world/trump-vows-legal-order-break-up-food-processing-nasty-monopoly-2026-08-28/)
     
     [
     
-    ](https://www.reuters.com/world/middle-east/syrian-president-names-former-commander-kurdish-led-force-adviser-2026-08-28/)
+    ](https://www.reuters.com/world/trump-vows-legal-order-break-up-food-processing-nasty-monopoly-2026-08-28/)
+    
+- [Worldcategory](https://www.reuters.com/world/)
+    
+    [Walmart settles US government's opioid lawsuit, which sought billions, for $50 million](https://www.reuters.com/world/walmart-settles-us-governments-opioid-lawsuit-justice-department-says-2026-08-28/)
+    
+    [
+    
+    ](https://www.reuters.com/world/walmart-settles-us-governments-opioid-lawsuit-justice-department-says-2026-08-28/)
+    
+- [Governmentcategory](https://www.reuters.com/legal/government/)
+    
+    [US sentencing panel mulls supermajority votes, adding public defender representative](https://www.reuters.com/legal/government/us-sentencing-panel-mulls-supermajority-votes-adding-public-defender-2026-08-28/)
+    
+    [
+    
+    ](https://www.reuters.com/legal/government/us-sentencing-panel-mulls-supermajority-votes-adding-public-defender-2026-08-28/)
     
 
 [](https://www.lseg.com/en/data-analytics/products/workspace?utm_source=reuters.com&utm_medium=articlebanner&utm_campaign=Reuters_ProductPage_Links)
@@ -158,45 +148,45 @@ Our Standards: [The Thomson Reuters Trust Principles., opens new tab](https://w
 
 - [
     
-    ](https://www.reuters.com/world/kalshi-cannot-block-nevada-oversight-sports-prediction-markets-us-appeals-court-2026-08-28/)
+    ](https://www.reuters.com/business/media-telecom/italian-state-broadcaster-rai-removes-veteran-journalist-sparking-political-2026-08-29/)
     
-    ### [Kalshi cannot block Nevada oversight of sports prediction markets, US appeals court rules](https://www.reuters.com/world/kalshi-cannot-block-nevada-oversight-sports-prediction-markets-us-appeals-court-2026-08-28/)
+    ### [Italian state broadcaster RAI removes veteran journalist, sparking political storm](https://www.reuters.com/business/media-telecom/italian-state-broadcaster-rai-removes-veteran-journalist-sparking-political-2026-08-29/)
     
-    [Worldcategory](https://www.reuters.com/world/) · August 28, 2026 · 10:40 AM PDT · 18 mins ago
+    [category](https://www.reuters.com/business/)· August 29, 2026 · 6:12 AM PDT · 1 hour ago
     
-    A federal appeals ​court on Friday said Kalshi is ‌not entitled to an injunction to block Nevada from overseeing its prediction markets platform, ​which allows people to bet on ​the outcome of sporting events.
-    
-- [
-    
-    ](https://www.reuters.com/business/world-at-work/boeing-union-negotiators-meet-monday-resume-stalled-contract-negotiations-2026-08-28/)
-    
-    [World at Workcategory](https://www.reuters.com/business/world-at-work/)[Boeing, union negotiators to meet Monday to resume stalled contract negotiations](https://www.reuters.com/business/world-at-work/boeing-union-negotiators-meet-monday-resume-stalled-contract-negotiations-2026-08-28/)
-    
-    10:37 AM PDT
+    Italian opposition parties have denounced an attack on press freedom after state broadcaster RAI removed a veteran journalist as presenter of its flagship investigative programme, while government allies have welcomed the move.
     
 - [
     
-    ](https://www.reuters.com/world/life-ukraines-front-line-worse-than-hell-russia-advances-clone-2025-12-23/)
+    ](https://www.reuters.com/world/russia-says-it-has-captured-three-villages-ukraines-donetsk-sumy-regions-2026-08-29/)
     
-    [Worldcategory](https://www.reuters.com/world/)[Dolly Parton: Her life in photos](https://www.reuters.com/world/life-ukraines-front-line-worse-than-hell-russia-advances-clone-2025-12-23/)
+    [Worldcategory](https://www.reuters.com/world/)[Russia says it has captured three villages in Ukraine's Donetsk and Sumy regions](https://www.reuters.com/world/russia-says-it-has-captured-three-villages-ukraines-donetsk-sumy-regions-2026-08-29/)
     
-    10:32 AM PDT
-    
-- [
-    
-    ](https://www.reuters.com/world/blue-paint-meets-green-algae-lincoln-memorial-reflecting-pool-clone-2026-06-18/)
-    
-    [Worldcategory](https://www.reuters.com/world/)[The magical worlds of Yayoi Kusama](https://www.reuters.com/world/blue-paint-meets-green-algae-lincoln-memorial-reflecting-pool-clone-2026-06-18/)
-    
-    10:32 AM PDT
+    3:50 AM PDT
     
 - [
     
-    ](https://www.reuters.com/world/life-ukraines-front-line-worse-than-hell-russia-advances-2024-06-14/)
+    ](https://www.reuters.com/business/environment/bear-encounters-are-rise-heres-what-do-if-you-meet-one-2026-08-29/)
     
-    [Worldcategory](https://www.reuters.com/world/)[The week in pictures](https://www.reuters.com/world/life-ukraines-front-line-worse-than-hell-russia-advances-2024-06-14/)
+    [category](https://www.reuters.com/business/)[What to do if you meet a bear](https://www.reuters.com/business/environment/bear-encounters-are-rise-heres-what-do-if-you-meet-one-2026-08-29/)
     
-    10:31 AM PDT
+    3:10 AM PDT
+    
+- [
+    
+    ](https://www.reuters.com/world/us/hungry-bears-wander-into-us-west-homes-shops-record-numbers-2026-08-29/)
+    
+    [United Statescategory](https://www.reuters.com/world/us/)[Hungry bears wander into US West homes, shops in record numbers](https://www.reuters.com/world/us/hungry-bears-wander-into-us-west-homes-shops-record-numbers-2026-08-29/)
+    
+    3:06 AM PDT
+    
+- [
+    
+    ](https://www.reuters.com/world/middle-east/us-military-families-ride-roller-coaster-emotions-over-six-months-iran-war-2026-08-29/)
+    
+    [Middle Eastcategory](https://www.reuters.com/world/middle-east/)[US military families ride 'roller coaster of emotions' over six months of Iran war](https://www.reuters.com/world/middle-east/us-military-families-ride-roller-coaster-emotions-over-six-months-iran-war-2026-08-29/)
+    
+    3:02 AM PDT
     
 
 ### Site Index
