@@ -2,8 +2,16 @@
 - [ ] Oregon
 - [ ] January 6
 - [ ] Arizona
+	- [ ] [Why 5 Million People Live in America’s Hottest City](https://www.youtube.com/watch?v=AjQuZfkU1jI&list=WL&index=16&t=1s)
 - [ ] Malaysia
 	- [ ] MH370
+		- [ ] [The Search for Flight 370 | MH370 Disappearance: Minute by Minute | FULL DOCUMENTARY](https://www.youtube.com/watch?v=z2gUtfWMZzE&list=WL&index=18)
+		- [ ] [Why Did The 100 Million Search For MH370 Just End](https://www.youtube.com/watch?v=oFeW0Krz2cs&list=WL&index=19)
+		- [ ] [The MH370 Mystery - What Really Happened to the Missing Plane?](https://www.youtube.com/watch?v=JKRnU0giO5U&list=WL&index=20)
+		- [ ] [A NEW Trace! The FULL MH370 Story, so Far..](https://www.youtube.com/watch?v=Y5K9HBiJpuk&list=WL&index=21&t=1s&pp=iAQBsAgC "A NEW Trace! The FULL MH370 Story, so Far..")
+		- [ ] [Why MH370 Is Impossible To Find](https://www.youtube.com/watch?v=O-lYYN8TC5U&list=WL&index=22&pp=iAQB0gcJCRMMAYcqIYzvsAgC "Why MH370 Is Impossible To Find")
+		- [ ] [The Vanishing of Flight 370](https://www.youtube.com/watch?v=kd2KEHvK-q8&list=WL&index=23&t=1s&pp=iAQBsAgC "The Vanishing of Flight 370")
+		- [ ] [What Netflix got WRONG - Malaysian Flight 370](https://www.youtube.com/watch?v=MhkTo9Rk6_4&list=WL&index=24&pp=iAQBsAgC "What Netflix got WRONG - Malaysian Flight 370")
 - [ ] Yeltsin
 - [ ] Putin
 - [ ] JFK

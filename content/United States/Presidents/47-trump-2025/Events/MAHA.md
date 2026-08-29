@@ -25,7 +25,7 @@ title: MAHA
 - [Source](https://www.reuters.com/business/healthcare-pharmaceuticals/what-know-about-us-outbreak-intestinal-illness-cyclosporiasis-2026-07-28/): Iceberg lettuce sourced from privately held Taylor Farms ​operations in central Mexico and served at Yum Brands-owned Taco Bell
 - [Case totals](https://www.reuters.com/business/healthcare-pharmaceuticals/cyclosporiasis-cases-us-climb-17180-cdc-says-2026-08-25/): 17,180 total confirmed
 	- Michigan: 14,277 cases and two deaths
-	- [Other states](https://www.reuters.com/business/healthcare-pharmaceuticals/us-cdc-links-four-more-states-cyclosporiasis-outbreak-washington-post-reports-2026-07-24/): Illinois, Indiana, Kansas, Kentucky, Ohio, Oklahoma, Pennsylvania, and West Virginia,
+	- [Other states](https://www.reuters.com/business/healthcare-pharmaceuticals/us-cdc-links-four-more-states-cyclosporiasis-outbreak-washington-post-reports-2026-07-24/): Illinois, Indiana, Kansas, Kentucky, Ohio, Oklahoma, Pennsylvania, West Virginia, Georgia, Tennessee, and Texas.
 ## Salmonella
 ### July 2026 Outbreak
 - The outbreak was [linked](https://www.reuters.com/business/healthcare-pharmaceuticals/what-know-about-multistate-salmonella-outbreak-us-2026-08-07/) to jalapenos from Taylor Farms.
