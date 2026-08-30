@@ -24,82 +24,82 @@
 
 [My News](https://www.reuters.com/my-news/feed/)
 
-[](https://www.reuters.com/account/sign-in/?redirect=https%3A%2F%2Fwww.reuters.com%2Fworld%2Fjudge-blocks-rule-implementing-trump-plan-restrict-mail-in-voting-2026-08-28%2F)[](https://www.reuters.com/account/subscribe/offer/?redirect=https%3A%2F%2Fwww.reuters.com%2Fworld%2Fjudge-blocks-rule-implementing-trump-plan-restrict-mail-in-voting-2026-08-28%2F&referrer=subscription_button&journeyStart=navigation)
+[](https://www.reuters.com/account/sign-in/?redirect=https%3A%2F%2Fwww.reuters.com%2Flegal%2Fgovernment%2Fus-judge-blocks-pentagons-anthropic-blacklisting-2026-08-28%2F)[](https://www.reuters.com/account/subscribe/offer/?redirect=https%3A%2F%2Fwww.reuters.com%2Flegal%2Fgovernment%2Fus-judge-blocks-pentagons-anthropic-blacklisting-2026-08-28%2F&referrer=subscription_button&journeyStart=navigation)
 
-# Judge blocks rule implementing Trump plan to restrict mail-in voting
+# US judge blocks Pentagon's Anthropic blacklisting
 
-By [Nate Raymond](https://www.reuters.com/authors/nate-raymond/)
+By [Jack Queen](https://www.reuters.com/authors/jack-queen/)
 
-August 27, 20266:59 PM PDTUpdated August 28, 2026
+August 27, 20266:27 PM PDTUpdated August 28, 2026
 
-Item 1 of 2 A mail-in ballot, during the Pennsylvania primary election, is displayed in this illustration picture created in Philadelphia, Pennsylvania, U.S., May 19, 2026. REUTERS/Hannah Beier/Illustration//File Photo
+![Illustration shows Anthropic logo](https://www.reuters.com/resizer/v2/SCCKLWWD7FPUXCHB4UCEU5X5UA.jpg?auth=6fab2e827b13ce10664802a786906806968aeb2c87c1d18341bc134ef4d76614&width=1920&quality=80)
 
-**[1/2]**A mail-in ballot, during the Pennsylvania primary election, is displayed in this illustration picture created in Philadelphia, Pennsylvania, U.S., May 19, 2026. REUTERS/Hannah Beier/Illustration//File Photo [Purchase Licensing Rights, opens new tab](https://www.reutersconnect.com/item/mail-in-ballot-illustration-in-philadelphia/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1JDMkxDTEExTVBJNA%3D%3D/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead)
+Anthropic logo is seen in this illustration taken June 11, 2026. REUTERS/Dado Ruvic/Illustration [Purchase Licensing Rights, opens new tab](https://www.reutersconnect.com/item/illustration-shows-anthropic-logo/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1JDMlFSTEFCTU1KSg%3D%3D/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead)
 
 - Summary
 - Companies
 
-- Federal judge blocks rule implementing Trump plan to restrict mail-in voting
-- Judge issues temporary restraining order
-- During 2024 election, USPS says it processed nearly 100 million ballots
+- Anthropic alleges Pentagon chief overstepped his authority Pentagon says national security risk designation is lawful
+- Judge Lin found designation was 'illegal and baseless'
 
-BOSTON, Aug 27 (Reuters) - A federal judge on Thursday blocked the ​U.S. Postal Service from implementing core parts of a new rule it adopted at President Donald Trump's direction that would ‌tighten mail-in voting requirements ahead of the November congressional elections.
+August 27(Reuters) - A U.S. judge on Thursday blocked the [Pentagon's blacklisting of Anthropic](https://www.reuters.com/world/us/trump-says-he-is-directing-federal-agencies-cease-use-anthropic-technology-2026-02-27/), ​the latest turn in the Claude maker's high-stakes fight with the military over AI safety on the ‌battlefield.
 
-U.S. District Judge Indira Talwani in Boston issued a [temporary restraining order, opens new tab](https://fingfx.thomsonreuters.com/gfx/legaldocs/dwvknxdqjpm/08272026voting_tro.pdf) at the behest of Democratic-led states and voting rights groups after the U.S. Supreme Court on Monday issued a ruling that led to the lifting of earlier injunctions blocking Trump's plans to restrict mail-in voting.
+Anthropic's [lawsuit in California federal court](https://www.reuters.com/world/anthropic-sues-block-pentagon-blacklisting-over-ai-use-restrictions-2026-03-09/) alleges that Defense Secretary Pete Hegseth overstepped his authority when he designated Anthropic a national security supply-chain risk, a label the government can apply to companies that expose military systems to potential infiltration or sabotage by adversaries.
 
-The Reuters Daily Briefing newsletter provides all the news you need to start your day. Sign up [here.](https://www.reuters.com/newsletters/daily-briefing/?location=article-paragraph&redirectUrl=%2Fworld%2Fjudge-blocks-rule-implementing-trump-plan-restrict-mail-in-voting-2026-08-28%2F)
+Jumpstart your morning with the latest legal news delivered straight to your inbox from The Daily Docket newsletter. Sign up [here.](https://www.reuters.com/newsletters/daily-docket/?location=article-paragraph&redirectUrl=%2Flegal%2Fgovernment%2Fus-judge-blocks-pentagons-anthropic-blacklisting-2026-08-28%2F)
 
-That decision led to ​a [frantic effort](https://www.reuters.com/legal/government/democratic-led-states-renew-challenge-trump-plans-restrict-mail-in-voting-2026-08-26/) by dozens of Democratic state attorneys general and voting rights groups including the League of Women Voters to renew ​their legal fight and secure an order that would prevent the USPS from enforcing a rule that was allowed ⁠to take effect on Wednesday.
+[Hegseth’s unprecedented move](https://www.reuters.com/legal/legalindustry/anthropic-has-strong-case-against-pentagon-blacklisting-legal-experts-say-2026-03-11/), which blocked ​Anthropic from certain military contracts, followed Anthropic's refusal to allow the military to use its Claude AI models ​for U.S. surveillance or autonomous weapons. Anthropic executives have said [it could cost the company billions of ⁠dollars](https://www.reuters.com/business/retail-consumer/anthropic-executives-say-pentagon-blacklisting-could-hit-billions-sales-harm-2026-03-10/) in lost business and reputational harm.
 
-In Thursday's ruling, Talwani said the rule risked preventing citizens from casting ballots by mail unless states secure the Postal ​Service's sign-off on the envelopes used for that purpose and upload information on each voter into an electronic portal run by the agency.
+U.S. District Judge Rita Lin, an appointee of former Democratic President Joe Biden, ​made the ruling in a 59-page order where she found that the Pentagon's decision was "illegal and baseless."
 
-The judge said ​the agency had presented no evidence regarding fraudulent mail-in voting that would necessitate such a rule, which she said likely was unlawful and adopted in violation of the U.S. Constitution, which gives states the authority to administer elections.
+"The empty invocation of national ​security is not a blank check to punish and retaliate against government critics," she wrote.
 
-"USPS's interest in correcting an unsubstantiated problem through likely unconstitutional means is dwarfed by the overwhelming risk of pervasive ​disenfranchisement of citizens who need access to mail ballots in order to vote," she wrote.
+Anthropic welcomed the ruling and said in a statement that it remained "focused on working productively with the government to harness AI for our national security so all Americans benefit from this technology."
 
-The restraining order Talwani issued will remain in place for 14 ​days while she considers whether to issue a longer-term preliminary injunction blocking the rule. The judge, an appointee of Democratic President Barack Obama, plans to consider whether to ‌do so ⁠during a September 3 hearing.
+The ​Pentagon did not immediately respond to a request for comment.
 
-"Today’s order presses pause on an unlawful power grab that would sow chaos and confusion for the millions of voters who depend on mail ballots," Sophia Lin Lakin, a lawyer for the voting rights groups at the American Civil Liberties Union, said in a statement.
+Anthropic argues that AI models are not reliable enough to be ​safely used in autonomous weapons and that it opposes domestic surveillance as a violation of rights, but the Pentagon says private companies ‌should not ⁠be able to constrain military action.
 
-The White House and USPS did not immediately respond to requests for comment.
+The designation made by the Pentagon was the first time a U.S. company has been publicly designated a supply-chain risk under an obscure government-procurement statute aimed at protecting military systems from foreign sabotage.
 
-USPS issued the rule to implement an executive order the Republican president signed in March ​after years of Trump calling for ​tighter rules on voting by ⁠mail and pushing the false claim that his 2020 presidential election defeat to Democrat Joe Biden was the result of widespread voter fraud.
+In its March 9 lawsuit, Anthropic alleged the government violated its right to free speech under the First Amendment of the Constitution by retaliating ​against its views on AI ​safety. The company said ⁠it was not given a chance to dispute the designation, in violation of its Fifth Amendment right to due process.
 
-Under the rule, states must supply the USPS with lists of mail ballot recipients, and ​all outbound and return ballot envelopes must bear unique barcodes. The USPS, under the rule, may refuse to ​deliver ballots that ⁠do not comply with the new standards or are associated with voters who do not appear on the lists.
+The lawsuit says the decision was unlawful, unsupported by facts and inconsistent ​with the military's past praise of Claude.
 
-All 50 states allow for some form of mail-in voting, with 29 allowing voters to ask to cast ballots that way without providing a reason and eight conducting their elections entirely by mail.
+The Justice Department countered that Anthropic's refusal to ​lift the restrictions ⁠could cause uncertainty in the Pentagon over how it could use Claude and risk disabling military systems during operations, according to a court filing.
 
-During the ⁠2024 election, ​the USPS says it processed nearly 100 million ballots, and about 30% of voters nationwide ​cast ballots by mail, according to the states.
+The government said the designation stemmed from Anthropic's refusal to accept contractual terms, not its views on AI safety.
 
-They argue the new federal restrictions risk disenfranchising voters and would unduly burden states in the weeks running up to the election, forcing ​them to buy new envelopes and equipment, establish new systems and train staff.
+Anthropic [has ⁠a second ​lawsuit pending](https://www.reuters.com/technology/anthropic-seeks-court-stay-pentagon-supply-chain-risk-designation-2026-03-12/) in Washington, D.C., over a separate Pentagon supply-chain risk designation ​that could lead to its exclusion from civilian government contracts.
 
-Reporting by Nate Raymond in Boston; Editing by Thomas Derpinghaus and Christian Schmollinger
+Reporting by Jack Queen in New York; Editing by Noeleen Walder and Matthew Lewis
 
 Our Standards: [The Thomson Reuters Trust Principles., opens new tab](https://www.thomsonreuters.com/en/about-us/trust-principles.html)
 
 - Suggested Topics:
 - [](https://www.reuters.com/legal/government/)
 - [](https://www.reuters.com/legal/constitutional-law/)
-- [](https://www.reuters.com/legal/judiciary/)
-- [](https://www.reuters.com/legal/supreme-court-of-the-united-states/)
 - [](https://www.reuters.com/legal/civil-rights/)
+- [](https://www.reuters.com/legal/public-policy/)
+- [](https://www.reuters.com/legal/corporate-counsel/)
 
 [](https://www.reutersagency.com/en/licensereuterscontent/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead)
 
 [
 
-](https://www.reuters.com/authors/nate-raymond/)
+](https://www.reuters.com/authors/jack-queen/)
 
-[Nate Raymond](https://www.reuters.com/authors/nate-raymond/)
+[Jack Queen](https://www.reuters.com/authors/jack-queen/)
 
 Thomson Reuters
 
-Nate Raymond reports on the federal judiciary and litigation. He can be reached at nate.raymond@thomsonreuters.com.
+Jack Queen covers major lawsuits against the Trump administration involving urgent questions of executive power and how their resolution could affect the law and the legal profession in the years to come. Previously, he covered criminal and civil cases against Trump during the interim of his presidential terms, including gavel-to-gavel coverage of his historic hush money trial in New York and his civil fraud trial, which ended in a half-billion-dollar judgment. Jack has also covered high-profile defamation cases including the Dominion Voting Systems' lawsuit against Fox News, which settled for $787 million after intense pretrial litigation. Based in New York, he specializes in breaking news as well as analysis, explainers and other explanatory reporting.
 
-- [](mailto:nate.raymond@thomsonreuters.com)
-- [](https://x.com/nateraymond)
+- [](mailto:Jack.Queen@thomsonreuters.com)
+- [](https://x.com/jackqueen_)
+- [](https://www.linkedin.com/in/jack-queen-2b4b09a0/)
 
-## Read Next
+## Read Next / Editor's Picks
 
 - [Worldcategory](https://www.reuters.com/world/)
     
@@ -109,13 +109,13 @@ Nate Raymond reports on the federal judiciary and litigation. He can be reached 
     
     ](https://www.reuters.com/world/us-judge-wont-immediately-block-trumps-newest-order-limiting-birthright-2026-08-28/)
     
-- [Governmentcategory](https://www.reuters.com/legal/government/)
+- [Worldcategory](https://www.reuters.com/world/)
     
-    [US judge blocks Pentagon's Anthropic blacklisting](https://www.reuters.com/legal/government/us-judge-blocks-pentagons-anthropic-blacklisting-2026-08-28/)
+    [Judge blocks rule implementing Trump plan to restrict mail-in voting](https://www.reuters.com/world/judge-blocks-rule-implementing-trump-plan-restrict-mail-in-voting-2026-08-28/)
     
     [
     
-    ](https://www.reuters.com/legal/government/us-judge-blocks-pentagons-anthropic-blacklisting-2026-08-28/)
+    ](https://www.reuters.com/world/judge-blocks-rule-implementing-trump-plan-restrict-mail-in-voting-2026-08-28/)
     
 - [Worldcategory](https://www.reuters.com/world/)
     
@@ -141,53 +141,88 @@ Nate Raymond reports on the federal judiciary and litigation. He can be reached 
     
     ](https://www.reuters.com/legal/government/us-sentencing-panel-mulls-supermajority-votes-adding-public-defender-2026-08-28/)
     
+- [Governmentcategory](https://www.reuters.com/legal/government/)
+    
+    [States, voting rights groups renew challenges to Trump plans to restrict mail-in voting](https://www.reuters.com/legal/government/democratic-led-states-renew-challenge-trump-plans-restrict-mail-in-voting-2026-08-26/)
+    
+    [
+    
+    ](https://www.reuters.com/legal/government/democratic-led-states-renew-challenge-trump-plans-restrict-mail-in-voting-2026-08-26/)
+    
+- [Governmentcategory](https://www.reuters.com/legal/government/)
+    
+    [US judge blocks Trump overhaul of funding for fair housing groups](https://www.reuters.com/legal/government/us-judge-blocks-trump-overhaul-funding-fair-housing-groups-2026-08-26/)
+    
+    [
+    
+    ](https://www.reuters.com/legal/government/us-judge-blocks-trump-overhaul-funding-fair-housing-groups-2026-08-26/)
+    
+- [Governmentcategory](https://www.reuters.com/legal/government/)
+    
+    [U.S. judge orders Trump administration to redo changes to farmworker visa program](https://www.reuters.com/legal/government/us-judge-orders-trump-administration-redo-changes-farmworker-visa-program-2026-08-27/)
+    
+    [
+    
+    ](https://www.reuters.com/legal/government/us-judge-orders-trump-administration-redo-changes-farmworker-visa-program-2026-08-27/)
+    
+- [Worldcategory](https://www.reuters.com/world/)
+    
+    [As Cook case smolders, Trump has other paths to shape Fed policy team](https://www.reuters.com/world/us/cook-case-smolders-trump-has-other-paths-shape-fed-policy-team-2026-08-26/)
+    
+    [
+    
+    ](https://www.reuters.com/world/us/cook-case-smolders-trump-has-other-paths-shape-fed-policy-team-2026-08-26/)
+    
+- [Governmentcategory](https://www.reuters.com/legal/government/)
+    
+    [EEOC moves to curb in-house enforcement of anti-bias laws against US agencies](https://www.reuters.com/legal/government/eeoc-moves-curb-in-house-enforcement-anti-bias-laws-against-us-agencies-2026-08-26/)
+    
+    [
+    
+    ](https://www.reuters.com/legal/government/eeoc-moves-curb-in-house-enforcement-anti-bias-laws-against-us-agencies-2026-08-26/)
+    
+- [Litigationcategory](https://www.reuters.com/legal/litigation/)
+    
+    [US preparing to ease environmental reviews for Alaska oil and gas drilling](https://www.reuters.com/legal/litigation/us-preparing-ease-environmental-reviews-alaska-oil-gas-drilling-2026-08-26/)
+    
+    [
+    
+    ](https://www.reuters.com/legal/litigation/us-preparing-ease-environmental-reviews-alaska-oil-gas-drilling-2026-08-26/)
+    
+- [Governmentcategory](https://www.reuters.com/legal/government/)
+    
+    [Kennedy advisers recommend doubling US autism spending on care, family support](https://www.reuters.com/legal/government/kennedy-advisers-propose-doubling-us-autism-spending-care-family-support-2026-08-27/)
+    
+    [
+    
+    ](https://www.reuters.com/legal/government/kennedy-advisers-propose-doubling-us-autism-spending-care-family-support-2026-08-27/)
+    
+- [Governmentcategory](https://www.reuters.com/legal/government/)
+    
+    [Trump cannot impose conditions on transportation, homelessness grants, US appeals court rules](https://www.reuters.com/legal/government/trump-cannot-impose-conditions-transportation-homelessness-grants-us-appeals-2026-08-25/)
+    
+    [
+    
+    ](https://www.reuters.com/legal/government/trump-cannot-impose-conditions-transportation-homelessness-grants-us-appeals-2026-08-25/)
+    
+- [World at Workcategory](https://www.reuters.com/business/world-at-work/)
+    
+    [Explainer: What are H-1B visas for skilled workers and what changes loom?](https://www.reuters.com/business/world-at-work/what-are-h-1b-visas-skilled-workers-what-changes-loom-2026-08-25/)
+    
+    [
+    
+    ](https://www.reuters.com/business/world-at-work/what-are-h-1b-visas-skilled-workers-what-changes-loom-2026-08-25/)
+    
+- [Worldcategory](https://www.reuters.com/world/)
+    
+    [Trump administration plans to revoke visas of foreigners seeking asylum](https://www.reuters.com/world/us-plans-revoke-up-200000-tourism-business-visas-ap-reports-2026-08-24/)
+    
+    [
+    
+    ](https://www.reuters.com/world/us-plans-revoke-up-200000-tourism-business-visas-ap-reports-2026-08-24/)
+    
 
 [](https://www.lseg.com/en/data-analytics/products/workspace?utm_source=reuters.com&utm_medium=articlebanner&utm_campaign=Reuters_ProductPage_Links)
-
-## [World](https://www.reuters.com/world/)
-
-- [
-    
-    ](https://www.reuters.com/business/media-telecom/italian-state-broadcaster-rai-removes-veteran-journalist-sparking-political-2026-08-29/)
-    
-    ### [Italian state broadcaster RAI removes veteran journalist, sparking political storm](https://www.reuters.com/business/media-telecom/italian-state-broadcaster-rai-removes-veteran-journalist-sparking-political-2026-08-29/)
-    
-    [category](https://www.reuters.com/business/)· August 29, 2026 · 6:12 AM PDT · 1 hour ago
-    
-    Italian opposition parties have denounced an attack on press freedom after state broadcaster RAI removed a veteran journalist as presenter of its flagship investigative programme, while government allies have welcomed the move.
-    
-- [
-    
-    ](https://www.reuters.com/world/russia-says-it-has-captured-three-villages-ukraines-donetsk-sumy-regions-2026-08-29/)
-    
-    [Worldcategory](https://www.reuters.com/world/)[Russia says it has captured three villages in Ukraine's Donetsk and Sumy regions](https://www.reuters.com/world/russia-says-it-has-captured-three-villages-ukraines-donetsk-sumy-regions-2026-08-29/)
-    
-    3:50 AM PDT
-    
-- [
-    
-    ](https://www.reuters.com/business/environment/bear-encounters-are-rise-heres-what-do-if-you-meet-one-2026-08-29/)
-    
-    [category](https://www.reuters.com/business/)[What to do if you meet a bear](https://www.reuters.com/business/environment/bear-encounters-are-rise-heres-what-do-if-you-meet-one-2026-08-29/)
-    
-    3:10 AM PDT
-    
-- [
-    
-    ](https://www.reuters.com/world/us/hungry-bears-wander-into-us-west-homes-shops-record-numbers-2026-08-29/)
-    
-    [United Statescategory](https://www.reuters.com/world/us/)[Hungry bears wander into US West homes, shops in record numbers](https://www.reuters.com/world/us/hungry-bears-wander-into-us-west-homes-shops-record-numbers-2026-08-29/)
-    
-    3:06 AM PDT
-    
-- [
-    
-    ](https://www.reuters.com/world/middle-east/us-military-families-ride-roller-coaster-emotions-over-six-months-iran-war-2026-08-29/)
-    
-    [Middle Eastcategory](https://www.reuters.com/world/middle-east/)[US military families ride 'roller coaster of emotions' over six months of Iran war](https://www.reuters.com/world/middle-east/us-military-families-ride-roller-coaster-emotions-over-six-months-iran-war-2026-08-29/)
-    
-    3:02 AM PDT
-    
 
 ### Site Index
 
@@ -287,6 +322,7 @@ Reuters, the news and media division of Thomson Reuters, is the world’s larges
 - [Corrections](https://www.reuters.com/info-pages/contact-us/)
 - [Data Disclosure and Sources, opens new tab](https://www.reuters.com/info-pages/data-disclosure-and-sources/)
 - [Site Feedback, opens new tab](https://trdigital.iad1.qualtrics.com/jfe/form/SV_8kte8gArGyCGVhz)
+- Manage Cookies & Your Privacy Choices
 
 All quotes delayed a minimum of 15 minutes. [See here for a list of exchanges and delays.](https://www.reuters.com/info-pages/disclaimer/)
 

@@ -1,0 +1,2 @@
+# Striking NATO
+- August 27, 2026: [CIA Director John Ratcliffe](https://www.reuters.com/world/trump-says-putin-will-not-attack-nato-territory-downplays-ratcliffe-trip-2026-08-27/) makes unusual visit to Kremlin but Trump says he wasn't there to warn Putin against striking a NATO country despite media reports.

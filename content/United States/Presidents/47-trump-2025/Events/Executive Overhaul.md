@@ -26,7 +26,9 @@
 - **Court Battle Timeline**
 	- [Appeal](https://www.reuters.com/world/us-appeals-court-blocks-trumps-400-million-white-house-ballroom-project-2026-08-07/) (August 7, 2026): Washington-based U.S. Court of Appeals for the District of Columbia Circuit rules 2-1 to uphold Judge Leon's injunction.
 
-
+# Renaming Things
+## Lake Ontario
+In August 2026, amid a trade and tariff spat with Canada, Trump signed an order renaming Lake Ontario to 'Lake America.' 
 # Remaking Education
 ## Higher Education
 ### Indirect Research

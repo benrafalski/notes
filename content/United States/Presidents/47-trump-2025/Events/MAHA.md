@@ -22,6 +22,7 @@ title: MAHA
 ## Cyclosporiasis
 ### May 2026 Outbreak
 - [Public Health Cuts](https://www.reuters.com/legal/litigation/michigan-battles-massive-outbreak-state-reels-trump-cuts-2026-07-25/): reports that Michigan lost 23 infectious disease workers and 123 county health staff disease and health workers after federal cuts that likely contributed to bad response to cyclosporiasis outbreak
+- [Research Cuts](https://www.reuters.com/world/usda-cyclospora-research-projects-shelved-amid-funding-cuts-relocations-politico-2026-08-30/): in August 2026, amid the ongoing outbreak, the USDA shuttered two of the three research projects studying ​Cyclospora. The two programs were cut by Congress earlier in the year. Although the third project remains funded, ⁠all scientists working on the parasite have declined to relocate from Maryland to ​Iowa due to the ongoing USDA reorganization.
 - [Source](https://www.reuters.com/business/healthcare-pharmaceuticals/what-know-about-us-outbreak-intestinal-illness-cyclosporiasis-2026-07-28/): Iceberg lettuce sourced from privately held Taylor Farms ​operations in central Mexico and served at Yum Brands-owned Taco Bell
 - [Case totals](https://www.reuters.com/business/healthcare-pharmaceuticals/cyclosporiasis-cases-us-climb-17180-cdc-says-2026-08-25/): 17,180 total confirmed
 	- Michigan: 14,277 cases and two deaths
