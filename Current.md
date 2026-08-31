@@ -24,202 +24,198 @@
 
 [My News](https://www.reuters.com/my-news/feed/)
 
-[](https://www.reuters.com/account/sign-in/?redirect=https%3A%2F%2Fwww.reuters.com%2Flegal%2Fgovernment%2Fus-judge-blocks-pentagons-anthropic-blacklisting-2026-08-28%2F)[](https://www.reuters.com/account/subscribe/offer/?redirect=https%3A%2F%2Fwww.reuters.com%2Flegal%2Fgovernment%2Fus-judge-blocks-pentagons-anthropic-blacklisting-2026-08-28%2F&referrer=subscription_button&journeyStart=navigation)
+[](https://www.reuters.com/account/sign-in/?redirect=https%3A%2F%2Fwww.reuters.com%2Flegal%2Fgovernment%2Fbritish-far-right-commentator-milo-yiannopoulos-detained-by-ice-2026-08-28%2F)[](https://www.reuters.com/account/subscribe/offer/?redirect=https%3A%2F%2Fwww.reuters.com%2Flegal%2Fgovernment%2Fbritish-far-right-commentator-milo-yiannopoulos-detained-by-ice-2026-08-28%2F&referrer=subscription_button&journeyStart=navigation)
 
-# US judge blocks Pentagon's Anthropic blacklisting
+# British far-right commentator Milo Yiannopoulos detained by ICE
 
-By [Jack Queen](https://www.reuters.com/authors/jack-queen/)
+By [Kristina Cooke](https://www.reuters.com/authors/kristina-cooke/) and [Steve Gorman](https://www.reuters.com/authors/steve-gorman/)
 
-August 27, 20266:27 PM PDTUpdated August 28, 2026
+August 28, 20261:12 PM PDTUpdated August 29, 2026
 
-![Illustration shows Anthropic logo](https://www.reuters.com/resizer/v2/SCCKLWWD7FPUXCHB4UCEU5X5UA.jpg?auth=6fab2e827b13ce10664802a786906806968aeb2c87c1d18341bc134ef4d76614&width=1920&quality=80)
-
-Anthropic logo is seen in this illustration taken June 11, 2026. REUTERS/Dado Ruvic/Illustration [Purchase Licensing Rights, opens new tab](https://www.reutersconnect.com/item/illustration-shows-anthropic-logo/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1JDMlFSTEFCTU1KSg%3D%3D/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead)
+![Far-right commentator Milo Yiannopoulos detained by ICE](https://ajo.prod.reuters.tv/api/v2/img/6a93098be4b0f9a8fa391905-1788021327582?width=1080&quality=80)
 
 - Summary
 - Companies
 
-- Anthropic alleges Pentagon chief overstepped his authority Pentagon says national security risk designation is lawful
-- Judge Lin found designation was 'illegal and baseless'
+- Yiannopoulos has advocated for tough immigration enforcement
+- Political commentator gained prominence as Breitbart editor
+- DHS says Yiannopoulos overstayed visa, missed hearing
 
-August 27(Reuters) - A U.S. judge on Thursday blocked the [Pentagon's blacklisting of Anthropic](https://www.reuters.com/world/us/trump-says-he-is-directing-federal-agencies-cease-use-anthropic-technology-2026-02-27/), ​the latest turn in the Claude maker's high-stakes fight with the military over AI safety on the ‌battlefield.
+Aug 28 (Reuters) - British far-right commentator Milo Yiannopoulos, who has called for ICE checkpoints ‌at supermarkets in the United States, with summary deportation of anyone failing to prove legal U.S. residency, has been detained by U.S. Immigration and Customs Enforcement, agency records showed on Friday.
 
-Anthropic's [lawsuit in California federal court](https://www.reuters.com/world/anthropic-sues-block-pentagon-blacklisting-over-ai-use-restrictions-2026-03-09/) alleges that Defense Secretary Pete Hegseth overstepped his authority when he designated Anthropic a national security supply-chain risk, a label the government can apply to companies that expose military systems to potential infiltration or sabotage by adversaries.
+Yiannopoulos, 41, was arrested on ​Thursday at the Louis Armstrong New Orleans International Airport and is subject to a ​final order of removal from the U.S., ICE's parent agency, the U.S. ⁠Department of Homeland Security, said in a statement describing him as "an illegal alien from the ​United Kingdom."
 
-Jumpstart your morning with the latest legal news delivered straight to your inbox from The Daily Docket newsletter. Sign up [here.](https://www.reuters.com/newsletters/daily-docket/?location=article-paragraph&redirectUrl=%2Flegal%2Fgovernment%2Fus-judge-blocks-pentagons-anthropic-blacklisting-2026-08-28%2F)
+Jumpstart your morning with the latest legal news delivered straight to your inbox from The Daily Docket newsletter. Sign up [here.](https://www.reuters.com/newsletters/daily-docket/?location=article-paragraph&redirectUrl=%2Flegal%2Fgovernment%2Fbritish-far-right-commentator-milo-yiannopoulos-detained-by-ice-2026-08-28%2F)
 
-[Hegseth’s unprecedented move](https://www.reuters.com/legal/legalindustry/anthropic-has-strong-case-against-pentagon-blacklisting-legal-experts-say-2026-03-11/), which blocked ​Anthropic from certain military contracts, followed Anthropic's refusal to allow the military to use its Claude AI models ​for U.S. surveillance or autonomous weapons. Anthropic executives have said [it could cost the company billions of ⁠dollars](https://www.reuters.com/business/retail-consumer/anthropic-executives-say-pentagon-blacklisting-could-hit-billions-sales-harm-2026-03-10/) in lost business and reputational harm.
+According to DHS, Yiannopoulos legally entered the U.S. in May 2019 through New York City ​but "chose to overstay his welcome in violation of our nation's laws."
 
-U.S. District Judge Rita Lin, an appointee of former Democratic President Joe Biden, ​made the ruling in a 59-page order where she found that the Pentagon's decision was "illegal and baseless."
+"Yiannopoulos was issued a final order of removal by an immigration judge on July 22, after failing to show up for his immigration hearing," the DHS ​statement said. "He will remain in ICE custody pending removal."
 
-"The empty invocation of national ​security is not a blank check to punish and retaliate against government critics," she wrote.
+Yiannopoulos was not immediately available for comment ​and it was unclear whether he had obtained legal representation.
 
-Anthropic welcomed the ruling and said in a statement that it remained "focused on working productively with the government to harness AI for our national security so all Americans benefit from this technology."
+Milo Yiannopoulos addresses the media during a news conference in New York City, NY, U.S. February 21, 2017. REUTERS/Lucas Jackson [Purchase Licensing Rights, opens new tab](https://www.reutersconnect.com/item/milo-yiannopoulos-addresses-the-media-during-a-news-conference-in-new-york/dGFnOnJldXRlcnMuY29tLDIwMTc6bmV3c21sX1JDMTk4OTYxMUY4MA%3D%3D/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead)
 
-The ​Pentagon did not immediately respond to a request for comment.
+The celebrity news site TMZ.com, which broke news of ‌his ⁠arrest, suggested that Yiannopoulos, who has close ties to the hip-hop star formerly known as Kanye West, was in New Orleans ahead of the musician's scheduled performance there on Friday night.
 
-Anthropic argues that AI models are not reliable enough to be ​safely used in autonomous weapons and that it opposes domestic surveillance as a violation of rights, but the Pentagon says private companies ‌should not ⁠be able to constrain military action.
+ICE's detention of Yiannopoulos marked an ironic turn for the political pundit who is known for far-right-wing ​commentary, including anti-Islamic rhetoric ​and support for ⁠immigration enforcement beyond the crackdown instituted by U.S. President Donald Trump.
 
-The designation made by the Pentagon was the first time a U.S. company has been publicly designated a supply-chain risk under an obscure government-procurement statute aimed at protecting military systems from foreign sabotage.
+In a June 2025 post on the social media platform X, he said California "needs ​ICE checkpoints at supermarket entrances, gas stations, strip malls, intersections and ​government buildings, ⁠with on the spot deportation for anyone who can’t prove they are in the US legally."
 
-In its March 9 lawsuit, Anthropic alleged the government violated its right to free speech under the First Amendment of the Constitution by retaliating ​against its views on AI ​safety. The company said ⁠it was not given a chance to dispute the designation, in violation of its Fifth Amendment right to due process.
+In addition to his association with West, Yiannopoulos has worked with white nationalist Nick Fuentes.
 
-The lawsuit says the decision was unlawful, unsupported by facts and inconsistent ​with the military's past praise of Claude.
+He started working in ⁠2014 ​for right-wing Breitbart News, where he gained notoriety for ​his prominent role in the "Gamergate" anti-feminist harassment campaign that targeted women in the video game industry.
 
-The Justice Department countered that Anthropic's refusal to ​lift the restrictions ⁠could cause uncertainty in the Pentagon over how it could use Claude and risk disabling military systems during operations, according to a court filing.
-
-The government said the designation stemmed from Anthropic's refusal to accept contractual terms, not its views on AI safety.
-
-Anthropic [has ⁠a second ​lawsuit pending](https://www.reuters.com/technology/anthropic-seeks-court-stay-pentagon-supply-chain-risk-designation-2026-03-12/) in Washington, D.C., over a separate Pentagon supply-chain risk designation ​that could lead to its exclusion from civilian government contracts.
-
-Reporting by Jack Queen in New York; Editing by Noeleen Walder and Matthew Lewis
+Reporting by Kristina Cooke in ​San Francisco and Steve Gorman in Los Angeles, Editing by Franklin Paul, Caitlin Webber, Rod Nickel
 
 Our Standards: [The Thomson Reuters Trust Principles., opens new tab](https://www.thomsonreuters.com/en/about-us/trust-principles.html)
 
 - Suggested Topics:
-- [](https://www.reuters.com/legal/government/)
+- [](https://www.reuters.com/legal/litigation/)
 - [](https://www.reuters.com/legal/constitutional-law/)
-- [](https://www.reuters.com/legal/civil-rights/)
-- [](https://www.reuters.com/legal/public-policy/)
-- [](https://www.reuters.com/legal/corporate-counsel/)
 
 [](https://www.reutersagency.com/en/licensereuterscontent/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead)
 
 [
 
-](https://www.reuters.com/authors/jack-queen/)
+](https://www.reuters.com/authors/kristina-cooke/)
 
-[Jack Queen](https://www.reuters.com/authors/jack-queen/)
+[Kristina Cooke](https://www.reuters.com/authors/kristina-cooke/)
 
 Thomson Reuters
 
-Jack Queen covers major lawsuits against the Trump administration involving urgent questions of executive power and how their resolution could affect the law and the legal profession in the years to come. Previously, he covered criminal and civil cases against Trump during the interim of his presidential terms, including gavel-to-gavel coverage of his historic hush money trial in New York and his civil fraud trial, which ended in a half-billion-dollar judgment. Jack has also covered high-profile defamation cases including the Dominion Voting Systems' lawsuit against Fox News, which settled for $787 million after intense pretrial litigation. Based in New York, he specializes in breaking news as well as analysis, explainers and other explanatory reporting.
+Kristina Cooke is a Pulitzer Prize-winning investigative reporter at Reuters focused on immigration and criminal justice. She was part of a team awarded the Pulitzer Prize for National Reporting in 2026 for a series on President Donald Trump’s campaign of political retribution. In 2025, she shared the Pulitzer Prize for Investigative Reporting for a series on the fentanyl crisis. Her investigation with colleagues into migrant child labor in the United States was a finalist for the Pulitzer Prize for National Reporting in 2023, and a recipient of the Polk and other awards. She speaks English, German and Spanish and is based in San Francisco.
 
-- [](mailto:Jack.Queen@thomsonreuters.com)
-- [](https://x.com/jackqueen_)
-- [](https://www.linkedin.com/in/jack-queen-2b4b09a0/)
+- [](mailto:kristina.cooke@thomsonreuters.com)
+- [](https://www.reuters.com/legal/government/british-far-right-commentator-milo-yiannopoulos-detained-by-ice-2026-08-28/@kristinaleecooke)
+- [](https://www.linkedin.com/in/kristinacooke/)
 
 ## Read Next / Editor's Picks
 
-- [Worldcategory](https://www.reuters.com/world/)
+- [Litigationcategory](https://www.reuters.com/legal/litigation/)
     
-    [US judge questions but won't yet block Trump's new birthright citizenship order](https://www.reuters.com/world/us-judge-wont-immediately-block-trumps-newest-order-limiting-birthright-2026-08-28/)
-    
-    [
-    
-    ](https://www.reuters.com/world/us-judge-wont-immediately-block-trumps-newest-order-limiting-birthright-2026-08-28/)
-    
-- [Worldcategory](https://www.reuters.com/world/)
-    
-    [Judge blocks rule implementing Trump plan to restrict mail-in voting](https://www.reuters.com/world/judge-blocks-rule-implementing-trump-plan-restrict-mail-in-voting-2026-08-28/)
+    [Meta defeats Instagram shopping monopoly lawsuit for now](https://www.reuters.com/legal/litigation/meta-defeats-instagram-shopping-monopoly-lawsuit-now-2026-08-31/)
     
     [
     
-    ](https://www.reuters.com/world/judge-blocks-rule-implementing-trump-plan-restrict-mail-in-voting-2026-08-28/)
-    
-- [Worldcategory](https://www.reuters.com/world/)
-    
-    [Trump vows legal order to break up 'nasty monopoly' in food processing](https://www.reuters.com/world/trump-vows-legal-order-break-up-food-processing-nasty-monopoly-2026-08-28/)
-    
-    [
-    
-    ](https://www.reuters.com/world/trump-vows-legal-order-break-up-food-processing-nasty-monopoly-2026-08-28/)
-    
-- [Worldcategory](https://www.reuters.com/world/)
-    
-    [Walmart settles US government's opioid lawsuit, which sought billions, for $50 million](https://www.reuters.com/world/walmart-settles-us-governments-opioid-lawsuit-justice-department-says-2026-08-28/)
-    
-    [
-    
-    ](https://www.reuters.com/world/walmart-settles-us-governments-opioid-lawsuit-justice-department-says-2026-08-28/)
+    ](https://www.reuters.com/legal/litigation/meta-defeats-instagram-shopping-monopoly-lawsuit-now-2026-08-31/)
     
 - [Governmentcategory](https://www.reuters.com/legal/government/)
     
-    [US sentencing panel mulls supermajority votes, adding public defender representative](https://www.reuters.com/legal/government/us-sentencing-panel-mulls-supermajority-votes-adding-public-defender-2026-08-28/)
+    [Sony, Warner Music sue Anthropic over songs used in AI training](https://www.reuters.com/legal/government/sony-warner-music-sue-anthropic-over-songs-used-ai-training-2026-08-31/)
     
     [
     
-    ](https://www.reuters.com/legal/government/us-sentencing-panel-mulls-supermajority-votes-adding-public-defender-2026-08-28/)
-    
-- [Governmentcategory](https://www.reuters.com/legal/government/)
-    
-    [States, voting rights groups renew challenges to Trump plans to restrict mail-in voting](https://www.reuters.com/legal/government/democratic-led-states-renew-challenge-trump-plans-restrict-mail-in-voting-2026-08-26/)
-    
-    [
-    
-    ](https://www.reuters.com/legal/government/democratic-led-states-renew-challenge-trump-plans-restrict-mail-in-voting-2026-08-26/)
-    
-- [Governmentcategory](https://www.reuters.com/legal/government/)
-    
-    [US judge blocks Trump overhaul of funding for fair housing groups](https://www.reuters.com/legal/government/us-judge-blocks-trump-overhaul-funding-fair-housing-groups-2026-08-26/)
-    
-    [
-    
-    ](https://www.reuters.com/legal/government/us-judge-blocks-trump-overhaul-funding-fair-housing-groups-2026-08-26/)
-    
-- [Governmentcategory](https://www.reuters.com/legal/government/)
-    
-    [U.S. judge orders Trump administration to redo changes to farmworker visa program](https://www.reuters.com/legal/government/us-judge-orders-trump-administration-redo-changes-farmworker-visa-program-2026-08-27/)
-    
-    [
-    
-    ](https://www.reuters.com/legal/government/us-judge-orders-trump-administration-redo-changes-farmworker-visa-program-2026-08-27/)
-    
-- [Worldcategory](https://www.reuters.com/world/)
-    
-    [As Cook case smolders, Trump has other paths to shape Fed policy team](https://www.reuters.com/world/us/cook-case-smolders-trump-has-other-paths-shape-fed-policy-team-2026-08-26/)
-    
-    [
-    
-    ](https://www.reuters.com/world/us/cook-case-smolders-trump-has-other-paths-shape-fed-policy-team-2026-08-26/)
-    
-- [Governmentcategory](https://www.reuters.com/legal/government/)
-    
-    [EEOC moves to curb in-house enforcement of anti-bias laws against US agencies](https://www.reuters.com/legal/government/eeoc-moves-curb-in-house-enforcement-anti-bias-laws-against-us-agencies-2026-08-26/)
-    
-    [
-    
-    ](https://www.reuters.com/legal/government/eeoc-moves-curb-in-house-enforcement-anti-bias-laws-against-us-agencies-2026-08-26/)
+    ](https://www.reuters.com/legal/government/sony-warner-music-sue-anthropic-over-songs-used-ai-training-2026-08-31/)
     
 - [Litigationcategory](https://www.reuters.com/legal/litigation/)
     
-    [US preparing to ease environmental reviews for Alaska oil and gas drilling](https://www.reuters.com/legal/litigation/us-preparing-ease-environmental-reviews-alaska-oil-gas-drilling-2026-08-26/)
+    [State Farm sued by Los Angeles County for allegedly mishandling wildfire claims](https://www.reuters.com/legal/litigation/state-farm-sued-by-los-angeles-county-allegedly-mishandling-wildfire-claims-2026-08-31/)
     
     [
     
-    ](https://www.reuters.com/legal/litigation/us-preparing-ease-environmental-reviews-alaska-oil-gas-drilling-2026-08-26/)
+    ](https://www.reuters.com/legal/litigation/state-farm-sued-by-los-angeles-county-allegedly-mishandling-wildfire-claims-2026-08-31/)
     
 - [Governmentcategory](https://www.reuters.com/legal/government/)
     
-    [Kennedy advisers recommend doubling US autism spending on care, family support](https://www.reuters.com/legal/government/kennedy-advisers-propose-doubling-us-autism-spending-care-family-support-2026-08-27/)
+    [Apple alleges OpenAI employee accessed circuit plans after joining startup](https://www.reuters.com/legal/government/apple-alleges-openai-employee-accessed-circuit-plans-after-joining-startup-2026-08-31/)
     
     [
     
-    ](https://www.reuters.com/legal/government/kennedy-advisers-propose-doubling-us-autism-spending-care-family-support-2026-08-27/)
+    ](https://www.reuters.com/legal/government/apple-alleges-openai-employee-accessed-circuit-plans-after-joining-startup-2026-08-31/)
+    
+- [Legal Industrycategory](https://www.reuters.com/legal/legalindustry/)
+    
+    [Trader Joe’s must face Smucker’s lawsuit over alleged copycat 'Uncrustibles' sandwiches](https://www.reuters.com/legal/legalindustry/trader-joes-must-face-smuckers-lawsuit-over-alleged-copycat-uncrustibles-2026-08-28/)
+    
+    [
+    
+    ](https://www.reuters.com/legal/legalindustry/trader-joes-must-face-smuckers-lawsuit-over-alleged-copycat-uncrustibles-2026-08-28/)
+    
+- [Legal Industrycategory](https://www.reuters.com/legal/legalindustry/)
+    
+    [Delaware jury finds Parse infringed three genetic-sequencing patents](https://www.reuters.com/legal/legalindustry/qiagen-owes-10x-roche-48-million-infringing-patents-us-jury-says-2026-08-28/)
+    
+    [
+    
+    ](https://www.reuters.com/legal/legalindustry/qiagen-owes-10x-roche-48-million-infringing-patents-us-jury-says-2026-08-28/)
     
 - [Governmentcategory](https://www.reuters.com/legal/government/)
     
-    [Trump cannot impose conditions on transportation, homelessness grants, US appeals court rules](https://www.reuters.com/legal/government/trump-cannot-impose-conditions-transportation-homelessness-grants-us-appeals-2026-08-25/)
+    [Singer D4vd, charged with murdering and dismembering teen, dismisses lawyer](https://www.reuters.com/legal/government/singer-d4vd-charged-with-murdering-dismembering-teen-dismisses-lawyer-2026-08-31/)
     
     [
     
-    ](https://www.reuters.com/legal/government/trump-cannot-impose-conditions-transportation-homelessness-grants-us-appeals-2026-08-25/)
-    
-- [World at Workcategory](https://www.reuters.com/business/world-at-work/)
-    
-    [Explainer: What are H-1B visas for skilled workers and what changes loom?](https://www.reuters.com/business/world-at-work/what-are-h-1b-visas-skilled-workers-what-changes-loom-2026-08-25/)
-    
-    [
-    
-    ](https://www.reuters.com/business/world-at-work/what-are-h-1b-visas-skilled-workers-what-changes-loom-2026-08-25/)
+    ](https://www.reuters.com/legal/government/singer-d4vd-charged-with-murdering-dismembering-teen-dismisses-lawyer-2026-08-31/)
     
 - [Worldcategory](https://www.reuters.com/world/)
     
-    [Trump administration plans to revoke visas of foreigners seeking asylum](https://www.reuters.com/world/us-plans-revoke-up-200000-tourism-business-visas-ap-reports-2026-08-24/)
+    [Kalshi cannot block Nevada oversight of prediction markets, US appeals court rules](https://www.reuters.com/world/kalshi-cannot-block-nevada-oversight-sports-prediction-markets-us-appeals-court-2026-08-28/)
     
     [
     
-    ](https://www.reuters.com/world/us-plans-revoke-up-200000-tourism-business-visas-ap-reports-2026-08-24/)
+    ](https://www.reuters.com/world/kalshi-cannot-block-nevada-oversight-sports-prediction-markets-us-appeals-court-2026-08-28/)
+    
+- [Governmentcategory](https://www.reuters.com/legal/government/)
+    
+    [U.S. court dismisses appeal over objections to $7.25 billion Roundup deal](https://www.reuters.com/legal/government/us-court-dismisses-appeal-over-objections-725-billion-roundup-deal-2026-08-27/)
+    
+    [
+    
+    ](https://www.reuters.com/legal/government/us-court-dismisses-appeal-over-objections-725-billion-roundup-deal-2026-08-27/)
+    
+- [Litigationcategory](https://www.reuters.com/legal/litigation/)
+    
+    [Judge likely to deny California's bid to stop Amazon's alleged price fixing](https://www.reuters.com/legal/litigation/judge-likely-deny-californias-bid-stop-amazons-alleged-price-fixing-2026-08-27/)
+    
+    [
+    
+    ](https://www.reuters.com/legal/litigation/judge-likely-deny-californias-bid-stop-amazons-alleged-price-fixing-2026-08-27/)
+    
+- [California sues Trump administration over offshore wind lease cancelation](https://www.reuters.com/business/energy/california-sues-trump-administration-over-offshore-wind-lease-cancelation-2026-08-28/)
+    
+    [
+    
+    ](https://www.reuters.com/business/energy/california-sues-trump-administration-over-offshore-wind-lease-cancelation-2026-08-28/)
+    
+- [Governmentcategory](https://www.reuters.com/legal/government/)
+    
+    [Jury weighing fate of ex-gang leader accused of plotting Tupac killing](https://www.reuters.com/legal/government/jury-hear-closing-arguments-tupac-killing-trial-2026-08-31/)
+    
+    [
+    
+    ](https://www.reuters.com/legal/government/jury-hear-closing-arguments-tupac-killing-trial-2026-08-31/)
+    
+- [Governmentcategory](https://www.reuters.com/legal/government/)
+    
+    [Australian regulator launches Western Union probe over high-risk payment concerns](https://www.reuters.com/legal/government/australian-regulator-launches-western-union-probe-over-high-risk-payment-2026-08-31/)
+    
+    [
+    
+    ](https://www.reuters.com/legal/government/australian-regulator-launches-western-union-probe-over-high-risk-payment-2026-08-31/)
+    
+- [Litigationcategory](https://www.reuters.com/legal/litigation/)
+    
+    [California opposes Paramount request for $1.88 billion bond](https://www.reuters.com/legal/litigation/california-opposes-paramount-request-188-billion-bond-2026-08-31/)
+    
+    [
+    
+    ](https://www.reuters.com/legal/litigation/california-opposes-paramount-request-188-billion-bond-2026-08-31/)
+    
+- [Litigationcategory](https://www.reuters.com/legal/litigation/)
+    
+    [Shareholder opposition to executive pay eases globally](https://www.reuters.com/legal/litigation/shareholder-opposition-executive-pay-eases-globally-2026-08-31/)
+    
+    [
+    
+    ](https://www.reuters.com/legal/litigation/shareholder-opposition-executive-pay-eases-globally-2026-08-31/)
+    
+- [Governmentcategory](https://www.reuters.com/legal/government/)
+    
+    [North Carolina girl, 17, charged in role in California mosque attack](https://www.reuters.com/legal/government/north-carolina-girl-17-charged-role-california-mosque-attack-2026-08-31/)
+    
+    [
+    
+    ](https://www.reuters.com/legal/government/north-carolina-girl-17-charged-role-california-mosque-attack-2026-08-31/)
     
 
 [](https://www.lseg.com/en/data-analytics/products/workspace?utm_source=reuters.com&utm_medium=articlebanner&utm_campaign=Reuters_ProductPage_Links)
@@ -322,7 +318,6 @@ Reuters, the news and media division of Thomson Reuters, is the world’s larges
 - [Corrections](https://www.reuters.com/info-pages/contact-us/)
 - [Data Disclosure and Sources, opens new tab](https://www.reuters.com/info-pages/data-disclosure-and-sources/)
 - [Site Feedback, opens new tab](https://trdigital.iad1.qualtrics.com/jfe/form/SV_8kte8gArGyCGVhz)
-- Manage Cookies & Your Privacy Choices
 
 All quotes delayed a minimum of 15 minutes. [See here for a list of exchanges and delays.](https://www.reuters.com/info-pages/disclaimer/)
 

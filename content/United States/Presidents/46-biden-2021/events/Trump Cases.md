@@ -228,7 +228,8 @@ When this?:
 Trump quotes: Echoing the racist tropes he has deployed frequently against his legal adversaries, Trump has called Bragg a "thug" and a "degenerate psychopath," urging his supporters to take action against the "danger to our country."
 
 
-
+## New
+- [August 28, 2026](https://www.reuters.com/world/trump-loses-bid-move-already-decided-criminal-hush-money-case-us-court-2026-08-28/): Manhattan-based U.S. District Judge Alvin Hellerstein's rejects Trump bid to move already-decided criminal hush money case to federal court. The ruling came after a three-judge panel of the 2nd U.S. Circuit Court of Appeals directed ​him to review more closely how the Supreme Court's decision in July 2024 giving Trump broad immunity from prosecution affected ​the New York case. Hellerstein wrote that ⁠the case concerned the president's personal conduct, not his official acts.
 
 
 

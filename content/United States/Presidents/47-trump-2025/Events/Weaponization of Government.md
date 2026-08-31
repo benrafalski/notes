@@ -24,6 +24,9 @@ The Trump admin also subpoenaed the records of Matthew Cole, a freelance journal
 ### ABC
 #### Broadcast License Lawsuit
 In August 2026, Disney and its ABC unit [sued the FCC](https://www.reuters.com/world/disney-abc-sue-us-regulator-over-threats-broadcast-licenses-2026-08-18/) over threats to broadcast licenses, saying it threatened their free speech rights.
+### NBC
+#### Kristen Welker
+In August 2026, Trump made a Truth post saying NBC reporter [Kristen Welker will be reported to the FCC](https://www.reuters.com/business/media-telecom/trump-says-nbcs-welker-will-be-reported-fcc-2026-08-30/) for "rebuke or punishment," after she noted that Trump's success in endorsing political candidates has been mixed.
 ## Pentagon Attacks
 ### Stars and Stripes Purge
 In August 2026, the Pentagon fired Stars and Stripes editor-in-chief Erik Slavin, publisher Max Lederer, and reporter Lara Korte for "insubordination." Slavin said the termination was because he said in a CBS interview that [hypothetical censorship](https://www.reuters.com/world/us/pentagon-fires-us-military-newspaper-leadership-2026-08-21/) of news for service members ​would constitute a personal red line.

@@ -164,6 +164,8 @@ On March 9, 2025, Columbia grad student and Palestinian refugee with permanent U
 
 
 
+### Targeting Students for Speech
+- August 28, 2026: U.S. District Judge Noel Wise in San Jose, California in a [blistering ruling, opens new tab](https://fingfx.thomsonreuters.com/gfx/legaldocs/klpyoaqawpg/08282026stanford.pdf) rules that laws that Trump used to cancel visas and initiate deportation proceedings against noncitizen college students based on their pro-Palestinian ‌advocacy and criticism of Israel are [unconstitutional](https://www.reuters.com/legal/government/judge-deals-blow-trump-moves-deport-pro-palestinian-activists-2026-08-29/). Following the slew of arrests in March 2025, including Mahmoud Khalil, in August 2025 Stanford University’s student newspaper, The Stanford Daily, filed a lawsuit which alleged that some of its writers ​with student visas had refrained from covering pro-Palestinian student protests and topics related to the Middle East conflict as a result of the ​administration's policies.
 # Federal Reserve
 ## Lisa Cook
 - **August 7, 2026**: Trump [renews effort to fire Lisa Cook](https://www.reuters.com/world/us/trump-moving-forward-with-attempt-fire-lisa-cook-after-supreme-court-ruling-abc-2026-08-07/), keeping alive his assault on the central ​bank's independence even after the U.S. Supreme Court ruling. The White House told Cook in a letter that the president was "considering" removing her from her role and demanded she respond to unproven mortgage fraud allegations within three weeks.

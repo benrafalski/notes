@@ -17,6 +17,8 @@
 ## Deportations
 ### US Military Family Members
 By August 2026, the Trump admin had deported [seven spouses or parents](https://www.reuters.com/legal/government/wife-active-duty-us-army-sergeant-is-deported-2026-08-25/) of active-duty ⁠U.S. military service members under his expanded immigration crackdown during his second term. 
+### Milo Yiannapoulos
+In August 2026, British far-right commentator Milo Yiannopoulos, who has called for ICE checkpoints ‌at supermarkets in the United States, with summary deportation of anyone failing to prove legal U.S. residency, has been [detained by ICE](https://www.reuters.com/legal/government/british-far-right-commentator-milo-yiannopoulos-detained-by-ice-2026-08-28/). DHS said Yiannopoulos had overstayed visa and missed hearing. 
 
 ## Protected Areas
 ### Places of Worship
