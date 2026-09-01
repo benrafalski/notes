@@ -24,201 +24,187 @@
 
 [My News](https://www.reuters.com/my-news/feed/)
 
-[](https://www.reuters.com/account/sign-in/?redirect=https%3A%2F%2Fwww.reuters.com%2Flegal%2Fgovernment%2Fbritish-far-right-commentator-milo-yiannopoulos-detained-by-ice-2026-08-28%2F)[](https://www.reuters.com/account/subscribe/offer/?redirect=https%3A%2F%2Fwww.reuters.com%2Flegal%2Fgovernment%2Fbritish-far-right-commentator-milo-yiannopoulos-detained-by-ice-2026-08-28%2F&referrer=subscription_button&journeyStart=navigation)
+[](https://www.reuters.com/account/sign-in/?redirect=https%3A%2F%2Fwww.reuters.com%2Fworld%2Fmiddle-east%2Firan-urges-us-comply-with-interim-deal-after-trump-threatens-further-strikes-2026-09-01%2F)[](https://www.reuters.com/account/subscribe/offer/?redirect=https%3A%2F%2Fwww.reuters.com%2Fworld%2Fmiddle-east%2Firan-urges-us-comply-with-interim-deal-after-trump-threatens-further-strikes-2026-09-01%2F&referrer=subscription_button&journeyStart=navigation)
 
-# British far-right commentator Milo Yiannopoulos detained by ICE
+# US launches new assault on Iran, which fires on US base in Jordan
 
-By [Kristina Cooke](https://www.reuters.com/authors/kristina-cooke/) and [Steve Gorman](https://www.reuters.com/authors/steve-gorman/)
+By [Daphne Psaledakis](https://www.reuters.com/authors/daphne-psaledakis/) and [Parisa Hafezi](https://www.reuters.com/authors/parisa-hafezi/)
 
-August 28, 20261:12 PM PDTUpdated August 29, 2026
+September 1, 20264:13 AM PDTUpdated 39 mins ago
 
-![Far-right commentator Milo Yiannopoulos detained by ICE](https://ajo.prod.reuters.tv/api/v2/img/6a93098be4b0f9a8fa391905-1788021327582?width=1080&quality=80)
+Item 1 of 4 People drive near a billboard depicting U.S. President Donald Trump on a building in Tehran, Iran, August 31, 2026. Majid Asgaripour/WANA (West Asia News Agency) via REUTERS
+
+**[1/4]**People drive near a billboard depicting U.S. President Donald Trump on a building in Tehran, Iran, August 31, 2026. Majid Asgaripour/WANA (West Asia News Agency) via REUTERS [Purchase Licensing Rights, opens new tab](https://www.reutersconnect.com/item/billboard-depicting-us-president-donald-trump-on-a-building-in-tehran/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1JDMk05TkFGSVdRRw%3D%3D/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead)
 
 - Summary
-- Companies
 
-- Yiannopoulos has advocated for tough immigration enforcement
-- Political commentator gained prominence as Breitbart editor
-- DHS says Yiannopoulos overstayed visa, missed hearing
+- US says it launches new strikes on IRGC targets in Iran
+- Trump threatens Iran with more attacks if Tehran retaliates
+- Iranian media report multiple attacks, including at wedding and civilian airport
+- Iran says it killed large number of US forces in Jordan; US says no casualties
 
-Aug 28 (Reuters) - British far-right commentator Milo Yiannopoulos, who has called for ICE checkpoints ‌at supermarkets in the United States, with summary deportation of anyone failing to prove legal U.S. residency, has been detained by U.S. Immigration and Customs Enforcement, agency records showed on Friday.
+WASHINGTON/DUBAI, Sept 1 (Reuters) - The U.S. launched new airstrikes ​on Iranian targets on Tuesday, prompting Iranian retaliation and marking the most serious escalation in weeks in the conflict that has driven up global energy prices and weighed on President Donald Trump's popularity ‌at home.
 
-Yiannopoulos, 41, was arrested on ​Thursday at the Louis Armstrong New Orleans International Airport and is subject to a ​final order of removal from the U.S., ICE's parent agency, the U.S. ⁠Department of Homeland Security, said in a statement describing him as "an illegal alien from the ​United Kingdom."
+The strikes followed a weekend exchange of fire -- the first since July -- and Monday strikes on two tankers leaving the [Strait of Hormuz](https://www.reuters.com/world/middle-east/strait-hormuz-commodity-vessel-transits-stay-single-digits-data-shows-2026-09-01/), the global oil supply waterway that Iran has effectively closed to shipping. [Global oil prices](https://www.reuters.com/business/energy/oil-prices-rise-latest-fighting-resurrects-middle-east-supply-disruption-risks-2026-09-01/) rose more than $4 a barrel on Tuesday, settling at a five-week high.
 
-Jumpstart your morning with the latest legal news delivered straight to your inbox from The Daily Docket newsletter. Sign up [here.](https://www.reuters.com/newsletters/daily-docket/?location=article-paragraph&redirectUrl=%2Flegal%2Fgovernment%2Fbritish-far-right-commentator-milo-yiannopoulos-detained-by-ice-2026-08-28%2F)
+The Reuters Iran Briefing newsletter keeps you informed with the latest developments and analysis of the Iran war. Sign up [here.](https://www.reuters.com/newsletters/reuters-iran-briefing/?location=article-paragraph&redirectUrl=%2Fworld%2Fmiddle-east%2Firan-urges-us-comply-with-interim-deal-after-trump-threatens-further-strikes-2026-09-01%2F)
 
-According to DHS, Yiannopoulos legally entered the U.S. in May 2019 through New York City ​but "chose to overstay his welcome in violation of our nation's laws."
+Tehran remained defiant, warning that it would prevent oil being exported from the Gulf, despite a threat by Trump to [hit Iran "hard"](https://www.reuters.com/world/middle-east/trump-posts-ai-video-irans-kharg-smithereens-no-evidence-attack-2026-08-31/) in response to the renewed Iranian strikes, and a warning from U.S. Treasury Secretary Scott Bessent that Washington was about to impose new ​sanctions.
 
-"Yiannopoulos was issued a final order of removal by an immigration judge on July 22, after failing to show up for his immigration hearing," the DHS ​statement said. "He will remain in ICE custody pending removal."
+Five people were killed and 50 wounded at a wedding near Sirik, a coastal area on the Strait of Hormuz, the Iranian Red Crescent reported. The Mehr news agency said a 4-year-old child was among those killed. ​There was no immediate U.S. reaction to the reports.
 
-Yiannopoulos was not immediately available for comment ​and it was unclear whether he had obtained legal representation.
+The Islamic Revolutionary Guard Corps (IRGC) said in a statement the U.S. attacks would "tighten the lock" on the Strait of Hormuz which ⁠carried one of every five barrels of the world's oil before the war. Iranian threats against unauthorized shipping have shut most of the tanker traffic through the strait, driving up oil prices.
 
-Milo Yiannopoulos addresses the media during a news conference in New York City, NY, U.S. February 21, 2017. REUTERS/Lucas Jackson [Purchase Licensing Rights, opens new tab](https://www.reutersconnect.com/item/milo-yiannopoulos-addresses-the-media-during-a-news-conference-in-new-york/dGFnOnJldXRlcnMuY29tLDIwMTc6bmV3c21sX1JDMTk4OTYxMUY4MA%3D%3D/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead)
+"If the enemy wants us not to export oil ​from the Persian Gulf, no one will be able to export oil," Iranian parliament speaker Mohammad Baqer Qalibaf was quoted as saying by Iranian media.
 
-The celebrity news site TMZ.com, which broke news of ‌his ⁠arrest, suggested that Yiannopoulos, who has close ties to the hip-hop star formerly known as Kanye West, was in New Orleans ahead of the musician's scheduled performance there on Friday night.
+Neither threats of strikes nor new economic sanctions appear to have materially changed the position of ​Tehran, which has been under heavy economic sanctions for half a century.
 
-ICE's detention of Yiannopoulos marked an ironic turn for the political pundit who is known for far-right-wing ​commentary, including anti-Islamic rhetoric ​and support for ⁠immigration enforcement beyond the crackdown instituted by U.S. President Donald Trump.
+The second round of U.S. strikes in three days followed a month of relative calm in which the U.S. and Iran mostly held their fire while exchanging bellicose statements.
 
-In a June 2025 post on the social media platform X, he said California "needs ​ICE checkpoints at supermarket entrances, gas stations, strip malls, intersections and ​government buildings, ⁠with on the spot deportation for anyone who can’t prove they are in the US legally."
+Trump called Tuesday's strikes retaliation for Iranian attempts to place sea mines in the Strait of Hormuz after the U.S. military announced last week it had cleared a strategic shipping lane of Iranian mines, and for Iranian missiles fired at a U.S. military base in Jordan.
 
-In addition to his association with West, Yiannopoulos has worked with white nationalist Nick Fuentes.
+Later, sirens sounded anew in Jordan, state ​television reported. Iran's Islamic Revolutionary Guard Corps said it launched a heavy ballistic missile attack on the U.S. Marine Corps base in Jordan and "killed a large number of U.S. forces." Iran's Fars news agency called it a retaliatory operation ​that fired missiles and drones.
 
-He started working in ⁠2014 ​for right-wing Breitbart News, where he gained notoriety for ​his prominent role in the "Gamergate" anti-feminist harassment campaign that targeted women in the video game industry.
+There were no casualties so far from the Iranian attack on facilities in Jordan, two U.S. officials told Reuters. This was based on initial information and could change as Iranian attacks continued, the officials said.
 
-Reporting by Kristina Cooke in ​San Francisco and Steve Gorman in Los Angeles, Editing by Franklin Paul, Caitlin Webber, Rod Nickel
+Jordan's armed forces said its ‌air defense systems ⁠dealt with 13 ballistic missiles that entered the kingdom's airspace. The military said 10 missiles were intercepted and destroyed, while three fell in remote areas far from population centers.
+
+Trump had previously warned Iran against retaliation.
+
+"If the failed Nation of Iran retaliates for this very justified attack, they will be hit again at a much harder and higher level, but it will not be the biggest attack of them all, that is waiting in the wings and, when it is over, there will be very little left of the Islamic Republic of Iran!" Trump said in a social media post.
+
+In an interview with Fox News, Trump played down the prospects of another ceasefire. The U.S. and Iran reached a deal in June ​that quickly fell apart, largely over interpretations of Iranian ​control of the Strait of Hormuz.
+
+"I think an agreement ⁠with them isn't worth the paper it's written on. We gave them a lot of chances," Trump told Fox News.
+
+## U.S. SAYS IT HITS REVOLUTIONARY GUARD
+
+The U.S. military's Central Command said the latest wave of U.S. attacks hit IRGC targets.
+
+Iranian media reported multiple strikes, including a U.S. missile attack near the city of Ahvaz and at the civilian Jiroft airport in ​southeastern Iran, while explosions were heard in the southeastern port of Chabahar, the port city of Bandar Abbas on Strait of Hormuz, and in Asaluyeh, a critical ​gas hub on the Gulf coast.
+
+Iran's ⁠state broadcaster also reported explosions on Iran's Qeshm Island, on the northern side of the strait.
+
+The Fars news agency cited an IRGC spokesperson as saying the U.S. "will regret its new attacks".
+
+[The six-month-old conflict](https://www.reuters.com/world/iran/) had shifted into an economic standoff before the weekend strikes, in which U.S. forces attacked Iran's Larak Island on Sunday and Iran responded by launching missiles at two U.S. air bases in Jordan.
+
+Iranian President Masoud Pezeshkian had said early on Tuesday at a regional summit in Kyrgyzstan that Tehran would reciprocate immediately ⁠if Washington honored ​its commitments under a June Memorandum of Understanding that was intended to halt the conflict.
+
+The MOU declared an end to fighting that has ​now killed thousands in Iran and Lebanon since U.S. and Israeli strikes began on February 28. But it also deferred many of the most difficult issues and paved the way for a broader 60-day negotiation period — which passed without further agreement.
+
+Reporting by Parisa Hafez in Dubai, Daphne Psaledakis, Idrees Ali ​and Jasper Ward in Washington, Bhargav Acharya in Toronto, and Yasmine Ghania, Ahmed Tolba and Muhammad Al Gebaly in Cairo; Writing by Timothy Heritage, Kevin Liffey, Nathan Layne and Daniel Trotta; Editing by Scott Malone, Sanjeev Miglani and Don Durfee
 
 Our Standards: [The Thomson Reuters Trust Principles., opens new tab](https://www.thomsonreuters.com/en/about-us/trust-principles.html)
 
 - Suggested Topics:
-- [](https://www.reuters.com/legal/litigation/)
-- [](https://www.reuters.com/legal/constitutional-law/)
+- [](https://www.reuters.com/world/middle-east/)
 
 [](https://www.reutersagency.com/en/licensereuterscontent/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead)
 
 [
 
-](https://www.reuters.com/authors/kristina-cooke/)
+](https://www.reuters.com/authors/daphne-psaledakis/)
 
-[Kristina Cooke](https://www.reuters.com/authors/kristina-cooke/)
+[Daphne Psaledakis](https://www.reuters.com/authors/daphne-psaledakis/)
 
 Thomson Reuters
 
-Kristina Cooke is a Pulitzer Prize-winning investigative reporter at Reuters focused on immigration and criminal justice. She was part of a team awarded the Pulitzer Prize for National Reporting in 2026 for a series on President Donald Trump’s campaign of political retribution. In 2025, she shared the Pulitzer Prize for Investigative Reporting for a series on the fentanyl crisis. Her investigation with colleagues into migrant child labor in the United States was a finalist for the Pulitzer Prize for National Reporting in 2023, and a recipient of the Polk and other awards. She speaks English, German and Spanish and is based in San Francisco.
+Daphne Psaledakis is a breaking news correspondent based in Washington, D.C. She previously covered foreign policy for Reuters, including the State Department and U.S. sanctions. She has covered the administration of President Donald Trump, the rollout of U.S. sanctions on Russia after Moscow’s invasion of Ukraine and U.S. negotiations with Rwanda and Democratic Republic of Congo, among other issues. She previously completed an Overseas Press Club Foundation fellowship with Reuters in Brussels, covering the European Union. Daphne holds a Bachelor of Journalism in Print and Digital News and a Bachelor of Arts in International Studies from the University of Missouri.
 
-- [](mailto:kristina.cooke@thomsonreuters.com)
-- [](https://www.reuters.com/legal/government/british-far-right-commentator-milo-yiannopoulos-detained-by-ice-2026-08-28/@kristinaleecooke)
-- [](https://www.linkedin.com/in/kristinacooke/)
+- [](mailto:Daphne.Psaledakis@thomsonreuters.com)
+- [](https://x.com/DPsaledakis)
+- [](https://www.linkedin.com/in/www.linkedin.com/in/daphne-psaledakis-679aaa64)
 
-## Read Next / Editor's Picks
+## Read Next
 
-- [Litigationcategory](https://www.reuters.com/legal/litigation/)
+- [Chinacategory](https://www.reuters.com/world/china/)
     
-    [Meta defeats Instagram shopping monopoly lawsuit for now](https://www.reuters.com/legal/litigation/meta-defeats-instagram-shopping-monopoly-lawsuit-now-2026-08-31/)
-    
-    [
-    
-    ](https://www.reuters.com/legal/litigation/meta-defeats-instagram-shopping-monopoly-lawsuit-now-2026-08-31/)
-    
-- [Governmentcategory](https://www.reuters.com/legal/government/)
-    
-    [Sony, Warner Music sue Anthropic over songs used in AI training](https://www.reuters.com/legal/government/sony-warner-music-sue-anthropic-over-songs-used-ai-training-2026-08-31/)
+    [UN faces contentious Iran nuclear vote ahead of General Assembly](https://www.reuters.com/world/china/un-faces-contentious-iran-nuclear-vote-ahead-general-assembly-2026-09-01/)
     
     [
     
-    ](https://www.reuters.com/legal/government/sony-warner-music-sue-anthropic-over-songs-used-ai-training-2026-08-31/)
+    ](https://www.reuters.com/world/china/un-faces-contentious-iran-nuclear-vote-ahead-general-assembly-2026-09-01/)
     
-- [Litigationcategory](https://www.reuters.com/legal/litigation/)
+- [Middle Eastcategory](https://www.reuters.com/world/middle-east/)
     
-    [State Farm sued by Los Angeles County for allegedly mishandling wildfire claims](https://www.reuters.com/legal/litigation/state-farm-sued-by-los-angeles-county-allegedly-mishandling-wildfire-claims-2026-08-31/)
-    
-    [
-    
-    ](https://www.reuters.com/legal/litigation/state-farm-sued-by-los-angeles-county-allegedly-mishandling-wildfire-claims-2026-08-31/)
-    
-- [Governmentcategory](https://www.reuters.com/legal/government/)
-    
-    [Apple alleges OpenAI employee accessed circuit plans after joining startup](https://www.reuters.com/legal/government/apple-alleges-openai-employee-accessed-circuit-plans-after-joining-startup-2026-08-31/)
+    [Israeli special forces capture Hamas official in raid on Gaza City](https://www.reuters.com/world/middle-east/israeli-fire-kills-four-people-including-three-children-gaza-medics-say-2026-09-01/)
     
     [
     
-    ](https://www.reuters.com/legal/government/apple-alleges-openai-employee-accessed-circuit-plans-after-joining-startup-2026-08-31/)
+    ](https://www.reuters.com/world/middle-east/israeli-fire-kills-four-people-including-three-children-gaza-medics-say-2026-09-01/)
     
-- [Legal Industrycategory](https://www.reuters.com/legal/legalindustry/)
+- [Chinacategory](https://www.reuters.com/world/china/)
     
-    [Trader Joe’s must face Smucker’s lawsuit over alleged copycat 'Uncrustibles' sandwiches](https://www.reuters.com/legal/legalindustry/trader-joes-must-face-smuckers-lawsuit-over-alleged-copycat-uncrustibles-2026-08-28/)
-    
-    [
-    
-    ](https://www.reuters.com/legal/legalindustry/trader-joes-must-face-smuckers-lawsuit-over-alleged-copycat-uncrustibles-2026-08-28/)
-    
-- [Legal Industrycategory](https://www.reuters.com/legal/legalindustry/)
-    
-    [Delaware jury finds Parse infringed three genetic-sequencing patents](https://www.reuters.com/legal/legalindustry/qiagen-owes-10x-roche-48-million-infringing-patents-us-jury-says-2026-08-28/)
+    [Bessent says U.S. likely to announce Iran bank sanctions this week](https://www.reuters.com/world/china/bessent-says-us-likely-announce-iran-bank-sanctions-this-week-2026-09-01/)
     
     [
     
-    ](https://www.reuters.com/legal/legalindustry/qiagen-owes-10x-roche-48-million-infringing-patents-us-jury-says-2026-08-28/)
+    ](https://www.reuters.com/world/china/bessent-says-us-likely-announce-iran-bank-sanctions-this-week-2026-09-01/)
     
-- [Governmentcategory](https://www.reuters.com/legal/government/)
+- [Middle Eastcategory](https://www.reuters.com/world/middle-east/)
     
-    [Singer D4vd, charged with murdering and dismembering teen, dismisses lawyer](https://www.reuters.com/legal/government/singer-d4vd-charged-with-murdering-dismembering-teen-dismisses-lawyer-2026-08-31/)
-    
-    [
-    
-    ](https://www.reuters.com/legal/government/singer-d4vd-charged-with-murdering-dismembering-teen-dismisses-lawyer-2026-08-31/)
-    
-- [Worldcategory](https://www.reuters.com/world/)
-    
-    [Kalshi cannot block Nevada oversight of prediction markets, US appeals court rules](https://www.reuters.com/world/kalshi-cannot-block-nevada-oversight-sports-prediction-markets-us-appeals-court-2026-08-28/)
+    [IAEA reports progress in Syria investigation, none in Iran](https://www.reuters.com/world/middle-east/iaea-reports-progress-syria-investigation-none-iran-2026-09-01/)
     
     [
     
-    ](https://www.reuters.com/world/kalshi-cannot-block-nevada-oversight-sports-prediction-markets-us-appeals-court-2026-08-28/)
+    ](https://www.reuters.com/world/middle-east/iaea-reports-progress-syria-investigation-none-iran-2026-09-01/)
     
-- [Governmentcategory](https://www.reuters.com/legal/government/)
+- [Asia Pacificcategory](https://www.reuters.com/world/asia-pacific/)
     
-    [U.S. court dismisses appeal over objections to $7.25 billion Roundup deal](https://www.reuters.com/legal/government/us-court-dismisses-appeal-over-objections-725-billion-roundup-deal-2026-08-27/)
-    
-    [
-    
-    ](https://www.reuters.com/legal/government/us-court-dismisses-appeal-over-objections-725-billion-roundup-deal-2026-08-27/)
-    
-- [Litigationcategory](https://www.reuters.com/legal/litigation/)
-    
-    [Judge likely to deny California's bid to stop Amazon's alleged price fixing](https://www.reuters.com/legal/litigation/judge-likely-deny-californias-bid-stop-amazons-alleged-price-fixing-2026-08-27/)
+    [China's Xi lands in Egypt as Iran war reshapes Middle East alliances](https://www.reuters.com/world/asia-pacific/chinas-xi-arrives-cairo-egypt-state-visit-xinhua-reports-2026-09-01/)
     
     [
     
-    ](https://www.reuters.com/legal/litigation/judge-likely-deny-californias-bid-stop-amazons-alleged-price-fixing-2026-08-27/)
-    
-- [California sues Trump administration over offshore wind lease cancelation](https://www.reuters.com/business/energy/california-sues-trump-administration-over-offshore-wind-lease-cancelation-2026-08-28/)
-    
-    [
-    
-    ](https://www.reuters.com/business/energy/california-sues-trump-administration-over-offshore-wind-lease-cancelation-2026-08-28/)
-    
-- [Governmentcategory](https://www.reuters.com/legal/government/)
-    
-    [Jury weighing fate of ex-gang leader accused of plotting Tupac killing](https://www.reuters.com/legal/government/jury-hear-closing-arguments-tupac-killing-trial-2026-08-31/)
-    
-    [
-    
-    ](https://www.reuters.com/legal/government/jury-hear-closing-arguments-tupac-killing-trial-2026-08-31/)
-    
-- [Governmentcategory](https://www.reuters.com/legal/government/)
-    
-    [Australian regulator launches Western Union probe over high-risk payment concerns](https://www.reuters.com/legal/government/australian-regulator-launches-western-union-probe-over-high-risk-payment-2026-08-31/)
-    
-    [
-    
-    ](https://www.reuters.com/legal/government/australian-regulator-launches-western-union-probe-over-high-risk-payment-2026-08-31/)
-    
-- [Litigationcategory](https://www.reuters.com/legal/litigation/)
-    
-    [California opposes Paramount request for $1.88 billion bond](https://www.reuters.com/legal/litigation/california-opposes-paramount-request-188-billion-bond-2026-08-31/)
-    
-    [
-    
-    ](https://www.reuters.com/legal/litigation/california-opposes-paramount-request-188-billion-bond-2026-08-31/)
-    
-- [Litigationcategory](https://www.reuters.com/legal/litigation/)
-    
-    [Shareholder opposition to executive pay eases globally](https://www.reuters.com/legal/litigation/shareholder-opposition-executive-pay-eases-globally-2026-08-31/)
-    
-    [
-    
-    ](https://www.reuters.com/legal/litigation/shareholder-opposition-executive-pay-eases-globally-2026-08-31/)
-    
-- [Governmentcategory](https://www.reuters.com/legal/government/)
-    
-    [North Carolina girl, 17, charged in role in California mosque attack](https://www.reuters.com/legal/government/north-carolina-girl-17-charged-role-california-mosque-attack-2026-08-31/)
-    
-    [
-    
-    ](https://www.reuters.com/legal/government/north-carolina-girl-17-charged-role-california-mosque-attack-2026-08-31/)
+    ](https://www.reuters.com/world/asia-pacific/chinas-xi-arrives-cairo-egypt-state-visit-xinhua-reports-2026-09-01/)
     
 
 [](https://www.lseg.com/en/data-analytics/products/workspace?utm_source=reuters.com&utm_medium=articlebanner&utm_campaign=Reuters_ProductPage_Links)
+
+## [World](https://www.reuters.com/world/)
+
+- [
+    
+    ](https://www.reuters.com/world/china/un-faces-contentious-iran-nuclear-vote-ahead-general-assembly-2026-09-01/)
+    
+    ### [UN faces contentious Iran nuclear vote ahead of General Assembly](https://www.reuters.com/world/china/un-faces-contentious-iran-nuclear-vote-ahead-general-assembly-2026-09-01/)
+    
+    [Chinacategory](https://www.reuters.com/world/china/) · September 1, 2026 · 3:31 PM PDT · 17 mins ago
+    
+    France said on Tuesday the U.N. Security Council will vote ​this month on renewing the mandate of a panel monitoring sanctions on Iran, setting up a ‌potential showdown with Russia and China, which oppose the sanctions regime and oversight mechanisms.
+    
+- [
+    
+    ](https://www.reuters.com/world/belgian-court-orders-trial-corruption-money-laundering-linked-congo-passport-2026-09-01/)
+    
+    [Worldcategory](https://www.reuters.com/world/)[Belgian court orders trial for corruption, money laundering linked to Congo passport deal](https://www.reuters.com/world/belgian-court-orders-trial-corruption-money-laundering-linked-congo-passport-2026-09-01/)
+    
+    3:07 PM PDT
+    
+- [
+    
+    ](https://www.reuters.com/business/environment/tropical-storm-edouard-moves-ashore-gulf-coast-near-texas-louisiana-border-2026-09-01/)
+    
+    [category](https://www.reuters.com/business/)[Tropical Storm Edouard moves ashore Gulf Coast near Texas-Louisiana border](https://www.reuters.com/business/environment/tropical-storm-edouard-moves-ashore-gulf-coast-near-texas-louisiana-border-2026-09-01/)
+    
+    3:07 PM PDT
+    
+- [
+    
+    ](https://www.reuters.com/legal/government/russian-cybercrime-operation-being-dismantled-after-two-decades-us-officials-2026-09-01/)
+    
+    [Legalcategory](https://www.reuters.com/legal/)[Russian cybercrime operation being dismantled after two decades, US officials and CrowdStrike say](https://www.reuters.com/legal/government/russian-cybercrime-operation-being-dismantled-after-two-decades-us-officials-2026-09-01/)
+    
+    3:01 PM PDT
+    
+- [
+    
+    ](https://www.reuters.com/business/healthcare-pharmaceuticals/uk-pledges-additional-50-million-help-contain-ebola-outbreak-congo-2026-09-01/)
+    
+    [category](https://www.reuters.com/business/)[UK pledges additional £50 million to help contain Ebola outbreak in Congo](https://www.reuters.com/business/healthcare-pharmaceuticals/uk-pledges-additional-50-million-help-contain-ebola-outbreak-congo-2026-09-01/)
+    
+    2:41 PM PDT
+    
 
 ### Site Index
 
@@ -318,6 +304,7 @@ Reuters, the news and media division of Thomson Reuters, is the world’s larges
 - [Corrections](https://www.reuters.com/info-pages/contact-us/)
 - [Data Disclosure and Sources, opens new tab](https://www.reuters.com/info-pages/data-disclosure-and-sources/)
 - [Site Feedback, opens new tab](https://trdigital.iad1.qualtrics.com/jfe/form/SV_8kte8gArGyCGVhz)
+- Manage Cookies & Your Privacy Choices
 
 All quotes delayed a minimum of 15 minutes. [See here for a list of exchanges and delays.](https://www.reuters.com/info-pages/disclaimer/)
 

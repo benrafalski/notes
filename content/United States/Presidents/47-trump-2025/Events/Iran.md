@@ -17,6 +17,8 @@
 - [August 18](https://www.reuters.com/world/middle-east/trump-says-no-talks-planned-with-iran-tehran-says-strait-hormuz-still-shut-2026-08-18/): MOU 60-day time frame for a broader ⁠deal on Iran's nuclear program and U.S. sanctions elapses and Trump said he had no plans to extend it. Current status: Trump says Strait is open but it isn't, negotiations seem to be at a stand-still.
 - [August 25](https://www.reuters.com/world/china/iran-vows-retaliate-after-us-widens-sanctions-2026-08-25/): US announces expanded sanctions aimed at isolating Iran's economy by threatening Iran's trade partners but giving them time to cut ties in what they called an "economic D-Day." The new economic sanctions showed the US was shifting from using military might to economic pressure to force Iran to surrender. 
 - [August 28](https://www.reuters.com/world/middle-east/iran-war-diplomacy-turns-toward-reopening-strait-hormuz-2026-08-28/): Iran war reaches 6 month point as the Strait of Hormuz remained virtually closed and each side said there were no ongoing negotiations to end the war. The U.S. also ​imposed limits on Egypt's Banque Misr for doing business with Tehran by revoking U.S. financial access to its branches in the UAE.
+## September
+- [September 1](https://www.reuters.com/world/middle-east/iran-urges-us-comply-with-interim-deal-after-trump-threatens-further-strikes-2026-09-01/): US launches new strikes on IRGC targets in Iran, the first since July, prompting Iranian retaliation and marking the most serious escalation in weeks in the conflict.  
 
 
 

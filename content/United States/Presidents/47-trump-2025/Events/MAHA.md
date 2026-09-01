@@ -13,6 +13,11 @@ title: MAHA
 - They also said fewer recommended shots will leave more children exposed to preventable diseases. 
 - **"72 Injections"**: Trump, Kennedy and ​other officials said the order means U.S. children would receive far fewer than the 72 injections recommended under the previous schedule but vaccine experts say that ​figure is inflated, because it ⁠counts combination shots such as MMR as multiple injections, and assumes annual flu and COVID-19 doses. Other developed countries that may recommend fewer shots also face different disease risks and have different healthcare systems. 
 - **Autism**: Trump also repeated false claims of a link between vaccines and autism, which ⁠40 well-designed studies ​had already examined over a long period of time and found no link.
+## Parent Vaccine Refusals
+### Vitamin K
+Refusals in US hospitals of vital newborn vitamin rose 57% from January-June [Reuters review](https://www.reuters.com/world/us-refusals-crucial-newborn-vitamin-spike-raising-risk-dangerous-bleeding-2026-09-01/) finds. Babies are born with very low levels of vitamin K, which helps blood to clot, and are unprotected up until about six months of age. They are 81 times more likely in those first six months to have life-threatening bleeding in the brain or gut.
+![[Pasted image 20260901074607.png]]
+
 # Disease Outbreaks
 ## Measles
 ### Measles Cases + Outbreaks

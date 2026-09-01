@@ -25,6 +25,7 @@
 ## White House Ballroom
 - **Court Battle Timeline**
 	- [Appeal](https://www.reuters.com/world/us-appeals-court-blocks-trumps-400-million-white-house-ballroom-project-2026-08-07/) (August 7, 2026): Washington-based U.S. Court of Appeals for the District of Columbia Circuit rules 2-1 to uphold Judge Leon's injunction.
+	- [Supreme Court Intervention](https://www.reuters.com/world/supreme-court-lets-trumps-white-house-ballroom-construction-continue-now-2026-08-31/) (August 31, 2026): Supreme Court rules 5-4 to lift Leon's injunction, with Roberts dissenting saying the ballroom construction was "likely unlawful," noting that Congress has "plenary constitutional authority over the ⁠District of Columbia and federal property" and that it has prohibited structures from being built on federal government grounds in Washington, D.C., without its authorization.
 
 # Renaming Things
 ## Lake Ontario
