@@ -1,0 +1,2 @@
+# August 2026 Funding
+- August 2026: Congress [passes](https://www.reuters.com/legal/government/us-house-has-enough-votes-pass-stopgap-funds-prevent-shutdowns-oct-1-2026-09-01/) temporary "continuing resolution" funding bill to avert government shutdown before midterm elections. 370-48 in House. Neither Republicans nor Democrats wanted a fourth shutdown hanging over them as they run for re-election, potentially enraging voters who already are angry about ​the high price of food and housing 

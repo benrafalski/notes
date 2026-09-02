@@ -29,7 +29,7 @@
 
 # Renaming Things
 ## Lake Ontario
-In August 2026, amid a trade and tariff spat with Canada, Trump signed an order renaming Lake Ontario to 'Lake America.' 
+In August 2026, amid a trade and tariff spat with Canada, Trump signed an order renaming Lake Ontario to 'Lake America.' Soon after,  Google and Apple maps changed the name of Lake Ontario to "Lake America," illustrating how [U.S. tech companies](https://www.reuters.com/world/us/apple-maps-changes-name-lake-ontario-lake-america-2026-09-01/) are being pulled into geopolitical disputes as Trump pressures them to comply with executive orders that allies and international bodies ​have rejected. 
 # Remaking Education
 ## Higher Education
 ### Indirect Research

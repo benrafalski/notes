@@ -24,139 +24,100 @@
 
 [My News](https://www.reuters.com/my-news/feed/)
 
-[](https://www.reuters.com/account/sign-in/?redirect=https%3A%2F%2Fwww.reuters.com%2Fworld%2Fmiddle-east%2Firan-urges-us-comply-with-interim-deal-after-trump-threatens-further-strikes-2026-09-01%2F)[](https://www.reuters.com/account/subscribe/offer/?redirect=https%3A%2F%2Fwww.reuters.com%2Fworld%2Fmiddle-east%2Firan-urges-us-comply-with-interim-deal-after-trump-threatens-further-strikes-2026-09-01%2F&referrer=subscription_button&journeyStart=navigation)
+[](https://www.reuters.com/account/sign-in/?redirect=https%3A%2F%2Fwww.reuters.com%2Fworld%2Fus%2Fapple-maps-changes-name-lake-ontario-lake-america-2026-09-01%2F)[](https://www.reuters.com/account/subscribe/offer/?redirect=https%3A%2F%2Fwww.reuters.com%2Fworld%2Fus%2Fapple-maps-changes-name-lake-ontario-lake-america-2026-09-01%2F&referrer=subscription_button&journeyStart=navigation)
 
-# US launches new assault on Iran, which fires on US base in Jordan
+# Apple Maps changes name of Lake Ontario to 'Lake America'
 
-By [Daphne Psaledakis](https://www.reuters.com/authors/daphne-psaledakis/) and [Parisa Hafezi](https://www.reuters.com/authors/parisa-hafezi/)
+By [David Shepardson](https://www.reuters.com/authors/david-shepardson/) and [Stephen Nellis](https://www.reuters.com/authors/stephen-nellis/)
 
-September 1, 20264:13 AM PDTUpdated 39 mins ago
+September 1, 20262:30 PM PDTUpdated 12 hours ago
 
-Item 1 of 4 People drive near a billboard depicting U.S. President Donald Trump on a building in Tehran, Iran, August 31, 2026. Majid Asgaripour/WANA (West Asia News Agency) via REUTERS
+![U.S. President Trump signs executive order at the White House in Washington](https://www.reuters.com/resizer/v2/J2XGMWA2CFK4HGJCV6RGORHDWA.jpg?auth=33c5784d1687c3b03b6096c1b181330a6f980b29b7e5a67d448af23dd23b644a&width=1920&quality=80)
 
-**[1/4]**People drive near a billboard depicting U.S. President Donald Trump on a building in Tehran, Iran, August 31, 2026. Majid Asgaripour/WANA (West Asia News Agency) via REUTERS [Purchase Licensing Rights, opens new tab](https://www.reutersconnect.com/item/billboard-depicting-us-president-donald-trump-on-a-building-in-tehran/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1JDMk05TkFGSVdRRw%3D%3D/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead)
+U.S. President Donald Trump speaks next to a map with "Lake America" written on it as he attends an event to sign an executive order renaming Lake Ontario as Lake America at the Oval Office of the White House in Washington, D.C., U.S., August 27, 2026. REUTERS/Evan Vucci [Purchase Licensing Rights, opens new tab](https://www.reutersconnect.com/item/us-president-trump-signs-executive-order-at-the-white-house-in-washington/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1JDMjU3TkFTNTgzOQ%3D%3D/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead)
 
-- Summary
+WASHINGTON, Sept 1 (Reuters) - Apple [(AAPL.O), opens new tab](https://www.reuters.com/markets/companies/AAPL.O) changed the name of Lake Ontario to "Lake America" on the web ​version of its Apple Maps following U.S. President Donald Trump's [executive order renaming ‌the lake](https://www.reuters.com/world/us/trump-signs-order-rename-lake-ontario-lake-america-2026-08-27/).
 
-- US says it launches new strikes on IRGC targets in Iran
-- Trump threatens Iran with more attacks if Tehran retaliates
-- Iranian media report multiple attacks, including at wedding and civilian airport
-- Iran says it killed large number of US forces in Jordan; US says no casualties
+The move by Apple on Tuesday followed a decision by Alphabet [(GOOGL.O), opens new tab](https://www.reuters.com/markets/companies/GOOGL.O) late on Saturday to change the name of the lake on its Google Maps for U.S. users.
 
-WASHINGTON/DUBAI, Sept 1 (Reuters) - The U.S. launched new airstrikes ​on Iranian targets on Tuesday, prompting Iranian retaliation and marking the most serious escalation in weeks in the conflict that has driven up global energy prices and weighed on President Donald Trump's popularity ‌at home.
+The Reuters Daily Briefing newsletter provides all the news you need to start your day. Sign up [here.](https://www.reuters.com/newsletters/daily-briefing/?location=article-paragraph&redirectUrl=%2Fworld%2Fus%2Fapple-maps-changes-name-lake-ontario-lake-america-2026-09-01%2F)
 
-The strikes followed a weekend exchange of fire -- the first since July -- and Monday strikes on two tankers leaving the [Strait of Hormuz](https://www.reuters.com/world/middle-east/strait-hormuz-commodity-vessel-transits-stay-single-digits-data-shows-2026-09-01/), the global oil supply waterway that Iran has effectively closed to shipping. [Global oil prices](https://www.reuters.com/business/energy/oil-prices-rise-latest-fighting-resurrects-middle-east-supply-disruption-risks-2026-09-01/) rose more than $4 a barrel on Tuesday, settling at a five-week high.
+Apple confirmed that U.S. users ​will see “Lake America” following a change to the body of water’s name in ​the U.S. Geographic Names Information System.
 
-The Reuters Iran Briefing newsletter keeps you informed with the latest developments and analysis of the Iran war. Sign up [here.](https://www.reuters.com/newsletters/reuters-iran-briefing/?location=article-paragraph&redirectUrl=%2Fworld%2Fmiddle-east%2Firan-urges-us-comply-with-interim-deal-after-trump-threatens-further-strikes-2026-09-01%2F)
+Users in Canada will continue to ⁠see Lake Ontario, and users in the rest of the world will see both ​names, following the same approach Apple used after Trump renamed the Gulf of Mexico as ​the Gulf of America.
 
-Tehran remained defiant, warning that it would prevent oil being exported from the Gulf, despite a threat by Trump to [hit Iran "hard"](https://www.reuters.com/world/middle-east/trump-posts-ai-video-irans-kharg-smithereens-no-evidence-attack-2026-08-31/) in response to the renewed Iranian strikes, and a warning from U.S. Treasury Secretary Scott Bessent that Washington was about to impose new ​sanctions.
+The name changes illustrate how U.S. tech companies are being pulled into geopolitical disputes as the Trump administration pressures them to comply with executive orders that allies and international bodies ​have rejected.
 
-Five people were killed and 50 wounded at a wedding near Sirik, a coastal area on the Strait of Hormuz, the Iranian Red Crescent reported. The Mehr news agency said a 4-year-old child was among those killed. ​There was no immediate U.S. reaction to the reports.
+Trump's executive order on Lake Ontario, one of the five Great Lakes of ​North America, applies to U.S. federal usage for the lake, and does not govern what Canada, international ‌bodies ⁠or other organizations call the lake.
 
-The Islamic Revolutionary Guard Corps (IRGC) said in a statement the U.S. attacks would "tighten the lock" on the Strait of Hormuz which ⁠carried one of every five barrels of the world's oil before the war. Iranian threats against unauthorized shipping have shut most of the tanker traffic through the strait, driving up oil prices.
+A majority of Americans oppose Trump's moves last week to raise taxes on imported Canadian goods and his order to rename Lake Ontario as "Lake America," a new [Reuters/Ipsos poll](https://www.reuters.com/reuters-ipsos-polls/) found.
 
-"If the enemy wants us not to export oil ​from the Persian Gulf, no one will be able to export oil," Iranian parliament speaker Mohammad Baqer Qalibaf was quoted as saying by Iranian media.
+Within hours of Trump's executive order, Canadian Prime Minister Mark Carney ​and New York Governor ​Kathy Hochul, a ⁠Democrat, said they would not be changing the name, which is more than 400 years old. New York borders the lake on ​the U.S. side.
 
-Neither threats of strikes nor new economic sanctions appear to have materially changed the position of ​Tehran, which has been under heavy economic sanctions for half a century.
+About 52% of the surface area of Lake ​Ontario is ⁠in Canada, with the remainder in New York.
 
-The second round of U.S. strikes in three days followed a month of relative calm in which the U.S. and Iran mostly held their fire while exchanging bellicose statements.
+Since early 2025, Trump has repeatedly taunted Canada about becoming the 51st U.S. state, an idea Canadian leaders have dismissed as ridiculous.
 
-Trump called Tuesday's strikes retaliation for Iranian attempts to place sea mines in the Strait of Hormuz after the U.S. military announced last week it had cleared a strategic shipping lane of Iranian mines, and for Iranian missiles fired at a U.S. military base in Jordan.
+Trump also ordered ⁠the ​Gulf of Mexico renamed to Gulf of America in ​January 2025 and both Google and Apple revised their map apps to reflect the change for U.S. users.
 
-Later, sirens sounded anew in Jordan, state ​television reported. Iran's Islamic Revolutionary Guard Corps said it launched a heavy ballistic missile attack on the U.S. Marine Corps base in Jordan and "killed a large number of U.S. forces." Iran's Fars news agency called it a retaliatory operation ​that fired missiles and drones.
-
-There were no casualties so far from the Iranian attack on facilities in Jordan, two U.S. officials told Reuters. This was based on initial information and could change as Iranian attacks continued, the officials said.
-
-Jordan's armed forces said its ‌air defense systems ⁠dealt with 13 ballistic missiles that entered the kingdom's airspace. The military said 10 missiles were intercepted and destroyed, while three fell in remote areas far from population centers.
-
-Trump had previously warned Iran against retaliation.
-
-"If the failed Nation of Iran retaliates for this very justified attack, they will be hit again at a much harder and higher level, but it will not be the biggest attack of them all, that is waiting in the wings and, when it is over, there will be very little left of the Islamic Republic of Iran!" Trump said in a social media post.
-
-In an interview with Fox News, Trump played down the prospects of another ceasefire. The U.S. and Iran reached a deal in June ​that quickly fell apart, largely over interpretations of Iranian ​control of the Strait of Hormuz.
-
-"I think an agreement ⁠with them isn't worth the paper it's written on. We gave them a lot of chances," Trump told Fox News.
-
-## U.S. SAYS IT HITS REVOLUTIONARY GUARD
-
-The U.S. military's Central Command said the latest wave of U.S. attacks hit IRGC targets.
-
-Iranian media reported multiple strikes, including a U.S. missile attack near the city of Ahvaz and at the civilian Jiroft airport in ​southeastern Iran, while explosions were heard in the southeastern port of Chabahar, the port city of Bandar Abbas on Strait of Hormuz, and in Asaluyeh, a critical ​gas hub on the Gulf coast.
-
-Iran's ⁠state broadcaster also reported explosions on Iran's Qeshm Island, on the northern side of the strait.
-
-The Fars news agency cited an IRGC spokesperson as saying the U.S. "will regret its new attacks".
-
-[The six-month-old conflict](https://www.reuters.com/world/iran/) had shifted into an economic standoff before the weekend strikes, in which U.S. forces attacked Iran's Larak Island on Sunday and Iran responded by launching missiles at two U.S. air bases in Jordan.
-
-Iranian President Masoud Pezeshkian had said early on Tuesday at a regional summit in Kyrgyzstan that Tehran would reciprocate immediately ⁠if Washington honored ​its commitments under a June Memorandum of Understanding that was intended to halt the conflict.
-
-The MOU declared an end to fighting that has ​now killed thousands in Iran and Lebanon since U.S. and Israeli strikes began on February 28. But it also deferred many of the most difficult issues and paved the way for a broader 60-day negotiation period — which passed without further agreement.
-
-Reporting by Parisa Hafez in Dubai, Daphne Psaledakis, Idrees Ali ​and Jasper Ward in Washington, Bhargav Acharya in Toronto, and Yasmine Ghania, Ahmed Tolba and Muhammad Al Gebaly in Cairo; Writing by Timothy Heritage, Kevin Liffey, Nathan Layne and Daniel Trotta; Editing by Scott Malone, Sanjeev Miglani and Don Durfee
+Reporting ​by David Shepardson in Washington and Stephen Nellis in San Francisco; Editing by Matthew Lewis
 
 Our Standards: [The Thomson Reuters Trust Principles., opens new tab](https://www.thomsonreuters.com/en/about-us/trust-principles.html)
 
 - Suggested Topics:
-- [](https://www.reuters.com/world/middle-east/)
+- [](https://www.reuters.com/world/us/)
 
 [](https://www.reutersagency.com/en/licensereuterscontent/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead)
 
-[
-
-](https://www.reuters.com/authors/daphne-psaledakis/)
-
-[Daphne Psaledakis](https://www.reuters.com/authors/daphne-psaledakis/)
-
-Thomson Reuters
-
-Daphne Psaledakis is a breaking news correspondent based in Washington, D.C. She previously covered foreign policy for Reuters, including the State Department and U.S. sanctions. She has covered the administration of President Donald Trump, the rollout of U.S. sanctions on Russia after Moscow’s invasion of Ukraine and U.S. negotiations with Rwanda and Democratic Republic of Congo, among other issues. She previously completed an Overseas Press Club Foundation fellowship with Reuters in Brussels, covering the European Union. Daphne holds a Bachelor of Journalism in Print and Digital News and a Bachelor of Arts in International Studies from the University of Missouri.
-
-- [](mailto:Daphne.Psaledakis@thomsonreuters.com)
-- [](https://x.com/DPsaledakis)
-- [](https://www.linkedin.com/in/www.linkedin.com/in/daphne-psaledakis-679aaa64)
-
 ## Read Next
 
-- [Chinacategory](https://www.reuters.com/world/china/)
+- [Worldcategory](https://www.reuters.com/world/)
     
-    [UN faces contentious Iran nuclear vote ahead of General Assembly](https://www.reuters.com/world/china/un-faces-contentious-iran-nuclear-vote-ahead-general-assembly-2026-09-01/)
-    
-    [
-    
-    ](https://www.reuters.com/world/china/un-faces-contentious-iran-nuclear-vote-ahead-general-assembly-2026-09-01/)
-    
-- [Middle Eastcategory](https://www.reuters.com/world/middle-east/)
-    
-    [Israeli special forces capture Hamas official in raid on Gaza City](https://www.reuters.com/world/middle-east/israeli-fire-kills-four-people-including-three-children-gaza-medics-say-2026-09-01/)
+    [Trump aides seek 'quiet' in Iran war but say attacks may intensify after November elections](https://www.reuters.com/world/trump-aides-fearing-midterm-rout-push-keep-iran-war-quiet-now-2026-09-02/)
     
     [
     
-    ](https://www.reuters.com/world/middle-east/israeli-fire-kills-four-people-including-three-children-gaza-medics-say-2026-09-01/)
+    ](https://www.reuters.com/world/trump-aides-fearing-midterm-rout-push-keep-iran-war-quiet-now-2026-09-02/)
     
-- [Chinacategory](https://www.reuters.com/world/china/)
+- [United Statescategory](https://www.reuters.com/world/us/)
     
-    [Bessent says U.S. likely to announce Iran bank sanctions this week](https://www.reuters.com/world/china/bessent-says-us-likely-announce-iran-bank-sanctions-this-week-2026-09-01/)
-    
-    [
-    
-    ](https://www.reuters.com/world/china/bessent-says-us-likely-announce-iran-bank-sanctions-this-week-2026-09-01/)
-    
-- [Middle Eastcategory](https://www.reuters.com/world/middle-east/)
-    
-    [IAEA reports progress in Syria investigation, none in Iran](https://www.reuters.com/world/middle-east/iaea-reports-progress-syria-investigation-none-iran-2026-09-01/)
+    [Trump pledged fiscal restraint. Instead, debt tops $40 trillion as borrowing costs rise](https://www.reuters.com/world/us/trump-pledged-fiscal-restraint-instead-debt-tops-40-trillion-borrowing-costs-2026-09-02/)
     
     [
     
-    ](https://www.reuters.com/world/middle-east/iaea-reports-progress-syria-investigation-none-iran-2026-09-01/)
+    ](https://www.reuters.com/world/us/trump-pledged-fiscal-restraint-instead-debt-tops-40-trillion-borrowing-costs-2026-09-02/)
     
-- [Asia Pacificcategory](https://www.reuters.com/world/asia-pacific/)
+- [Sportscategory](https://www.reuters.com/sports/)
     
-    [China's Xi lands in Egypt as Iran war reshapes Middle East alliances](https://www.reuters.com/world/asia-pacific/chinas-xi-arrives-cairo-egypt-state-visit-xinhua-reports-2026-09-01/)
+    [Woods gets 5-year license suspension in plea deal](https://www.reuters.com/sports/golf/woods-gets-5-year-license-suspension-plea-deal-2026-09-02/)
     
     [
     
-    ](https://www.reuters.com/world/asia-pacific/chinas-xi-arrives-cairo-egypt-state-visit-xinhua-reports-2026-09-01/)
+    ](https://www.reuters.com/sports/golf/woods-gets-5-year-license-suspension-plea-deal-2026-09-02/)
+    
+- [Businesscategory](https://www.reuters.com/business/)
+    
+    [Tesla set to hold Cybercab event in Austin, Texas](https://www.reuters.com/business/autos-transportation/tesla-set-hold-cybercab-event-austin-texas-2026-09-02/)
+    
+    [
+    
+    ](https://www.reuters.com/business/autos-transportation/tesla-set-hold-cybercab-event-austin-texas-2026-09-02/)
+    
+- [Businesscategory](https://www.reuters.com/business/)
+    
+    [US private payroll growth slows in August as manufacturing sheds jobs](https://www.reuters.com/business/us-private-payrolls-growth-slows-august-adp-says-2026-09-02/)
+    
+    [
+    
+    ](https://www.reuters.com/business/us-private-payrolls-growth-slows-august-adp-says-2026-09-02/)
+    
+- [Legalcategory](https://www.reuters.com/legal/)
+    
+    [US government backs OpenAI in New York Times copyright case](https://www.reuters.com/legal/litigation/us-government-backs-openai-new-york-times-copyright-case-2026-09-02/)
+    
+    [
+    
+    ](https://www.reuters.com/legal/litigation/us-government-backs-openai-new-york-times-copyright-case-2026-09-02/)
     
 
 [](https://www.lseg.com/en/data-analytics/products/workspace?utm_source=reuters.com&utm_medium=articlebanner&utm_campaign=Reuters_ProductPage_Links)
@@ -165,45 +126,45 @@ Daphne Psaledakis is a breaking news correspondent based in Washington, D.C. She
 
 - [
     
-    ](https://www.reuters.com/world/china/un-faces-contentious-iran-nuclear-vote-ahead-general-assembly-2026-09-01/)
+    ](https://www.reuters.com/world/americas/mexico-presses-us-auto-steel-tariffs-meeting-with-lutnick-2026-09-02/)
     
-    ### [UN faces contentious Iran nuclear vote ahead of General Assembly](https://www.reuters.com/world/china/un-faces-contentious-iran-nuclear-vote-ahead-general-assembly-2026-09-01/)
+    ### [Mexico presses US on auto, steel tariffs in meeting with Lutnick](https://www.reuters.com/world/americas/mexico-presses-us-auto-steel-tariffs-meeting-with-lutnick-2026-09-02/)
     
-    [Chinacategory](https://www.reuters.com/world/china/) · September 1, 2026 · 3:31 PM PDT · 17 mins ago
+    [Americascategory](https://www.reuters.com/world/americas/) · September 2, 2026 · 7:51 AM PDT · 11 mins ago
     
-    France said on Tuesday the U.N. Security Council will vote ​this month on renewing the mandate of a panel monitoring sanctions on Iran, setting up a ‌potential showdown with Russia and China, which oppose the sanctions regime and oversight mechanisms.
-    
-- [
-    
-    ](https://www.reuters.com/world/belgian-court-orders-trial-corruption-money-laundering-linked-congo-passport-2026-09-01/)
-    
-    [Worldcategory](https://www.reuters.com/world/)[Belgian court orders trial for corruption, money laundering linked to Congo passport deal](https://www.reuters.com/world/belgian-court-orders-trial-corruption-money-laundering-linked-congo-passport-2026-09-01/)
-    
-    3:07 PM PDT
+    Mexican Economy Minister Marcelo Ebrard ​met U.S. Commerce Secretary Howard Lutnick ‌on Wednesday as Mexico pushed for progress on U.S. tariffs on cars and steel, a key ​source of friction in the countries' ​trade relationship.
     
 - [
     
-    ](https://www.reuters.com/business/environment/tropical-storm-edouard-moves-ashore-gulf-coast-near-texas-louisiana-border-2026-09-01/)
+    ](https://www.reuters.com/world/russia-summons-german-diplomat-protest-over-fabricated-leipzig-drone-attack-2026-09-02/)
     
-    [category](https://www.reuters.com/business/)[Tropical Storm Edouard moves ashore Gulf Coast near Texas-Louisiana border](https://www.reuters.com/business/environment/tropical-storm-edouard-moves-ashore-gulf-coast-near-texas-louisiana-border-2026-09-01/)
+    [Worldcategory](https://www.reuters.com/world/)[Russia summons German diplomat to protest over 'fabricated' Leipzig drone attack allegation](https://www.reuters.com/world/russia-summons-german-diplomat-protest-over-fabricated-leipzig-drone-attack-2026-09-02/) 
     
-    3:07 PM PDT
-    
-- [
-    
-    ](https://www.reuters.com/legal/government/russian-cybercrime-operation-being-dismantled-after-two-decades-us-officials-2026-09-01/)
-    
-    [Legalcategory](https://www.reuters.com/legal/)[Russian cybercrime operation being dismantled after two decades, US officials and CrowdStrike say](https://www.reuters.com/legal/government/russian-cybercrime-operation-being-dismantled-after-two-decades-us-officials-2026-09-01/)
-    
-    3:01 PM PDT
+    7:51 AM PDT
     
 - [
     
-    ](https://www.reuters.com/business/healthcare-pharmaceuticals/uk-pledges-additional-50-million-help-contain-ebola-outbreak-congo-2026-09-01/)
+    ](https://www.reuters.com/world/uk/uk-finance-minister-healey-give-major-speech-next-week-2026-09-02/)
     
-    [category](https://www.reuters.com/business/)[UK pledges additional £50 million to help contain Ebola outbreak in Congo](https://www.reuters.com/business/healthcare-pharmaceuticals/uk-pledges-additional-50-million-help-contain-ebola-outbreak-congo-2026-09-01/)
+    [United Kingdomcategory](https://www.reuters.com/world/uk/)[UK finance minister Healey to give major speech next week](https://www.reuters.com/world/uk/uk-finance-minister-healey-give-major-speech-next-week-2026-09-02/)
     
-    2:41 PM PDT
+    7:47 AM PDT
+    
+- [
+    
+    ](https://www.reuters.com/legal/litigation/google-defeats-us-bid-force-ad-tech-sale-2026-09-02/)
+    
+    [Legalcategory](https://www.reuters.com/legal/)[Google defeats US bid to force ad tech sale](https://www.reuters.com/legal/litigation/google-defeats-us-bid-force-ad-tech-sale-2026-09-02/)
+    
+    7:31 AM PDT
+    
+- [
+    
+    ](https://www.reuters.com/business/healthcare-pharmaceuticals/whos-tedros-says-ebola-response-must-be-scaled-up-tackle-congo-outbreak-2026-09-02/)
+    
+    [category](https://www.reuters.com/business/)[WHO's Tedros says Ebola response must be scaled up to tackle Congo outbreak](https://www.reuters.com/business/healthcare-pharmaceuticals/whos-tedros-says-ebola-response-must-be-scaled-up-tackle-congo-outbreak-2026-09-02/)
+    
+    7:11 AM PDT
     
 
 ### Site Index
@@ -304,7 +265,6 @@ Reuters, the news and media division of Thomson Reuters, is the world’s larges
 - [Corrections](https://www.reuters.com/info-pages/contact-us/)
 - [Data Disclosure and Sources, opens new tab](https://www.reuters.com/info-pages/data-disclosure-and-sources/)
 - [Site Feedback, opens new tab](https://trdigital.iad1.qualtrics.com/jfe/form/SV_8kte8gArGyCGVhz)
-- Manage Cookies & Your Privacy Choices
 
 All quotes delayed a minimum of 15 minutes. [See here for a list of exchanges and delays.](https://www.reuters.com/info-pages/disclaimer/)
 
