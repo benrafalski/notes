@@ -24,100 +24,141 @@
 
 [My News](https://www.reuters.com/my-news/feed/)
 
-[](https://www.reuters.com/account/sign-in/?redirect=https%3A%2F%2Fwww.reuters.com%2Fworld%2Fus%2Fapple-maps-changes-name-lake-ontario-lake-america-2026-09-01%2F)[](https://www.reuters.com/account/subscribe/offer/?redirect=https%3A%2F%2Fwww.reuters.com%2Fworld%2Fus%2Fapple-maps-changes-name-lake-ontario-lake-america-2026-09-01%2F&referrer=subscription_button&journeyStart=navigation)
+[](https://www.reuters.com/account/sign-in/?redirect=https%3A%2F%2Fwww.reuters.com%2Fworld%2Fus-judge-blocks-trumps-newest-order-limiting-birthright-citizenship-2026-09-02%2F)[](https://www.reuters.com/account/subscribe/offer/?redirect=https%3A%2F%2Fwww.reuters.com%2Fworld%2Fus-judge-blocks-trumps-newest-order-limiting-birthright-citizenship-2026-09-02%2F&referrer=subscription_button&journeyStart=navigation)
 
-# Apple Maps changes name of Lake Ontario to 'Lake America'
+# US judge blocks Trump's newest order limiting birthright citizenship
 
-By [David Shepardson](https://www.reuters.com/authors/david-shepardson/) and [Stephen Nellis](https://www.reuters.com/authors/stephen-nellis/)
+By [Nate Raymond](https://www.reuters.com/authors/nate-raymond/)
 
-September 1, 20262:30 PM PDTUpdated 12 hours ago
+September 2, 20263:01 PM PDTUpdated 16 hours ago
 
-![U.S. President Trump signs executive order at the White House in Washington](https://www.reuters.com/resizer/v2/J2XGMWA2CFK4HGJCV6RGORHDWA.jpg?auth=33c5784d1687c3b03b6096c1b181330a6f980b29b7e5a67d448af23dd23b644a&width=1920&quality=80)
+![U.S. Supreme Court hears Trump's bid to limit birthright citizenship in Washington](https://www.reuters.com/resizer/v2/I2SEJSS7XRP7ZHHTBJCMTRGWXM.jpg?auth=a8045d40c346fd42c07b83cfa7ab11a3018ecec77363df54c91906d9389e5a0e&width=1920&quality=80)
 
-U.S. President Donald Trump speaks next to a map with "Lake America" written on it as he attends an event to sign an executive order renaming Lake Ontario as Lake America at the Oval Office of the White House in Washington, D.C., U.S., August 27, 2026. REUTERS/Evan Vucci [Purchase Licensing Rights, opens new tab](https://www.reutersconnect.com/item/us-president-trump-signs-executive-order-at-the-white-house-in-washington/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1JDMjU3TkFTNTgzOQ%3D%3D/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead)
+Demonstrators hold placards referencing the Fourteenth Amendment to the U.S. Constitution near the U.S. Capitol and the U.S. Supreme Court building, in Washington, D.C., U.S., April 1, 2026. REUTERS/Kylie Cooper/File Photo [Purchase Licensing Rights, opens new tab](https://www.reutersconnect.com/item/us-supreme-court-hears-trumps-bid-to-limit-birthright-citizenship-in-washington/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1JDMkVHS0FMWFdFUA%3D%3D/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead)
 
-WASHINGTON, Sept 1 (Reuters) - Apple [(AAPL.O), opens new tab](https://www.reuters.com/markets/companies/AAPL.O) changed the name of Lake Ontario to "Lake America" on the web ​version of its Apple Maps following U.S. President Donald Trump's [executive order renaming ‌the lake](https://www.reuters.com/world/us/trump-signs-order-rename-lake-ontario-lake-america-2026-08-27/).
+- Summary
 
-The move by Apple on Tuesday followed a decision by Alphabet [(GOOGL.O), opens new tab](https://www.reuters.com/markets/companies/GOOGL.O) late on Saturday to change the name of the lake on its Google Maps for U.S. users.
+- Judge says Supreme Court already decided children covered by class action are citizens at birth
+- Order bars various agencies from denying class members' citizenship
+- Justice Department argued challenge was premature before agencies issue implementation guidance
 
-The Reuters Daily Briefing newsletter provides all the news you need to start your day. Sign up [here.](https://www.reuters.com/newsletters/daily-briefing/?location=article-paragraph&redirectUrl=%2Fworld%2Fus%2Fapple-maps-changes-name-lake-ontario-lake-america-2026-09-01%2F)
+Sept 2 (Reuters) - A federal judge on Wednesday blocked the Trump administration ​from enforcing a [new executive order](https://www.reuters.com/world/trump-sign-orders-birthright-citizenship-axios-reports-2026-08-06/) limiting the number of people eligible for birthright citizenship that President [Donald Trump](https://www.reuters.com/world/us/donald-trump/) issued after the U.S. Supreme Court [rejected](https://www.reuters.com/legal/government/supreme-court-rule-trump-bid-limit-birthright-citizenship-2026-06-30/) his ‌previous effort.
 
-Apple confirmed that U.S. users ​will see “Lake America” following a change to the body of water’s name in ​the U.S. Geographic Names Information System.
+U.S. District Judge Deborah Boardman in Greenbelt, Maryland, issued a [preliminary injunction, opens new tab](https://fingfx.thomsonreuters.com/gfx/legaldocs/znvnoyxodpl/09022026birthright.pdf) at the request of immigrant rights advocates who had last year secured a ruling from her blocking the Trump administration from enforcing his initial 2025 executive order curtailing birthright citizenship.
 
-Users in Canada will continue to ⁠see Lake Ontario, and users in the rest of the world will see both ​names, following the same approach Apple used after Trump renamed the Gulf of Mexico as ​the Gulf of America.
+The Reuters Daily Briefing newsletter provides all the news you need to start your day. Sign up [here.](https://www.reuters.com/newsletters/daily-briefing/?location=article-paragraph&redirectUrl=%2Fworld%2Fus-judge-blocks-trumps-newest-order-limiting-birthright-citizenship-2026-09-02%2F)
 
-The name changes illustrate how U.S. tech companies are being pulled into geopolitical disputes as the Trump administration pressures them to comply with executive orders that allies and international bodies ​have rejected.
+The U.S. Supreme Court on June 30 [rejected that initial effort](https://www.reuters.com/legal/government/supreme-court-rule-trump-bid-limit-birthright-citizenship-2026-06-30/) to end birthright citizenship for children whose parents were not American citizens or legal permanent residents, ​known as green card holders, finding it violated the citizenship clause of the U.S. Constitution's 14th Amendment.
 
-Trump's executive order on Lake Ontario, one of the five Great Lakes of ​North America, applies to U.S. federal usage for the lake, and does not govern what Canada, international ‌bodies ⁠or other organizations call the lake.
+The clause, which was the focus of the Supreme Court's ​6-3 ruling in Barbara v. Trump, confers citizenship to those born in the United States who are "subject to the jurisdiction thereof."
 
-A majority of Americans oppose Trump's moves last week to raise taxes on imported Canadian goods and his order to rename Lake Ontario as "Lake America," a new [Reuters/Ipsos poll](https://www.reuters.com/reuters-ipsos-polls/) found.
+Following that ⁠decision, Trump signed a new order on August 6 that took particular aim at "birth tourism," in which women travel to the United States to give birth so their ​children can obtain automatic citizenship.
 
-Within hours of Trump's executive order, Canadian Prime Minister Mark Carney ​and New York Governor ​Kathy Hochul, a ⁠Democrat, said they would not be changing the name, which is more than 400 years old. New York borders the lake on ​the U.S. side.
+Citizenship would also be denied to children if one of their parents works for foreign governments in the United States, engages in fraud or a commercial ​transaction to obtain citizenship, or is classified as an "alien enemy."
 
-About 52% of the surface area of Lake ​Ontario is ⁠in Canada, with the remainder in New York.
+After he signed that order, lawyers pursuing a class-action lawsuit on behalf of babies who would be deprived citizenship under Trump's 2025 order asked Boardman to block enforcement of the Republican president's newest order, and ensure their clients' citizenship continued to be honored.
 
-Since early 2025, Trump has repeatedly taunted Canada about becoming the 51st U.S. state, an idea Canadian leaders have dismissed as ridiculous.
+The judge, an appointee of Democratic President Joe Biden, agreed to do so, saying the ​latest order "is almost certainly unconstitutional as applied to the certified class for the simple reason that the Supreme Court in Barbara already decided that the children in the class ​are citizens at birth."
 
-Trump also ordered ⁠the ​Gulf of Mexico renamed to Gulf of America in ​January 2025 and both Google and Apple revised their map apps to reflect the change for U.S. users.
+"The Supreme Court has spoken: Children in the certified class are 'citizens at birth,'" she wrote.
 
-Reporting ​by David Shepardson in Washington and Stephen Nellis in San Francisco; Editing by Matthew Lewis
+Her order bars agencies including the U.S. Department of State, the U.S. Department of Homeland ‌Security, and ⁠the Social Security Administration from taking any action to interfere with, deny or fail to recognize citizenship of children covered by the class action.
+
+The White House did not immediately respond to a request for comment.
+
+## ADMINISTRATION SAID LAWSUIT PREMATURE
+
+The plaintiffs included the immigrant rights groups CASA and Asylum Seeker Advocacy Project, which last year convinced Boardman to become one of four lower-court judges to block Trump's initial order prior to the Supreme Court ruling.
+
+“Immigrant families should not have to come back to court to defend the rights of their U.S.-born children and ​others whose citizenship is being questioned by ​a new executive order," Conchita Cruz, ⁠co-executive director of the Asylum Seeker Advocacy Project, said in a statement.
+
+Justice Department attorneys argued that an injunction was inappropriate in this case, as Trump's order was more narrow than the sweeping one the plaintiffs first sued over.
+
+They also called the lawsuit premature, saying ​federal agencies had yet to issue the necessary public guidance detailing how the president's directive would be implemented, which they are ​expected to do by ⁠Saturday. Any legal challenge should wait until then, the administration argued.
+
+But Boardman said an injunction was needed now, saying that while the Justice Department claimed the order would be applied only prospectively, by its plain terms it "applies to all children who meet its criteria, regardless of when they were born."
+
+"This Court must, once again, preliminarily enjoin enforcement of the President's most recent ⁠attempt to ​strip the right to citizenship from them," she wrote.
+
+While Boardman blocked enforcement of Trump's order, she said ​agencies could still issue guidance on how Trump's order would be implemented.
+
+Reuters [reported on Tuesday](https://www.reuters.com/legal/government/trump-birthright-curbs-may-prompt-us-passport-checks-parents-2026-09-01/) that the U.S. State Department had drafted proposed guidance requiring parents applying for passports for their children to provide proof of their ​own citizenship or immigration status in order to implement that executive order.
+
+Reporting by Blake Brittain in Greenbelt, Maryland and Nate Raymond in Boston; Editing by Bill Berkrot and Cynthia Osterman
 
 Our Standards: [The Thomson Reuters Trust Principles., opens new tab](https://www.thomsonreuters.com/en/about-us/trust-principles.html)
 
 - Suggested Topics:
-- [](https://www.reuters.com/world/us/)
+- [](https://www.reuters.com/legal/government/)
+- [](https://www.reuters.com/legal/constitutional-law/)
+- [](https://www.reuters.com/legal/judiciary/)
+- [](https://www.reuters.com/legal/supreme-court-of-the-united-states/)
+- [](https://www.reuters.com/legal/civil-rights/)
 
 [](https://www.reutersagency.com/en/licensereuterscontent/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead)
 
+[
+
+](https://www.reuters.com/authors/nate-raymond/)
+
+[Nate Raymond](https://www.reuters.com/authors/nate-raymond/)
+
+Thomson Reuters
+
+Nate Raymond reports on the federal judiciary and litigation. He can be reached at nate.raymond@thomsonreuters.com.
+
+- [](mailto:nate.raymond@thomsonreuters.com)
+- [](https://x.com/nateraymond)
+
 ## Read Next
 
+- [Governmentcategory](https://www.reuters.com/legal/government/)
+    
+    [Trump signs bill to avert government shutdown before midterm elections](https://www.reuters.com/legal/government/trump-signs-bill-avert-government-shutdown-before-midterm-elections-2026-09-03/)
+    
+    [
+    
+    ](https://www.reuters.com/legal/government/trump-signs-bill-avert-government-shutdown-before-midterm-elections-2026-09-03/)
+    
 - [Worldcategory](https://www.reuters.com/world/)
     
-    [Trump aides seek 'quiet' in Iran war but say attacks may intensify after November elections](https://www.reuters.com/world/trump-aides-fearing-midterm-rout-push-keep-iran-war-quiet-now-2026-09-02/)
+    [Kennedy Center removes 'Blue' sculpture as Trump presses on with Washington makeover](https://www.reuters.com/world/us/kennedy-center-removes-blue-sculpture-trump-presses-with-washington-makeover-2026-09-02/)
     
     [
     
-    ](https://www.reuters.com/world/trump-aides-fearing-midterm-rout-push-keep-iran-war-quiet-now-2026-09-02/)
+    ](https://www.reuters.com/world/us/kennedy-center-removes-blue-sculpture-trump-presses-with-washington-makeover-2026-09-02/)
     
-- [United Statescategory](https://www.reuters.com/world/us/)
+- [Governmentcategory](https://www.reuters.com/legal/government/)
     
-    [Trump pledged fiscal restraint. Instead, debt tops $40 trillion as borrowing costs rise](https://www.reuters.com/world/us/trump-pledged-fiscal-restraint-instead-debt-tops-40-trillion-borrowing-costs-2026-09-02/)
-    
-    [
-    
-    ](https://www.reuters.com/world/us/trump-pledged-fiscal-restraint-instead-debt-tops-40-trillion-borrowing-costs-2026-09-02/)
-    
-- [Sportscategory](https://www.reuters.com/sports/)
-    
-    [Woods gets 5-year license suspension in plea deal](https://www.reuters.com/sports/golf/woods-gets-5-year-license-suspension-plea-deal-2026-09-02/)
+    [Trump's DOJ threatens to cut aid to states unless they report migrants without legal status](https://www.reuters.com/legal/government/trumps-doj-threatens-cut-aid-states-unless-they-report-migrants-without-legal-2026-09-02/)
     
     [
     
-    ](https://www.reuters.com/sports/golf/woods-gets-5-year-license-suspension-plea-deal-2026-09-02/)
+    ](https://www.reuters.com/legal/government/trumps-doj-threatens-cut-aid-states-unless-they-report-migrants-without-legal-2026-09-02/)
     
-- [Businesscategory](https://www.reuters.com/business/)
+- [Governmentcategory](https://www.reuters.com/legal/government/)
     
-    [Tesla set to hold Cybercab event in Austin, Texas](https://www.reuters.com/business/autos-transportation/tesla-set-hold-cybercab-event-austin-texas-2026-09-02/)
-    
-    [
-    
-    ](https://www.reuters.com/business/autos-transportation/tesla-set-hold-cybercab-event-austin-texas-2026-09-02/)
-    
-- [Businesscategory](https://www.reuters.com/business/)
-    
-    [US private payroll growth slows in August as manufacturing sheds jobs](https://www.reuters.com/business/us-private-payrolls-growth-slows-august-adp-says-2026-09-02/)
+    [Democrats sink Republican bid to cap Supreme Court at nine justices](https://www.reuters.com/legal/government/democrats-sink-republican-bid-cement-us-supreme-courts-conservative-majority-2026-09-02/)
     
     [
     
-    ](https://www.reuters.com/business/us-private-payrolls-growth-slows-august-adp-says-2026-09-02/)
+    ](https://www.reuters.com/legal/government/democrats-sink-republican-bid-cement-us-supreme-courts-conservative-majority-2026-09-02/)
     
-- [Legalcategory](https://www.reuters.com/legal/)
+- [Worldcategory](https://www.reuters.com/world/)
     
-    [US government backs OpenAI in New York Times copyright case](https://www.reuters.com/legal/litigation/us-government-backs-openai-new-york-times-copyright-case-2026-09-02/)
+    [Boeing paid $3.1 million fine to FAA over widespread safety violations](https://www.reuters.com/world/boeing-paid-31-million-fine-faa-over-widespread-safety-violations-2026-09-02/)
     
     [
     
-    ](https://www.reuters.com/legal/litigation/us-government-backs-openai-new-york-times-copyright-case-2026-09-02/)
+    ](https://www.reuters.com/world/boeing-paid-31-million-fine-faa-over-widespread-safety-violations-2026-09-02/)
+    
+- [Legal Industrycategory](https://www.reuters.com/legal/legalindustry/)
+    
+    [Ford, EEOC ink $2.3 million deal in probe over racist graffiti](https://www.reuters.com/legal/legalindustry/ford-eeoc-ink-23-million-deal-probe-over-racist-graffiti-2026-09-02/)
+    
+    [
+    
+    ](https://www.reuters.com/legal/legalindustry/ford-eeoc-ink-23-million-deal-probe-over-racist-graffiti-2026-09-02/)
     
 
 [](https://www.lseg.com/en/data-analytics/products/workspace?utm_source=reuters.com&utm_medium=articlebanner&utm_campaign=Reuters_ProductPage_Links)
@@ -126,45 +167,45 @@ Our Standards: [The Thomson Reuters Trust Principles., opens new tab](https://w
 
 - [
     
-    ](https://www.reuters.com/world/americas/mexico-presses-us-auto-steel-tariffs-meeting-with-lutnick-2026-09-02/)
+    ](https://www.reuters.com/world/india/paypal-cuts-220-india-jobs-part-previously-announced-restructuring-plan-source-2026-09-03/)
     
-    ### [Mexico presses US on auto, steel tariffs in meeting with Lutnick](https://www.reuters.com/world/americas/mexico-presses-us-auto-steel-tariffs-meeting-with-lutnick-2026-09-02/)
+    ### [PayPal cuts 220 India jobs as part of previously announced restructuring plan, source says](https://www.reuters.com/world/india/paypal-cuts-220-india-jobs-part-previously-announced-restructuring-plan-source-2026-09-03/)
     
-    [Americascategory](https://www.reuters.com/world/americas/) · September 2, 2026 · 7:51 AM PDT · 11 mins ago
+    [Indiacategory](https://www.reuters.com/world/india/) · September 3, 2026 · 7:49 AM PDT · 5 mins ago
     
-    Mexican Economy Minister Marcelo Ebrard ​met U.S. Commerce Secretary Howard Lutnick ‌on Wednesday as Mexico pushed for progress on U.S. tariffs on cars and steel, a key ​source of friction in the countries' ​trade relationship.
-    
-- [
-    
-    ](https://www.reuters.com/world/russia-summons-german-diplomat-protest-over-fabricated-leipzig-drone-attack-2026-09-02/)
-    
-    [Worldcategory](https://www.reuters.com/world/)[Russia summons German diplomat to protest over 'fabricated' Leipzig drone attack allegation](https://www.reuters.com/world/russia-summons-german-diplomat-protest-over-fabricated-leipzig-drone-attack-2026-09-02/) 
-    
-    7:51 AM PDT
+    PayPal has cut roughly 220 jobs in India as part of the payments firm's broader, multi-year turnaround plan laid ​out earlier this year, a person familiar with the ‌matter told Reuters on Thursday.
     
 - [
     
-    ](https://www.reuters.com/world/uk/uk-finance-minister-healey-give-major-speech-next-week-2026-09-02/)
+    ](https://www.reuters.com/business/environment/flood-ravaged-nepal-valley-nothing-is-left-standing-2026-09-03/)
     
-    [United Kingdomcategory](https://www.reuters.com/world/uk/)[UK finance minister Healey to give major speech next week](https://www.reuters.com/world/uk/uk-finance-minister-healey-give-major-speech-next-week-2026-09-02/)
+    [category](https://www.reuters.com/business/)[In flood-ravaged Nepal valley nothing is left standing](https://www.reuters.com/business/environment/flood-ravaged-nepal-valley-nothing-is-left-standing-2026-09-03/)
     
-    7:47 AM PDT
-    
-- [
-    
-    ](https://www.reuters.com/legal/litigation/google-defeats-us-bid-force-ad-tech-sale-2026-09-02/)
-    
-    [Legalcategory](https://www.reuters.com/legal/)[Google defeats US bid to force ad tech sale](https://www.reuters.com/legal/litigation/google-defeats-us-bid-force-ad-tech-sale-2026-09-02/)
-    
-    7:31 AM PDT
+    7:26 AM PDT
     
 - [
     
-    ](https://www.reuters.com/business/healthcare-pharmaceuticals/whos-tedros-says-ebola-response-must-be-scaled-up-tackle-congo-outbreak-2026-09-02/)
+    ](https://www.reuters.com/world/number-iranian-military-personnel-reported-killed-by-us-strikes-this-week-rises-2026-09-03/)
     
-    [category](https://www.reuters.com/business/)[WHO's Tedros says Ebola response must be scaled up to tackle Congo outbreak](https://www.reuters.com/business/healthcare-pharmaceuticals/whos-tedros-says-ebola-response-must-be-scaled-up-tackle-congo-outbreak-2026-09-02/)
+    [Worldcategory](https://www.reuters.com/world/)[Number of Iranian military personnel reported killed by US strikes this week rises to 13](https://www.reuters.com/world/number-iranian-military-personnel-reported-killed-by-us-strikes-this-week-rises-2026-09-03/)
     
-    7:11 AM PDT
+    6:48 AM PDT
+    
+- [
+    
+    ](https://www.reuters.com/world/americas/canadas-services-pmi-hits-six-month-low-trade-tensions-grow-2026-09-03/)
+    
+    [Americascategory](https://www.reuters.com/world/americas/)[Canada's services PMI hits six-month low as trade tensions grow](https://www.reuters.com/world/americas/canadas-services-pmi-hits-six-month-low-trade-tensions-grow-2026-09-03/)
+    
+    6:44 AM PDT
+    
+- [
+    
+    ](https://www.reuters.com/world/americas/lutnick-apologizes-saying-no-americans-have-died-iran-war-2026-09-03/)
+    
+    [Americascategory](https://www.reuters.com/world/americas/)[Lutnick apologizes for saying no Americans have died in Iran war](https://www.reuters.com/world/americas/lutnick-apologizes-saying-no-americans-have-died-iran-war-2026-09-03/)
+    
+    6:35 AM PDT
     
 
 ### Site Index
@@ -265,6 +306,7 @@ Reuters, the news and media division of Thomson Reuters, is the world’s larges
 - [Corrections](https://www.reuters.com/info-pages/contact-us/)
 - [Data Disclosure and Sources, opens new tab](https://www.reuters.com/info-pages/data-disclosure-and-sources/)
 - [Site Feedback, opens new tab](https://trdigital.iad1.qualtrics.com/jfe/form/SV_8kte8gArGyCGVhz)
+- Manage Cookies & Your Privacy Choices
 
 All quotes delayed a minimum of 15 minutes. [See here for a list of exchanges and delays.](https://www.reuters.com/info-pages/disclaimer/)
 
