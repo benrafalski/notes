@@ -1,4 +1,8 @@
 
+# Partisan Redistricting
+## Missouri
+In September 2026, The [Missouri Supreme Court blocked](https://www.reuters.com/legal/government/blow-trump-missouri-top-court-blocks-republican-drawn-congressional-map-2026-09-03/) a new Republican congressional map from being used. The court ruled 7-0 that the map must be approved by voters ​in a November referendum before it can take effect. The state held primary elections under the new map in August, and the court did not specify how it expected nominees to be selected now that the old map is back in place.
+
 # Mail-in Voting
 - EO: orders USPS to refuse ballot delivery if states withheld eligible voter lists.
 - Lawsuit: 
