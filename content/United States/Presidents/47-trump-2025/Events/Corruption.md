@@ -21,7 +21,10 @@
 
 # Pardons
 ## Terren ​Peizer
- Peizer, a former healthcare executive, sold more than $20 million of Ontrak stock between ​May and August 2021 while in possession of material non-public ​negative information related to the company's largest customer. He was convicted of ‌insider ⁠trading by a federal jury in Los Angeles in 2024 and sentenced to 3.5 ​years in prison in 2025. Trump [pardoned](https://www.reuters.com/legal/government/sec-drops-insider-trading-suit-against-ex-healthcare-executive-pardoned-by-trump-2026-08-08/) Peizer in January 2026 and later that August, his SEC moved to dismiss the insider trading case against ​the former executive. 
+Peizer, a former healthcare executive, sold more than $20 million of Ontrak stock between ​May and August 2021 while in possession of material non-public ​negative information related to the company's largest customer. He was convicted of ‌insider ⁠trading by a federal jury in Los Angeles in 2024 and sentenced to 3.5 ​years in prison in 2025. Trump [pardoned](https://www.reuters.com/legal/government/sec-drops-insider-trading-suit-against-ex-healthcare-executive-pardoned-by-trump-2026-08-08/) Peizer in January 2026 and later that August, his SEC moved to dismiss the insider trading case against ​the former executive. 
+## Emory Jones
+Jones served nearly ​16 years in federal prison on [​drug charges](https://www.reuters.com/world/us/trump-grants-clemency-30-people-white-house-pardon-czar-says-2026-09-05/) and was released in 2010 after Jay-Z ​wrote a letter to a judge ​on his behalf, seeking a sentence reduction. Jones has ‌worked ⁠as an executive at Jay-Z's Roc Nation entertainment company and co-founded the Paper Planes clothing brand.
+ 
 
 
 # Dropped Federal Cases

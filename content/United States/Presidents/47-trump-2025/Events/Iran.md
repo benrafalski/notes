@@ -21,6 +21,7 @@
 - [August 28](https://www.reuters.com/world/middle-east/iran-war-diplomacy-turns-toward-reopening-strait-hormuz-2026-08-28/): Iran war reaches 6 month point as the Strait of Hormuz remained virtually closed and each side said there were no ongoing negotiations to end the war. The U.S. also ​imposed limits on Egypt's Banque Misr for doing business with Tehran by revoking U.S. financial access to its branches in the UAE.
 ## September
 - [September 1](https://www.reuters.com/world/middle-east/iran-urges-us-comply-with-interim-deal-after-trump-threatens-further-strikes-2026-09-01/): US launches new strikes on IRGC targets in Iran, the first since July, prompting Iranian retaliation on US targets in the Gulf and marking the most serious escalation in weeks in the conflict. Iran reported at least 12 deaths from the night of U.S. ‌strikes, with four ⁠people including a four-year-old said to have been killed while celebrating the wedding at a home in Sirik.
+- [September 5](https://www.reuters.com/world/middle-east/explosions-heard-near-irans-kharg-island-gulf-origin-unknown-fars-news-says-2026-09-05/): US forces hit three Iranian oil tankers following IRGC attacks on American naval ships.
 
 
 

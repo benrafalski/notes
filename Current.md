@@ -24,66 +24,87 @@
 
 [My News](https://www.reuters.com/my-news/feed/)
 
-[](https://www.reuters.com/account/sign-in/?redirect=https%3A%2F%2Fwww.reuters.com%2Flegal%2Fgovernment%2Fice-agent-charged-with-lying-over-minnesota-shooting-source-says-2026-09-03%2F)[](https://www.reuters.com/account/subscribe/offer/?redirect=https%3A%2F%2Fwww.reuters.com%2Flegal%2Fgovernment%2Fice-agent-charged-with-lying-over-minnesota-shooting-source-says-2026-09-03%2F&referrer=subscription_button&journeyStart=navigation)
+[](https://www.reuters.com/account/sign-in/?redirect=https%3A%2F%2Fwww.reuters.com%2Flegal%2Fgovernment%2Fus-judge-again-blocks-postal-services-mail-in-voting-restrictions-2026-09-04%2F)[](https://www.reuters.com/account/subscribe/offer/?redirect=https%3A%2F%2Fwww.reuters.com%2Flegal%2Fgovernment%2Fus-judge-again-blocks-postal-services-mail-in-voting-restrictions-2026-09-04%2F&referrer=subscription_button&journeyStart=navigation)
 
-# ICE agent re-arrested after being charged with lying over Minnesota shooting
+# US judge again blocks Postal Service's mail-in voting restrictions
 
-By [Dan Rosenzweig-Ziff](https://www.reuters.com/authors/dan-rosenzweig-ziff/) and [Jonathan Allen](https://www.reuters.com/authors/jonathan-allen/)
+By [Nate Raymond](https://www.reuters.com/authors/nate-raymond/)
 
-September 3, 202612:35 PM PDTUpdated 13 hours ago
+September 4, 20262:56 PM PDTUpdated 15 hours ago
 
-![U.S. Immigration and Customs Enforcement (ICE) holds a two-day job fair in Arlington](https://www.reuters.com/resizer/v2/24BJC65WGJLAHDM6H4I6H3MCFA.jpg?auth=39ba8499ac6fde5ba64802fd9c16a14122e8b819fb7b08420e5b3c213ed28c86&width=1920&quality=80)
+![A United States Postal Service mailbox is seen in Manhattan, New York City](https://www.reuters.com/resizer/v2/T6VMNEJW2VO73K54R7XMPFHOD4.jpg?auth=a1bca767c18bd0682ea5683385b411c7e54a7eb5062ff9cd5be847033da306d3&width=1920&quality=80)
 
-The badge of a U.S. Immigration and Customs Enforcement (ICE) is embroidered on a polo shirt of an ICE employee in Arlington, Texas, U.S. August 26, 2025. REUTERS/Shelby Tauber [Purchase Licensing Rights, opens new tab](https://www.reutersconnect.com/item/us-immigration-and-customs-enforcement-ice-holds-a-two-day-job-fair-in-arlington/dGFnOnJldXRlcnMuY29tLDIwMjU6bmV3c21sX1JDMjNGR0FZVDdTSg%3D%3D/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead)
+A United States Postal Service (USPS) mailbox is seen in Manhattan, New York City, U.S., May 9, 2022. REUTERS/Andrew Kelly/File Photo [Purchase Licensing Rights, opens new tab](https://www.reutersconnect.com/item/a-united-states-postal-service-mailbox-is-seen-in-manhattan-new-york-city/dGFnOnJldXRlcnMuY29tLDIwMjI6bmV3c21sX1JDMlIzVTkzVVpEUw%3D%3D/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead)
 
 - Summary
 
-- Federal indictment charges Castro with six counts of lying to investigators, source says
-- Charges to be unsealed once Castro is in custody, source says
-- DHS had suspended Castro for making false statements
+- Rule requires states to submit mail ballot recipient lists and use unique ballot barcodes
+- Administration swiftly appeals after Judge Talwani extends injunction against USPS election rule
+- Judge Talwani says 10,000 election jurisdictions would need redesigns for elections weeks away
 
-WASHINGTON, Sept 3 (Reuters) - An immigration officer was back ​in custody in Texas on Thursday night after he was indicted by a federal grand jury on charges of making ‌false statements about the shooting of a Venezuelan man in Minnesota during a deportation surge there last winter, officials said.
+BOSTON, Sept 4 (Reuters) - A federal judge ​on Friday extended a ban stopping President [Donald Trump's](https://www.reuters.com/world/us/donald-trump/) administration from implementing a new U.S. Postal Service rule that would tighten mail-in voting requirements ahead ‌of the November congressional elections.
 
-Immigration and Customs Enforcement agent Christian Castro was indicted on six counts of lying to investigators, according to a person familiar with the matter, speaking on condition of anonymity because they were not authorized to publicly discuss ​the case.
+Boston-based U.S. District Judge Indira Talwani [issued the injunction, opens new tab](https://fingfx.thomsonreuters.com/gfx/legaldocs/znvnoyrnypl/09042026talwani.pdf) at the behest of Democratic-led states and voting rights groups, after one state sent out mail ballots for the elections on Friday. Talwani wrote that only laws passed by Congress can supersede states' authority over elections, adding "the executive has no inherent authority" over voting rules.
 
-Jumpstart your morning with the latest legal news delivered straight to your inbox from The Daily Docket newsletter. Sign up [here.](https://www.reuters.com/newsletters/daily-docket/?location=article-paragraph&redirectUrl=%2Flegal%2Fgovernment%2Fice-agent-charged-with-lying-over-minnesota-shooting-source-says-2026-09-03%2F)
+Jumpstart your morning with the latest legal news delivered straight to your inbox from The Daily Docket newsletter. Sign up [here.](https://www.reuters.com/newsletters/daily-docket/?location=article-paragraph&redirectUrl=%2Flegal%2Fgovernment%2Fus-judge-again-blocks-postal-services-mail-in-voting-restrictions-2026-09-04%2F)
 
-The Minneapolis-based prosecutor who brought state charges against Castro, Hennepin County Attorney Mary Moriarty, confirmed he had been arrested in Texas ​after being released from jail a week earlier.
+Congress has never delegated authority over voting to the Postal Service, Talwani ​wrote, and the agency's new rule "clashes with Congress’s statutory scheme, and is unconstitutional."
 
-"We expect he will appear in federal court in Texas, and a ⁠date will be set for him to appear in federal court in Minnesota," Moriarty said.
+The immediate deadlines demanded by the Postal Service's rule would create "chaos" for groups that ​provide information about how to vote, Talwani wrote. Organizations such as the League of Women Voters "do not know whether to advise their ⁠members to vote by mail, despite legal entitlement, due to the high risk of disenfranchisement," her ruling states.
 
-The indictment marks an extraordinary step by a Justice Department ​that has generally refrained from prosecuting federal law enforcement officers. It was the first known criminal case the Justice Department has pursued against a ​U.S. immigration agent over alleged wrongdoing in the Minneapolis ICE operation, part of President Donald Trump's wider immigration crackdown.
+The administration swiftly filed a notice of appeal.
 
-Castro faces state assault charges in Minnesota for shooting and wounding Julio Cesar Sosa-Celis in the leg on January 14, at the height of Trump's deportation campaign in Minnesota, which drew weeks of protest.
+The USPS declined to ​comment on the ruling, but U.S. Postmaster General David Steiner defended the agency's handling of the issue.
 
-A Minnesota state arrest warrant remained ​in effect for Castro, who spent 90 days in a Texas county jail before he was released. Governor Greg Abbott, a Republican, said he ​was refusing to sign extradition papers sent by Minnesota Governor Tim Walz, a Democrat, and a federal judge in Texas denied a request from Minnesota to compel ‌Castro's extradition.
+"We have at all times acted within our legal authority to issue a rule ​to achieve those policies, but ultimately the courts will decide that question, and we will follow the court’s determination," Steiner said on Friday.
 
-The ⁠state charges also include falsely reporting a crime after Castro allegedly wrongly told superiors at the Department of Homeland Security that Sosa-Celis and others attacked him with a snow shovel and broom, which was disproved by video evidence.
+The White House did not immediately respond to a request for comment.
 
-DHS has suspended Castro, and the person familiar with the case said a civil rights investigation is ongoing and no decision has been reached yet in that matter.
+## POSTAL SERVICE RULE FOLLOWS TRUMP ORDER
 
-Matt Evans, a federal prosecutor who had been working on ​the case, was fired this week ​after ProPublica reported he sent ⁠an email to Sosa-Celis’ lawyers saying DOJ attorneys had stopped his efforts to bring federal charges, according to the person familiar with the case. Evans is now being investigated for obstruction of a grand jury investigation, the ​person said.
+Under the rule, states must supply the USPS with lists of mail ballot recipients, and all outbound and return ballot envelopes must bear unique barcodes. The USPS, under the ​rule, may refuse to deliver ballots that do not comply with the new standards or are associated with voters who do not appear on the lists.
 
-Castro has not publicly addressed the state charges against him since his release from the Cameron County ​jail last week, ⁠and he could not immediately be reached for comment on Thursday.
+Last week, Talwani, an ​appointee of Democratic President Barack Obama, issued a 14-day temporary restraining order to prevent USPS' rule from being enforced while she considered whether to issue a longer-term injunction.
 
-The Trump administration has largely defended the conduct of ICE agents, saying incorrectly that they have absolute immunity from state prosecutions.
+The administration on Thursday asked ‌the U.S. ⁠Supreme Court to intervene and lift the temporary order so the rule could take effect. The court's 6-3 conservative majority last week [lifted a prior order Talwani issued](https://www.reuters.com/world/us-supreme-court-lifts-judicial-hurdle-trumps-mail-in-ballot-curbs-2026-08-24/) preventing USPS from imposing such restrictions.
 
-Robin Wolpert, a lawyer for Sosa-Celis, said in a statement her client wants Castro to be held "fully accountable" with stronger civil rights ⁠charges. "Mr. Castro ​has been indicted for making false statements," she said. "But he made them to cover up ​the fact that he shot my client through the door of an occupied house without a self-defense justification."
+USPS issued its rule to implement an executive order Trump signed in March after years of the Republican president calling to restrict voting by mail and pushing the false claim that his 2020 presidential election defeat to Democrat Joe Biden was the result of widespread voter fraud.
 
-The ACLU of Minnesota announced on Thursday that it will represent Sosa-Celis as ​he sues the Trump administration.
+All 50 states allow for some form of mail-in voting. Of ​those, 29 states allow voters to ask to ​cast ballots by mail without providing ⁠a reason, and eight conduct their elections entirely by mail. North Carolina on Friday became the first state to mail ballots for the November elections.
 
-Reporting by Dan Rosenzweig-Ziff in Washington, D.C. and Jonathan Allen in New York; Editing by Michael Learmonth, Cynthia Osterman and Edwina Gibbs
+The rule, if allowed to take effect, could force state election officials to try to overhaul their systems with just ​weeks left until the elections to comply with a system that critics say USPS is not ready to implement.
+
+Talwani said it ​was "implausible" that states would ⁠be able to comply with the rule for this year's looming elections, as it would require 10,000 election jurisdictions to redesign their ballots, print them and submit voter information to a USPS-run online portal that does not yet exist.
+
+"Having considered this series of hurdles for officials against the backdrop of an impending election, and mindful of the fact that any minor malfunction ⁠will result in ​the denial of mail ballots, the court concludes that disenfranchisement for Plaintiff Organizations’ members, regardless of residence, ​is practically inevitable," she wrote, referring to the voting rights groups.
+
+The administration had asked a federal appeals court to set aside Talwani's initial restraining order. But the Boston-based 1st U.S. Circuit Court of Appeals had not ​acted on that request before the judge issued her latest decision.
+
+Reporting by Nate Raymond in Boston; Additional reporting by David Shepardson in Washington; Editing by Rod Nickel and Tom Hogue
 
 Our Standards: [The Thomson Reuters Trust Principles., opens new tab](https://www.thomsonreuters.com/en/about-us/trust-principles.html)
 
 - Suggested Topics:
 - [](https://www.reuters.com/legal/government/)
 - [](https://www.reuters.com/legal/constitutional-law/)
-- [](https://www.reuters.com/sustainability/human-rights/)
-- [](https://www.reuters.com/legal/public-policy/)
-- [](https://www.reuters.com/legal/immigration/)
+- [](https://www.reuters.com/legal/judiciary/)
+- [](https://www.reuters.com/legal/supreme-court-of-the-united-states/)
+- [](https://www.reuters.com/world/us/election-security/)
 
 [](https://www.reutersagency.com/en/licensereuterscontent/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead)
+
+[
+
+](https://www.reuters.com/authors/nate-raymond/)
+
+[Nate Raymond](https://www.reuters.com/authors/nate-raymond/)
+
+Thomson Reuters
+
+Nate Raymond reports on the federal judiciary and litigation. He can be reached at nate.raymond@thomsonreuters.com.
+
+- [](mailto:nate.raymond@thomsonreuters.com)
+- [](https://x.com/nateraymond)
 
 ## Read Next / Editor's Picks
 
@@ -110,6 +131,14 @@ Our Standards: [The Thomson Reuters Trust Principles., opens new tab](https://w
     [
     
     ](https://www.reuters.com/legal/government/trump-moves-strip-tax-exempt-status-schools-that-consider-race-2026-09-03/)
+    
+- [Governmentcategory](https://www.reuters.com/legal/government/)
+    
+    [ICE agent re-arrested after being charged with lying over Minnesota shooting](https://www.reuters.com/legal/government/ice-agent-charged-with-lying-over-minnesota-shooting-source-says-2026-09-03/)
+    
+    [
+    
+    ](https://www.reuters.com/legal/government/ice-agent-charged-with-lying-over-minnesota-shooting-source-says-2026-09-03/)
     
 - [Governmentcategory](https://www.reuters.com/legal/government/)
     
@@ -175,39 +204,39 @@ Our Standards: [The Thomson Reuters Trust Principles., opens new tab](https://w
     
     ](https://www.reuters.com/legal/government/us-states-lawsuit-seeking-curb-abortion-drug-access-paused-now-2026-09-01/)
     
-- [Litigationcategory](https://www.reuters.com/legal/litigation/)
+- [Governmentcategory](https://www.reuters.com/legal/government/)
     
-    [EPA, Army Corps seek more input for federal water regulation in US](https://www.reuters.com/legal/litigation/epa-army-corps-seek-more-input-federal-water-regulation-us-2026-09-04/)
-    
-    [
-    
-    ](https://www.reuters.com/legal/litigation/epa-army-corps-seek-more-input-federal-water-regulation-us-2026-09-04/)
-    
-- [Litigationcategory](https://www.reuters.com/legal/litigation/)
-    
-    [EU drug safety committee reviews iron injections over bone disorder risk](https://www.reuters.com/legal/litigation/eu-drug-safety-committee-reviews-iron-injections-over-bone-disorder-risk-2026-09-04/)
+    [Missouri asks Supreme Court to revive Republican-drawn congressional map](https://www.reuters.com/legal/government/missouri-asks-supreme-court-revive-republican-drawn-congressional-map-2026-09-05/)
     
     [
     
-    ](https://www.reuters.com/legal/litigation/eu-drug-safety-committee-reviews-iron-injections-over-bone-disorder-risk-2026-09-04/)
+    ](https://www.reuters.com/legal/government/missouri-asks-supreme-court-revive-republican-drawn-congressional-map-2026-09-05/)
     
 - [Governmentcategory](https://www.reuters.com/legal/government/)
     
-    [India's NSE targets listing in week of September 21 after IPO clearance, sources say](https://www.reuters.com/legal/government/indias-nse-gets-regulatory-nod-proceed-with-ipo-2026-09-04/)
+    [US embassy issues health alert for Cuba amid oil blockade, sanctions](https://www.reuters.com/legal/government/us-embassy-issues-health-alert-cuba-amid-oil-blockade-sanctions-2026-09-05/)
     
     [
     
-    ](https://www.reuters.com/legal/government/indias-nse-gets-regulatory-nod-proceed-with-ipo-2026-09-04/)
+    ](https://www.reuters.com/legal/government/us-embassy-issues-health-alert-cuba-amid-oil-blockade-sanctions-2026-09-05/)
     
-- [Governmentcategory](https://www.reuters.com/legal/government/)
+- [Worldcategory](https://www.reuters.com/world/)
     
     EXCLUSIVE
     
-    [US may ask parents to prove citizenship or immigration status to get passports for their children](https://www.reuters.com/legal/government/trump-birthright-curbs-may-prompt-us-passport-checks-parents-2026-09-01/)
+    [White House reviews candidates to replace Hegseth deputy Feinberg, sources say](https://www.reuters.com/world/white-house-reviews-candidates-replace-hegseth-deputy-feinberg-sources-say-2026-09-05/)
     
     [
     
-    ](https://www.reuters.com/legal/government/trump-birthright-curbs-may-prompt-us-passport-checks-parents-2026-09-01/)
+    ](https://www.reuters.com/world/white-house-reviews-candidates-replace-hegseth-deputy-feinberg-sources-say-2026-09-05/)
+    
+- [Litigationcategory](https://www.reuters.com/legal/litigation/)
+    
+    [Kennedy acknowledges one measles death in Pennsylvania](https://www.reuters.com/legal/litigation/kennedy-acknowledges-one-measles-death-pennsylvania-2026-09-05/)
+    
+    [
+    
+    ](https://www.reuters.com/legal/litigation/kennedy-acknowledges-one-measles-death-pennsylvania-2026-09-05/)
     
 
 [](https://www.lseg.com/en/data-analytics/products/workspace?utm_source=reuters.com&utm_medium=articlebanner&utm_campaign=Reuters_ProductPage_Links)

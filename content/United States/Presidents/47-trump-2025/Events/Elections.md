@@ -4,17 +4,18 @@
 In September 2026, The [Missouri Supreme Court blocked](https://www.reuters.com/legal/government/blow-trump-missouri-top-court-blocks-republican-drawn-congressional-map-2026-09-03/) a new Republican congressional map from being used. The court ruled 7-0 that the map must be approved by voters ​in a November referendum before it can take effect. The state held primary elections under the new map in August, and the court did not specify how it expected nominees to be selected now that the old map is back in place.
 
 # Mail-in Voting
+## USPS Order
 - EO: orders USPS to refuse ballot delivery if states withheld eligible voter lists.
-- Lawsuit: 
-	- Case: [State of California v. Trump (1:26-cv-11581)](https://www.courtlistener.com/docket/73141063/state-of-california-v-trump/)
-	- Federal Judge: Indira Talwani
-	- Timeline:
-		- [July 25](https://www.reuters.com/world/us-appeals-court-rules-trump-cannot-implement-mail-in-voting-order-2026-07-25/): ‌Boston-based 1st U.S. Circuit Court of Appeals rejects Trump's request to lift judge Talwani's injunction.
-		- [August 11](https://www.reuters.com/world/judge-blocks-us-postal-service-restricting-mail-in-voting-2026-08-11/): Talwani expands June injunction from 23 mostly Democratic-led states to nationwide
-		- [August 24](https://www.reuters.com/world/us-supreme-court-lifts-judicial-hurdle-trumps-mail-in-ballot-curbs-2026-08-24/): 6-3 Supreme Court ruling lifts Talwani's June injunction but keeps her August 11 nationwide injunction in place. The court's conservative majority agreed with the DOJ that the lawsuit challenging Trump's directive was premature and that the states did not have the required legal standing at this stage to sue.
-		- [August 25](https://www.reuters.com/world/judge-chides-us-postal-service-over-mail-in-voting-rule-wont-block-it-2026-08-25/): Talwani declines to block USPS ​final rule that would require states to provide USPS with lists of voters who received mailed ballots, even as she concluded the agency had violated a court order by issuing it. The USPS issued the final rule the day before the Supreme Court ruling in anticipation. 
-		- [August 27](https://www.reuters.com/world/judge-blocks-rule-implementing-trump-plan-restrict-mail-in-voting-2026-08-28/): Talwani issues TRO blocking mail-in voting rule, says Trumps presented no evidence regarding fraudulent mail-in voting that would necessitate such a rule.
-	- Result:
+### Lawsuit
+- Case: [State of California v. Trump (1:26-cv-11581)](https://www.courtlistener.com/docket/73141063/state-of-california-v-trump/)
+- Federal Judge: Indira Talwani
+- Timeline:
+	- [July 25](https://www.reuters.com/world/us-appeals-court-rules-trump-cannot-implement-mail-in-voting-order-2026-07-25/): ‌Boston-based 1st U.S. Circuit Court of Appeals rejects Trump's request to lift judge Talwani's injunction.
+	- [August 11](https://www.reuters.com/world/judge-blocks-us-postal-service-restricting-mail-in-voting-2026-08-11/): Talwani expands June injunction from 23 mostly Democratic-led states to nationwide
+	- [August 24](https://www.reuters.com/world/us-supreme-court-lifts-judicial-hurdle-trumps-mail-in-ballot-curbs-2026-08-24/): 6-3 Supreme Court ruling lifts Talwani's June injunction but keeps her August 11 nationwide injunction in place. The court's conservative majority agreed with the DOJ that the lawsuit challenging Trump's directive was premature and that the states did not have the required legal standing at this stage to sue.
+	- [August 25](https://www.reuters.com/world/judge-chides-us-postal-service-over-mail-in-voting-rule-wont-block-it-2026-08-25/): Talwani declines to block USPS ​final rule that would require states to provide USPS with lists of voters who received mailed ballots, even as she concluded the agency had violated a court order by issuing it. The USPS issued the final rule the day before the Supreme Court ruling in anticipation. 
+	- [August 27](https://www.reuters.com/world/judge-blocks-rule-implementing-trump-plan-restrict-mail-in-voting-2026-08-28/): Talwani issues TRO blocking mail-in voting rule, says Trumps presented no evidence regarding fraudulent mail-in voting that would necessitate such a rule.
+	- [September 4](https://www.reuters.com/legal/government/us-judge-again-blocks-postal-services-mail-in-voting-restrictions-2026-09-04/): Talwani extends TRO into preliminary injunction.
 
 
 # Illegal Voting
