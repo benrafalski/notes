@@ -157,6 +157,27 @@ In August 2026, the State Department paused immigrant visa appointments for appl
 ## Revoking Visas
 - Total revoked: [175,000](https://www.reuters.com/legal/government/trump-administration-has-revoked-more-than-175000-visas-state-department-says-2026-08-10/) visas during second term as of August 2026
 - [Non-immigrant visas](https://www.reuters.com/world/us-plans-revoke-up-200000-tourism-business-visas-ap-reports-2026-08-24/): In August 2026 the State Department said they planned to mass revoke non-immigrant visas of foreigners who have applied for or are currently seeking asylum status in the U.S. (~200,000 visas, largest mass revocation in history).
+# Non-citizen Voting
+## Citizenship Proof Order
+In March 2025: Trump signed an order [requiring proof of citizenship to vote](https://apnews.com/article/voting-elections-trump-executive-order-4e9edb53f47e61e241a43ceef8164022), despite voting by non-citizens in the US already being illegal and rarely occurs. The EO comes after Trump complained for years of voter fraud in his election loss to Biden. With the EO, Trump showed he was done waiting for Congress to pass the SAVE Act, which would do the same thing as Trump's EO but be codified. The EO has the possibility of disenfranchising voters, with [9% of Americans](https://www.reuters.com/world/us/trump-signs-election-order-calling-proof-us-citizenship-vote-2025-03-26/) (21 mln people) not having proof of citizenship readily available. The Constitution gives states authority to set the "times, places and manner" for elections, and gives Congress the power to regulate voting.
+### Lawsuit
+- Case:
+- Judge:
+- Timeline:
+	- [April 24](https://www.reuters.com/world/us/judge-partly-blocks-trump-order-seeking-overhaul-us-elections-2025-04-24/): US District Judge Colleen Kollar-Kotelly in Washington partly blocked the election EO, saying that Trump overstepped his authority with new proof of citizenship, mail-in ballot rules (Congress oversees elections). She declined to block parts of the order that sought to force states not to count mail-in ballots received after election day.
+	- [June 13](https://www.reuters.com/world/us/us-judge-blocks-trump-administration-overhauling-federal-elections-2025-06-13/): US District Judge Denise Casper in Boston issued a preliminary injunction blocking parts of the EO, including the citizenship proof part and the counting mail-in-ballots in election day part, due to Trump lacking the authority to mandate changes to election procedures. 
+	- [October 31](https://www.reuters.com/world/us-judge-permanently-blocks-trump-order-requiring-voters-prove-citizenship-2025-10-31/): Judge Kollar-Kotelly permanently blocks the part of the executive order that requires proof of U.S. citizenship to register to vote.
+## SAVE Database
+### Lawsuit
+- Case
+- Judge: U.S. District Judge Sparkle Sooknanan in Washington, D.C.
+- Timeline:
+	- [June 22, 2026](https://www.reuters.com/world/judge-blocks-trumps-use-revamped-immigration-database-voter-checks-2026-06-22/): Judge Sparkle Sooknanan, sides with voting rights and privacy advocates who argued that the overhaul of the SAVE citizenship database system made it less accurate and risked disenfranchising eligible voters.
+	- [September 5](https://www.reuters.com/legal/government/federal-appeals-court-upholds-ban-trumps-bid-use-citizenship-data-voter-checks-2026-09-05/): In a 2-1 ruling U.S. Court of Appeals for the District of Columbia declined to ​lift Sooknanan's ban on using the SAVE ​database to check the accuracy of citizenship records ‌on states' voter rolls.
+## New Jersey Non-citizen Registered Voters
+In July 2026, New Jersey Governor Mikie Sherrill said roughly [6,600 noncitizens](https://www.reuters.com/legal/government/trump-administration-seizes-new-jersey-voting-error-demand-noncitizen-data-2026-07-22/) who were accidentally signed up to vote in the state between 2023 and 2024 due to a software glitch. Sherrill said there was no evidence the mistake swayed the results of elections.
+
+
 # Due Process
 ## Immigration Courts
 - **Alien Terrorist Removal Court**: Court established ⁠by Congress in 1996 that allows the government to rely on classified evidence in deportation cases. The secretive U.S. court ​convened for the first time in [July 2026](https://www.reuters.com/legal/government/first-case-secretive-us-court-meant-deport-alleged-terrorists-2026-07-30/) to hear a case of a woman accused of supporting ISIS and helping conceal a failed Election Day 2024 mass shooting ​plot. 

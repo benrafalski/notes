@@ -29,4 +29,11 @@ https://www.britannica.com/event/Vietnam-War/The-U-S-role-grows
 
 
 
-continue from: # The conflict deepens
+# Conflict Deepens
+- **Strategic Hamlet Program**: Diem regime aimed to concentrate rural populations into more defensible positions where they could be more easily protected and segregated from the Viet Cong (like Malay New Villages but in Vietnam).
+- **Guerilla Tactics**: Viet Cong learned to cope with the ARVN’s American weapons including small-arms fire on helicopters and hitting armored personnel carriers exposed drivers or machine gunners.
+- **Continued Failures**: January 1963 a Viet Cong battalion near the village of Ap Bac in the Mekong delta, south of Saigon, though surrounded and outnumbered by ARVN forces, successfully fought its way out of its encirclement, destroying five helicopters and killing about 80 South Vietnamese soldiers and three American advisers.
+- **Crafted Image**: American newsmen were beginning to report on serious deficiencies in the U.S. advisory and support programs in Vietnam but the  large and powerful bureaucracy in Saigon that had a deep stake in ensuring that U.S. programs appeared successful. USMACV commander Paul Harkins and U.S. Ambassador Frederick Nolting in particular continued to assure Washington that all was going well. 
+- **Buddhists' Protests**: Diem’s brother Nhu Ngo (smoked opium daily and was suspected by U.S. intelligence of secretly negotiating with the North) had a wife known to the world as Madame Nhu who wielded enormous influence, which she used to promote Roman Catholic social causes and ridicule the country’s Buddhist majority. In May 1963 the Ngos became embroiled in a fatal quarrel with the Buddhist leadership resulting in strikes and demonstrations by Buddhists in Saigon and Hue that were met with violence by Diem's army and Nhu’s security forces resulting in numerous arrests. The next morning, Buddhist monk Thich Quang Duc publicly self-immolated with sensational photographs on the front pages of major American newspapers the following morning.
+
+continue: https://www.britannica.com/event/Vietnam-War/The-conflict-deepens#:~:text=By%20now%20many%20students%20and%20members%20of%20the%20professional

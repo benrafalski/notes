@@ -24,90 +24,93 @@
 
 [My News](https://www.reuters.com/my-news/feed/)
 
-[](https://www.reuters.com/account/sign-in/?redirect=https%3A%2F%2Fwww.reuters.com%2Flegal%2Fgovernment%2Fus-judge-again-blocks-postal-services-mail-in-voting-restrictions-2026-09-04%2F)[](https://www.reuters.com/account/subscribe/offer/?redirect=https%3A%2F%2Fwww.reuters.com%2Flegal%2Fgovernment%2Fus-judge-again-blocks-postal-services-mail-in-voting-restrictions-2026-09-04%2F&referrer=subscription_button&journeyStart=navigation)
+[](https://www.reuters.com/account/sign-in/?redirect=https%3A%2F%2Fwww.reuters.com%2Flegal%2Fgovernment%2Ffederal-appeals-court-upholds-ban-trumps-bid-use-citizenship-data-voter-checks-2026-09-05%2F)[](https://www.reuters.com/account/subscribe/offer/?redirect=https%3A%2F%2Fwww.reuters.com%2Flegal%2Fgovernment%2Ffederal-appeals-court-upholds-ban-trumps-bid-use-citizenship-data-voter-checks-2026-09-05%2F&referrer=subscription_button&journeyStart=navigation)
 
-# US judge again blocks Postal Service's mail-in voting restrictions
+# Federal appeals court upholds ban on Trump's bid to use citizenship data for voter checks
 
-By [Nate Raymond](https://www.reuters.com/authors/nate-raymond/)
+By Reuters
 
-September 4, 20262:56 PM PDTUpdated 15 hours ago
+September 5, 20269:02 AM PDTUpdated September 5, 2026
 
-![A United States Postal Service mailbox is seen in Manhattan, New York City](https://www.reuters.com/resizer/v2/T6VMNEJW2VO73K54R7XMPFHOD4.jpg?auth=a1bca767c18bd0682ea5683385b411c7e54a7eb5062ff9cd5be847033da306d3&width=1920&quality=80)
+![Primary elections take place in New York](https://www.reuters.com/resizer/v2/UETFEZIK7ZNPHFCRWMEXNQWS34.jpg?auth=1d6e8df775b966d67ecd1361443551049c781a5a89b5ba07a8ee4e7e40641a03&width=1920&quality=80)
 
-A United States Postal Service (USPS) mailbox is seen in Manhattan, New York City, U.S., May 9, 2022. REUTERS/Andrew Kelly/File Photo [Purchase Licensing Rights, opens new tab](https://www.reutersconnect.com/item/a-united-states-postal-service-mailbox-is-seen-in-manhattan-new-york-city/dGFnOnJldXRlcnMuY29tLDIwMjI6bmV3c21sX1JDMlIzVTkzVVpEUw%3D%3D/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead)
+A person casts their vote during primary elections at the Brooklyn Museum in New York, U.S., June 23, 2026. REUTERS/Eduardo Munoz [Purchase Licensing Rights, opens new tab](https://www.reutersconnect.com/item/primary-elections-take-place-in-new-york/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1JDMlBaTEFFOE5IMA%3D%3D/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead)
 
-- Summary
+Sept 5 (Reuters) - A federal appeals court panel rejected the Trump administration’s bid to lift a ban on using a federal immigration ​database to check the accuracy of citizenship records ‌on states' voter rolls.
 
-- Rule requires states to submit mail ballot recipient lists and use unique ballot barcodes
-- Administration swiftly appeals after Judge Talwani extends injunction against USPS election rule
-- Judge Talwani says 10,000 election jurisdictions would need redesigns for elections weeks away
+In a 2-1 ruling on Friday, the U.S. Court of Appeals for the District of Columbia declined to ​lift a [lower court's ban](https://www.reuters.com/world/judge-blocks-trumps-use-revamped-immigration-database-voter-checks-2026-06-22/) on using the Homeland Security Department's ​Systematic Alien Verification for Entitlements database. The earlier ⁠ruling determined that the government cannot use the system ​ahead of the November 3 midterm elections, in which Trump's ​Republicans will be defending narrow majorities in both chambers of Congress.
 
-BOSTON, Sept 4 (Reuters) - A federal judge ​on Friday extended a ban stopping President [Donald Trump's](https://www.reuters.com/world/us/donald-trump/) administration from implementing a new U.S. Postal Service rule that would tighten mail-in voting requirements ahead ‌of the November congressional elections.
+Jumpstart your morning with the latest legal news delivered straight to your inbox from The Daily Docket newsletter. Sign up [here.](https://www.reuters.com/newsletters/daily-docket/?location=article-paragraph&redirectUrl=%2Flegal%2Fgovernment%2Ffederal-appeals-court-upholds-ban-trumps-bid-use-citizenship-data-voter-checks-2026-09-05%2F)
 
-Boston-based U.S. District Judge Indira Talwani [issued the injunction, opens new tab](https://fingfx.thomsonreuters.com/gfx/legaldocs/znvnoyrnypl/09042026talwani.pdf) at the behest of Democratic-led states and voting rights groups, after one state sent out mail ballots for the elections on Friday. Talwani wrote that only laws passed by Congress can supersede states' authority over elections, adding "the executive has no inherent authority" over voting rules.
+Chief Judge Sri Srinivasan and U.S. Circuit Judge Robert Wilkins, both ​appointed to the appeals court by President Barack Obama, ​upheld the lower court decision that the SAVE system violates the Social ‌Security ⁠Act as it shares millions of Americans' private information. The appeals court judges also noted concerns around the potential for inaccurate citizen information that could lead to people having ​to prove citizenship ​to remain ⁠registered voters, and in some cases could even lead to voter registration being canceled.
 
-Jumpstart your morning with the latest legal news delivered straight to your inbox from The Daily Docket newsletter. Sign up [here.](https://www.reuters.com/newsletters/daily-docket/?location=article-paragraph&redirectUrl=%2Flegal%2Fgovernment%2Fus-judge-again-blocks-postal-services-mail-in-voting-restrictions-2026-09-04%2F)
+U.S. ​Circuit Judge Gregory Katsas, an appointee of President ​Donald ⁠Trump, dissented.
 
-Congress has never delegated authority over voting to the Postal Service, Talwani ​wrote, and the agency's new rule "clashes with Congress’s statutory scheme, and is unconstitutional."
+A federal judge in [Florida](https://www.reuters.com/legal/government/us-judge-orders-four-states-be-given-access-citizenship-data-voter-checks-2026-07-08/) in July ordered the U.S. Department of Homeland Security to resume giving four Republican-led ⁠states ​access to the database after another ​judge blocked it from continuing to use the database nationwide.
 
-The immediate deadlines demanded by the Postal Service's rule would create "chaos" for groups that ​provide information about how to vote, Talwani wrote. Organizations such as the League of Women Voters "do not know whether to advise their ⁠members to vote by mail, despite legal entitlement, due to the high risk of disenfranchisement," her ruling states.
-
-The administration swiftly filed a notice of appeal.
-
-The USPS declined to ​comment on the ruling, but U.S. Postmaster General David Steiner defended the agency's handling of the issue.
-
-"We have at all times acted within our legal authority to issue a rule ​to achieve those policies, but ultimately the courts will decide that question, and we will follow the court’s determination," Steiner said on Friday.
-
-The White House did not immediately respond to a request for comment.
-
-## POSTAL SERVICE RULE FOLLOWS TRUMP ORDER
-
-Under the rule, states must supply the USPS with lists of mail ballot recipients, and all outbound and return ballot envelopes must bear unique barcodes. The USPS, under the ​rule, may refuse to deliver ballots that do not comply with the new standards or are associated with voters who do not appear on the lists.
-
-Last week, Talwani, an ​appointee of Democratic President Barack Obama, issued a 14-day temporary restraining order to prevent USPS' rule from being enforced while she considered whether to issue a longer-term injunction.
-
-The administration on Thursday asked ‌the U.S. ⁠Supreme Court to intervene and lift the temporary order so the rule could take effect. The court's 6-3 conservative majority last week [lifted a prior order Talwani issued](https://www.reuters.com/world/us-supreme-court-lifts-judicial-hurdle-trumps-mail-in-ballot-curbs-2026-08-24/) preventing USPS from imposing such restrictions.
-
-USPS issued its rule to implement an executive order Trump signed in March after years of the Republican president calling to restrict voting by mail and pushing the false claim that his 2020 presidential election defeat to Democrat Joe Biden was the result of widespread voter fraud.
-
-All 50 states allow for some form of mail-in voting. Of ​those, 29 states allow voters to ask to ​cast ballots by mail without providing ⁠a reason, and eight conduct their elections entirely by mail. North Carolina on Friday became the first state to mail ballots for the November elections.
-
-The rule, if allowed to take effect, could force state election officials to try to overhaul their systems with just ​weeks left until the elections to comply with a system that critics say USPS is not ready to implement.
-
-Talwani said it ​was "implausible" that states would ⁠be able to comply with the rule for this year's looming elections, as it would require 10,000 election jurisdictions to redesign their ballots, print them and submit voter information to a USPS-run online portal that does not yet exist.
-
-"Having considered this series of hurdles for officials against the backdrop of an impending election, and mindful of the fact that any minor malfunction ⁠will result in ​the denial of mail ballots, the court concludes that disenfranchisement for Plaintiff Organizations’ members, regardless of residence, ​is practically inevitable," she wrote, referring to the voting rights groups.
-
-The administration had asked a federal appeals court to set aside Talwani's initial restraining order. But the Boston-based 1st U.S. Circuit Court of Appeals had not ​acted on that request before the judge issued her latest decision.
-
-Reporting by Nate Raymond in Boston; Additional reporting by David Shepardson in Washington; Editing by Rod Nickel and Tom Hogue
+Reporting by Georgina ​McCartney in Houston; Editing by Sergio Non and Andrea Ricci
 
 Our Standards: [The Thomson Reuters Trust Principles., opens new tab](https://www.thomsonreuters.com/en/about-us/trust-principles.html)
 
 - Suggested Topics:
 - [](https://www.reuters.com/legal/government/)
 - [](https://www.reuters.com/legal/constitutional-law/)
-- [](https://www.reuters.com/legal/judiciary/)
-- [](https://www.reuters.com/legal/supreme-court-of-the-united-states/)
 - [](https://www.reuters.com/world/us/election-security/)
+- [](https://www.reuters.com/legal/civil-rights/)
+- [](https://www.reuters.com/legal/appellate/)
 
 [](https://www.reutersagency.com/en/licensereuterscontent/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead)
 
-[
-
-](https://www.reuters.com/authors/nate-raymond/)
-
-[Nate Raymond](https://www.reuters.com/authors/nate-raymond/)
-
-Thomson Reuters
-
-Nate Raymond reports on the federal judiciary and litigation. He can be reached at nate.raymond@thomsonreuters.com.
-
-- [](mailto:nate.raymond@thomsonreuters.com)
-- [](https://x.com/nateraymond)
-
 ## Read Next / Editor's Picks
 
+- [Litigationcategory](https://www.reuters.com/legal/litigation/)
+    
+    [Novo scraps two more heart drug trials, further dimming growth beyond obesity](https://www.reuters.com/legal/litigation/novo-scraps-two-more-heart-drug-trials-further-dimming-growth-beyond-obesity-2026-09-07/)
+    
+    [
+    
+    ](https://www.reuters.com/legal/litigation/novo-scraps-two-more-heart-drug-trials-further-dimming-growth-beyond-obesity-2026-09-07/)
+    
+- [Governmentcategory](https://www.reuters.com/legal/government/)
+    
+    [Warning signs abound for Trump's Republicans as midterm campaign begins final sprint](https://www.reuters.com/legal/government/warning-signs-abound-trumps-republicans-midterm-campaign-begins-final-sprint-2026-09-07/)
+    
+    [
+    
+    ](https://www.reuters.com/legal/government/warning-signs-abound-trumps-republicans-midterm-campaign-begins-final-sprint-2026-09-07/)
+    
+- [Worldcategory](https://www.reuters.com/world/)
+    
+    [China hands former securities regulator Wang Jianjun life sentence over bribery](https://www.reuters.com/world/china-hands-former-securities-regulator-wang-jianjun-life-sentence-over-bribery-2026-09-07/)
+    
+    [
+    
+    ](https://www.reuters.com/world/china-hands-former-securities-regulator-wang-jianjun-life-sentence-over-bribery-2026-09-07/)
+    
+- [Litigationcategory](https://www.reuters.com/legal/litigation/)
+    
+    [Novartis cholesterol setback tests hopes for emerging heart disease drugs](https://www.reuters.com/legal/litigation/novartis-shares-down-failed-cholesterol-drug-study-increases-pipeline-pressure-2026-09-07/)
+    
+    [
+    
+    ](https://www.reuters.com/legal/litigation/novartis-shares-down-failed-cholesterol-drug-study-increases-pipeline-pressure-2026-09-07/)
+    
+- [Worldcategory](https://www.reuters.com/world/)
+    
+    [Indian health activists lodge concerns about food warning proposal in court](https://www.reuters.com/world/indian-health-activists-lodge-concerns-about-food-warning-proposal-court-2026-09-07/)
+    
+    [
+    
+    ](https://www.reuters.com/world/indian-health-activists-lodge-concerns-about-food-warning-proposal-court-2026-09-07/)
+    
+- [Governmentcategory](https://www.reuters.com/legal/government/)
+    
+    [Trump administration renews Supreme Court bid to limit mail-in voting](https://www.reuters.com/legal/government/trump-administration-renews-supreme-court-bid-limit-mail-in-voting-2026-09-06/)
+    
+    [
+    
+    ](https://www.reuters.com/legal/government/trump-administration-renews-supreme-court-bid-limit-mail-in-voting-2026-09-06/)
+    
 - [Worldcategory](https://www.reuters.com/world/)
     
     [Trump administration takes mail-in ballot fight to US Supreme Court](https://www.reuters.com/world/trump-administration-takes-mail-in-ballot-fight-us-supreme-court-2026-09-03/)
@@ -187,56 +190,6 @@ Nate Raymond reports on the federal judiciary and litigation. He can be reached 
     [
     
     ](https://www.reuters.com/legal/government/democratic-us-senator-asks-capital-one-details-trump-account-anti-money-2026-09-02/)
-    
-- [Legal Industrycategory](https://www.reuters.com/legal/legalindustry/)
-    
-    [Ford, EEOC ink $2.3 million deal in probe over racist graffiti](https://www.reuters.com/legal/legalindustry/ford-eeoc-ink-23-million-deal-probe-over-racist-graffiti-2026-09-02/)
-    
-    [
-    
-    ](https://www.reuters.com/legal/legalindustry/ford-eeoc-ink-23-million-deal-probe-over-racist-graffiti-2026-09-02/)
-    
-- [Governmentcategory](https://www.reuters.com/legal/government/)
-    
-    [US states' lawsuit seeking to curb abortion drug access paused for now](https://www.reuters.com/legal/government/us-states-lawsuit-seeking-curb-abortion-drug-access-paused-now-2026-09-01/)
-    
-    [
-    
-    ](https://www.reuters.com/legal/government/us-states-lawsuit-seeking-curb-abortion-drug-access-paused-now-2026-09-01/)
-    
-- [Governmentcategory](https://www.reuters.com/legal/government/)
-    
-    [Missouri asks Supreme Court to revive Republican-drawn congressional map](https://www.reuters.com/legal/government/missouri-asks-supreme-court-revive-republican-drawn-congressional-map-2026-09-05/)
-    
-    [
-    
-    ](https://www.reuters.com/legal/government/missouri-asks-supreme-court-revive-republican-drawn-congressional-map-2026-09-05/)
-    
-- [Governmentcategory](https://www.reuters.com/legal/government/)
-    
-    [US embassy issues health alert for Cuba amid oil blockade, sanctions](https://www.reuters.com/legal/government/us-embassy-issues-health-alert-cuba-amid-oil-blockade-sanctions-2026-09-05/)
-    
-    [
-    
-    ](https://www.reuters.com/legal/government/us-embassy-issues-health-alert-cuba-amid-oil-blockade-sanctions-2026-09-05/)
-    
-- [Worldcategory](https://www.reuters.com/world/)
-    
-    EXCLUSIVE
-    
-    [White House reviews candidates to replace Hegseth deputy Feinberg, sources say](https://www.reuters.com/world/white-house-reviews-candidates-replace-hegseth-deputy-feinberg-sources-say-2026-09-05/)
-    
-    [
-    
-    ](https://www.reuters.com/world/white-house-reviews-candidates-replace-hegseth-deputy-feinberg-sources-say-2026-09-05/)
-    
-- [Litigationcategory](https://www.reuters.com/legal/litigation/)
-    
-    [Kennedy acknowledges one measles death in Pennsylvania](https://www.reuters.com/legal/litigation/kennedy-acknowledges-one-measles-death-pennsylvania-2026-09-05/)
-    
-    [
-    
-    ](https://www.reuters.com/legal/litigation/kennedy-acknowledges-one-measles-death-pennsylvania-2026-09-05/)
     
 
 [](https://www.lseg.com/en/data-analytics/products/workspace?utm_source=reuters.com&utm_medium=articlebanner&utm_campaign=Reuters_ProductPage_Links)
@@ -339,6 +292,7 @@ Reuters, the news and media division of Thomson Reuters, is the world’s larges
 - [Corrections](https://www.reuters.com/info-pages/contact-us/)
 - [Data Disclosure and Sources, opens new tab](https://www.reuters.com/info-pages/data-disclosure-and-sources/)
 - [Site Feedback, opens new tab](https://trdigital.iad1.qualtrics.com/jfe/form/SV_8kte8gArGyCGVhz)
+- Manage Cookies & Your Privacy Choices
 
 All quotes delayed a minimum of 15 minutes. [See here for a list of exchanges and delays.](https://www.reuters.com/info-pages/disclaimer/)
 
