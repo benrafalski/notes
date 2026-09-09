@@ -1,7 +1,7 @@
 
 # Partisan Redistricting
 ## Missouri
-In September 2026, The [Missouri Supreme Court blocked](https://www.reuters.com/legal/government/blow-trump-missouri-top-court-blocks-republican-drawn-congressional-map-2026-09-03/) a new Republican congressional map from being used. The court ruled 7-0 that the map must be approved by voters ​in a November referendum before it can take effect. The state held primary elections under the new map in August, and the court did not specify how it expected nominees to be selected now that the old map is back in place.
+In September 2026, The [Missouri Supreme Court blocked](https://www.reuters.com/legal/government/blow-trump-missouri-top-court-blocks-republican-drawn-congressional-map-2026-09-03/) a new Republican congressional map from being used. The court ruled 7-0 that the map must be approved by voters ​in a November referendum before it can take effect. The state held primary elections under the new map in August, and the court did not specify how it expected nominees to be selected now that the old map is back in place. A few days later, U.S. Supreme Court justice [Kavanaugh declined](https://www.reuters.com/world/us-supreme-court-wont-reinstate-republican-drawn-congressional-map-missouri-2026-09-08/) to reinstate the Republican-drawn congressional map in an emergency ruling, even despite Chief U.S. District Judge Stephen Clark acting in a separate case ruling in favor of a TRO that the reconfigured boundaries must be used.
 
 # Mail-in Voting
 ## USPS Order

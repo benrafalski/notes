@@ -1,6 +1,10 @@
 
 # Museums
-July 24, 2026: Trump signs EO directing federal officials on Friday to ‌install signs outside the Smithsonian's flagship National Museum of American History to correct "inaccurate information presented in the ⁠Museum" after accusing the museum of "thinly veiled ​anti-Americanism" and "extreme political activism." [Reuters](https://www.reuters.com/world/us/trump-signs-executive-order-related-smithsonian-institution-white-house-says-2026-07-24/)
+- July 24, 2026: Trump signs EO directing federal officials on Friday to ‌install signs outside the Smithsonian's flagship National Museum of American History to correct "inaccurate information presented in the ⁠Museum" after accusing the museum of "thinly veiled ​anti-Americanism" and "extreme political activism." [Reuters](https://www.reuters.com/world/us/trump-signs-executive-order-related-smithsonian-institution-white-house-says-2026-07-24/)
+- **Secretary of Smithsonian Resigns** (September 2026): [Lonnie Bunch](https://www.reuters.com/world/us/smithsonian-chief-lonnie-bunch-announces-departure-2026-09-08/), who led the Smithsonian since 2019 as the institution's first Black secretary, announces his retirement.
+
+## Statues
+- [Arlington Cemetery](https://www.reuters.com/world/us/trump-administration-cuts-criticism-confederate-statue-that-stood-arlington-2026-09-08/): this statue was originally a 32-foot bronze ​statue unveiled in 1914 and removed from the military cemetery in 2023. Hegseth said the statue would be reinstalled at Arlington National Cemetery and ‌criticized its ⁠removal in the first place that he attributed to a "woke" outlook. The new statue removed language that criticized a memorial ‌to the Confederacy including a line that said "the elaborately designed monument offers a nostalgic, mythologized vision of the ​Confederacy, including highly sanitized depictions of slavery."
 
 
 # Schools
