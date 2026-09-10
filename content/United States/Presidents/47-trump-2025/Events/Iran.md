@@ -23,6 +23,7 @@
 - [September 1](https://www.reuters.com/world/middle-east/iran-urges-us-comply-with-interim-deal-after-trump-threatens-further-strikes-2026-09-01/): US launches new strikes on IRGC targets in Iran, the first since July, prompting Iranian retaliation on US targets in the Gulf and marking the most serious escalation in weeks in the conflict. Iran reported at least 12 deaths from the night of U.S. ‌strikes, with four ⁠people including a four-year-old said to have been killed while celebrating the wedding at a home in Sirik.
 - [September 5](https://www.reuters.com/world/middle-east/explosions-heard-near-irans-kharg-island-gulf-origin-unknown-fars-news-says-2026-09-05/): US forces hit three Iranian oil tankers following IRGC attacks on American naval ships.
 - [September 8](https://www.reuters.com/world/middle-east/iran-says-it-plans-new-gulf-exclusion-zone-threatens-us-with-new-missiles-2026-09-08/): Houthis attacked four cities in the south of Saudi Arabia, wounding more than 70 people and setting oil installations ablaze.
+- [September 9](https://www.reuters.com/world/middle-east/iran-attacks-us-base-jordan-ships-near-hormuz-after-tankers-sunk-2026-09-09/): Iran attacks 10 ships near Strait of Hormuz after U.S. sank five Iranian oil tankers, ‌in the biggest wave of attacks on shipping by both sides since the start of the six-month-old war.
 
 
 

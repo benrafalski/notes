@@ -24,172 +24,217 @@
 
 [My News](https://www.reuters.com/my-news/feed/)
 
-[](https://www.reuters.com/account/sign-in/?redirect=https%3A%2F%2Fwww.reuters.com%2Fworld%2Fus-supreme-court-wont-reinstate-republican-drawn-congressional-map-missouri-2026-09-08%2F)[](https://www.reuters.com/account/subscribe/offer/?redirect=https%3A%2F%2Fwww.reuters.com%2Fworld%2Fus-supreme-court-wont-reinstate-republican-drawn-congressional-map-missouri-2026-09-08%2F&referrer=subscription_button&journeyStart=navigation)
+[](https://www.reuters.com/account/sign-in/?redirect=https%3A%2F%2Fwww.reuters.com%2Fbusiness%2Fautos-transportation%2Fcanadas-retaliatory-tariffs-take-effect-us-trade-talks-stall-2026-09-08%2F)[](https://www.reuters.com/account/subscribe/offer/?redirect=https%3A%2F%2Fwww.reuters.com%2Fbusiness%2Fautos-transportation%2Fcanadas-retaliatory-tariffs-take-effect-us-trade-talks-stall-2026-09-08%2F&referrer=subscription_button&journeyStart=navigation)
 
-# Courts issue conflicting rulings on Missouri's Republican-drawn congressional map
+# US to ban Canadian motorcycle, dairy, alcohol imports as trade war sizzles
 
-By [Andrew Chung](https://www.reuters.com/authors/andrew-chung/)
+By [Gram Slattery](https://www.reuters.com/authors/gram-slattery/), [Promit Mukherjee](https://www.reuters.com/authors/promit-mukherjee/) and [Ryan Patrick Jones](https://www.reuters.com/authors/ryan-patrick-jones/)
 
-September 8, 20262:37 PM PDTUpdated 14 hours ago
+September 7, 20269:03 PM PDTUpdated September 9, 2026
 
-![The U.S. Supreme Court in Washington](https://www.reuters.com/resizer/v2/6KWKTHBICJJE7KKGBPJFPRYJQM.jpg?auth=dfa216c6995c66f5eec8fc408472bb18a8230c7139f2ff88c132468abf9571bb&width=1920&quality=80)
-
-The U.S. Supreme Court in Washington, D.C., U.S., September 1, 2026. REUTERS/Aaron Schwartz [Purchase Licensing Rights, opens new tab](https://www.reutersconnect.com/item/the-us-supreme-court-in-washington/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1JDMktBTkFYS1ExSw%3D%3D/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead)
+![How Canada's retaliatory tariffs could impact US midterm elections](https://ajo.prod.reuters.tv/api/v2/img/6aa08857e4b01915ce4b090d?width=1080&quality=80)
 
 - Summary
+- Companies
 
-- Voting group challenged map, sought referendum
-- Missouri Supreme Court said referendum could proceed
-- Redrawn map erased a Democratic-held district
-- District judge issues temporary order requiring use of Republican-drawn ​map
+- US effectively bans Canadian alcohol, motorcycle, dairy imports from September 29
+- Canada's counter-tariffs that came into effect overnight covered $20 billion of US goods
+- Canadian tariffs are a response to moves by Trump
 
-Sept 8 (Reuters) - The [U.S. Supreme Court](https://www.reuters.com/legal/us-supreme-court/) declined on Tuesday to reinstate a Republican-drawn congressional map in Missouri aimed at helping the party ‌maintain its slim majority in the House of Representatives in November's midterm elections, even as a federal judge acting in a separate case ruled that the reconfigured boundaries must be used.
+WASHINGTON, Sept 8 (Reuters) - The United States banned a broad swath of Canadian alcoholic beverages, motorcycles and dairy products from import on Tuesday, sharply escalating an already acrimonious trade spat.
 
-The rapidly shifting legal landscape risked injecting further confusion into the high-stakes electoral fight in Missouri taking place both in state and federal courts.
+The import bans, which go into effect on September 29 and were ​published on the White House's website, came after Canada's own retaliatory tariffs on U.S. goods took effect after midnight on Tuesday.
 
-The Reuters Daily Briefing newsletter provides all the news you need to start your day. Sign up [here.](https://www.reuters.com/newsletters/daily-briefing/?location=article-paragraph&redirectUrl=%2Fworld%2Fus-supreme-court-wont-reinstate-republican-drawn-congressional-map-missouri-2026-09-08%2F)
+Stay up to date with the latest news, trends and innovations that are driving the global automotive industry with the Reuters Auto File newsletter. Sign up [here.](https://www.reuters.com/newsletters/reuters-auto-file/?location=article-paragraph&redirectUrl=%2Fbusiness%2Fautos-transportation%2Fcanadas-retaliatory-tariffs-take-effect-us-trade-talks-stall-2026-09-08%2F)
 
-Conservative U.S. Supreme Court Justice Brett Kavanaugh on Tuesday ​denied Missouri's emergency request to suspend a state Supreme Court ruling that [blocked the map](https://www.reuters.com/legal/government/blow-trump-missouri-top-court-blocks-republican-drawn-congressional-map-2026-09-03/), which had dismantled the Kansas City-based seat of longtime Democratic ​Representative Emanuel Cleaver.
+Those Canadian levies themselves followed 50% tariffs that the United States imposed on some $20 ‌billion of Canadian goods last month, after several rounds of negotiations collapsed.
 
-Kavanaugh, who handles emergency matters from Missouri and several other states, did not refer the matter to the ⁠nine-member court before issuing the decision. He did not provide any reasons for the decision, as is common with orders on such requests.
+The breakdown has widened a rift between the longtime allies, who have blamed each other for the failed talks, spurred Canadian Prime Minister Mark Carney to urge a further shift away from Canada's biggest trading partner, and cast doubt on the viability of the U.S.-Mexico-Canada Agreement.
 
-But soon after, St. Louis, ​Missouri-based Chief U.S. District Judge Stephen Clark issued a temporary order requiring the state to use the Republican-drawn map for the November 3 midterm elections.
+"We have everything we need to pivot and prosper," Carney said on Tuesday in a video posted on YouTube.
 
-Clark acted in ​a lawsuit filed by Missouri Republican U.S. Representative Bob Onder and other plaintiffs in federal court. His decision appeared to conflict with the Missouri Supreme Court's ruling that blocked the map.
+"That pivot will come at a cost. There's always a cost to action. But it doesn't come close to the cost of standing still," ​he said.
 
-Missouri Republicans adopted the map in 2025 as part of a broader effort backed by President Donald Trump to redraw congressional districts in ways that could benefit Republican candidates.
+The U.S. bans appeared to cover most alcohol products, including beer and various types of wine, whisky, bourbon, rum, vodka, vermouth, tequila, mezcal, and brandy. The dairy ban covers whey protein, invert molasses, cane molasses and ​non-alcoholic beer, per notices on the White House's website.
 
-The seven-member Missouri Supreme Court, which ​includes five Republican-appointed judges, unanimously ruled on September 3 that the Republican-drawn map must be approved by voters in a November referendum before it can take ​effect.
+In addition to the import bans, various cheese products were added to a list of products subject to a 50% tariff, but not ⁠banned outright. Some paper, aluminum, wood, furniture, lighting and other products were also added to the list.
 
-Missouri Republican Attorney General Catherine Hanaway said in a social media post that the state is "prepared to follow and comply with Chief Judge Clark's order." That statement came after her ‌office had ⁠first expressed disappointment with Kavanaugh's decision.
+A U.S. official said President Donald Trump's pre-existing threat to increase tariffs on Canadian autos from 25% to 50% on January 1 remained in effect. ​The official added that U.S. Trade Representative Jamieson Greer had spoken with Dominic LeBlanc, Canada's minister responsible for bilateral U.S. trade, over the past couple of days, and the pair were expected to speak again in the coming days to see if there ​was an alternative path for the two countries.
 
-Lawyer Marc Elias, whose law firm helped to represent the challengers to the redrawn map at the U.S. Supreme Court, said in a live internet broadcast that his team and others "will be working feverishly to undo this."
+In a social media post on Tuesday night, LeBlanc criticized the latest U.S. measures and said he was in contact with Greer regarding a path forward.
 
-Republicans hold a narrow 219-214 majority in the U.S. House, including one independent who caucuses with Republicans.
+"As has been the case for the last 18 months, our first priority remains on protecting and supporting Canadian workers, farmers, families, and businesses from these unjustified actions," he wrote.
 
-While both Republican- and Democratic-controlled states drew new maps as part of an unprecedented mid-decade redistricting fight, Republicans eventually [emerged as the winners](https://www.reuters.com/legal/government/how-republicans-are-winning-war-over-us-congressional-redistricting-state-by-2026-05-29/).
+## OTTAWA STRIKES BACK
 
-Republicans improved their chances ​in 16 districts, including Cleaver's seat ​in Missouri, while Democrats secured an ⁠edge in six districts.
+Ottawa's retaliatory measures, which in turn provoked Washington's move on Tuesday night, were designed to put economic and political pressure on Washington, Canadian government officials said.
 
-The effort [repeatedly](https://www.reuters.com/legal/government/us-supreme-court-formally-reinstates-pro-republican-texas-voting-map-2026-04-27/) [drew](https://www.reuters.com/world/us-supreme-court-allows-pro-democratic-california-voting-map-2026-02-04/) the U.S. Supreme Court into disputes over congressional redistricting. A major Supreme Court ruling [limiting the reach](https://www.reuters.com/world/us-supreme-court-blocks-louisiana-voting-map-with-second-black-majority-district-2026-04-29/) of the Voting Rights Act and subsequent [actions](https://www.reuters.com/world/us-supreme-court-clears-way-alabama-republicans-pursue-new-voting-map-2026-05-11/) by the court permitted several Republican-controlled Southern states to eliminate districts with significant Black populations.
+Those [counter-tariffs](https://www.reuters.com/business/carney-says-new-canadian-tariffs-us-goods-will-come-into-effect-september-8-2026-08-22/) cover some $20 billion of U.S. goods, with ​duties ranging from 15% to 50% across products from steel and furniture to clothing and electronics, and are expected to hit sectors in some competitive states such as Michigan and Ohio, ahead of U.S. midterm elections in November.
 
-The ​challenge in Missouri began after a group formed to oppose the new map, People Not Politicians, had collected enough ​signatures to file for ⁠a referendum under a provision in the state constitution that authorizes a ballot measure to approve any legislative act.
+While the tariffs affect a ​small amount of exports compared with total trade between the U.S. and Canada, some analysts worry the standoff could destabilize the U.S.-Mexico-Canada Agreement, the free-trade pact that succeeded NAFTA. Together they have underpinned commerce across North America for decades.
 
-Missouri's Republican Secretary of State Denny Hoskins, the state's top election official, rejected the petition, finding that state constitutional language does not apply to congressional redistricting.
+"What we are worried about is an ‌escalatory spiral," said ⁠Michael Harvey, executive director of the Canadian Agri-Food Trade Alliance and a member of Carney's advisory committee on bilateral U.S. economic relations.
 
-The Missouri court dismissed that argument. "The referendum petition was legal, sufficient, and timely, ⁠and the secretary ​incorrectly concluded otherwise," Judge Ginger Gooch wrote for the court. The redrawn map "will not go ​into effect unless and until approved by voters," Gooch said.
+Item 1 of 3 A shopper pushes a cart past the dairy section at a grocery store in Hamilton, Ontario, Canada February 2, 2025. REUTERS/Carlos Osorio/File Photo
 
-Hanaway's office told the U.S. Supreme Court that the decision forces Missouri to revert to an older electoral map in November's elections even though the ​state had already held primary elections in August using the new map.
+**[1/3]**A shopper pushes a cart past the dairy section at a grocery store in Hamilton, Ontario, Canada February 2, 2025. REUTERS/Carlos Osorio/File Photo [Purchase Licensing Rights, opens new tab](https://www.reutersconnect.com/item/tarrifs-between-canada-and-the-usa/dGFnOnJldXRlcnMuY29tLDIwMjU6bmV3c21sX1JDMkdNQ0FIQzlTWQ%3D%3D/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead)
 
-Reporting by Andrew Chung; Additional reporting by Joseph Ax; Editing by Howard Goller and Lincoln Feast.
+"But at the same time, we totally understand that the prime minister needs to find areas of leverage."
+
+Trump has been lobbing various attacks at Canada on Truth Social in recent days.
+
+On Monday, he said Canadian private jet maker Bombardier [(BBDb.TO), opens new tab](https://www.reuters.com/markets/companies/BBDb.TO) would [no longer be allowed](https://www.reuters.com/business/aerospace-defense/trump-says-canadas-bombardier-cannot-sell-us-unless-it-builds-there-2026-09-07/) to sell its planes in the United States unless it started manufacturing in the country.
+
+He also shared a map of North America draped in the U.S. flag, including Canada and Mexico, and an AI-generated image reviving a running jab at Carney, calling him "Governor," a reference to his repeated taunt that Canada should become the 51st U.S. state.
+
+On Tuesday, hours before the latest import bans, Trump ​directed the General Services Administration, a U.S. government body responsible ​for providing services for the federal government, to coordinate ⁠with the U.S. Trade Representative and "REMOVE Canadian-origin products from GSA’s Multiple Award Schedules unless Canada restores full and fair reciprocity for American Farmers and Companies."
+
+## VARIOUS SECTORS HIT
+
+Trump's [tariffs implemented](https://www.reuters.com/legal/transactional/canada-braces-50-us-tariffs-with-negotiators-still-far-apart-2026-08-17/) last month hit sectors including wine, furniture, dairy products, cement, clothing, fishing rods and hockey equipment, covering $20 billion, or 5%, of Canadian exports to the U.S.
+
+A Sapporo [(2501.T), opens new tab](https://www.reuters.com/markets/companies/2501.T) spokesperson said the brewer is considering moving a ​limited amount of production of non-alcoholic drinks from Canada to the U.S. due to tariff risks, but no final decision has been made.
+
+Sapporo owns Ontario-based Sleeman Breweries. Canada accounts for ​more than half of the Japanese ⁠firm's overseas beer sales.
+
+According to Canadian and U.S. government data, Canada has [shipped almost 68%](https://www.reuters.com/world/americas/canada-july-trade-surplus-shrinks-weeks-before-new-us-tariffs-2026-09-03/) of total exports to the U.S. this year, out of which roughly 80% moved duty-free due to exemptions under the USMCA pact. Protections under the agreement have provided the domestic economy some resilience.
+
+Last month's tariffs, imposed under a Depression-era U.S. law, do not allow Ottawa to exercise USMCA exemptions.
+
+Concerns about the USMCA's future have fueled uncertainty about investment and growth, as Canada wages a trade war against an economy 13 times its size.
+
+Polls also show Carney ⁠has [broad suppor](https://www.reuters.com/business/street-names-supply-chains-canadians-pull-away-us-rift-grows-2026-09-02/)t from ​Canadians, but that could [disappear within months](https://www.reuters.com/business/carney-faces-ticking-clock-canadian-support-tough-tactics-with-trump-2026-08-26/) as the consequences of the trade war sink in, according to political analysts.
+
+A new poll from Angus Reid on ​Tuesday showed that approval of Carney's performance jumped 11 points to 62% from an August poll.
+
+Meanwhile, just 20% of Americans approved of Trump's tariffs on Canadian goods, a [Reuters/Ipsos](https://www.reuters.com/world/us/majority-americans-oppose-trumps-new-canada-tariffs-renaming-lake-ontario-2026-09-01/) poll found.
+
+Trump [threatened](https://www.reuters.com/business/autos-transportation/trump-says-he-will-raise-tariffs-all-cars-trucks-50-amid-canada-trade-spat-2026-08-24/) last month to raise U.S. tariffs on all cars, trucks and automotive parts from Canada to 50% starting January 1, ​and signed an executive order renaming [Lake Ontario](https://www.reuters.com/world/us/trump-signs-order-rename-lake-ontario-lake-america-2026-08-27/) as Lake America.
+
+Reporting by Promit Mukherjee in Ottawa and Gram Slattery and Ryan Jones in Washington; Additional reporting by Yusuke Ogawa in Tokyo; Editing by Caroline Stauffer, Rod Nickel, Deepa Babington, Andrea Ricci and Stephen Coates
 
 Our Standards: [The Thomson Reuters Trust Principles., opens new tab](https://www.thomsonreuters.com/en/about-us/trust-principles.html)
 
 - Suggested Topics:
-- [](https://www.reuters.com/legal/government/)
-- [](https://www.reuters.com/legal/constitutional-law/)
-- [](https://www.reuters.com/legal/judiciary/)
-- [](https://www.reuters.com/legal/supreme-court-of-the-united-states/)
-- [](https://www.reuters.com/legal/civil-rights/)
+- [](https://www.reuters.com/business/autos-transportation/)
+- [](https://www.reuters.com/business/autos-transportation/regulatory-policy/)
 
 [](https://www.reutersagency.com/en/licensereuterscontent/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead)
 
+[
+
+](https://www.reuters.com/authors/gram-slattery/)
+
+[Gram Slattery](https://www.reuters.com/authors/gram-slattery/)
+
+Thomson Reuters
+
+Gram Slattery is a White House correspondent in Washington, focusing on national security, intelligence and foreign affairs. His work covers how key U.S. foreign policy decisions are debated, shaped and executed. He was previously a national political correspondent, covering the 2024 presidential campaign. From 2015 to 2022, he held postings in Rio de Janeiro, Sao Paulo and Santiago, Chile, and he has reported extensively throughout Latin America.
+
+- [](mailto:Gram.Slattery@thomsonreuters.com)
+- [](https://x.com/G_Slattery)
+- [](https://www.instagram.com/gramongram1/)
+- [](https://www.linkedin.com/in/gram-slattery-47017aa5/)
+
+[
+
+](https://www.reuters.com/authors/ryan-patrick-jones/)
+
+[Ryan Patrick Jones](https://www.reuters.com/authors/ryan-patrick-jones/)
+
+Thomson Reuters
+
+Ryan is a breaking news correspondent based in Toronto covering breaking news, national affairs and politics in the United States and Canada.
+
+- [](mailto:Ryan.Jones@thomsonreuters.com)
+- [](https://x.com/@helloryanjones)
+
 ## Read Next
 
-- [Governmentcategory](https://www.reuters.com/legal/government/)
+- [World at Workcategory](https://www.reuters.com/business/world-at-work/)
     
-    [Federal appeals court upholds ban on Trump's bid to use citizenship data for voter checks](https://www.reuters.com/legal/government/federal-appeals-court-upholds-ban-trumps-bid-use-citizenship-data-voter-checks-2026-09-05/)
+    [Volkswagen earmarks €16 billion for job cuts, plant closures, source says](https://www.reuters.com/business/world-at-work/volkswagen-braces-16-billion-costs-cutbacks-possible-factory-closures-source-2026-09-10/)
     
     [
     
-    ](https://www.reuters.com/legal/government/federal-appeals-court-upholds-ban-trumps-bid-use-citizenship-data-voter-checks-2026-09-05/)
+    ](https://www.reuters.com/business/world-at-work/volkswagen-braces-16-billion-costs-cutbacks-possible-factory-closures-source-2026-09-10/)
     
 - [Worldcategory](https://www.reuters.com/world/)
     
-    [House lawmaker urges Congress to sue Trump to block Washington arch](https://www.reuters.com/world/house-lawmaker-urges-congress-sue-trump-block-washington-arch-2026-09-08/)
+    EXCLUSIVE
+    
+    [VinFast plans to develop two India-specific EVs in strategy shift](https://www.reuters.com/world/asia-pacific/vinfast-plans-develop-two-india-specific-evs-strategy-shift-sources-say-2026-09-10/)
     
     [
     
-    ](https://www.reuters.com/world/house-lawmaker-urges-congress-sue-trump-block-washington-arch-2026-09-08/)
+    ](https://www.reuters.com/world/asia-pacific/vinfast-plans-develop-two-india-specific-evs-strategy-shift-sources-say-2026-09-10/)
     
-- [Worldcategory](https://www.reuters.com/world/)
+- [Autos & Transportationcategory](https://www.reuters.com/business/autos-transportation/)
     
-    [US watchdog to conduct review of whistleblower warning on mail-in voting rules](https://www.reuters.com/world/us-watchdog-conduct-review-whistleblower-warning-mail-in-voting-rules-2026-09-08/)
-    
-    [
-    
-    ](https://www.reuters.com/world/us-watchdog-conduct-review-whistleblower-warning-mail-in-voting-rules-2026-09-08/)
-    
-- [Governmentcategory](https://www.reuters.com/legal/government/)
-    
-    [IRS under Trump unlawfully shared taxpayer info with immigration authorities, court rules](https://www.reuters.com/legal/government/irs-under-trump-unlawfully-shared-taxpayer-info-with-immigration-authorities-2026-09-08/)
+    [Ford caught in escalating Washington clash over China deals](https://www.reuters.com/business/autos-transportation/ford-caught-escalating-washington-clash-over-china-deals-2026-09-10/)
     
     [
     
-    ](https://www.reuters.com/legal/government/irs-under-trump-unlawfully-shared-taxpayer-info-with-immigration-authorities-2026-09-08/)
+    ](https://www.reuters.com/business/autos-transportation/ford-caught-escalating-washington-clash-over-china-deals-2026-09-10/)
     
-- [Governmentcategory](https://www.reuters.com/legal/government/)
+- [
     
-    [Trump asks Supreme Court to allow voter verification database that was blocked by judge](https://www.reuters.com/legal/government/trump-asks-supreme-court-allow-voter-verification-database-blocked-by-judge-2026-09-08/)
+    ](https://www.reuters.com/business/finance/porsche-completes-bugatti-rimac-exit-lifts-2026-cash-flow-outlook-2026-09-09/)
     
-    [
+- [
     
-    ](https://www.reuters.com/legal/government/trump-asks-supreme-court-allow-voter-verification-database-blocked-by-judge-2026-09-08/)
+    ](https://www.reuters.com/business/autos-transportation/trump-administration-blasts-ford-business-deals-with-chinese-firms-2026-09-08/)
     
-- [Worldcategory](https://www.reuters.com/world/)
+- [
     
-    [Trump grants clemency to 30 people, White House pardon czar says](https://www.reuters.com/world/us/trump-grants-clemency-30-people-white-house-pardon-czar-says-2026-09-05/)
-    
-    [
-    
-    ](https://www.reuters.com/world/us/trump-grants-clemency-30-people-white-house-pardon-czar-says-2026-09-05/)
+    ](https://www.reuters.com/world/india/volkswagen-india-explores-partnership-with-jsw-group-boost-localisation-2026-09-09/)
     
 
 [](https://www.lseg.com/en/data-analytics/products/workspace?utm_source=reuters.com&utm_medium=articlebanner&utm_campaign=Reuters_ProductPage_Links)
 
-## [World](https://www.reuters.com/world/)
+## [Business](https://www.reuters.com/business/)
 
 - [
     
-    ](https://www.reuters.com/world/europe/swedens-liberals-clears-parliament-threshold-poll-pointing-close-election-2026-09-09/)
+    ](https://www.reuters.com/business/ecbs-lagarde-rejects-french-far-left-leaders-debt-cancellation-plan-financially-2026-09-10/)
     
-    ### [Sweden's Liberals clears parliament threshold in poll, pointing to close election](https://www.reuters.com/world/europe/swedens-liberals-clears-parliament-threshold-poll-pointing-close-election-2026-09-09/)  
+    ### [ECB's Lagarde rejects French far-left leader's debt-cancellation plan as 'financially dangerous'](https://www.reuters.com/business/ecbs-lagarde-rejects-french-far-left-leaders-debt-cancellation-plan-financially-2026-09-10/)
     
-    [Europecategory](https://www.reuters.com/world/europe/) · September 9, 2026 · 7:29 AM PDT · 17 mins ago
+    [Businesscategory](https://www.reuters.com/business/) · September 10, 2026 · 7:42 AM PDT · 7 mins ago
     
-    Support for Sweden's Liberals party has risen further above parliament's 4% threshold ​ahead of a general election on ‌Sunday, a Novus survey indicated on Wednesday, pointing to a close race between the ruling right-wing bloc ​and the centre-left opposition.
-    
-- [
-    
-    ](https://www.reuters.com/legal/government/three-jurors-lindsay-clancys-us-murder-trial-point-fingers-holdout-after-2026-09-09/)
-    
-    [Legalcategory](https://www.reuters.com/legal/)[Three jurors in Lindsay Clancy's US murder trial point fingers at holdout after mistrial](https://www.reuters.com/legal/government/three-jurors-lindsay-clancys-us-murder-trial-point-fingers-holdout-after-2026-09-09/)
-    
-    7:27 AM PDT
+    European Central Bank President Christine Lagarde on Thursday rejected French far-left leader Jean-Luc Mélenchon's plan to ​cancel a portion of France's national debt, calling ‌it "financially dangerous" and legally impossible under EU law.
     
 - [
     
-    ](https://www.reuters.com/legal/litigation/bombardier-still-recruiting-fill-500-open-us-positions-despite-trump-threats-2026-09-09/)
+    ](https://www.reuters.com/markets/us/fed-eyeing-inflation-data-may-lean-toward-hike-traders-bet-2026-09-10/)
     
-    [Legalcategory](https://www.reuters.com/legal/)[Bombardier still recruiting to fill 500 open U.S. positions despite Trump threats](https://www.reuters.com/legal/litigation/bombardier-still-recruiting-fill-500-open-us-positions-despite-trump-threats-2026-09-09/)
+    [category](https://www.reuters.com/markets/)[Fed, eyeing inflation data, may lean toward a hike, traders bet](https://www.reuters.com/markets/us/fed-eyeing-inflation-data-may-lean-toward-hike-traders-bet-2026-09-10/)
     
-    7:19 AM PDT
-    
-- [
-    
-    ](https://www.reuters.com/world/germanys-merz-accuses-far-right-afd-calling-ethnic-cleansing-2026-09-09/)
-    
-    [Worldcategory](https://www.reuters.com/world/)[Germany's Merz accuses far-right AfD of calling for 'ethnic cleansing'](https://www.reuters.com/world/germanys-merz-accuses-far-right-afd-calling-ethnic-cleansing-2026-09-09/)
-    
-    7:14 AM PDT
+    7:31 AM PDT
     
 - [
     
-    ](https://www.reuters.com/world/asia-pacific/nepal-turns-drones-deliver-flood-relief-2026-09-09/)
+    ](https://www.reuters.com/business/polymarket-taps-finance-veteran-warren-jenson-cfo-2026-09-10/)
     
-    [Asia Pacificcategory](https://www.reuters.com/world/asia-pacific/)[Nepal turns to drones to deliver flood relief](https://www.reuters.com/world/asia-pacific/nepal-turns-drones-deliver-flood-relief-2026-09-09/)
+    [Businesscategory](https://www.reuters.com/business/)[Polymarket taps finance veteran Warren Jenson as CFO](https://www.reuters.com/business/polymarket-taps-finance-veteran-warren-jenson-cfo-2026-09-10/)
     
-    7:07 AM PDT
+    7:25 AM PDT
+    
+- [
+    
+    ](https://www.reuters.com/world/asia-pacific/global-markets-central-banks-graphic-2026-09-10/)
+    
+    [category](https://www.reuters.com/world/)[Major central banks strike a more hawkish tone as energy costs jump](https://www.reuters.com/world/asia-pacific/global-markets-central-banks-graphic-2026-09-10/)
+    
+    7:20 AM PDT
+    
+- [
+    
+    ](https://www.reuters.com/business/us-existing-home-sales-drop-14-month-low-august-2026-09-10/)
+    
+    [Businesscategory](https://www.reuters.com/business/)[US existing home sales drop to 14-month low in August](https://www.reuters.com/business/us-existing-home-sales-drop-14-month-low-august-2026-09-10/)
+    
+    7:01 AM PDT
     
 
 ### Site Index
@@ -259,21 +304,15 @@ Reuters, the news and media division of Thomson Reuters, is the world’s larges
 
 ### LSEG Products
 
-- #### 
-    
-    [Workspace, opens new tab](https://www.lseg.com/en/data-analytics/products/workspace?utm_source=reuters.com&utm_medium=footer&utm_campaign=Reuters_ProductPage_Links)
+- #### [Workspace, opens new tab](https://www.lseg.com/en/data-analytics/products/workspace?utm_source=reuters.com&utm_medium=footer&utm_campaign=Reuters_ProductPage_Links)
     
     Access unmatched financial data, news and content in a highly-customised workflow experience on desktop, web and mobile.
     
-- #### 
-    
-    [Data Catalogue, opens new tab](https://www.lseg.com/en/data-analytics/financial-data/?utm_source=reuters.com&utm_medium=footer&utm_campaign=Reuters_DataCatalogPage_Links)
+- #### [Data Catalogue, opens new tab](https://www.lseg.com/en/data-analytics/financial-data/?utm_source=reuters.com&utm_medium=footer&utm_campaign=Reuters_DataCatalogPage_Links)
     
     Browse an unrivalled portfolio of real-time and historical market data and insights from worldwide sources and experts.
     
-- #### 
-    
-    [World-Check, opens new tab](https://www.lseg.com/en/risk-intelligence/screening-solutions/world-check-kyc-screening?utm_source=reuters.com&utm_medium=footer&utm_campaign=Reuters_ProductPage_Links)
+- #### [World-Check, opens new tab](https://www.lseg.com/en/risk-intelligence/screening-solutions/world-check-kyc-screening?utm_source=reuters.com&utm_medium=footer&utm_campaign=Reuters_ProductPage_Links)
     
     Screen for heightened risk individual and entities globally to help uncover hidden risks in business relationships and human networks.
     
