@@ -24,217 +24,178 @@
 
 [My News](https://www.reuters.com/my-news/feed/)
 
-[](https://www.reuters.com/account/sign-in/?redirect=https%3A%2F%2Fwww.reuters.com%2Fbusiness%2Fautos-transportation%2Fcanadas-retaliatory-tariffs-take-effect-us-trade-talks-stall-2026-09-08%2F)[](https://www.reuters.com/account/subscribe/offer/?redirect=https%3A%2F%2Fwww.reuters.com%2Fbusiness%2Fautos-transportation%2Fcanadas-retaliatory-tariffs-take-effect-us-trade-talks-stall-2026-09-08%2F&referrer=subscription_button&journeyStart=navigation)
+[](https://www.reuters.com/account/sign-in/?redirect=https%3A%2F%2Fwww.reuters.com%2Fworld%2Fmiddle-east%2Ftrump-says-iran-war-end-after-us-midterm-elections-threatens-attack-pickaxe-2026-09-10%2F)[](https://www.reuters.com/account/subscribe/offer/?redirect=https%3A%2F%2Fwww.reuters.com%2Fworld%2Fmiddle-east%2Ftrump-says-iran-war-end-after-us-midterm-elections-threatens-attack-pickaxe-2026-09-10%2F&referrer=subscription_button&journeyStart=navigation)
 
-# US to ban Canadian motorcycle, dairy, alcohol imports as trade war sizzles
+# Houthi advance along Yemeni coast threatens Saudi oil exports
 
-By [Gram Slattery](https://www.reuters.com/authors/gram-slattery/), [Promit Mukherjee](https://www.reuters.com/authors/promit-mukherjee/) and [Ryan Patrick Jones](https://www.reuters.com/authors/ryan-patrick-jones/)
+By [Enas Alashray](https://www.reuters.com/authors/enas-alashray/), [David Brunnstrom](https://www.reuters.com/authors/david-brunnstrom/) and [Jana Choukeir](https://www.reuters.com/authors/jana-choukeir/)
 
-September 7, 20269:03 PM PDTUpdated September 9, 2026
+September 9, 202611:13 PM PDTUpdated 6 hours ago
 
-![How Canada's retaliatory tariffs could impact US midterm elections](https://ajo.prod.reuters.tv/api/v2/img/6aa08857e4b01915ce4b090d?width=1080&quality=80)
+![Why Yemen's Iran-backed Houthis may be more bad news for oil prices](https://ajo.prod.reuters.tv/api/v2/img/6aa3b19de4b01915ce4b1170-1789112843798?width=1080&quality=80)
 
 - Summary
 - Companies
 
-- US effectively bans Canadian alcohol, motorcycle, dairy imports from September 29
-- Canada's counter-tariffs that came into effect overnight covered $20 billion of US goods
-- Canadian tariffs are a response to moves by Trump
+- US average diesel price above $6 a gallon for first time
+- Houthis seize Yemeni port, fighting with Saudi forces escalates
+- Trump says he expects war to end after November midterm elections
 
-WASHINGTON, Sept 8 (Reuters) - The United States banned a broad swath of Canadian alcoholic beverages, motorcycles and dairy products from import on Tuesday, sharply escalating an already acrimonious trade spat.
+CAIRO/WASHINGTON/DUBAI, Sept 10 (Reuters) - Iran-aligned Houthis seized control of Yemen's port city of Mocha on Thursday and advanced down the Red Sea coast to strategic islands, military sources said, hours after President ​Donald Trump said he expected [the Iran war](https://www.reuters.com/world/iran/) to end after the U.S. midterm elections.
 
-The import bans, which go into effect on September 29 and were ​published on the White House's website, came after Canada's own retaliatory tariffs on U.S. goods took effect after midnight on Tuesday.
+Yemeni government military sources said the Houthis had gained further leverage over the [Bab el-Mandeb Strait](https://www.reuters.com/world/middle-east/saudi-says-no-danger-after-khamis-mushait-alert-amid-clashes-with-houthis-2026-09-10/), the southern ‌outlet of the Red Sea and one of the world's most important shipping routes, and had reached the islands of Hanish.
 
-Stay up to date with the latest news, trends and innovations that are driving the global automotive industry with the Reuters Auto File newsletter. Sign up [here.](https://www.reuters.com/newsletters/reuters-auto-file/?location=article-paragraph&redirectUrl=%2Fbusiness%2Fautos-transportation%2Fcanadas-retaliatory-tariffs-take-effect-us-trade-talks-stall-2026-09-08%2F)
+The Reuters Iran Briefing newsletter keeps you informed with the latest developments and analysis of the Iran war. Sign up [here.](https://www.reuters.com/newsletters/reuters-iran-briefing/?location=article-paragraph&redirectUrl=%2Fworld%2Fmiddle-east%2Ftrump-says-iran-war-end-after-us-midterm-elections-threatens-attack-pickaxe-2026-09-10%2F)
 
-Those Canadian levies themselves followed 50% tariffs that the United States imposed on some $20 ‌billion of Canadian goods last month, after several rounds of negotiations collapsed.
+If the Houthis were to gain control of the waterway on the opposite side of the Arabian Peninsula from the Strait of Hormuz, it could give their backer Iran a critical advantage in the war with the United States, reducing supplies through a second major transit corridor and sending oil prices surging.
 
-The breakdown has widened a rift between the longtime allies, who have blamed each other for the failed talks, spurred Canadian Prime Minister Mark Carney to urge a further shift away from Canada's biggest trading partner, and cast doubt on the viability of the U.S.-Mexico-Canada Agreement.
+It could also make it harder for Trump to find an exit from a war that has ​hurt his Republican Party's electoral prospects ahead of the November midterms.
 
-"We have everything we need to pivot and prosper," Carney said on Tuesday in a video posted on YouTube.
+Yemen's Houthi-run humanitarian operations coordination centre said in a statement that Red Sea navigation is safe for all shipping companies except for Saudi ​vessels.
 
-"That pivot will come at a cost. There's always a cost to action. But it doesn't come close to the cost of standing still," ​he said.
+Saudi Arabia, the world's largest oil exporter, has relied on the [Red Sea route](https://www.reuters.com/world/middle-east/why-is-bab-el-mandeb-strait-so-important-2026-09-10/) since the Iran conflict effectively closed Hormuz, through which a fifth of global oil used ⁠to flow.
 
-The U.S. bans appeared to cover most alcohol products, including beer and various types of wine, whisky, bourbon, rum, vodka, vermouth, tequila, mezcal, and brandy. The dairy ban covers whey protein, invert molasses, cane molasses and ​non-alcoholic beer, per notices on the White House's website.
+Yemeni government forces and their allies are relocating south along the Red Sea coast to Dhubab on the Bab el-Mandeb Strait, across from Perim Island, government military sources said. Control of Dhubab and the island is ​key to gaining hold of the strait, they said.
 
-In addition to the import bans, various cheese products were added to a list of products subject to a 50% tariff, but not ⁠banned outright. Some paper, aluminum, wood, furniture, lighting and other products were also added to the list.
+U.N. Special Envoy for Yemen Hans Grundberg told a U.N. Security Council meeting about Yemen on Thursday that the international community must act to address "a new and more dangerous phase" ​in the Yemen war.
 
-A U.S. official said President Donald Trump's pre-existing threat to increase tariffs on Canadian autos from 25% to 50% on January 1 remained in effect. ​The official added that U.S. Trade Representative Jamieson Greer had spoken with Dominic LeBlanc, Canada's minister responsible for bilateral U.S. trade, over the past couple of days, and the pair were expected to speak again in the coming days to see if there ​was an alternative path for the two countries.
+The Houthis' gaining control of Mocha gave them "a direct presence on the approaches to one of the world’s most vital straits," raising serious concerns about freedom of navigation, he said.
 
-In a social media post on Tuesday night, LeBlanc criticized the latest U.S. measures and said he was in contact with Greer regarding a path forward.
+Jenifer Neidhart de Ortiz, the U.S. representative at the meeting, accused the Houthis of acting as "agents and tools of Iran."
 
-"As has been the case for the last 18 months, our first priority remains on protecting and supporting Canadian workers, farmers, families, and businesses from these unjustified actions," he wrote.
+"This escalation is unacceptable, and those who enable it bear responsibility for its consequences," she said.
 
-## OTTAWA STRIKES BACK
+Iran's foreign ministry said in a statement that the Yemen conflict could not be solved by blockade or military action ​against the Houthis and called for dialogue, without addressing Iran's own role.
 
-Ottawa's retaliatory measures, which in turn provoked Washington's move on Tuesday night, were designed to put economic and political pressure on Washington, Canadian government officials said.
+Yemeni government, Iranian and regional [sources told Reuters](https://www.reuters.com/world/middle-east/iranian-arms-advice-helped-yemens-houthis-seize-key-red-sea-city-sources-say-2026-09-10/) the Houthi advance down the coast this week came with direct guidance from Iran's Revolutionary Guard Corps.
 
-Those [counter-tariffs](https://www.reuters.com/business/carney-says-new-canadian-tariffs-us-goods-will-come-into-effect-september-8-2026-08-22/) cover some $20 billion of U.S. goods, with ​duties ranging from 15% to 50% across products from steel and furniture to clothing and electronics, and are expected to hit sectors in some competitive states such as Michigan and Ohio, ahead of U.S. midterm elections in November.
+Houthi spokesperson Mohammed ​Abdulsalam said, without elaborating, that the group's operations were defensive and would stop once attacks on Yemen stopped.
 
-While the tariffs affect a ​small amount of exports compared with total trade between the U.S. and Canada, some analysts worry the standoff could destabilize the U.S.-Mexico-Canada Agreement, the free-trade pact that succeeded NAFTA. Together they have underpinned commerce across North America for decades.
+Item 1 of 5 Members of the Saudi-backed Yemeni government forces during clashes with Yemen's Iran-aligned Houthis in a location given as near Al-Hazm, Yemen, September 9, 2026. via Media Centre Of The Yemeni Armed Forces
 
-"What we are worried about is an ‌escalatory spiral," said ⁠Michael Harvey, executive director of the Canadian Agri-Food Trade Alliance and a member of Carney's advisory committee on bilateral U.S. economic relations.
+**[1/5]**Members of the Saudi-backed Yemeni government forces during clashes with Yemen's Iran-aligned Houthis in a location given as near Al-Hazm, Yemen, September 9, 2026. via Media Centre Of The Yemeni Armed Forces [Purchase Licensing Rights, opens new tab](https://www.reutersagency.com/en/licensereuterscontent/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead)
 
-Item 1 of 3 A shopper pushes a cart past the dairy section at a grocery store in Hamilton, Ontario, Canada February 2, 2025. REUTERS/Carlos Osorio/File Photo
+## OIL PRICES JUMP
 
-**[1/3]**A shopper pushes a cart past the dairy section at a grocery store in Hamilton, Ontario, Canada February 2, 2025. REUTERS/Carlos Osorio/File Photo [Purchase Licensing Rights, opens new tab](https://www.reutersconnect.com/item/tarrifs-between-canada-and-the-usa/dGFnOnJldXRlcnMuY29tLDIwMjU6bmV3c21sX1JDMkdNQ0FIQzlTWQ%3D%3D/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead)
+Brent crude prices jumped as much as 4% on Thursday above [$105 a barrel](https://www.reuters.com/business/energy/brent-holds-above-100-tanker-attacks-deepen-supply-fear-2026-09-10/) on concern over disruption to supply routes, and the ‌U.S. national ⁠average price of diesel surpassed $6 a gallon for the first time ever, according to price tracker GasBuddy.
 
-"But at the same time, we totally understand that the prime minister needs to find areas of leverage."
+After joining the war with an attack on Israel in March, the Houthis declared a naval blockade against Saudi Arabia in July and escalated attacks this month.
 
-Trump has been lobbing various attacks at Canada on Truth Social in recent days.
+Tensions in the region remained high, with Saudi civil defence authorities issuing emergency alerts in the southwestern city of Khamis Mushait for the fourth time in 24 hours, as the Houthis attacked.
 
-On Monday, he said Canadian private jet maker Bombardier [(BBDb.TO), opens new tab](https://www.reuters.com/markets/companies/BBDb.TO) would [no longer be allowed](https://www.reuters.com/business/aerospace-defense/trump-says-canadas-bombardier-cannot-sell-us-unless-it-builds-there-2026-09-07/) to sell its planes in the United States unless it started manufacturing in the country.
+Pakistan has delivered a [Saudi warning](https://www.reuters.com/world/asia-pacific/pakistan-warns-iran-rein-houthis-riyadh-strikes-back-2026-09-09/) to Iran to rein in the Houthis to try to prevent the crisis from spiralling, Saudi, Pakistani and Iranian sources said. A senior Iranian official said Tehran's response was: "Iran does not control the Houthis".
 
-He also shared a map of North America draped in the U.S. flag, including Canada and Mexico, and an AI-generated image reviving a running jab at Carney, calling him "Governor," a reference to his repeated taunt that Canada should become the 51st U.S. state.
+The fighting comes during ​the biggest declared wave of U.S.-Iran tit-for-tat attacks on ​Gulf shipping since the war began in late ⁠February.
 
-On Tuesday, hours before the latest import bans, Trump ​directed the General Services Administration, a U.S. government body responsible ​for providing services for the federal government, to coordinate ⁠with the U.S. Trade Representative and "REMOVE Canadian-origin products from GSA’s Multiple Award Schedules unless Canada restores full and fair reciprocity for American Farmers and Companies."
+The U.S. Treasury Department on Thursday announced [new sanctions](https://www.reuters.com/world/middle-east/us-slaps-new-sanctions-networks-aiding-irans-proxies-middle-east-2026-09-10/) against firms and individuals aiding Hezbollah and other Iranian proxies as part of "Operation Economic Outcast," which aims to cut off Tehran's war funding.
 
-## VARIOUS SECTORS HIT
+## TRUMP SEES WAR ENDING AFTER MIDTERMS
 
-Trump's [tariffs implemented](https://www.reuters.com/legal/transactional/canada-braces-50-us-tariffs-with-negotiators-still-far-apart-2026-08-17/) last month hit sectors including wine, furniture, dairy products, cement, clothing, fishing rods and hockey equipment, covering $20 billion, or 5%, of Canadian exports to the U.S.
+The war and subsequent increase in fuel prices have helped drive Trump's popularity to record lows, according to polls. He said Iran ​was trying to influence the midterm elections, which will determine whether his Republican Party retains control of Congress.
 
-A Sapporo [(2501.T), opens new tab](https://www.reuters.com/markets/companies/2501.T) spokesperson said the brewer is considering moving a ​limited amount of production of non-alcoholic drinks from Canada to the U.S. due to tariff risks, but no final decision has been made.
+"I don't believe in the word 'regret.' You can always ​question yourself a little bit," Trump ⁠said in an interview with Fox News host Laura Ingraham broadcast on Thursday, when asked if he regretted the Iran war due to the impact it may have on the elections. "If I had it do again, I would do exactly as I did," he added.
 
-Sapporo owns Ontario-based Sleeman Breweries. Canada accounts for ​more than half of the Japanese ⁠firm's overseas beer sales.
+Trump also reiterated his thinking that the war will end immediately after the midterm election, a comment he also made on Wednesday.
 
-According to Canadian and U.S. government data, Canada has [shipped almost 68%](https://www.reuters.com/world/americas/canada-july-trade-surplus-shrinks-weeks-before-new-us-tariffs-2026-09-03/) of total exports to the U.S. this year, out of which roughly 80% moved duty-free due to exemptions under the USMCA pact. Protections under the agreement have provided the domestic economy some resilience.
+In recent weeks Washington had cited increasing success guiding tankers through the Strait of Hormuz, ⁠which carried ​about a fifth of global oil supplies before the war.
 
-Last month's tariffs, imposed under a Depression-era U.S. law, do not allow Ottawa to exercise USMCA exemptions.
+But a resumption of fighting this month appears to have set back any such ​gradual reopening. [Just seven vessels](https://www.reuters.com/world/middle-east/hormuz-shipping-traffic-single-digits-data-shows-2026-09-10/) transited the strait on Wednesday, half the 10-day average, preliminary ship-tracking data showed.
 
-Concerns about the USMCA's future have fueled uncertainty about investment and growth, as Canada wages a trade war against an economy 13 times its size.
+Iranian state media said on Thursday the Revolutionary Guards Navy had struck a U.S. unmanned vessel at the entrance to Hormuz.
 
-Polls also show Carney ⁠has [broad suppor](https://www.reuters.com/business/street-names-supply-chains-canadians-pull-away-us-rift-grows-2026-09-02/)t from ​Canadians, but that could [disappear within months](https://www.reuters.com/business/carney-faces-ticking-clock-canadian-support-tough-tactics-with-trump-2026-08-26/) as the consequences of the trade war sink in, according to political analysts.
-
-A new poll from Angus Reid on ​Tuesday showed that approval of Carney's performance jumped 11 points to 62% from an August poll.
-
-Meanwhile, just 20% of Americans approved of Trump's tariffs on Canadian goods, a [Reuters/Ipsos](https://www.reuters.com/world/us/majority-americans-oppose-trumps-new-canada-tariffs-renaming-lake-ontario-2026-09-01/) poll found.
-
-Trump [threatened](https://www.reuters.com/business/autos-transportation/trump-says-he-will-raise-tariffs-all-cars-trucks-50-amid-canada-trade-spat-2026-08-24/) last month to raise U.S. tariffs on all cars, trucks and automotive parts from Canada to 50% starting January 1, ​and signed an executive order renaming [Lake Ontario](https://www.reuters.com/world/us/trump-signs-order-rename-lake-ontario-lake-america-2026-08-27/) as Lake America.
-
-Reporting by Promit Mukherjee in Ottawa and Gram Slattery and Ryan Jones in Washington; Additional reporting by Yusuke Ogawa in Tokyo; Editing by Caroline Stauffer, Rod Nickel, Deepa Babington, Andrea Ricci and Stephen Coates
+Reporting by Elwely Elwelly, Jana Choukeir and Nayera Abdallah in ​Dubai and Enas Alashray in Cairo, and Idrees Ali, Simon Lewis, Steve Holland and David Brunnstrom in Washington; Writing by Lincoln Feast, Alexandra Hudson and Hugh Lawson; Editing by Michael Perry, Sharon Singleton, Timothy Heritage and Cynthia Osterman
 
 Our Standards: [The Thomson Reuters Trust Principles., opens new tab](https://www.thomsonreuters.com/en/about-us/trust-principles.html)
 
 - Suggested Topics:
-- [](https://www.reuters.com/business/autos-transportation/)
-- [](https://www.reuters.com/business/autos-transportation/regulatory-policy/)
+- [](https://www.reuters.com/world/middle-east/)
 
 [](https://www.reutersagency.com/en/licensereuterscontent/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead)
 
-[
-
-](https://www.reuters.com/authors/gram-slattery/)
-
-[Gram Slattery](https://www.reuters.com/authors/gram-slattery/)
-
-Thomson Reuters
-
-Gram Slattery is a White House correspondent in Washington, focusing on national security, intelligence and foreign affairs. His work covers how key U.S. foreign policy decisions are debated, shaped and executed. He was previously a national political correspondent, covering the 2024 presidential campaign. From 2015 to 2022, he held postings in Rio de Janeiro, Sao Paulo and Santiago, Chile, and he has reported extensively throughout Latin America.
-
-- [](mailto:Gram.Slattery@thomsonreuters.com)
-- [](https://x.com/G_Slattery)
-- [](https://www.instagram.com/gramongram1/)
-- [](https://www.linkedin.com/in/gram-slattery-47017aa5/)
-
-[
-
-](https://www.reuters.com/authors/ryan-patrick-jones/)
-
-[Ryan Patrick Jones](https://www.reuters.com/authors/ryan-patrick-jones/)
-
-Thomson Reuters
-
-Ryan is a breaking news correspondent based in Toronto covering breaking news, national affairs and politics in the United States and Canada.
-
-- [](mailto:Ryan.Jones@thomsonreuters.com)
-- [](https://x.com/@helloryanjones)
-
 ## Read Next
 
-- [World at Workcategory](https://www.reuters.com/business/world-at-work/)
+- [Middle Eastcategory](https://www.reuters.com/world/middle-east/)
     
-    [Volkswagen earmarks €16 billion for job cuts, plant closures, source says](https://www.reuters.com/business/world-at-work/volkswagen-braces-16-billion-costs-cutbacks-possible-factory-closures-source-2026-09-10/)
-    
-    [
-    
-    ](https://www.reuters.com/business/world-at-work/volkswagen-braces-16-billion-costs-cutbacks-possible-factory-closures-source-2026-09-10/)
-    
-- [Worldcategory](https://www.reuters.com/world/)
-    
-    EXCLUSIVE
-    
-    [VinFast plans to develop two India-specific EVs in strategy shift](https://www.reuters.com/world/asia-pacific/vinfast-plans-develop-two-india-specific-evs-strategy-shift-sources-say-2026-09-10/)
+    [Yemen's Houthis reach strategic island at mouth of vital shipping lane](https://www.reuters.com/world/middle-east/yemens-houthis-reach-strategic-island-mouth-vital-shipping-lane-2026-09-11/)
     
     [
     
-    ](https://www.reuters.com/world/asia-pacific/vinfast-plans-develop-two-india-specific-evs-strategy-shift-sources-say-2026-09-10/)
+    ](https://www.reuters.com/world/middle-east/yemens-houthis-reach-strategic-island-mouth-vital-shipping-lane-2026-09-11/)
     
-- [Autos & Transportationcategory](https://www.reuters.com/business/autos-transportation/)
+- ANALYSIS
     
-    [Ford caught in escalating Washington clash over China deals](https://www.reuters.com/business/autos-transportation/ford-caught-escalating-washington-clash-over-china-deals-2026-09-10/)
+    [As Saudi tensions with Iran-backed Houthis escalate, mediator Pakistan faces pressure to choose a side](https://www.reuters.com/world/asia-pacific/saudi-tensions-with-iran-backed-houthis-escalate-mediator-pakistan-faces-2026-09-11/)
     
     [
     
-    ](https://www.reuters.com/business/autos-transportation/ford-caught-escalating-washington-clash-over-china-deals-2026-09-10/)
+    ](https://www.reuters.com/world/asia-pacific/saudi-tensions-with-iran-backed-houthis-escalate-mediator-pakistan-faces-2026-09-11/)
+    
+- [Businesscategory](https://www.reuters.com/business/)
+    
+    [Oil falls but on track for 8% weekly gain on supply concerns; US diesel hits record high](https://www.reuters.com/business/energy/oil-prices-set-end-week-over-100-first-time-nearly-4-months-2026-09-11/)
+    
+    [
+    
+    ](https://www.reuters.com/business/energy/oil-prices-set-end-week-over-100-first-time-nearly-4-months-2026-09-11/)
     
 - [
     
-    ](https://www.reuters.com/business/finance/porsche-completes-bugatti-rimac-exit-lifts-2026-cash-flow-outlook-2026-09-09/)
+    ](https://www.reuters.com/world/middle-east/uae-revises-ai-data-center-plan-after-iranian-attacks-sources-say-2026-09-11/)
     
 - [
     
-    ](https://www.reuters.com/business/autos-transportation/trump-administration-blasts-ford-business-deals-with-chinese-firms-2026-09-08/)
+    ](https://www.reuters.com/world/middle-east/uae-shares-gain-regional-conflict-fuels-oil-supply-concerns-2026-09-11/)
     
 - [
     
-    ](https://www.reuters.com/world/india/volkswagen-india-explores-partnership-with-jsw-group-boost-localisation-2026-09-09/)
+    ](https://www.reuters.com/world/middle-east/germany-charges-seven-suspected-hamas-members-over-planned-attack-2026-09-11/)
     
 
 [](https://www.lseg.com/en/data-analytics/products/workspace?utm_source=reuters.com&utm_medium=articlebanner&utm_campaign=Reuters_ProductPage_Links)
 
-## [Business](https://www.reuters.com/business/)
+## [World](https://www.reuters.com/world/)
 
 - [
     
-    ](https://www.reuters.com/business/ecbs-lagarde-rejects-french-far-left-leaders-debt-cancellation-plan-financially-2026-09-10/)
+    ](https://www.reuters.com/world/africa/nigeria-parliament-boycotts-south-africa-events-over-anti-migrant-attacks-2026-09-11/)
     
-    ### [ECB's Lagarde rejects French far-left leader's debt-cancellation plan as 'financially dangerous'](https://www.reuters.com/business/ecbs-lagarde-rejects-french-far-left-leaders-debt-cancellation-plan-financially-2026-09-10/)
+    ### [Nigeria parliament boycotts South Africa events over anti-migrant attacks](https://www.reuters.com/world/africa/nigeria-parliament-boycotts-south-africa-events-over-anti-migrant-attacks-2026-09-11/)
     
-    [Businesscategory](https://www.reuters.com/business/) · September 10, 2026 · 7:42 AM PDT · 7 mins ago
+    [Africacategory](https://www.reuters.com/world/africa/) · September 11, 2026 · 7:39 AM PDT · 12 mins ago
     
-    European Central Bank President Christine Lagarde on Thursday rejected French far-left leader Jean-Luc Mélenchon's plan to ​cancel a portion of France's national debt, calling ‌it "financially dangerous" and legally impossible under EU law.
-    
-- [
-    
-    ](https://www.reuters.com/markets/us/fed-eyeing-inflation-data-may-lean-toward-hike-traders-bet-2026-09-10/)
-    
-    [category](https://www.reuters.com/markets/)[Fed, eyeing inflation data, may lean toward a hike, traders bet](https://www.reuters.com/markets/us/fed-eyeing-inflation-data-may-lean-toward-hike-traders-bet-2026-09-10/)
-    
-    7:31 AM PDT
+    Nigeria's parliament has suspended official visits to South Africa and ordered lawmakers to boycott South African-hosted legislative activities, ​citing reports of attacks on Nigerians and other African migrants ‌there.
     
 - [
     
-    ](https://www.reuters.com/business/polymarket-taps-finance-veteran-warren-jenson-cfo-2026-09-10/)
+    ](https://www.reuters.com/world/africa/gambia-bans-protests-without-permits-after-unrest-over-power-cuts-2026-09-11/)
     
-    [Businesscategory](https://www.reuters.com/business/)[Polymarket taps finance veteran Warren Jenson as CFO](https://www.reuters.com/business/polymarket-taps-finance-veteran-warren-jenson-cfo-2026-09-10/)
+    [Africacategory](https://www.reuters.com/world/africa/)[Gambia bans protests without permits after unrest over power cuts](https://www.reuters.com/world/africa/gambia-bans-protests-without-permits-after-unrest-over-power-cuts-2026-09-11/)
     
-    7:25 AM PDT
-    
-- [
-    
-    ](https://www.reuters.com/world/asia-pacific/global-markets-central-banks-graphic-2026-09-10/)
-    
-    [category](https://www.reuters.com/world/)[Major central banks strike a more hawkish tone as energy costs jump](https://www.reuters.com/world/asia-pacific/global-markets-central-banks-graphic-2026-09-10/)
-    
-    7:20 AM PDT
+    7:38 AM PDT
     
 - [
     
-    ](https://www.reuters.com/business/us-existing-home-sales-drop-14-month-low-august-2026-09-10/)
+    ](https://www.reuters.com/business/energy/oil-tanker-rates-hit-record-highs-following-iran-us-shipping-attacks-2026-09-11/)
     
-    [Businesscategory](https://www.reuters.com/business/)[US existing home sales drop to 14-month low in August](https://www.reuters.com/business/us-existing-home-sales-drop-14-month-low-august-2026-09-10/)
+    [Businesscategory](https://www.reuters.com/business/)[Oil tanker rates hit record highs following Iran, US shipping attacks](https://www.reuters.com/business/energy/oil-tanker-rates-hit-record-highs-following-iran-us-shipping-attacks-2026-09-11/)
     
-    7:01 AM PDT
+    7:32 AM PDT
+    
+- [
+    
+    ](https://www.reuters.com/world/us/president-trumps-republican-convention-speech-draws-25-million-viewers-fox-news-2026-09-11/)
+    
+    [United Statescategory](https://www.reuters.com/world/us/)[President Trump's Republican convention speech draws 2.5 million viewers on Fox News](https://www.reuters.com/world/us/president-trumps-republican-convention-speech-draws-25-million-viewers-fox-news-2026-09-11/)
+    
+    7:22 AM PDT
+    
+- [
+    
+    ](https://www.reuters.com/business/healthcare-pharmaceuticals/us-declares-end-largest-recorded-cyclosporiasis-outbreak-2026-09-11/)
+    
+    [category](https://www.reuters.com/business/)[US declares end of largest recorded cyclosporiasis outbreak](https://www.reuters.com/business/healthcare-pharmaceuticals/us-declares-end-largest-recorded-cyclosporiasis-outbreak-2026-09-11/)
+    
+    7:06 AM PDT
     
 
 ### Site Index

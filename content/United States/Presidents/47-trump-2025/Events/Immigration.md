@@ -136,10 +136,8 @@ In January 2026, the State Department [suspended processing visas](https://www.r
 - **Judge**: U.S. District Judge Jeannette Vargas in Manhattan, Biden appointee
 - **Timeline**
 	- [August 21, 2026](https://www.reuters.com/legal/government/us-judge-strikes-down-policy-suspending-immigrant-visa-processing-75-nations-2026-08-22/):  Judge Vargas strikes down Trump policy suspending the issuance of immigrant visas to ​applicants from 75 countries, saying that the policy exceeded Rubio's statutory authority.
-# Visa Program Pause
+## Visa Program Pause
 In August 2026, the State Department paused immigrant visa appointments for applicants [worldwide](https://www.reuters.com/legal/government/trump-administration-issues-pause-visa-appointments-applicants-worldwide-2026-08-26/) while they train foreign embassies to screen out applicants deemed likely to become dependent on U.S. public benefits and to ensure evaluation of visa applicants "comprehensively and consistently." 
-
-
 ## Visa Bond
 - In [July 2026](https://www.reuters.com/world/us/us-make-visa-bond-program-permanent-people-dozens-countries-2026-08-01/), the State Department made permanent a visa bond program ‌that requires B1 and B2 visas applicants (business and tourism visas) from 50 countries, mostly from Africa, to post bonds of $10,000-$20,000 when seeking U.S. visas.
 ## Expired Visas
@@ -157,6 +155,10 @@ In August 2026, the State Department paused immigrant visa appointments for appl
 ## Revoking Visas
 - Total revoked: [175,000](https://www.reuters.com/legal/government/trump-administration-has-revoked-more-than-175000-visas-state-department-says-2026-08-10/) visas during second term as of August 2026
 - [Non-immigrant visas](https://www.reuters.com/world/us-plans-revoke-up-200000-tourism-business-visas-ap-reports-2026-08-24/): In August 2026 the State Department said they planned to mass revoke non-immigrant visas of foreigners who have applied for or are currently seeking asylum status in the U.S. (~200,000 visas, largest mass revocation in history).
+
+# Deportations
+## Imran Ahmed
+In December 2025, U.S. judge temporarily blocked Trump from [detaining British anti-disinformation campaigner](https://www.reuters.com/world/judge-grants-injunction-blocking-us-detaining-british-anti-disinformation-2025-12-25/) Imran Ahmed after Washington imposed visa bans on Ahmed and four Europeans, including French former EU commissioner Thierry Breton. However, in September 2026, U.S. District Judge Loretta Preska in Manhattan [dismissed a lawsuit by Ahmed](https://www.reuters.com/legal/government/us-judge-dismisses-suit-by-british-anti-disinformation-activist-against-2026-09-09/) that challenged the Trump administration's ability to ​detain and deport him on free speech grounds. Preska said she didn't have jurisdiction to hear the case.
 # Non-citizen Voting
 ## Citizenship Proof Order
 In March 2025: Trump signed an order [requiring proof of citizenship to vote](https://apnews.com/article/voting-elections-trump-executive-order-4e9edb53f47e61e241a43ceef8164022), despite voting by non-citizens in the US already being illegal and rarely occurs. The EO comes after Trump complained for years of voter fraud in his election loss to Biden. With the EO, Trump showed he was done waiting for Congress to pass the SAVE Act, which would do the same thing as Trump's EO but be codified. The EO has the possibility of disenfranchising voters, with [9% of Americans](https://www.reuters.com/world/us/trump-signs-election-order-calling-proof-us-citizenship-vote-2025-03-26/) (21 mln people) not having proof of citizenship readily available. The Constitution gives states authority to set the "times, places and manner" for elections, and gives Congress the power to regulate voting.
@@ -183,6 +185,9 @@ In July 2026, New Jersey Governor Mikie Sherrill said roughly [6,600 noncitizens
 - **Alien Terrorist Removal Court**: Court established ⁠by Congress in 1996 that allows the government to rely on classified evidence in deportation cases. The secretive U.S. court ​convened for the first time in [July 2026](https://www.reuters.com/legal/government/first-case-secretive-us-court-meant-deport-alleged-terrorists-2026-07-30/) to hear a case of a woman accused of supporting ISIS and helping conceal a failed Election Day 2024 mass shooting ​plot. 
 ## Immigrant Bond
 
+# Data Sharing
+## IRS Data
+In September 2026, the U.S. Court of Appeals for the District of Columbia [ruled](https://www.reuters.com/legal/government/irs-under-trump-unlawfully-shared-taxpayer-info-with-immigration-authorities-2026-09-08/) to uphold ??? injunction. The IRS last year disclosed roughly ​47,000 taxpayer addresses to ICE in 2025. 
 # Minnesota 
 January 7, 2026: ICE agent [fatally shoots U.S. citizen Renee Nicole Good](https://www.reuters.com/legal/government/ice-fatal-shooting-minnesota-woman-puts-us-edge-2026-01-08/), who was a mother of three, in Minneapolis where Trump was conducting an immigration enforcement surge. About 1,000 demonstrators gathered the following morning at a federal building where an immigration court is housed, chanting "shame" and "murder" at armed and masked federal officers, some of whom used tear gas and pepper balls on protesters. Trump and his aides defended the ICE agent's actions, saying it was self defense and accused the woman of trying to ram agents in an act of "domestic terrorism." Minneapolis Mayor Jacob Frey, a Democrat, called that assertion "bullshit" and "garbage" based on bystander videos taken of the incident that appeared to contradict the government's account. Videos showed two masked officers approaching Good's car, which was stopped at a perpendicular angle on a Minneapolis street and as one officer ordered Good out of the car and grabbed at her door handle, the car briefly reversed and then began driving forward, turning to the right in an apparent attempt to leave the scene. A third officer, positioned in front of her car on the left, drew his gun and fired three times while jumping back, with the last two shots aimed through the driver's side window after the car's bumper appeared to have cleared his body. The video did not appear to show contact and the officer stayed on his feet, though Noem said he was taken to a hospital and released. Trump went on to lie that the woman "ran over the ICE Officer." Minnesota law allows the use of deadly force by an officer only if an objectively reasonable officer would believe that doing so was necessary to protect the officer or others from immediate death or serious harm.
 
@@ -444,3 +449,4 @@ January 24: 8th U.S. Circuit Court of Appeals rejects DOJ bid to charge five mor
             The material includes videos from agents' body cameras, other digital evidence and Good's bullet-damaged car.
 
             <sup><a href="https://www.reuters.com/legal/government/trump-officials-turn-over-withheld-evidence-immigration-agents-killings-renee-2026-07-13/" target="_blank">[59]</a></sup>
+            

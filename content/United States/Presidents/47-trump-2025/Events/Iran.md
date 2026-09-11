@@ -24,6 +24,7 @@
 - [September 5](https://www.reuters.com/world/middle-east/explosions-heard-near-irans-kharg-island-gulf-origin-unknown-fars-news-says-2026-09-05/): US forces hit three Iranian oil tankers following IRGC attacks on American naval ships.
 - [September 8](https://www.reuters.com/world/middle-east/iran-says-it-plans-new-gulf-exclusion-zone-threatens-us-with-new-missiles-2026-09-08/): Houthis attacked four cities in the south of Saudi Arabia, wounding more than 70 people and setting oil installations ablaze.
 - [September 9](https://www.reuters.com/world/middle-east/iran-attacks-us-base-jordan-ships-near-hormuz-after-tankers-sunk-2026-09-09/): Iran attacks 10 ships near Strait of Hormuz after U.S. sank five Iranian oil tankers, ‌in the biggest wave of attacks on shipping by both sides since the start of the six-month-old war.
+- [September 10](https://www.reuters.com/world/middle-east/trump-says-iran-war-end-after-us-midterm-elections-threatens-attack-pickaxe-2026-09-10/): US average diesel price above $6 a gallon for first time ever. Houthis seize Yemeni port of Mocha and fighting with Saudi forces escalates. Trump now says he expects war to end after November midterm elections.
 
 
 
