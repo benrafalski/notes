@@ -34,4 +34,8 @@ In August 2026, U.S. ‌District Judge Nicholas Garaufis ​[dismissed criminal 
 
 # Qatari Jet
 ## Security Concerns
-- WaPo reports Trump boarded [secret Turkey flight](https://www.reuters.com/business/aerospace-defense/trump-flew-secretly-turkey-due-iranian-threat-washington-post-reports-2026-08-11/) in July 2026 via catering truck due to credible Iran assassination threat. Trump had taken a newly renovated Qatari-donated jet to Ankara for the NATO summit but unexpectedly announced he would use an older Air Force One when departing the country, ​a move that prompted questions about the newer plane's security. 
+- WaPo reports Trump boarded [secret Turkey flight](https://www.reuters.com/business/aerospace-defense/trump-flew-secretly-turkey-due-iranian-threat-washington-post-reports-2026-08-11/) in July 2026 via catering truck due to credible Iran assassination threat. Trump had taken a newly renovated Qatari-donated jet to Ankara for the NATO summit but unexpectedly announced he would use an older Air Force One when departing the country, ​a move that prompted questions about the newer plane's security.
+
+# Self Enrichment
+## Natalie Harp
+In September 2026, financial disclosures showed executive assistant Natalie Harp, communications adviser Margo Martin, and deputy director of Oval ​Office operations Chamberlain Harris each [received $45,000 as "Cash Gift for Holidays."](https://www.reuters.com/legal/government/trump-gave-45000-cash-gifts-close-aide-natalie-harp-others-2026-09-09/) Walt Nauta, another aide who works as the director of Oval Office ​operations, received $20,000 in cash, the disclosures show. 

@@ -1,0 +1,70 @@
+# TODO
+- Hohokam 
+- Jack Swelling 
+	- Phoenix
+- Prescott -> Phoenix Capital
+- J.C. Adams: Adams hotel
+- Reclamation Act
+	- Salt River Project
+	- Apache Trail
+	- Roosevelt Dam
+	- Roosevelt Lake
+- C's
+	- Cotton
+	- Citrus
+	- Copper
+	- Cattle
+	- Climate
+- Luhrs Building
+- Arizona Biltmore
+- Valley National Bank and Walter Bimson
+	- Valley Center
+- WW2
+	- Luke Field
+	- Williams Field
+	- Thunderbird Field
+- Barry Goldwater
+- Motorola Phoenix
+- Refrigerated Air Conditioning 
+- McDonalds Expansion
+- Dell Webb - Sun City
+- I-17 and I-10
+- Colorado River Water - Central Arizona Project (CAP)
+	- AZ v. CA Supreme Court Case
+
+# Places
+- Monument Valley
+- Lake Powell
+- Sonoran Desert
+- Grand Canyon
+- Phoenix
+- Antelope Canyon
+- Tombstone
+- Sedona
+- Grand Falls
+- Tucson
+- Horseshoe Bend
+- Chiricahua
+- The Wave
+- Jerome
+- Canyon de Chelly
+- Hoover Dam
+- Painted Desert & Petrified Forest
+- Flagstaff
+- Vermillion Cliffs
+- Scottsdale
+- Barringer Crater (Meteor Crater)
+- Bisbee
+- Montezuma Castle
+- Lake Havasu City
+- Coconino Forest
+- Prescott
+- Superstition Mountains
+- Oatman
+- Walnut Canyon
+- Havasupai Falls
+- Wupatki National Monument
+- Lake Watson
+- Williams
+- Kofa National Wildlife Refuge
+- Salt River Valley

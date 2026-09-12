@@ -27,6 +27,7 @@ Upon returning to the White House, Trump rescinded a 2021 policy from Biden limi
 ## Trump Changes
 - **July 21, 2026**: U.S. District Judge Nathaniel Gorton in Boston temporarily blocks Trump admin implement new immigration-related restrictions enacted under his Big Beautiful Bill that would strip TPS holders of their [ability to work in the US](https://www.reuters.com/legal/government/us-judge-blocks-trump-administration-stripping-immigrants-work-permits-2026-07-21/).
 - **Caregiver Impact**: About 21,000 Haitian TPS holders worked in the U.S. as [caregivers](https://www.reuters.com/legal/government/us-families-healthcare-providers-under-strain-after-trump-crackdown-haitian-2026-08-19/), serving roughly 77,000 patients. 
+- El Salvador (September 2026): Trump admin says tens of thousands of immigrants from El Salvador [will for ​now keep their TPS](https://www.reuters.com/legal/government/us-says-immigrants-el-salvador-will-now-keep-temporary-protected-status-2026-09-09/) that was set to expire the following week.
 ## Countries
 
 | Country     | Reason                                                                                   | Population |
@@ -182,7 +183,7 @@ In July 2026, New Jersey Governor Mikie Sherrill said roughly [6,600 noncitizens
 
 # Due Process
 ## Immigration Courts
-- **Alien Terrorist Removal Court**: Court established ⁠by Congress in 1996 that allows the government to rely on classified evidence in deportation cases. The secretive U.S. court ​convened for the first time in [July 2026](https://www.reuters.com/legal/government/first-case-secretive-us-court-meant-deport-alleged-terrorists-2026-07-30/) to hear a case of a woman accused of supporting ISIS and helping conceal a failed Election Day 2024 mass shooting ​plot. 
+- **Alien Terrorist Removal Court**: Court established ⁠by Congress in 1996 that allows the government to rely on classified evidence in deportation cases. The secretive U.S. court ​convened for the first time in [July 2026](https://www.reuters.com/legal/government/first-case-secretive-us-court-meant-deport-alleged-terrorists-2026-07-30/) to hear a case of an Afghan woman accused of supporting ISIS and helping conceal a failed Election Day 2024 mass shooting ​plot. The woman, Nazira Haji ‌Zada, [was deported from the US](https://www.reuters.com/legal/government/afghan-woman-deported-us-first-use-secretive-terrorism-court-2026-09-11/) in September 2026 after agreeing she was an "alien terrorist" subject to removal.
 ## Immigrant Bond
 
 # Data Sharing
