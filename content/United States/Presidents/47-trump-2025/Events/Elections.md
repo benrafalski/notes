@@ -7,8 +7,12 @@ In September 2026, The [Missouri Supreme Court blocked](https://www.reuters.com/
 ## USPS Order
 - EO: orders USPS to refuse ballot delivery if states withheld eligible voter lists.
 ### Lawsuit
-- Case: [State of California v. Trump (1:26-cv-11581)](https://www.courtlistener.com/docket/73141063/state-of-california-v-trump/)
-- Federal Judge: Indira Talwani
+- Case 1:
+	- [State of California v. Trump (1:26-cv-11581)](https://www.courtlistener.com/docket/73141063/state-of-california-v-trump/)
+	- Federal Judge: Indira Talwani
+- Case 2: 
+	- [DSCC v. TRUMP (1:26-cv-01114)](https://www.courtlistener.com/docket/73131864/dscc-v-trump/)
+	- Federal Judge: Carl Nichols in Washington, Trump appointed
 - Timeline:
 	- [July 25](https://www.reuters.com/world/us-appeals-court-rules-trump-cannot-implement-mail-in-voting-order-2026-07-25/): ‌Boston-based 1st U.S. Circuit Court of Appeals rejects Trump's request to lift judge Talwani's injunction.
 	- [August 11](https://www.reuters.com/world/judge-blocks-us-postal-service-restricting-mail-in-voting-2026-08-11/): Talwani expands June injunction from 23 mostly Democratic-led states to nationwide
@@ -17,6 +21,7 @@ In September 2026, The [Missouri Supreme Court blocked](https://www.reuters.com/
 	- [August 27](https://www.reuters.com/world/judge-blocks-rule-implementing-trump-plan-restrict-mail-in-voting-2026-08-28/): Talwani issues TRO blocking mail-in voting rule, says Trumps presented no evidence regarding fraudulent mail-in voting that would necessitate such a rule.
 	- [September 4](https://www.reuters.com/legal/government/us-judge-again-blocks-postal-services-mail-in-voting-restrictions-2026-09-04/): Talwani extends TRO into preliminary injunction.
 	- [September 10](https://www.reuters.com/world/us-appeals-court-rejects-trump-bid-implement-mail-in-voting-restrictions-2026-09-10/): 1st U.S. Circuit Court of Appeals declines Trump bid to halt Talwani's injunction, saying the USPS rule would "likely result in the disenfranchisement of millions of voters across the ​country while providing minimal — if any — gains in combating voter fraud."
+	- [September 14](https://www.reuters.com/world/trumps-mail-in-voting-restrictions-blocked-by-second-judge-2026-09-14/): second federal judge, U.S. District Judge Carl Nichols, issues preliminary injunction blocking Trump's USPS order.
 
 
 # Illegal Voting

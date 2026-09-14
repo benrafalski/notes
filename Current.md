@@ -24,155 +24,139 @@
 
 [My News](https://www.reuters.com/my-news/feed/)
 
-[](https://www.reuters.com/account/sign-in/?redirect=https%3A%2F%2Fwww.reuters.com%2Flegal%2Fgovernment%2Fafghan-woman-deported-us-first-use-secretive-terrorism-court-2026-09-11%2F)[](https://www.reuters.com/account/subscribe/offer/?redirect=https%3A%2F%2Fwww.reuters.com%2Flegal%2Fgovernment%2Fafghan-woman-deported-us-first-use-secretive-terrorism-court-2026-09-11%2F&referrer=subscription_button&journeyStart=navigation)
+[](https://www.reuters.com/account/sign-in/?redirect=https%3A%2F%2Fwww.reuters.com%2Fbusiness%2Fhealthcare-pharmaceuticals%2Fwoman-dies-complications-measles-western-pennsylvania-2026-09-13%2F)[](https://www.reuters.com/account/subscribe/offer/?redirect=https%3A%2F%2Fwww.reuters.com%2Fbusiness%2Fhealthcare-pharmaceuticals%2Fwoman-dies-complications-measles-western-pennsylvania-2026-09-13%2F&referrer=subscription_button&journeyStart=navigation)
 
-# Afghan woman deported from US in first use of secretive terrorism court
+# Woman dies of complications from measles in western Pennsylvania
 
-By [Nate Raymond](https://www.reuters.com/authors/nate-raymond/)
+By [David French](https://www.reuters.com/authors/david-french/)
 
-September 11, 202612:42 PM PDTUpdated 20 hours ago
+September 13, 20264:59 PM PDTUpdated 3 mins ago
 
-![Illustration shows United States Department of Justice logo and U.S. flag](https://www.reuters.com/resizer/v2/Z2FMOIXKANMEBKXAPVUDWX3DEM.jpg?auth=bb4ea9f5953cf33620782fd34a80c0911196a0594e73f4d7d3b3d8a744dda1a0&width=1920&quality=80)
+![Measles scare in New York](https://www.reuters.com/resizer/v2/I5CI7G456VPAVFYPSFQS7A7B2Q.jpg?auth=1209a74b9e3a92ecd492c2ede898df357a3f2654a867f498fa037ae4715ab60b&width=1920&quality=80)
 
-United States Department of Justice logo and U.S. flag are seen in this illustration taken April 23, 2025. REUTERS/Dado Ruvic/Illustration [Purchase Licensing Rights, opens new tab](https://www.reutersagency.com/en/licensereuterscontent/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead)
+A measles alert sign hangs outside the entrance to the Cohen Children's Medical Center in New Hyde Park, New York, U.S., March 14, 2025. REUTERS/Shannon Stapleton/File Photo [Purchase Licensing Rights, opens new tab](https://www.reutersagency.com/en/licensereuterscontent/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead)
 
-- Companies
+- Summary
 
-- [
-    
-    The United States Department Of Justice
-    
-    ](https://www.reuters.com/company/the-united-states-department-of-justice/)
-    
+- Jefferson County coroner reports 40-year-old woman dies on Saturday from measles-related complications
+- Pennsylvania confirms 676 measles cases and 124 measles-related hospitalizations in 2026
+- State health department ​reviewing Jefferson County case under measles-associated death definition
 
-Sept 11 (Reuters) - An Afghan woman accused of supporting the Islamic State has been deported from the United States in the first case to be pursued by the U.S. Department of ​Justice through a little-known court created 30 years ago to deport "alien terrorists."
+NEW YORK, Sept 13 (Reuters) - The death toll in Pennsylvania's measles outbreak rose this weekend with a county coroner's report of a woman's death from complications related to the disease.
 
-Nazira Haji ‌Zada, a 47-year-old who had been residing in Texas as a lawful permanent resident of the United States, was deported after agreeing not to continue to fight against her removal in the Alien Terrorist Removal Court following [her ​arrest in July](https://www.reuters.com/legal/government/first-case-secretive-us-court-meant-deport-alleged-terrorists-2026-07-30/), the department said on Friday.
+The coroner's ​office of western Pennsylvania's Jefferson County reported that a 40-year-old woman died on Saturday from ​complications associated with measles. The commonwealth has seen an outbreak of ⁠the highly-infectious disease, adding to a resurgence of measles in the United ​States as [official data](https://www.reuters.com/business/healthcare-pharmaceuticals/us-kindergarten-vaccine-coverage-falls-cdc-says-2026-08-17/) shows declining U.S. vaccination rates.
 
-Jumpstart your morning with the latest legal news delivered straight to your inbox from The Daily Docket newsletter. Sign up [here.](https://www.reuters.com/newsletters/daily-docket/?location=article-paragraph&redirectUrl=%2Flegal%2Fgovernment%2Fafghan-woman-deported-us-first-use-secretive-terrorism-court-2026-09-11%2F)
+Keep up with the latest medical breakthroughs and healthcare trends with the award-winning Reuters Health Rounds newsletter. Sign up [here.](https://www.reuters.com/newsletters/reuters-health-rounds/?location=article-paragraph&redirectUrl=%2Fbusiness%2Fhealthcare-pharmaceuticals%2Fwoman-dies-complications-measles-western-pennsylvania-2026-09-13%2F)
 
-The Justice Department had accused her of ​helping conceal a failed, Islamic State-inspired plot to commit a mass shooting on ⁠Election Day 2024. She was never charged with any crime, but her son and son-in-law ​pleaded guilty to related charges last year.
+The coroner's office said it was working ​with the Pennsylvania Department of Health.
 
-Her case had been filed in a court that had ​gone unused in the decades since its creation by Congress in 1996. That court allows the government to rely on classified evidence in deportation cases.
+"This is a heartbreaking loss for the family and an unfortunate reminder that measles can be a serious and potentially life-threatening disease," Coroner Greg ​Furlong said in a statement posted on Facebook.
 
-Her attorney initially argued the secretive process violated her due process rights. Defendants ​in such cases are not allowed to review the classified evidence used against them.
+The state Department of Health said on Friday that ​it has confirmed 676 measles cases across Pennsylvania in 2026, with 124 measles-related hospitalizations.
 
-But according to ​court documents unsealed on Friday, Haji Zada agreed last month that she was an "alien terrorist" subject to removal. ‌The ⁠court's chief judge, Joan Ericksen, subsequently [approved her deportation, opens new tab](https://fingfx.thomsonreuters.com/gfx/legaldocs/lgvdbwkrbvo/2026-TRC-1-Order-of-Judicial-Removal-Filed-August-20-2.pdf).
+The first ‌U.S. ⁠measles-related deaths of the year were reported by the Pennsylvania Department of Health on August 25.
 
-“This landmark case, resulting in the prompt removal of this alien terrorist to her country of origin, is a win for national security and the rule of law," U.S. Attorney General Todd Blanche said in a statement.
+The Pennsylvania Department of Health said it is conducting its own review of the Jefferson County case based upon its detailed epidemiological case ​definition for a ​measles-associated death. That ⁠definition was provided to the CDC and the Council of State and Territorial Epidemiologists (CSTE) on September 10, the statement ​added.
 
-The case marked the latest in ​a series of aggressive ​moves by President Donald ⁠Trump's administration to carry out deportations as part of an immigration crackdown.
+The CDC did not immediately respond to a request ​for comment ⁠on the Jefferson County death.
 
-It was unclear, though, whether the Justice Department would use the obscure court ​again anytime soon.
+U.S. Health Secretary Robert F. Kennedy Jr — a long-time skeptic of vaccines — asked his new CDC director to [remove a reference](https://www.reuters.com/world/kennedy-asked-remove-pennsylvania-measles-death-cdc-tally-sources-say-2026-09-03/) to the ⁠two ​deaths from the agency’s online measles tally ​after he questioned whether the disease contributed to the fatalities, Reuters reported earlier this month, citing people ​familiar with the matter.
 
-Matthew Farley, a public defender who represented Haji Zada, ​in a statement ⁠said her "choice to consent to removal should not be seen as an endorsement of this court's legitimacy."
-
-"Dragging lawful permanent residents into court but refusing to show them or their attorneys the evidence that ⁠will be ​used against them is a plain violation of due ​process," he said. "We are confident that the Alien Terrorist Removal Court will be struck down as unconstitutional as soon as a ​judge is asked to address the issue."
-
-Reporting by Nate Raymond in Boston; Editing by Daniel Wallis
+Reporting by David French in New York Editing by Nick Zieminski
 
 Our Standards: [The Thomson Reuters Trust Principles., opens new tab](https://www.thomsonreuters.com/en/about-us/trust-principles.html)
 
 - Suggested Topics:
-- [](https://www.reuters.com/legal/litigation/)
-- [](https://www.reuters.com/legal/constitutional-law/)
-- [](https://www.reuters.com/sustainability/human-rights/)
+- [](https://www.reuters.com/business/healthcare-pharmaceuticals/)
+- [](https://www.reuters.com/legal/health/)
+- [](https://www.reuters.com/business/healthcare-pharmaceuticals/public-health/)
+- [](https://www.reuters.com/legal/public-policy/)
 
 [](https://www.reutersagency.com/en/licensereuterscontent/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead)
 
-[
+## Read Next
 
-](https://www.reuters.com/authors/nate-raymond/)
-
-[Nate Raymond](https://www.reuters.com/authors/nate-raymond/)
-
-Thomson Reuters
-
-Nate Raymond reports on the federal judiciary and litigation. He can be reached at nate.raymond@thomsonreuters.com.
-
-- [](mailto:nate.raymond@thomsonreuters.com)
-- [](https://x.com/nateraymond)
-
-## Read Next / Editor's Picks
-
-- [Litigationcategory](https://www.reuters.com/legal/litigation/)
+- [Legalcategory](https://www.reuters.com/legal/)
     
-    [Texas judge rules TikTok misled users on child safety feature](https://www.reuters.com/legal/litigation/texas-judge-rules-tiktok-misled-users-child-safety-feature-2026-09-11/)
+    [Novo Nordisk rebrands as 'Novo', announces cultural reset](https://www.reuters.com/legal/litigation/novo-nordisk-rebrands-as-novo-announces-cultural-reset-2026-09-14/)
     
     [
     
-    ](https://www.reuters.com/legal/litigation/texas-judge-rules-tiktok-misled-users-child-safety-feature-2026-09-11/)
+    ](https://www.reuters.com/legal/litigation/novo-nordisk-rebrands-as-novo-announces-cultural-reset-2026-09-14/)
     
-- [Litigationcategory](https://www.reuters.com/legal/litigation/)
+- [Worldcategory](https://www.reuters.com/world/)
     
-    [Chemours, DuPont, Corteva settle North Carolina 'forever chemicals' claims for $455 million](https://www.reuters.com/legal/litigation/chemours-dupont-corteva-settle-north-carolina-forever-chemicals-claims-for-455-2026-09-10/)
+    EXCLUSIVE
     
-    [
-    
-    ](https://www.reuters.com/legal/litigation/chemours-dupont-corteva-settle-north-carolina-forever-chemicals-claims-for-455-2026-09-10/)
-    
-- [Litigationcategory](https://www.reuters.com/legal/litigation/)
-    
-    [OpenAI, New York Times case tees up key test of AI training under copyright law](https://www.reuters.com/legal/litigation/openai-new-york-times-case-tees-up-key-test-ai-training-under-copyright-law-2026-09-08/)
+    [Kimberly-Clark readies asset sales in bid for EU nod for Kenvue deal, sources say](https://www.reuters.com/world/kimberly-clark-readies-eu-remedies-bid-kenvue-deal-sources-say-2026-09-14/)
     
     [
     
-    ](https://www.reuters.com/legal/litigation/openai-new-york-times-case-tees-up-key-test-ai-training-under-copyright-law-2026-09-08/)
+    ](https://www.reuters.com/world/kimberly-clark-readies-eu-remedies-bid-kenvue-deal-sources-say-2026-09-14/)
+    
+- [Healthcare & Pharmaceuticalscategory](https://www.reuters.com/business/healthcare-pharmaceuticals/)
+    
+    [BioNTech says lung cancer drug candidate prolonged lives in trial](https://www.reuters.com/business/healthcare-pharmaceuticals/biontech-says-lung-cancer-drug-candidate-prolonged-lives-trial-2026-09-14/)
+    
+    [
+    
+    ](https://www.reuters.com/business/healthcare-pharmaceuticals/biontech-says-lung-cancer-drug-candidate-prolonged-lives-trial-2026-09-14/)
     
 - [
     
-    ](https://www.reuters.com/legal/government/three-jurors-lindsay-clancys-us-murder-trial-point-fingers-holdout-after-2026-09-09/)
+    ](https://www.reuters.com/legal/litigation/electra-therapeutics-targets-9776-million-valuation-us-ipo-2026-09-14/)
     
 - [
     
-    ](https://www.reuters.com/legal/government/chatgpt-invented-fake-police-testimony-murder-appeal-new-mexico-high-court-says-2026-09-11/)
-    
-- [
-    
-    ](https://www.reuters.com/legal/government/general-mills-mars-sue-sugar-producers-price-fixing-lawsuit-2026-09-08/)
-    
-- [
-    
-    ](https://www.reuters.com/legal/government/irs-under-trump-unlawfully-shared-taxpayer-info-with-immigration-authorities-2026-09-08/)
-    
-- [
-    
-    ](https://www.reuters.com/business/world-at-work/amazon-accused-lawsuit-of-systematic-pregnancy-discrimination-2026-09-08/)
-    
-- [
-    
-    ](https://www.reuters.com/legal/litigation/huawei-heads-trial-us-over-its-business-dealings-iran-2026-09-08/)
-    
-- [
-    
-    ](https://www.reuters.com/world/us/opponents-seek-block-us-breaking-ground-trump-arch-washington-2026-09-04/)
-    
-- [
-    
-    ](https://www.reuters.com/legal/government/missouri-asks-supreme-court-revive-republican-drawn-congressional-map-2026-09-05/)
-    
-- [
-    
-    ](https://www.reuters.com/world/fcc-asks-court-reject-disney-lawsuit-over-station-licenses-2026-09-03/)
-    
-- [
-    
-    ](https://www.reuters.com/legal/government/us-judge-rules-that-trump-plan-halve-fema-workforce-violated-law-2026-09-12/)
-    
-- [
-    
-    ](https://www.reuters.com/legal/litigation/ford-recall-about-223500-us-vehicles-over-fuel-tank-issues-2026-09-12/)
-    
-- [
-    
-    ](https://www.reuters.com/legal/government/grammy-winning-rapper-lil-durk-acquitted-murder-for-hire-trial-2026-09-12/)
-    
-- [
-    
-    ](https://www.reuters.com/legal/government/us-judge-blocks-trump-administrations-loyalty-question-job-applicants-2026-09-12/)
+    ](https://www.reuters.com/legal/litigation/scholar-rock-prices-first-drug-target-sma-muscle-loss-11659-per-vial-2026-09-14/)
     
 
 [](https://www.lseg.com/en/data-analytics/products/workspace?utm_source=reuters.com&utm_medium=articlebanner&utm_campaign=Reuters_ProductPage_Links)
+
+## [Business](https://www.reuters.com/business/)
+
+- [
+    
+    ](https://www.reuters.com/legal/transactional/sazerac-acquires-au-vodka-more-than-300-million-source-says-2026-09-14/)
+    
+    ### [Sazerac acquires Au Vodka for more than £300 million, source says](https://www.reuters.com/legal/transactional/sazerac-acquires-au-vodka-more-than-300-million-source-says-2026-09-14/)
+    
+    [Legalcategory](https://www.reuters.com/legal/) · September 14, 2026 · 7:31 AM PDT · 6 mins ago
+    
+    Spirits company Sazerac announced on Monday that ​it completed the acquisition of Au ‌Vodka in a deal that a source familiar with the matter said valued the ​UK-based vodka and ready-to-drink brand ​at more than £300 million ($405 million).
+    
+- [
+    
+    ](https://www.reuters.com/business/us-10-year-yields-reach-5-highest-since-2023-2026-09-14/)
+    
+    [Businesscategory](https://www.reuters.com/business/)[US 10-year yields reach 5%, highest since 2023](https://www.reuters.com/business/us-10-year-yields-reach-5-highest-since-2023-2026-09-14/)
+    
+    7:27 AM PDT
+    
+- [
+    
+    ](https://www.reuters.com/world/china/tech-stocks-slide-ai-slowdown-talks-2026-09-14/)
+    
+    [category](https://www.reuters.com/world/)[Tech stocks slide on AI slowdown talks](https://www.reuters.com/world/china/tech-stocks-slide-ai-slowdown-talks-2026-09-14/)
+    
+    7:19 AM PDT
+    
+- [
+    
+    ](https://www.reuters.com/business/media-telecom/asml-examining-ways-it-can-make-more-than-110-euv-tools-2028-jpmorgan-says-2026-09-14/)
+    
+    [Media & Telecomcategory](https://www.reuters.com/business/media-telecom/)[ASML examining ways it can make more than 110 EUV tools in 2028, JPMorgan says](https://www.reuters.com/business/media-telecom/asml-examining-ways-it-can-make-more-than-110-euv-tools-2028-jpmorgan-says-2026-09-14/)
+    
+    7:14 AM PDT
+    
+- [
+    
+    ](https://www.reuters.com/business/temporals-valuation-spikes-126-billion-lightspeed-led-funding-round-2026-09-14/)
+    
+    [Businesscategory](https://www.reuters.com/business/)[Temporal's valuation spikes to $12.6 billion in Lightspeed-led funding round](https://www.reuters.com/business/temporals-valuation-spikes-126-billion-lightspeed-led-funding-round-2026-09-14/)
+    
+    7:13 AM PDT
+    
 
 ### Site Index
 
