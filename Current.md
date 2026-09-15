@@ -24,138 +24,162 @@
 
 [My News](https://www.reuters.com/my-news/feed/)
 
-[](https://www.reuters.com/account/sign-in/?redirect=https%3A%2F%2Fwww.reuters.com%2Fbusiness%2Fhealthcare-pharmaceuticals%2Fwoman-dies-complications-measles-western-pennsylvania-2026-09-13%2F)[](https://www.reuters.com/account/subscribe/offer/?redirect=https%3A%2F%2Fwww.reuters.com%2Fbusiness%2Fhealthcare-pharmaceuticals%2Fwoman-dies-complications-measles-western-pennsylvania-2026-09-13%2F&referrer=subscription_button&journeyStart=navigation)
+[](https://www.reuters.com/account/sign-in/?redirect=https%3A%2F%2Fwww.reuters.com%2Fworld%2Fus-judge-blocks-trump-limits-duration-visas-foreign-students-journalists-2026-09-14%2F)[](https://www.reuters.com/account/subscribe/offer/?redirect=https%3A%2F%2Fwww.reuters.com%2Fworld%2Fus-judge-blocks-trump-limits-duration-visas-foreign-students-journalists-2026-09-14%2F&referrer=subscription_button&journeyStart=navigation)
 
-# Woman dies of complications from measles in western Pennsylvania
+# US judge blocks Trump limits on how long foreign students, journalists can stay
 
-By [David French](https://www.reuters.com/authors/david-french/)
+By [Nate Raymond](https://www.reuters.com/authors/nate-raymond/)
 
-September 13, 20264:59 PM PDTUpdated 3 mins ago
+September 14, 20262:27 PM PDTUpdated 11 hours ago
 
-![Measles scare in New York](https://www.reuters.com/resizer/v2/I5CI7G456VPAVFYPSFQS7A7B2Q.jpg?auth=1209a74b9e3a92ecd492c2ede898df357a3f2654a867f498fa037ae4715ab60b&width=1920&quality=80)
+![People queue to enter the U.S. embassy in London](https://www.reuters.com/resizer/v2/GGMZ3ZGACZIQBMN3I5D7CDHTPM.jpg?auth=cef5d1319b19aa5cdee55d2a8b7a41538b59c35d85e792a00cb7b09d3f5e0165&width=1920&quality=80)
 
-A measles alert sign hangs outside the entrance to the Cohen Children's Medical Center in New Hyde Park, New York, U.S., March 14, 2025. REUTERS/Shannon Stapleton/File Photo [Purchase Licensing Rights, opens new tab](https://www.reutersagency.com/en/licensereuterscontent/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead)
+An information sign for passport and visa appointments is displayed outside the U.S. embassy in London, Britain, May 29, 2025. REUTERS/Hannah McKay/File Photo [Purchase Licensing Rights, opens new tab](https://www.reutersagency.com/en/licensereuterscontent/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead)
 
 - Summary
 
-- Jefferson County coroner reports 40-year-old woman dies on Saturday from measles-related complications
-- Pennsylvania confirms 676 measles cases and 124 measles-related hospitalizations in 2026
-- State health department ​reviewing Jefferson County case under measles-associated death definition
+- Rule would cap duration of visas for international students at four years
+- Judge says DHS adopted policy on 'exceptionally weak' rationales
+- Judge says universities would face enrollment declines if rule took effect
 
-NEW YORK, Sept 13 (Reuters) - The death toll in Pennsylvania's measles outbreak rose this weekend with a county coroner's report of a woman's death from complications related to the disease.
+BOSTON, Sept 14 (Reuters) - A federal judge ​on Monday blocked U.S. [President Donald Trump](https://www.reuters.com/world/us/donald-trump/)'s administration from implementing a new rule that would limit how long ‌foreign students and journalists can remain in the U.S. without applying for extensions.
 
-The coroner's ​office of western Pennsylvania's Jefferson County reported that a 40-year-old woman died on Saturday from ​complications associated with measles. The commonwealth has seen an outbreak of ⁠the highly-infectious disease, adding to a resurgence of measles in the United ​States as [official data](https://www.reuters.com/business/healthcare-pharmaceuticals/us-kindergarten-vaccine-coverage-falls-cdc-says-2026-08-17/) shows declining U.S. vaccination rates.
+U.S. District Judge F. Dennis Saylor in Boston [ruled, opens new tab](https://fingfx.thomsonreuters.com/gfx/legaldocs/byvrajeznpe/09142026saylor.pdf) in favor of a coalition of unions and higher education advocacy groups a day before the Department of Homeland Security's rule was set to take effect.
 
-Keep up with the latest medical breakthroughs and healthcare trends with the award-winning Reuters Health Rounds newsletter. Sign up [here.](https://www.reuters.com/newsletters/reuters-health-rounds/?location=article-paragraph&redirectUrl=%2Fbusiness%2Fhealthcare-pharmaceuticals%2Fwoman-dies-complications-measles-western-pennsylvania-2026-09-13%2F)
+The Misinformation Monitor newsletter rounds up international misinformation narratives, with a "Real or Fake?" quiz in every edition. Sign up [here.](https://www.reuters.com/newsletters/misinformation-monitor/?location=article-paragraph&redirectUrl=%2Fworld%2Fus-judge-blocks-trump-limits-duration-visas-foreign-students-journalists-2026-09-14%2F)
 
-The coroner's office said it was working ​with the Pennsylvania Department of Health.
+Saylor said DHS ​adopted the policy based on "exceptionally weak" rationales. The agency had cited national security and the need to prevent fraud ​in the visa program, but the judge found it had not adhered to its legal obligations ⁠to engage with concerns about a policy change or consider less burdensome alternatives.
 
-"This is a heartbreaking loss for the family and an unfortunate reminder that measles can be a serious and potentially life-threatening disease," Coroner Greg ​Furlong said in a statement posted on Facebook.
+In a statement, DHS General Counsel James Percival ​criticized Saylor's ruling, saying that under it, U.S. Immigration and Customs Enforcement must "permit this rampant abuse of our immigration system."
 
-The state Department of Health said on Friday that ​it has confirmed 676 measles cases across Pennsylvania in 2026, with 124 measles-related hospitalizations.
+"Come on ​a student visa, take one class per semester, and stay here for decades," he said.
 
-The first ‌U.S. ⁠measles-related deaths of the year were reported by the Pennsylvania Department of Health on August 25.
+**Saylor, an appointee of Republican President George W. Bush, [wrote that, opens new tab](https://fingfx.thomsonreuters.com/gfx/legaldocs/byvrajeznpe/09142026saylor.pdf) the rule upended a system through which the U.S. for nearly five decades had issued visas to foreign students for their "duration of status." That [system](https://www.reuters.com/legal/immigration/), he ​said, has permitted tens of millions of foreign students and researchers to come to the U.S., leading to "groundbreaking research in ​science, medicine, and technology, substantial economic growth, and a host of other benefits, often on a vast scale."**
 
-The Pennsylvania Department of Health said it is conducting its own review of the Jefferson County case based upon its detailed epidemiological case ​definition for a ​measles-associated death. That ⁠definition was provided to the CDC and the Council of State and Territorial Epidemiologists (CSTE) on September 10, the statement ​added.
+Saylor said the rule DHS [adopted in July](https://www.reuters.com/legal/government/unions-advocacy-groups-sue-overturn-us-visa-rule-foreign-students-journalists-2026-08-18/) ‌seeks ⁠to replace that system with one that would substantially restrict the overall number of foreign students, professors and journalists in the country.
 
-The CDC did not immediately respond to a request ​for comment ⁠on the Jefferson County death.
+**Under the rule, F visas for international students and J visas that allow visitors on cultural exchange programs to work in the U.S. would be capped at four years, while I visas for journalists, which currently can last years, would be up ​to 240 days.**
 
-U.S. Health Secretary Robert F. Kennedy Jr — a long-time skeptic of vaccines — asked his new CDC director to [remove a reference](https://www.reuters.com/world/kennedy-asked-remove-pennsylvania-measles-death-cdc-tally-sources-say-2026-09-03/) to the ⁠two ​deaths from the agency’s online measles tally ​after he questioned whether the disease contributed to the fatalities, Reuters reported earlier this month, citing people ​familiar with the matter.
+**About 1.6 million people ​currently have F visas ⁠and another 500,000 have J visas. Major research universities like Massachusetts Institute of Technology and Harvard have large percentages of foreign students, particularly at the graduate level, the judge noted.**
 
-Reporting by David French in New York Editing by Nick Zieminski
+If the ​rule took effect, such universities would likely suffer hundreds of millions of dollars in costs and ​enrollment would decline, ⁠Saylor said.
 
-Our Standards: [The Thomson Reuters Trust Principles., opens new tab](https://www.thomsonreuters.com/en/about-us/trust-principles.html)
+"The damage to the higher education system and to the economy of the United States is likely to be catastrophic," Saylor wrote.
+
+Miriam Feldblum, the head of one of the plaintiffs, the Presidents’ Alliance on Higher Education and Immigration, said the judge's ruling ⁠recognized the ​harm the rule would cause to international students, universities and the economy if ​it was allowed to take effect.
+
+"While the case continues, this relief preserves the longstanding system that enables our colleges and universities — and our country — to attract, ​educate, and retain global talent," Feldblum said.
+
+Reporting by Nate Raymond in Boston; Editing by David Gregorio, Rosalba O'Brien and Thomas Derpinghaus
+
+Our Standards: [The Thomson Reuters Trust Principles., opens new tab](https://www.thomsonreuters.com/en/about-us/trust-principles.html)
 
 - Suggested Topics:
-- [](https://www.reuters.com/business/healthcare-pharmaceuticals/)
-- [](https://www.reuters.com/legal/health/)
-- [](https://www.reuters.com/business/healthcare-pharmaceuticals/public-health/)
+- [](https://www.reuters.com/legal/government/)
+- [](https://www.reuters.com/legal/constitutional-law/)
 - [](https://www.reuters.com/legal/public-policy/)
+- [](https://www.reuters.com/legal/employment/)
+- [](https://www.reuters.com/legal/immigration/)
 
 [](https://www.reutersagency.com/en/licensereuterscontent/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead)
 
+[
+
+](https://www.reuters.com/authors/nate-raymond/)
+
+[Nate Raymond](https://www.reuters.com/authors/nate-raymond/)
+
+Thomson Reuters
+
+Nate Raymond reports on the federal judiciary and litigation. He can be reached at nate.raymond@thomsonreuters.com.
+
+- [](mailto:nate.raymond@thomsonreuters.com)
+- [](https://x.com/nateraymond)
+
 ## Read Next
 
-- [Legalcategory](https://www.reuters.com/legal/)
+- [Governmentcategory](https://www.reuters.com/legal/government/)
     
-    [Novo Nordisk rebrands as 'Novo', announces cultural reset](https://www.reuters.com/legal/litigation/novo-nordisk-rebrands-as-novo-announces-cultural-reset-2026-09-14/)
-    
-    [
-    
-    ](https://www.reuters.com/legal/litigation/novo-nordisk-rebrands-as-novo-announces-cultural-reset-2026-09-14/)
-    
-- [Worldcategory](https://www.reuters.com/world/)
-    
-    EXCLUSIVE
-    
-    [Kimberly-Clark readies asset sales in bid for EU nod for Kenvue deal, sources say](https://www.reuters.com/world/kimberly-clark-readies-eu-remedies-bid-kenvue-deal-sources-say-2026-09-14/)
+    [US appeals court to hear DOJ bid to revive cases against Trump foes Comey, James](https://www.reuters.com/legal/government/us-appeals-court-hear-doj-bid-revive-cases-against-trump-foes-comey-james-2026-09-15/)
     
     [
     
-    ](https://www.reuters.com/world/kimberly-clark-readies-eu-remedies-bid-kenvue-deal-sources-say-2026-09-14/)
+    ](https://www.reuters.com/legal/government/us-appeals-court-hear-doj-bid-revive-cases-against-trump-foes-comey-james-2026-09-15/)
     
-- [Healthcare & Pharmaceuticalscategory](https://www.reuters.com/business/healthcare-pharmaceuticals/)
+- [Governmentcategory](https://www.reuters.com/legal/government/)
     
-    [BioNTech says lung cancer drug candidate prolonged lives in trial](https://www.reuters.com/business/healthcare-pharmaceuticals/biontech-says-lung-cancer-drug-candidate-prolonged-lives-trial-2026-09-14/)
+    [Noncitizens accused of illegal US voting challenge Trump's authority to prosecute them](https://www.reuters.com/legal/government/noncitizens-accused-illegal-us-voting-challenge-trumps-authority-prosecute-them-2026-09-15/)
     
     [
     
-    ](https://www.reuters.com/business/healthcare-pharmaceuticals/biontech-says-lung-cancer-drug-candidate-prolonged-lives-trial-2026-09-14/)
+    ](https://www.reuters.com/legal/government/noncitizens-accused-illegal-us-voting-challenge-trumps-authority-prosecute-them-2026-09-15/)
+    
+- [Governmentcategory](https://www.reuters.com/legal/government/)
+    
+    [US Senate to vote on advancing landmark crypto bill](https://www.reuters.com/legal/government/us-senate-vote-advancing-landmark-crypto-bill-2026-09-15/)
+    
+    [
+    
+    ](https://www.reuters.com/legal/government/us-senate-vote-advancing-landmark-crypto-bill-2026-09-15/)
     
 - [
     
-    ](https://www.reuters.com/legal/litigation/electra-therapeutics-targets-9776-million-valuation-us-ipo-2026-09-14/)
+    ](https://www.reuters.com/legal/government/fbi-director-kash-patel-face-grilling-over-travel-2020-election-probe-2026-09-15/)
     
 - [
     
-    ](https://www.reuters.com/legal/litigation/scholar-rock-prices-first-drug-target-sma-muscle-loss-11659-per-vial-2026-09-14/)
+    ](https://www.reuters.com/legal/government/washington-state-defeats-churchs-appeal-over-healthcare-coverage-abortion-2026-09-14/)
+    
+- [
+    
+    ](https://www.reuters.com/legal/government/states-cities-sue-block-trump-immigration-rule-public-benefits-2026-09-14/)
     
 
 [](https://www.lseg.com/en/data-analytics/products/workspace?utm_source=reuters.com&utm_medium=articlebanner&utm_campaign=Reuters_ProductPage_Links)
 
-## [Business](https://www.reuters.com/business/)
+## [World](https://www.reuters.com/world/)
 
 - [
     
-    ](https://www.reuters.com/legal/transactional/sazerac-acquires-au-vodka-more-than-300-million-source-says-2026-09-14/)
+    ](https://www.reuters.com/world/hungarian-real-estate-mogul-jellinek-questioned-corruption-probe-2026-09-15/)
     
-    ### [Sazerac acquires Au Vodka for more than £300 million, source says](https://www.reuters.com/legal/transactional/sazerac-acquires-au-vodka-more-than-300-million-source-says-2026-09-14/)
+    ### [Hungarian real estate mogul Jellinek questioned in corruption probe](https://www.reuters.com/world/hungarian-real-estate-mogul-jellinek-questioned-corruption-probe-2026-09-15/)
     
-    [Legalcategory](https://www.reuters.com/legal/) · September 14, 2026 · 7:31 AM PDT · 6 mins ago
+    [Worldcategory](https://www.reuters.com/world/) · September 15, 2026 · 7:43 AM PDT · 10 mins ago
     
-    Spirits company Sazerac announced on Monday that ​it completed the acquisition of Au ‌Vodka in a deal that a source familiar with the matter said valued the ​UK-based vodka and ready-to-drink brand ​at more than £300 million ($405 million).
-    
-- [
-    
-    ](https://www.reuters.com/business/us-10-year-yields-reach-5-highest-since-2023-2026-09-14/)
-    
-    [Businesscategory](https://www.reuters.com/business/)[US 10-year yields reach 5%, highest since 2023](https://www.reuters.com/business/us-10-year-yields-reach-5-highest-since-2023-2026-09-14/)
-    
-    7:27 AM PDT
+    Daniel Jellinek, one of Hungary's wealthiest businessmen, was questioned by police and prosecutors on Tuesday as part of an ​investigation into alleged bribery linked to a bus procurement deal, ‌according to prosecutors and his company.
     
 - [
     
-    ](https://www.reuters.com/world/china/tech-stocks-slide-ai-slowdown-talks-2026-09-14/)
+    ](https://www.reuters.com/live/live-bessent-testifies-before-congress-us-treasury-yields-hit-fresh-high-2026-09-15/)
     
-    [category](https://www.reuters.com/world/)[Tech stocks slide on AI slowdown talks](https://www.reuters.com/world/china/tech-stocks-slide-ai-slowdown-talks-2026-09-14/)
+    [Livecategory](https://www.reuters.com/live/)[Watch Bessent testify to Congress](https://www.reuters.com/live/live-bessent-testifies-before-congress-us-treasury-yields-hit-fresh-high-2026-09-15/)
     
-    7:19 AM PDT
-    
-- [
-    
-    ](https://www.reuters.com/business/media-telecom/asml-examining-ways-it-can-make-more-than-110-euv-tools-2028-jpmorgan-says-2026-09-14/)
-    
-    [Media & Telecomcategory](https://www.reuters.com/business/media-telecom/)[ASML examining ways it can make more than 110 EUV tools in 2028, JPMorgan says](https://www.reuters.com/business/media-telecom/asml-examining-ways-it-can-make-more-than-110-euv-tools-2028-jpmorgan-says-2026-09-14/)
-    
-    7:14 AM PDT
+    7:33 AM PDT
     
 - [
     
-    ](https://www.reuters.com/business/temporals-valuation-spikes-126-billion-lightspeed-led-funding-round-2026-09-14/)
+    ](https://www.reuters.com/world/uk-us-netherlands-issue-advisory-iran-spyware-2026-09-15/)
     
-    [Businesscategory](https://www.reuters.com/business/)[Temporal's valuation spikes to $12.6 billion in Lightspeed-led funding round](https://www.reuters.com/business/temporals-valuation-spikes-126-billion-lightspeed-led-funding-round-2026-09-14/)
+    [Worldcategory](https://www.reuters.com/world/)[UK, US and Netherlands issue advisory on Iran-linked spyware](https://www.reuters.com/world/uk-us-netherlands-issue-advisory-iran-spyware-2026-09-15/)
     
-    7:13 AM PDT
+    7:33 AM PDT
+    
+- [
+    
+    ](https://www.reuters.com/world/middle-east/alarmed-yemenis-flee-south-as-houthis-keep-up-attacks-2026-09-15/)
+    
+    [Middle Eastcategory](https://www.reuters.com/world/middle-east/)[Alarmed Yemenis flee south as Houthis keep up attacks](https://www.reuters.com/world/middle-east/alarmed-yemenis-flee-south-as-houthis-keep-up-attacks-2026-09-15/)
+    
+    7:30 AM PDT
+    
+- [
+    
+    ](https://www.reuters.com/world/us-poverty-rate-102-2025-census-bureau-says-2026-09-15/)
+    
+    [Worldcategory](https://www.reuters.com/world/)[US poverty rate at 10.2% in 2025, Census Bureau says](https://www.reuters.com/world/us-poverty-rate-102-2025-census-bureau-says-2026-09-15/)
+    
+    7:25 AM PDT
     
 
 ### Site Index
@@ -229,7 +253,7 @@ Reuters, the news and media division of Thomson Reuters, is the world’s larges
     
     Access unmatched financial data, news and content in a highly-customised workflow experience on desktop, web and mobile.
     
-- #### [Data Catalogue, opens new tab](https://www.lseg.com/en/data-analytics/financial-data/?utm_source=reuters.com&utm_medium=footer&utm_campaign=Reuters_DataCatalogPage_Links)
+- #### [Data Catalogue, opens new tab](https://www.lseg.com/en/data-analytics/financial-data/?utm_source=reuters.com&utm_medium=footer&utm_campaign=Reuters_DataCatalogPage_Links)
     
     Browse an unrivalled portfolio of real-time and historical market data and insights from worldwide sources and experts.
     
@@ -251,6 +275,6 @@ Reuters, the news and media division of Thomson Reuters, is the world’s larges
 - [Data Disclosure and Sources, opens new tab](https://www.reuters.com/info-pages/data-disclosure-and-sources/)
 - [Site Feedback, opens new tab](https://trdigital.iad1.qualtrics.com/jfe/form/SV_8kte8gArGyCGVhz)
 
-All quotes delayed a minimum of 15 minutes. [See here for a list of exchanges and delays.](https://www.reuters.com/info-pages/disclaimer/)
+All quotes delayed a minimum of 15 minutes. [See here for a list of exchanges and delays.](https://www.reuters.com/info-pages/disclaimer/)
 
-© 2026 Reuters. [All rights reserved](https://www.thomsonreuters.com/en/policies/copyright.html)
+© 2026 Reuters. [All rights reserved](https://www.thomsonreuters.com/en/policies/copyright.html)
