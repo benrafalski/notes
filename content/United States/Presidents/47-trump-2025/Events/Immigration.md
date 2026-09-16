@@ -159,6 +159,13 @@ In August 2026, the State Department paused immigrant visa appointments for appl
 - Total revoked: [175,000](https://www.reuters.com/legal/government/trump-administration-has-revoked-more-than-175000-visas-state-department-says-2026-08-10/) visas during second term as of August 2026
 - [Non-immigrant visas](https://www.reuters.com/world/us-plans-revoke-up-200000-tourism-business-visas-ap-reports-2026-08-24/): In August 2026 the State Department said they planned to mass revoke non-immigrant visas of foreigners who have applied for or are currently seeking asylum status in the U.S. (~200,000 visas, largest mass revocation in history).
 
+## Student + Journalist Visas Rule
+### Lawsuit
+- Case
+- Judge
+- Timeline
+	- [September 14](https://www.reuters.com/world/us-judge-blocks-trump-limits-duration-visas-foreign-students-journalists-2026-09-14/):
+
 # Deportations
 ## Imran Ahmed
 In December 2025, U.S. judge temporarily blocked Trump from [detaining British anti-disinformation campaigner](https://www.reuters.com/world/judge-grants-injunction-blocking-us-detaining-british-anti-disinformation-2025-12-25/) Imran Ahmed after Washington imposed visa bans on Ahmed and four Europeans, including French former EU commissioner Thierry Breton. However, in September 2026, U.S. District Judge Loretta Preska in Manhattan [dismissed a lawsuit by Ahmed](https://www.reuters.com/legal/government/us-judge-dismisses-suit-by-british-anti-disinformation-activist-against-2026-09-09/) that challenged the Trump administration's ability to ​detain and deport him on free speech grounds. Preska said she didn't have jurisdiction to hear the case.

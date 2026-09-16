@@ -8,3 +8,5 @@
 - Judge: U.S. District Judge Rita Lin, Biden appointee
 - Timeline
 	- August 27, 2026: Judge Lin [blocks](https://www.reuters.com/legal/government/us-judge-blocks-pentagons-anthropic-blacklisting-2026-08-28/) Pentagon's blacklisting of Anthropic, saying Hegseth overstepped his authority when he designated Anthropic a national security supply-chain risk.
+### AI Safety
+In September 2026, Anthropic's Amodei [urges regulations](https://www.reuters.com/world/trump-says-there-is-sick-conspiracy-against-ai-data-centers-2026-09-14/) requiring independent audits of advanced frontier AI models. Trump responded saying "The only control or 'guardrails' that AI needs is a STRONG AND ​SMART (High IQ!) PRESIDENT, and the U.S.A. has that, in spades!"

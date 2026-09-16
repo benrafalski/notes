@@ -39,3 +39,6 @@ In August 2026, U.S. ‌District Judge Nicholas Garaufis ​[dismissed criminal 
 # Self Enrichment
 ## Natalie Harp
 In September 2026, financial disclosures showed executive assistant Natalie Harp, communications adviser Margo Martin, and deputy director of Oval ​Office operations Chamberlain Harris each [received $45,000 as "Cash Gift for Holidays."](https://www.reuters.com/legal/government/trump-gave-45000-cash-gifts-close-aide-natalie-harp-others-2026-09-09/) Walt Nauta, another aide who works as the director of Oval Office ​operations, received $20,000 in cash, the disclosures show. 
+
+## Trump Jr. Russian Oligarch Wedding
+In September 2026, Trump Jr.'s new wife, Bettina, confirmed her May wedding weekend celebration was heavily funded by a "dear friend" Umar Kremlev, who has [close ties to Putin](https://apnews.com/article/donald-trump-jr-umar-kremlev-bettina-trump-wedding-russia-54b191b7d19ae09ab599ef5966523ab4).
