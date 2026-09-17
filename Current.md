@@ -24,177 +24,153 @@
 
 [My News](https://www.reuters.com/my-news/feed/)
 
-[](https://www.reuters.com/account/sign-in/?website=reuters&redirect=https%3A%2F%2Fwww.reuters.com%2Fbusiness%2Fhealthcare-pharmaceuticals%2Fpennsylvania-reports-two-additional-measles-associated-deaths-2026-09-15%2F)[](https://www.reuters.com/account/subscribe/offer/?website=reuters&redirect=https%3A%2F%2Fwww.reuters.com%2Fbusiness%2Fhealthcare-pharmaceuticals%2Fpennsylvania-reports-two-additional-measles-associated-deaths-2026-09-15%2F&referrer=subscription_button&journeyStart=navigation)
+[](https://www.reuters.com/account/sign-in/?website=reuters&redirect=https%3A%2F%2Fwww.reuters.com%2Flegal%2Fgovernment%2Fice-agent-charged-with-assault-lying-about-shooting-arrested-minnesota-2026-09-17%2F)[](https://www.reuters.com/account/subscribe/offer/?website=reuters&redirect=https%3A%2F%2Fwww.reuters.com%2Flegal%2Fgovernment%2Fice-agent-charged-with-assault-lying-about-shooting-arrested-minnesota-2026-09-17%2F&referrer=subscription_button&journeyStart=navigation)
 
-# Pennsylvania measles-associated deaths climb to four as outbreak grows
+# ICE agent charged with assault, lying about shooting, jailed in Minnesota
 
-By [Sriparna Roy](https://www.reuters.com/authors/sriparna-roy/) and [Kamal Choudhury](https://www.reuters.com/authors/kamal-choudhury/)
+By [Jonathan Allen](https://www.reuters.com/authors/jonathan-allen/) and [Steve Gorman](https://www.reuters.com/authors/steve-gorman/)
 
-September 15, 20269:25 AM PDTUpdated 17 hours ago
+September 16, 20266:25 PM PDTUpdated 5 hours ago
 
-![US CDC reports five-fold increase in weekly measles cases as Texas outbreak grows](https://www.reuters.com/resizer/v2/LSEHACZMZ5MMPO7YQW4WQ5EPBE.jpg?auth=512b3f5fda65fa9871832980cf4c549440ad300ed5dfb3822afb2b9d82b0b3c8&width=1920&quality=80)
+![U.S. Immigration and Customs Enforcement (ICE) agents detain a man as part of a Targeted Enforcement Operation in the Corona neighborhood of the Queens borough of New York City](https://www.reuters.com/resizer/v2/EDOBE5WOFFIUBB7KOGGJXUA5IY.jpg?auth=bd1c851db3dea541dc5df5d03a2ebba0d5f5d6f282705614c8e61c44f855a274&width=1920&quality=80)
 
-A sign reading "measles testing" is seen as an outbreak in Gaines County, Texas, has raised concerns over its spread to other parts of the state, in Seminole, Texas, U.S., February 25, 2025. REUTERS/Sebastian Rocandio/File Photo [Purchase Licensing Rights, opens new tab](https://www.reutersconnect.com/item/us-cdc-reports-five-fold-increase-in-weekly-measles-cases-as-texas-outbreak-grows/dGFnOnJldXRlcnMuY29tLDIwMjU6bmV3c21sX1JDMlYxREFISkNaRA%3D%3D/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead)
+U.S. Immigration and Customs Enforcement (ICE) agents detain a man as part of a Targeted Enforcement Operation in the Corona neighborhood of the Queens borough of New York City, U.S., September 4, 2026. REUTERS/Shannon Stapleton [Purchase Licensing Rights, opens new tab](https://www.reutersconnect.com/item/us-immigration-and-customs-enforcement-ice-agents-detain-a-man-as-part-of-a-targeted-enforcement-operation-in-the-corona-neighborhood-of-the-queens-borough-of-new-york-city/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1JDMkRDTkFIMDMxQQ%3D%3D/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead)
 
 - Summary
 
-- Pennsylvania has confirmed 693 measles cases in 38 counties in 2026
-- Deaths in unvaccinated individuals from Jefferson and Mifflin counties
-- Total measles-associated deaths in Pennsylvania rise to four, says state health dept
+- Christian Castro drives to Minnesota from Texas to face arrest
+- Detention in Minneapolis comes eight months after shooting
+- First court appearance on state charges set for Thursday
 
-Sept 15 (Reuters) - The Pennsylvania Department of Health on Tuesday reported two more measles-associated deaths, both in unvaccinated ‌individuals, bringing the state's total fatalities linked to the disease outbreak to four.
+Sept 16 (Reuters) - A federal immigration officer wanted on assault charges for shooting and ​wounding a Venezuelan man in Minneapolis was arrested there on Wednesday, eight months after a confrontation that became a flashpoint over ‌US President Donald Trump's deportation sweeps.
 
-One individual lived in Jefferson County, while the other lived in Mifflin County, the department said, without disclosing any additional details, citing patient privacy. On Sunday, [Jefferson County](https://www.reuters.com/business/healthcare-pharmaceuticals/woman-dies-complications-measles-western-pennsylvania-2026-09-13/) announced that a 40-year-old woman had died of measles complications.
+US Immigration and Customs Enforcement agent Christian Castro was taken into custody by agents of the Minnesota Bureau of Criminal Apprehension in downtown Minneapolis and was booked into the Hennepin County jail on his outstanding arrest warrant, the agency said.
 
-Keep up with the latest medical breakthroughs and healthcare trends with the award-winning Reuters Health Rounds newsletter. Sign up [here.](https://www.reuters.com/newsletters/reuters-health-rounds/?location=article-paragraph&redirectUrl=%2Fbusiness%2Fhealthcare-pharmaceuticals%2Fpennsylvania-reports-two-additional-measles-associated-deaths-2026-09-15%2F)
+Jumpstart your morning with the latest legal news delivered straight to your inbox from The Daily Docket newsletter. Sign up [here.](https://www.reuters.com/newsletters/daily-docket/?location=article-paragraph&redirectUrl=%2Flegal%2Fgovernment%2Fice-agent-charged-with-assault-lying-about-shooting-arrested-minnesota-2026-09-17%2F)
 
-Pennsylvania health officials have notified CDC of two additional deaths involving individuals ​who had measles, a spokesperson for the agency told Reuters, adding that it is in contact with state health officials as they continue ​to assess these deaths.
+Castro had been released on bond from federal custody earlier this month, after an initial appearance in US District Court ​in McAllen, Texas, on charges of lying to investigators about the circumstances of the January 14 shooting.
 
-Pennsylvania said last month [two residents died after contracting measles](https://www.reuters.com/business/healthcare-pharmaceuticals/pennsylvania-reports-two-deaths-measles-health-department-says-2026-08-25/), the first such deaths this year in ⁠the U.S.
+Under an agreement with Minnesota law enforcement, ​Castro voluntarily drove to Minneapolis from Texas to turn himself in to state authorities at his attorney's office but ended ⁠up being arrested minutes before he was due to arrive, the lawyer, Daniel Gerdts told Reuters.
 
-The issue has become politicized as the governor of Pennsylvania Josh Shapiro and U.S. Health Secretary Robert F. Kennedy Jr. have publicly argued over the ​cases. Kennedy has [said](https://www.reuters.com/legal/litigation/kennedy-acknowledges-one-measles-death-pennsylvania-2026-09-05/) only one of the deaths was due to measles.
+Another lawyer representing the ICE agent, Rolando Cantu, said his ​client always had intended to answer to the charges in Minneapolis. He disputed Hennepin County prosecutors' assertions that Castro might flee to Mexico, saying, "He wants his ​day in court."
 
-In a post on social media platform X on Tuesday, Kennedy said the CDC would ​include measles-related deaths in its tally once the National Center for Health Statistics determines measles was the underlying cause based on state-submitted death records.
+## CASE STEMS FROM OPERATION METRO SURGE
 
-Kennedy also accused Shapiro of politicizing the response and declining federal assistance, saying the government had offered to deploy CDC epidemiologists through its Epi-Aid program to help manage the outbreak.
+The federal indictment charging Castro with making false statements marked the first US Justice Department prosecution of a federal law enforcement officer accused of wrongdoing arising from the massive Minneapolis ICE deployment dubbed Operation Metro Surge.
 
-The CDC currently does not include the 2026 deaths in ​its measles tally and its website says it is reevaluating how it classifies measles deaths.
+That operation, part of Trump's wider immigration crackdown, drew weeks of protests and clashes between ICE and demonstrators, leading to ​the fatal shootings of two US citizens by federal agents.
 
-Kennedy [asked CDC Director](https://www.reuters.com/world/kennedy-asked-remove-pennsylvania-measles-death-cdc-tally-sources-say-2026-09-03/), Erica Schwartz, to remove a reference to the ​two deaths from the agency's online measles tally, Reuters reported earlier this month.
+Castro already faced state assault charges in Minnesota stemming from the confrontation in which he shot Julio ​Cesar Sosa-Celis, a Venezuelan national, in the leg through the door of the man's apartment while children were present inside the home.
 
-William Moss, an epidemiology professor at Johns Hopkins Bloomberg School of Public Health, cautioned against letting disputes over death ‌classifications overshadowing ⁠the clinical reality of the virus.
+The state charges also include false reporting of ‌a crime ⁠after Castro allegedly told superiors at the US Department of Homeland Security that Sosa-Celis and others attacked him with a snow shovel and broom, which was disproved by video evidence.
 
-Classifying measles deaths can be complex because the virus can trigger complications that ultimately cause death, Moss said. "But we certainly do not want measles deaths to be politicized. They're tragic enough for the family and community."
+Initial efforts to arrest Castro were thwarted when the ICE agent returned to his home state of Texas, leading Minnesota officials to issue a warrant for his arrest.
 
-## U.S. MEASLES CASES SURGE
+Castro was apprehended by Texas Rangers, but Texas Governor Greg Abbott, a Republican and supporter of Trump's mass deportation sweeps, refused to sign ​extradition papers sent by Minnesota Governor Tim ​Walz, a Democrat.
 
-In 2026, the U.S. has had 3,294 confirmed measles cases through September 10, according to CDC data. Pennsylvania has been the hardest hit with 693 cases in 38 counties.
+Abbott questioned whether ⁠Castro could be considered a fugitive from justice, and thus subject to extradition, because DHS had reassigned him to his home state of Texas after the Minneapolis shooting.
 
-The Pennsylvania health department said it ​conducted rigorous investigations with cooperation from the ​Jefferson and Mifflin County coroner's ⁠offices to determine that these cases met the criteria to be considered measles-associated deaths before announcing them.
+The ICE agent ultimately spent 90 days in a Texas county jail and ​was released on August 27 after a federal judge in Texas denied a request from Minnesota to immediately ​order his extradition. Castro ⁠was re-arrested in Texas following his federal grand jury indictment in early September.
 
-It reports a "measles-associated death" when an individual with an active case of measles dies and meets a set of criteria.
+DHS has suspended Castro from ICE, and a person familiar with the case has said a civil rights investigation into the Sosa-Celis shooting had been opened.
 
-Those include death within ​30 days of symptom onset in an individual with clinical evidence of a measles infection and a positive ​laboratory test, and it ⁠is not due to unrelated causes such as an accident. Whether an individual was exposed to measles prior to their death or supporting medical records are also considered.
+Castro was expected to make his first state court appearance in Minneapolis on Thursday. He will then make ⁠an initial appearance ​in US District Court in neighboring St. Paul, the state capital, on Friday morning to ​face charges in the federal indictment.
 
-Measles, which can cause symptoms including fever, rash and respiratory issues, is highly contagious but easily preventable with the measles, mumps and rubella combination vaccine — a routine ⁠shot for children ​that is 97% effective in preventing infection after two doses.
+"Governor Abbott’s attempt to shield Mr. Castro from accountability has failed. We look forward to commencing our prosecution," Hennepin County Attorney Mary Moriarty, who brought the state ​case, said in a statement.
 
-Americans' trust in vaccines for deadly ​childhood diseases, including measles, has fallen in recent years, a new Reuters/Ipsos poll [found](https://www.reuters.com/business/healthcare-pharmaceuticals/trust-measles-vaccines-falls-us-reuters-ipsos-poll-finds-2026-09-15/).
-
-President Donald Trump last month unveiled an executive order that criticized the measles, mumps and rubella vaccine, calling for the ​long-used combination shot to be split up into three separate shots.
-
-Reporting by Sriparna Roy and Kamal Choudhury in Bengaluru; Editing by Shilpi Majumdar and Tasim Zahid
+Reporting by Jonathan Allen in New York and Steve Gorman in Los Angeles; Writing by Steve Gorman; Editing by Michael Perry and Lincoln Feast.
 
 Our Standards: [The Thomson Reuters Trust Principles., opens new tab](https://www.thomsonreuters.com/en/about-us/trust-principles.html)
 
 - Suggested Topics:
-- [](https://www.reuters.com/business/healthcare-pharmaceuticals/)
-- [](https://www.reuters.com/legal/health/)
-- [](https://www.reuters.com/business/healthcare-pharmaceuticals/public-health/)
+- [](https://www.reuters.com/legal/government/)
+- [](https://www.reuters.com/legal/constitutional-law/)
+- [](https://www.reuters.com/sustainability/human-rights/)
 - [](https://www.reuters.com/legal/public-policy/)
+- [](https://www.reuters.com/legal/immigration/)
 
 [](https://www.reutersagency.com/en/licensereuterscontent/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead)
 
-[
+## Read Next / Editor's Picks
 
-](https://www.reuters.com/authors/sriparna-roy/)
-
-[Sriparna Roy](https://www.reuters.com/authors/sriparna-roy/)
-
-Thomson Reuters
-
-Sriparna reports on pharmaceutical companies and healthcare in the United States. She has a master's degree in English literature and post graduate diploma in broadcast journalism.
-
-- [](mailto:Sriparna.Roy@thomsonreuters.com)
-- [](https://x.com/Sripootweets)
-- [](https://www.linkedin.com/in/sriparna-roy-3520001bb)
-
-## Read Next
-
-- [Legalcategory](https://www.reuters.com/legal/)
+- [Governmentcategory](https://www.reuters.com/legal/government/)
     
-    EXCLUSIVE
-    
-    [A decade after mercury ban, toxic skin bleachers still offered on top retailers' websites](https://www.reuters.com/legal/litigation/decade-after-mercury-ban-toxic-skin-bleachers-still-offered-top-retailers-2026-09-16/)
+    [Judge in Kennedy Center case orders Trump administration to explain closure plans](https://www.reuters.com/legal/government/judge-kennedy-center-case-orders-trump-administration-explain-closure-plans-2026-09-16/)
     
     [
     
-    ](https://www.reuters.com/legal/litigation/decade-after-mercury-ban-toxic-skin-bleachers-still-offered-top-retailers-2026-09-16/)
+    ](https://www.reuters.com/legal/government/judge-kennedy-center-case-orders-trump-administration-explain-closure-plans-2026-09-16/)
     
-- [Legalcategory](https://www.reuters.com/legal/)
+- [Governmentcategory](https://www.reuters.com/legal/government/)
     
-    [ByteDance completes $290 million fundraising for AI drug unit after its spin-off, sources say](https://www.reuters.com/legal/transactional/bytedance-completes-290-million-fundraising-ai-drug-unit-after-its-spin-off-2026-09-16/)
-    
-    [
-    
-    ](https://www.reuters.com/legal/transactional/bytedance-completes-290-million-fundraising-ai-drug-unit-after-its-spin-off-2026-09-16/)
-    
-- [Healthcare & Pharmaceuticalscategory](https://www.reuters.com/business/healthcare-pharmaceuticals/)
-    
-    [Health Rounds: New dye for MRI exams detects lung cancer earlier](https://www.reuters.com/business/healthcare-pharmaceuticals/health-rounds-new-dye-mri-exams-detects-lung-cancer-earlier-2026-09-16/)
+    [Trump administration can proceed with homelessness program overhaul, US court rules](https://www.reuters.com/legal/government/trump-administration-can-proceed-with-homelessness-program-overhaul-us-court-2026-09-16/)
     
     [
     
-    ](https://www.reuters.com/business/healthcare-pharmaceuticals/health-rounds-new-dye-mri-exams-detects-lung-cancer-earlier-2026-09-16/)
+    ](https://www.reuters.com/legal/government/trump-administration-can-proceed-with-homelessness-program-overhaul-us-court-2026-09-16/)
+    
+- [Worldcategory](https://www.reuters.com/world/)
+    
+    [US Senate panel approves bill to bar government officials from pressuring networks on free speech](https://www.reuters.com/world/us-senate-panel-approves-bill-bar-government-officials-pressuring-networks-free-2026-09-16/)
+    
+    [
+    
+    ](https://www.reuters.com/world/us-senate-panel-approves-bill-bar-government-officials-pressuring-networks-free-2026-09-16/)
     
 - [
     
-    ](https://www.reuters.com/legal/litigation/advil-maker-haleon-boosts-us-sales-by-targeting-consumers-weight-loss-drugs-2026-09-16/)
+    ](https://www.reuters.com/legal/government/trump-administration-appeals-ruling-blocking-epa-sending-california-auto-2026-09-15/)
     
 - [
     
-    ](https://www.reuters.com/business/world-at-work/majority-us-gen-z-healthcare-workers-eye-new-jobs-within-year-survey-shows-2026-09-16/)
+    ](https://www.reuters.com/world/us/attorney-general-blanche-says-fbi-has-new-information-man-who-shot-trump-2026-09-15/)
     
 - [
     
-    ](https://www.reuters.com/legal/litigation/novo-partners-with-anthropic-speed-up-drug-development-with-claude-2026-09-16/)
+    ](https://www.reuters.com/legal/government/us-appeals-court-hear-doj-bid-revive-cases-against-trump-foes-comey-james-2026-09-15/)
+    
+- [
+    
+    ](https://www.reuters.com/legal/government/noncitizens-accused-illegal-us-voting-challenge-trumps-authority-prosecute-them-2026-09-15/)
+    
+- [
+    
+    ](https://www.reuters.com/legal/government/fbi-director-kash-patel-face-grilling-over-travel-2020-election-probe-2026-09-15/)
+    
+- [
+    
+    ](https://www.reuters.com/legal/government/ice-arrests-keep-soaring-heres-why-they-are-not-leading-more-deportations-2026-09-14/)
+    
+- [
+    
+    ](https://www.reuters.com/legal/government/trump-taps-acting-eeoc-general-counsel-eschbach-serve-permanently-2026-09-15/)
+    
+- [
+    
+    ](https://www.reuters.com/world/us/attorney-general-blanche-says-doj-would-probe-ai-related-violations-2026-09-15/)
+    
+- [
+    
+    ](https://www.reuters.com/world/us/us-attorney-general-says-probes-handled-by-ex-prosecutor-digenova-will-continue-2026-09-15/)
+    
+- [
+    
+    ](https://www.reuters.com/world/us-senate-panel-votes-advance-trump-pick-consumer-watchdog-2026-09-17/)
+    
+- [
+    
+    ](https://www.reuters.com/world/doj-official-says-frontier-ai-labs-have-not-sought-meeting-antitrust-2026-09-17/)
+    
+- [
+    
+    ](https://www.reuters.com/legal/government/court-filing-cites-trump-comments-photo-reading-kennedy-center-demolished-2026-09-17/)
+    
+- [
+    
+    ](https://www.reuters.com/world/pennsylvania-asks-cdc-help-measles-outbreak-demands-agency-recognize-measles-2026-09-17/)
     
 
 [](https://www.lseg.com/en/data-analytics/products/workspace?utm_source=reuters.com&utm_medium=articlebanner&utm_campaign=Reuters_ProductPage_Links)
-
-## [Business](https://www.reuters.com/business/)
-
-- [
-    
-    ](https://www.reuters.com/business/energy-market-shock-absorbers-weakening-shell-equinor-warn-2026-09-16/)
-    
-    ### [Energy market shock absorbers weakening, Shell and Equinor warn](https://www.reuters.com/business/energy-market-shock-absorbers-weakening-shell-equinor-warn-2026-09-16/)
-    
-    [Businesscategory](https://www.reuters.com/business/) · September 16, 2026 · 8:07 AM PDT · 4 mins ago
-    
-    Global energy markets face a lengthening period of tight supply and price volatility as the industry's ability to offset disruptions ​from the Middle East is dwindling, senior executives from Shell and Equinor said ‌on Wednesday.
-    
-- [
-    
-    ](https://www.reuters.com/legal/transactional/impulse-spaces-series-d-round-grows-808-million-backlog-expands-2026-09-16/)
-    
-    [Legalcategory](https://www.reuters.com/legal/)[Impulse Space's Series D round grows to $808 million as backlog expands](https://www.reuters.com/legal/transactional/impulse-spaces-series-d-round-grows-808-million-backlog-expands-2026-09-16/)
-    
-    8:07 AM PDT
-    
-- [
-    
-    ](https://www.reuters.com/business/us-business-inventories-rise-more-than-expected-july-2026-09-16/)
-    
-    [Businesscategory](https://www.reuters.com/business/)[US business inventories rise more than expected in July](https://www.reuters.com/business/us-business-inventories-rise-more-than-expected-july-2026-09-16/)
-    
-    7:47 AM PDT
-    
-- [
-    
-    ](https://www.reuters.com/business/energy/iran-war-could-add-85-billion-spanish-industrys-energy-costs-this-year-lobby-2026-09-16/)
-    
-    [Energycategory](https://www.reuters.com/business/energy/)[Iran war could add $8.5 billion to Spanish industry's energy costs this year, lobby group says](https://www.reuters.com/business/energy/iran-war-could-add-85-billion-spanish-industrys-energy-costs-this-year-lobby-2026-09-16/)
-    
-    7:41 AM PDT
-    
-- [
-    
-    ](https://www.reuters.com/business/energy/hy24-cofides-buy-29-stake-moeves-green-hydrogen-project-southern-spain-2026-09-16/)
-    
-    [Energycategory](https://www.reuters.com/business/energy/)[Hy24, COFIDES to buy 29% stake in Moeve's green hydrogen project in southern Spain](https://www.reuters.com/business/energy/hy24-cofides-buy-29-stake-moeves-green-hydrogen-project-southern-spain-2026-09-16/)
-    
-    7:33 AM PDT
-    
 
 ### Site Index
 

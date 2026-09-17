@@ -22,7 +22,7 @@ In September 2026, The [Missouri Supreme Court blocked](https://www.reuters.com/
 	- [September 4](https://www.reuters.com/legal/government/us-judge-again-blocks-postal-services-mail-in-voting-restrictions-2026-09-04/): Talwani extends TRO into preliminary injunction.
 	- [September 10](https://www.reuters.com/world/us-appeals-court-rejects-trump-bid-implement-mail-in-voting-restrictions-2026-09-10/): 1st U.S. Circuit Court of Appeals declines Trump bid to halt Talwani's injunction, saying the USPS rule would "likely result in the disenfranchisement of millions of voters across the ​country while providing minimal — if any — gains in combating voter fraud."
 	- [September 14](https://www.reuters.com/world/trumps-mail-in-voting-restrictions-blocked-by-second-judge-2026-09-14/): second federal judge, U.S. District Judge Carl Nichols, issues preliminary injunction blocking Trump's USPS order.
-	- [September 14](https://www.reuters.com/world/loss-trump-us-supreme-court-wont-let-postal-service-restrict-mail-ballots-2026-09-14/): Supreme Court denies Trump bid to halt Talwani's injunction, with only Alito and Thomas publicly dissenting.
+	- [September 14](https://www.reuters.com/world/loss-trump-us-supreme-court-wont-let-postal-service-restrict-mail-ballots-2026-09-14/): Supreme Court denies Trump bid to halt Talwani's injunction, with only Alito and Thomas publicly dissenting. Trump responded saying "This Supreme Court is bullied and cajoled by the Radical Left into making decisions that have set America back at least a hundred years."
 
 
 # Illegal Voting

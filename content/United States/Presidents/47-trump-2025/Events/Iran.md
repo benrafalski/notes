@@ -26,7 +26,7 @@
 - [September 9](https://www.reuters.com/world/middle-east/iran-attacks-us-base-jordan-ships-near-hormuz-after-tankers-sunk-2026-09-09/): Iran attacks 10 ships near Strait of Hormuz after U.S. sank five Iranian oil tankers, ‌in the biggest wave of attacks on shipping by both sides since the start of the six-month-old war.
 - [September 10](https://www.reuters.com/world/middle-east/trump-says-iran-war-end-after-us-midterm-elections-threatens-attack-pickaxe-2026-09-10/): US average diesel price above $6 a gallon for first time ever. Houthis seize Yemeni port of Mocha and fighting with Saudi forces escalates. Trump now says he expects war to end after November midterm elections.
 - [September 11](https://www.reuters.com/world/middle-east/yemens-houthis-reach-strategic-island-mouth-vital-shipping-lane-2026-09-11/): Lightning Houthi advance takes Perim island and nearby coastal town of Dhubab from Yemeni government forces. Crucial East-West pipeline for Saudi oil (key Hormuz alternative) shut down after separate done attack from Iraq. Saudi Crown Prince calls Trump asking for US military help against the Houthis, but US still will not take direct military action for now just intelligence sharing.
-- [September 15](https://www.reuters.com/world/middle-east/saudi-coalition-says-houthi-drone-destroyed-near-mecca-2026-09-16/): Saudi-Houthi violence intensifies sharply as Middle East conflict spreads.
+- [September 15](https://www.reuters.com/world/middle-east/saudi-coalition-says-houthi-drone-destroyed-near-mecca-2026-09-16/): Saudi-Houthi violence intensifies sharply as Middle East conflict spreads, displacing100,000+ Yemenis .
 
 
 
