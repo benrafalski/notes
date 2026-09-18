@@ -65,3 +65,14 @@ The day after Siebert resigned, Trump appointed his former attorney from his Mar
 ### Palestine Action
 In August 2026, the Trump admin designated Palestine Action as a [terrorist group](https://www.reuters.com/business/aerospace-defense/us-imposes-sanctions-palestine-action-group-2026-08-26/) as he further seeks to crack down on left-wing groups in its counterterrorism efforts. Britain  ‌also ⁠previously banned Palestine Action as a terrorist organization as they had increasingly targeted Israel‑linked defense companies in Britain, especially Israel's largest defense firm Elbit Systems.
 
+
+# Weaponizing Federal Funding
+## Housing Grants
+Congress created the Continuum of Care program in 1987 to provide resources for homeless people. Trump criticized the programs housing-first approach, and HUD in November 2025 said it was overhauling the grant program to focus on transitional housing initiatives with work requirements and other conditions.
+### Lawsuit
+- Case:
+- Judge: Mary McElroy in Providence, Trump appointee initially nominated by Obama
+- Timeline
+	- [December 19, 2025](https://www.reuters.com/world/us-judge-blocks-trump-administration-from-altering-homelessness-funding-2025-12-19/): Judge Mary McElroy in Providence issues preliminary injunction blocking Trump's HUD from implementing new homelessness grant conditions. 
+	- [September 16, 2026](https://www.reuters.com/legal/government/trump-administration-can-proceed-with-homelessness-program-overhaul-us-court-2026-09-16/): Boston-based 1st US Circuit Court of Appeals put on hold McElroy's injunction, saying Trump was likely to win appeal. 
+

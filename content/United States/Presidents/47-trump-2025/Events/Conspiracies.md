@@ -473,3 +473,7 @@
           July 15: DOJ says it is prohibited by law from releasing unredacted files on Epstein requested by New Mexico.
 
           <sup><a href="https://www.reuters.com/legal/government/us-justice-dept-says-it-cannot-provide-unredacted-epstein-files-new-mexico-probe-2026-07-15/" target="_blank">[77]</a></sup>
+
+## Congressional Testimonies
+### Leon Black
+- **Contempt** (September 2026): [House votes](https://www.reuters.com/legal/government/us-house-votes-hold-billionaire-leon-black-contempt-congress-2026-09-16/) to find billionaire Leon Black in contempt of Congress and refer him to DOJ after he declined to comply with subpoenas as part of ‌Epstein probe. Black stepped down from his chief executive role at Apollo in 2021 after an external law firm found he ⁠had ​paid Epstein $158 million for tax and estate planning.

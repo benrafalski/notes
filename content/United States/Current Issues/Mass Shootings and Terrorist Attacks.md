@@ -24,6 +24,8 @@ Two killed after gunman [opens fire](https://www.reuters.com/world/us/three-dead
 ### Virginia State Shooting (August 15)
 Five people [shot](https://www.reuters.com/world/us/virginia-state-university-shooting-leaves-five-injured-police-say-2026-08-15/) outside ​Virginia State University (historically black college) residence halls, one of them being in critical condition.
 ## Hate Crimes
+### Rep Ilhan Omar Sprayed (January 28) 
+Police arrest man who sprayed U.S. Representative Ilhan Omar with [ammonia-smelling liquid](https://www.reuters.com/world/us/man-disrupts-ilhan-omar-event-minnesota-sprays-her-with-liquid-2026-01-28/) in Minneapolis during a town hall when she condemned Kristi Noem and ICE amid their enforcement surge. Omar was uninjured as a security guard immediately grabbed the man and took him to the ground. When Trump was asked if he saw the video he said "No. I don't think about her. I think she's a fraud. I really don't think about that. She probably had herself sprayed, knowing her." The man, Anthony James Kazmierczak, pled guilty in May and and admitted to attacking Omar because he ​disagreed with her progressive political views. He was sentenced to 14 months in prison.
 ### Philadelphia Islamic Center Arson (July 5)
 Man [sets fire](https://www.reuters.com/legal/litigation/doj-says-man-charged-philadelphia-mosque-fire-targeted-it-because-it-was-mosque-2026-08-07/) to the Northeast Philadelphia Islamic Center but no injuries were reported from the incident. The suspect who was later charged said he had targeted the house of worship because it was a mosque. 
 ### Utah Muslim Stabbing (July 17)

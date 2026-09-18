@@ -24,150 +24,123 @@
 
 [My News](https://www.reuters.com/my-news/feed/)
 
-[](https://www.reuters.com/account/sign-in/?website=reuters&redirect=https%3A%2F%2Fwww.reuters.com%2Flegal%2Fgovernment%2Fice-agent-charged-with-assault-lying-about-shooting-arrested-minnesota-2026-09-17%2F)[](https://www.reuters.com/account/subscribe/offer/?website=reuters&redirect=https%3A%2F%2Fwww.reuters.com%2Flegal%2Fgovernment%2Fice-agent-charged-with-assault-lying-about-shooting-arrested-minnesota-2026-09-17%2F&referrer=subscription_button&journeyStart=navigation)
+[](https://www.reuters.com/account/sign-in/?website=reuters&redirect=https%3A%2F%2Fwww.reuters.com%2Flegal%2Fgovernment%2Fman-who-assaulted-us-lawmaker-ilhan-omar-sentenced-14-months-prison-2026-09-18%2F)[](https://www.reuters.com/account/subscribe/offer/?website=reuters&redirect=https%3A%2F%2Fwww.reuters.com%2Flegal%2Fgovernment%2Fman-who-assaulted-us-lawmaker-ilhan-omar-sentenced-14-months-prison-2026-09-18%2F&referrer=subscription_button&journeyStart=navigation)
 
-# ICE agent charged with assault, lying about shooting, jailed in Minnesota
+# Man who assaulted US lawmaker Ilhan Omar sentenced to 14 months in prison
 
-By [Jonathan Allen](https://www.reuters.com/authors/jonathan-allen/) and [Steve Gorman](https://www.reuters.com/authors/steve-gorman/)
+By Reuters
 
-September 16, 20266:25 PM PDTUpdated 5 hours ago
+September 17, 20265:19 PM PDTUpdated 14 hours ago
 
-![U.S. Immigration and Customs Enforcement (ICE) agents detain a man as part of a Targeted Enforcement Operation in the Corona neighborhood of the Queens borough of New York City](https://www.reuters.com/resizer/v2/EDOBE5WOFFIUBB7KOGGJXUA5IY.jpg?auth=bd1c851db3dea541dc5df5d03a2ebba0d5f5d6f282705614c8e61c44f855a274&width=1920&quality=80)
+![Anthony James Kazmierczak poses for a Hennepin County Jail booking photograph after his arrest in Minneapolis](https://www.reuters.com/resizer/v2/VVI6ERNVFJKH7KMHTJYZNX2DJ4.jpg?auth=18d3e24c8f7fd9bb9c3968001df59b04044c046e7bb7194185e38c7a67efb582&width=1920&quality=80)
 
-U.S. Immigration and Customs Enforcement (ICE) agents detain a man as part of a Targeted Enforcement Operation in the Corona neighborhood of the Queens borough of New York City, U.S., September 4, 2026. REUTERS/Shannon Stapleton [Purchase Licensing Rights, opens new tab](https://www.reutersconnect.com/item/us-immigration-and-customs-enforcement-ice-agents-detain-a-man-as-part-of-a-targeted-enforcement-operation-in-the-corona-neighborhood-of-the-queens-borough-of-new-york-city/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1JDMkRDTkFIMDMxQQ%3D%3D/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead)
+Anthony James Kazmierczak poses for a Hennepin County Jail booking photograph after his arrest on a charge of third degree assault following an incident at Rep. Ilhan Omar's town hall event in Minneapolis, Minnesota, U.S. January 27, 2026 in a combination photograph. Hennepin County Sheriff/Handout via REUTERS [Purchase Licensing Rights, opens new tab](https://www.reutersconnect.com/item/anthony-james-kazmierczak-poses-for-a-hennepin-county-jail-booking-photograph-after-his-arrest-in-minneapolis/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1JDMjdBSkFQTExHNw%3D%3D/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead)
 
-- Summary
+NEW YORK, Sept 17 (Reuters) - A Minnesota man who [squirted vinegar](https://www.reuters.com/world/us/man-disrupts-ilhan-omar-event-minnesota-sprays-her-with-liquid-2026-01-28/) on Democratic U.S. Representative Ilhan Omar was sentenced to ​one year and two months in prison on ‌Thursday after [pleading guilty](https://www.reuters.com/legal/government/man-pleads-guilty-assaulting-us-lawmaker-ilhan-omar-january-town-hall-2026-05-08/) to assaulting a federal official.
 
-- Christian Castro drives to Minnesota from Texas to face arrest
-- Detention in Minneapolis comes eight months after shooting
-- First court appearance on state charges set for Thursday
+Anthony James Kazmierczak pleaded guilty in May and admitted to attacking Omar because he ​disagreed with her progressive political views. He was ​sentenced by U.S. District Judge Joan Ericksen at ⁠a hearing in Minneapolis federal court on Thursday.
 
-Sept 16 (Reuters) - A federal immigration officer wanted on assault charges for shooting and ​wounding a Venezuelan man in Minneapolis was arrested there on Wednesday, eight months after a confrontation that became a flashpoint over ‌US President Donald Trump's deportation sweeps.
+Jumpstart your morning with the latest legal news delivered straight to your inbox from The Daily Docket newsletter. Sign up [here.](https://www.reuters.com/newsletters/daily-docket/?location=article-paragraph&redirectUrl=%2Flegal%2Fgovernment%2Fman-who-assaulted-us-lawmaker-ilhan-omar-sentenced-14-months-prison-2026-09-18%2F)
 
-US Immigration and Customs Enforcement agent Christian Castro was taken into custody by agents of the Minnesota Bureau of Criminal Apprehension in downtown Minneapolis and was booked into the Hennepin County jail on his outstanding arrest warrant, the agency said.
+Kazmierczak’s ​lawyer said he apologized to Omar at the hearing ​but declined to offer additional comment, citing Kazmierczak’s pending assault and threats of violence charges in state court.
 
-Jumpstart your morning with the latest legal news delivered straight to your inbox from The Daily Docket newsletter. Sign up [here.](https://www.reuters.com/newsletters/daily-docket/?location=article-paragraph&redirectUrl=%2Flegal%2Fgovernment%2Fice-agent-charged-with-assault-lying-about-shooting-arrested-minnesota-2026-09-17%2F)
+Omar, a progressive Democrat and ​outspoken critic of Republican President Donald Trump, was ​giving a town hall speech condemning the actions of U.S. Immigration and ‌Customs ⁠Enforcement agents in Minneapolis in January when Kazmierczak rose from the crowd and squirted her with a syringe of vinegar.
 
-Castro had been released on bond from federal custody earlier this month, after an initial appearance in US District Court ​in McAllen, Texas, on charges of lying to investigators about the circumstances of the January 14 shooting.
+In video of the attack that was widely ​shared online, Kazmierczak ​can be ⁠heard saying, “You must resign.” He was quickly subdued by a security guard, and Omar ​continued her remarks.
 
-Under an agreement with Minnesota law enforcement, ​Castro voluntarily drove to Minneapolis from Texas to turn himself in to state authorities at his attorney's office but ended ⁠up being arrested minutes before he was due to arrive, the lawyer, Daniel Gerdts told Reuters.
+Minnesota U.S. Attorney Daniel Rosen, ​a ⁠Trump appointee, has previously condemned the attack and called it part of a dangerous national trend of people channeling ⁠political ​hatred into criminal acts.
 
-Another lawyer representing the ICE agent, Rolando Cantu, said his ​client always had intended to answer to the charges in Minneapolis. He disputed Hennepin County prosecutors' assertions that Castro might flee to Mexico, saying, "He wants his ​day in court."
+Rosen’s office did ​not immediately respond to a request for comment after the sentencing.
 
-## CASE STEMS FROM OPERATION METRO SURGE
-
-The federal indictment charging Castro with making false statements marked the first US Justice Department prosecution of a federal law enforcement officer accused of wrongdoing arising from the massive Minneapolis ICE deployment dubbed Operation Metro Surge.
-
-That operation, part of Trump's wider immigration crackdown, drew weeks of protests and clashes between ICE and demonstrators, leading to ​the fatal shootings of two US citizens by federal agents.
-
-Castro already faced state assault charges in Minnesota stemming from the confrontation in which he shot Julio ​Cesar Sosa-Celis, a Venezuelan national, in the leg through the door of the man's apartment while children were present inside the home.
-
-The state charges also include false reporting of ‌a crime ⁠after Castro allegedly told superiors at the US Department of Homeland Security that Sosa-Celis and others attacked him with a snow shovel and broom, which was disproved by video evidence.
-
-Initial efforts to arrest Castro were thwarted when the ICE agent returned to his home state of Texas, leading Minnesota officials to issue a warrant for his arrest.
-
-Castro was apprehended by Texas Rangers, but Texas Governor Greg Abbott, a Republican and supporter of Trump's mass deportation sweeps, refused to sign ​extradition papers sent by Minnesota Governor Tim ​Walz, a Democrat.
-
-Abbott questioned whether ⁠Castro could be considered a fugitive from justice, and thus subject to extradition, because DHS had reassigned him to his home state of Texas after the Minneapolis shooting.
-
-The ICE agent ultimately spent 90 days in a Texas county jail and ​was released on August 27 after a federal judge in Texas denied a request from Minnesota to immediately ​order his extradition. Castro ⁠was re-arrested in Texas following his federal grand jury indictment in early September.
-
-DHS has suspended Castro from ICE, and a person familiar with the case has said a civil rights investigation into the Sosa-Celis shooting had been opened.
-
-Castro was expected to make his first state court appearance in Minneapolis on Thursday. He will then make ⁠an initial appearance ​in US District Court in neighboring St. Paul, the state capital, on Friday morning to ​face charges in the federal indictment.
-
-"Governor Abbott’s attempt to shield Mr. Castro from accountability has failed. We look forward to commencing our prosecution," Hennepin County Attorney Mary Moriarty, who brought the state ​case, said in a statement.
-
-Reporting by Jonathan Allen in New York and Steve Gorman in Los Angeles; Writing by Steve Gorman; Editing by Michael Perry and Lincoln Feast.
+Reporting ​by Jack Queen in New York; Editing by Stephen Coates
 
 Our Standards: [The Thomson Reuters Trust Principles., opens new tab](https://www.thomsonreuters.com/en/about-us/trust-principles.html)
 
 - Suggested Topics:
-- [](https://www.reuters.com/legal/government/)
+- [](https://www.reuters.com/legal/litigation/)
 - [](https://www.reuters.com/legal/constitutional-law/)
 - [](https://www.reuters.com/sustainability/human-rights/)
-- [](https://www.reuters.com/legal/public-policy/)
-- [](https://www.reuters.com/legal/immigration/)
+- [](https://www.reuters.com/legal/criminal/)
 
 [](https://www.reutersagency.com/en/licensereuterscontent/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead)
 
 ## Read Next / Editor's Picks
 
+- [Legal Industrycategory](https://www.reuters.com/legal/legalindustry/)
+    
+    [Nike, Lululemon agree to end patent dispute over Mirror home workout tech](https://www.reuters.com/legal/legalindustry/nike-lululemon-agree-end-patent-dispute-over-mirror-home-workout-tech-2026-09-17/)
+    
+    [
+    
+    ](https://www.reuters.com/legal/legalindustry/nike-lululemon-agree-end-patent-dispute-over-mirror-home-workout-tech-2026-09-17/)
+    
+- [Legal Industrycategory](https://www.reuters.com/legal/legalindustry/)
+    
+    [Lenovo ends US patent lawsuit over Asus laptops](https://www.reuters.com/legal/legalindustry/lenovo-ends-us-patent-lawsuit-over-asus-laptops-2026-09-17/)
+    
+    [
+    
+    ](https://www.reuters.com/legal/legalindustry/lenovo-ends-us-patent-lawsuit-over-asus-laptops-2026-09-17/)
+    
 - [Governmentcategory](https://www.reuters.com/legal/government/)
     
-    [Judge in Kennedy Center case orders Trump administration to explain closure plans](https://www.reuters.com/legal/government/judge-kennedy-center-case-orders-trump-administration-explain-closure-plans-2026-09-16/)
+    [UK silence over demand for Apple data access is farcical, lawyer says](https://www.reuters.com/legal/government/uk-silence-over-demand-apple-data-access-is-farcical-lawyer-says-2026-09-17/)
     
     [
     
-    ](https://www.reuters.com/legal/government/judge-kennedy-center-case-orders-trump-administration-explain-closure-plans-2026-09-16/)
-    
-- [Governmentcategory](https://www.reuters.com/legal/government/)
-    
-    [Trump administration can proceed with homelessness program overhaul, US court rules](https://www.reuters.com/legal/government/trump-administration-can-proceed-with-homelessness-program-overhaul-us-court-2026-09-16/)
-    
-    [
-    
-    ](https://www.reuters.com/legal/government/trump-administration-can-proceed-with-homelessness-program-overhaul-us-court-2026-09-16/)
-    
-- [Worldcategory](https://www.reuters.com/world/)
-    
-    [US Senate panel approves bill to bar government officials from pressuring networks on free speech](https://www.reuters.com/world/us-senate-panel-approves-bill-bar-government-officials-pressuring-networks-free-2026-09-16/)
-    
-    [
-    
-    ](https://www.reuters.com/world/us-senate-panel-approves-bill-bar-government-officials-pressuring-networks-free-2026-09-16/)
+    ](https://www.reuters.com/legal/government/uk-silence-over-demand-apple-data-access-is-farcical-lawyer-says-2026-09-17/)
     
 - [
     
-    ](https://www.reuters.com/legal/government/trump-administration-appeals-ruling-blocking-epa-sending-california-auto-2026-09-15/)
+    ](https://www.reuters.com/world/middle-east/assad-era-syrian-official-jailed-60-years-by-us-court-2026-09-18/)
     
 - [
     
-    ](https://www.reuters.com/world/us/attorney-general-blanche-says-fbi-has-new-information-man-who-shot-trump-2026-09-15/)
+    ](https://www.reuters.com/legal/legalindustry/new-balance-sues-decathlon-trademark-infringement-over-shoe-logo-2026-09-16/)
     
 - [
     
-    ](https://www.reuters.com/legal/government/us-appeals-court-hear-doj-bid-revive-cases-against-trump-foes-comey-james-2026-09-15/)
+    ](https://www.reuters.com/world/google-should-appoint-antitrust-compliance-officer-us-judge-says-ad-tech-case-2026-09-16/)
     
 - [
     
-    ](https://www.reuters.com/legal/government/noncitizens-accused-illegal-us-voting-challenge-trumps-authority-prosecute-them-2026-09-15/)
+    ](https://www.reuters.com/legal/litigation/openai-challenges-secrecy-apple-pact-with-musks-x-spacexai-2026-09-16/)
     
 - [
     
-    ](https://www.reuters.com/legal/government/fbi-director-kash-patel-face-grilling-over-travel-2020-election-probe-2026-09-15/)
+    ](https://www.reuters.com/legal/government/us-appeals-court-blocks-kalshi-offering-event-contracts-native-american-lands-2026-09-16/)
     
 - [
     
-    ](https://www.reuters.com/legal/government/ice-arrests-keep-soaring-heres-why-they-are-not-leading-more-deportations-2026-09-14/)
+    ](https://www.reuters.com/legal/legalindustry/tesla-spacex-sue-nanotech-company-over-terafab-name-2026-09-16/)
     
 - [
     
-    ](https://www.reuters.com/legal/government/trump-taps-acting-eeoc-general-counsel-eschbach-serve-permanently-2026-09-15/)
+    ](https://www.reuters.com/business/energy/ge-vernova-vineyard-wind-settle-legal-battle-over-new-england-wind-farm-2026-09-16/)
     
 - [
     
-    ](https://www.reuters.com/world/us/attorney-general-blanche-says-doj-would-probe-ai-related-violations-2026-09-15/)
+    ](https://www.reuters.com/legal/government/3m-dupont-must-face-connecticut-firefighters-lawsuit-over-forever-chemicals-2026-09-15/)
     
 - [
     
-    ](https://www.reuters.com/world/us/us-attorney-general-says-probes-handled-by-ex-prosecutor-digenova-will-continue-2026-09-15/)
+    ](https://www.reuters.com/legal/litigation/bristol-myers-sues-amgen-over-proposed-opdivo-biosimilar-2026-09-15/)
     
 - [
     
-    ](https://www.reuters.com/world/us-senate-panel-votes-advance-trump-pick-consumer-watchdog-2026-09-17/)
+    ](https://www.reuters.com/legal/government/starbucks-settles-florida-lawsuit-claiming-diversity-policies-were-illegal-2026-09-17/)
     
 - [
     
-    ](https://www.reuters.com/world/doj-official-says-frontier-ai-labs-have-not-sought-meeting-antitrust-2026-09-17/)
+    ](https://www.reuters.com/legal/government/bayers-monsanto-unit-urges-missouri-judge-approve-725-billion-roundup-settlement-2026-09-14/)
     
 - [
     
-    ](https://www.reuters.com/legal/government/court-filing-cites-trump-comments-photo-reading-kennedy-center-demolished-2026-09-17/)
+    ](https://www.reuters.com/world/us-judge-blocks-trump-limits-duration-visas-foreign-students-journalists-2026-09-14/)
     
 - [
     
-    ](https://www.reuters.com/world/pennsylvania-asks-cdc-help-measles-outbreak-demands-agency-recognize-measles-2026-09-17/)
+    ](https://www.reuters.com/legal/litigation/us-judge-denies-openai-bid-review-x-corps-settlement-with-apple-2026-09-18/)
     
 
 [](https://www.lseg.com/en/data-analytics/products/workspace?utm_source=reuters.com&utm_medium=articlebanner&utm_campaign=Reuters_ProductPage_Links)
@@ -264,6 +237,7 @@ Reuters, the news and media division of Thomson Reuters, is the world’s larges
 - [Corrections](https://www.reuters.com/info-pages/contact-us/)
 - [Data Disclosure and Sources, opens new tab](https://www.reuters.com/info-pages/data-disclosure-and-sources/)
 - [Site Feedback, opens new tab](https://trdigital.iad1.qualtrics.com/jfe/form/SV_8kte8gArGyCGVhz)
+- Manage Cookies & Your Privacy Choices
 
 All quotes delayed a minimum of 15 minutes. [See here for a list of exchanges and delays.](https://www.reuters.com/info-pages/disclaimer/)
 
