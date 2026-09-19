@@ -10,6 +10,16 @@
 # Schools
 ## School Discipline
 - August 2026: New Education Department guidance urges schools to stop what it calls "[racial balancing](https://www.reuters.com/legal/government/us-tells-schools-not-alter-discipline-policies-reduce-racial-disparities-2026-08-19/)" ‌in student discipline policies. Federal civil rights data has shown Black students are ​disciplined at disproportionately high rates. An Education Department [report](https://www.ed.gov/media/document/crdc-discipline-school-climate-reportpdf-21409.pdf) released in 2023 ​found Black public preschool children received out-of-school suspensions at a rate ⁠nearly twice their enrollment.
+## Teacher Training Grants
+The Education Department in February 2025 announced ​it was canceling more than $600 million in grants (Teacher Quality Partnership and Supporting Effective Educator Development grant programs) because they were used to train teachers ​and education agencies on "divisive ideologies," including DEI and social justice activism. Over 90% of grants awarded through those programs were canceled as a result of the directive to terminate ones supporting DEI.
+### Lawsuit
+- Case
+- Judge: Angel Kelley in Boston, Biden appointee
+- Timeline
+	- [March 10, 2025]("https://www.reuters.com/world/us/us-judge-orders-trump-administration-restore-teacher-preparation-grants-2025-03-11/): US District Judge Myong Joun in Boston issued a TRO on Trump's termination of $600 million in federal grants to train teachers to address teacher shortages in rural and underserved communities that Trump said were included "divisive ideologies," which it said included DEI, "critical race theory" and "anti-racism."
+	- [March 21](https://www.reuters.com/world/us/us-appeals-court-rejects-trump-bid-cut-off-teacher-preparation-grant-funding-2025-03-21/): Boston-based 1st U.S. Circuit Court of Appeals rejected Trump's bid to have the TRO paused and directed the DOE to restore the $600 mln in grants.
+	- [April 4](https://www.reuters.com/world/us/us-supreme-court-backs-trump-teacher-training-grant-cuts-2025-04-04/):  Supreme Court ruled 5-4 to put on hold Joun's TRO, saying administration is "likely to succeed in showing the district court lacked jurisdiction to order the payment of money."
+	- [September 17, 2026](https://www.reuters.com/legal/government/us-judge-strikes-down-education-departments-anti-dei-grant-policy-2026-09-17/): Judge Kelley strikes down Education Department's anti-DEI grant policy.
 
 
 # Housing

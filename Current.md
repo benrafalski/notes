@@ -24,126 +24,177 @@
 
 [My News](https://www.reuters.com/my-news/feed/)
 
-[](https://www.reuters.com/account/sign-in/?website=reuters&redirect=https%3A%2F%2Fwww.reuters.com%2Flegal%2Fgovernment%2Fman-who-assaulted-us-lawmaker-ilhan-omar-sentenced-14-months-prison-2026-09-18%2F)[](https://www.reuters.com/account/subscribe/offer/?website=reuters&redirect=https%3A%2F%2Fwww.reuters.com%2Flegal%2Fgovernment%2Fman-who-assaulted-us-lawmaker-ilhan-omar-sentenced-14-months-prison-2026-09-18%2F&referrer=subscription_button&journeyStart=navigation)
+[](https://www.reuters.com/account/sign-in/?website=reuters&redirect=https%3A%2F%2Fwww.reuters.com%2Fworld%2Fus-appeals-court-rejects-trump-policy-allowing-fast-thirdcountry-deportations-2026-09-18%2F)[](https://www.reuters.com/account/subscribe/offer/?website=reuters&redirect=https%3A%2F%2Fwww.reuters.com%2Fworld%2Fus-appeals-court-rejects-trump-policy-allowing-fast-thirdcountry-deportations-2026-09-18%2F&referrer=subscription_button&journeyStart=navigation)
 
-# Man who assaulted US lawmaker Ilhan Omar sentenced to 14 months in prison
+# US appeals court rejects Trump policy allowing swift deportations to third countries
 
-By Reuters
+By [Nate Raymond](https://www.reuters.com/authors/nate-raymond/)
 
-September 17, 20265:19 PM PDTUpdated 14 hours ago
+September 18, 202612:43 PM PDTUpdated 11 hours ago
 
-![Anthony James Kazmierczak poses for a Hennepin County Jail booking photograph after his arrest in Minneapolis](https://www.reuters.com/resizer/v2/VVI6ERNVFJKH7KMHTJYZNX2DJ4.jpg?auth=18d3e24c8f7fd9bb9c3968001df59b04044c046e7bb7194185e38c7a67efb582&width=1920&quality=80)
+![Former California police captain to be sentenced in eBay cyberstalking case](https://www.reuters.com/resizer/v2/5Y3UQXZMZBMSVB3B3XB52ON5MA.jpg?auth=aaca22b5485832e67e9d3bb686fde8501edb1e8a55546d0089d348b642784cfe&width=1920&quality=80)
 
-Anthony James Kazmierczak poses for a Hennepin County Jail booking photograph after his arrest on a charge of third degree assault following an incident at Rep. Ilhan Omar's town hall event in Minneapolis, Minnesota, U.S. January 27, 2026 in a combination photograph. Hennepin County Sheriff/Handout via REUTERS [Purchase Licensing Rights, opens new tab](https://www.reutersconnect.com/item/anthony-james-kazmierczak-poses-for-a-hennepin-county-jail-booking-photograph-after-his-arrest-in-minneapolis/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1JDMjdBSkFQTExHNw%3D%3D/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead)
+A general view of The John Joseph Moakley United States Courthouse in Boston, Massachusetts, U.S., July 27, 2021. REUTERS/Nicholas Pfosi/File Photo [Purchase Licensing Rights, opens new tab](https://www.reutersconnect.com/item/former-california-police-captain-to-be-sentenced-in-ebay-cyberstalking-case/dGFnOnJldXRlcnMuY29tLDIwMjE6bmV3c21sX1JDMjNUTzk4NjIyMA%3D%3D/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead)
 
-NEW YORK, Sept 17 (Reuters) - A Minnesota man who [squirted vinegar](https://www.reuters.com/world/us/man-disrupts-ilhan-omar-event-minnesota-sprays-her-with-liquid-2026-01-28/) on Democratic U.S. Representative Ilhan Omar was sentenced to ​one year and two months in prison on ‌Thursday after [pleading guilty](https://www.reuters.com/legal/government/man-pleads-guilty-assaulting-us-lawmaker-ilhan-omar-january-town-hall-2026-05-08/) to assaulting a federal official.
+- Summary
 
-Anthony James Kazmierczak pleaded guilty in May and admitted to attacking Omar because he ​disagreed with her progressive political views. He was ​sentenced by U.S. District Judge Joan Ericksen at ⁠a hearing in Minneapolis federal court on Thursday.
+- Appeals panel largely upholds February ruling finding Homeland Security policy unlawful
+- Policy lets authorities deport migrants with as little as six hours of notice
+- Administration sent more than 25,000 migrants to at least 29 third countries, watchdog project says
 
-Jumpstart your morning with the latest legal news delivered straight to your inbox from The Daily Docket newsletter. Sign up [here.](https://www.reuters.com/newsletters/daily-docket/?location=article-paragraph&redirectUrl=%2Flegal%2Fgovernment%2Fman-who-assaulted-us-lawmaker-ilhan-omar-sentenced-14-months-prison-2026-09-18%2F)
+BOSTON, Sept 18 (Reuters) - A US ​federal appeals court rejected on Friday a policy adopted by the Trump administration that allows authorities to rapidly deport migrants to countries ‌other than their own without giving them a chance to raise safety concerns.
 
-Kazmierczak’s ​lawyer said he apologized to Omar at the hearing ​but declined to offer additional comment, citing Kazmierczak’s pending assault and threats of violence charges in state court.
+Ruling in a case that is likely headed to the Supreme Court, a three-judge panel of the Boston-based 1st US Circuit Court of Appeals [largely upheld, opens new tab](https://fingfx.thomsonreuters.com/gfx/legaldocs/lgvdbkemnvo/09182026thirdcountries.pdf) a February decision by a lower-court judge that declared the Department of Homeland Security's policy unlawful.
 
-Omar, a progressive Democrat and ​outspoken critic of Republican President Donald Trump, was ​giving a town hall speech condemning the actions of U.S. Immigration and ‌Customs ⁠Enforcement agents in Minneapolis in January when Kazmierczak rose from the crowd and squirted her with a syringe of vinegar.
+The Misinformation Monitor newsletter rounds up international misinformation narratives, with a "Real or Fake?" quiz in every edition. Sign up [here.](https://www.reuters.com/newsletters/misinformation-monitor/?location=article-paragraph&redirectUrl=%2Fworld%2Fus-appeals-court-rejects-trump-policy-allowing-fast-thirdcountry-deportations-2026-09-18%2F)
 
-In video of the attack that was widely ​shared online, Kazmierczak ​can be ⁠heard saying, “You must resign.” He was quickly subdued by a security guard, and Omar ​continued her remarks.
+The ruling came in a class-action lawsuit filed by ​migrants subject to deportation orders that has become a key test of what due-process protections the government must provide before removing people to ​countries with which they have no connection.
 
-Minnesota U.S. Attorney Daniel Rosen, ​a ⁠Trump appointee, has previously condemned the attack and called it part of a dangerous national trend of people channeling ⁠political ​hatred into criminal acts.
+"This decision confirms that due process and the protections Congress enacted against persecution and ⁠torture cannot be circumvented by putting someone on a plane to a country that was never part of their removal proceedings," Trina Realmuto, a lawyer ​for the plaintiffs at the National Immigration Litigation Alliance, said.
 
-Rosen’s office did ​not immediately respond to a request for comment after the sentencing.
+Under President [Donald Trump,](https://www.reuters.com/world/us/donald-trump/) the administration has entered into a series of agreements that have allowed it to send ​more than 25,000 migrants to at least 29 third countries, in many cases Mexico, according to Third Country Deportation Watch, a project run by Refugees International and Human Rights First.
 
-Reporting ​by Jack Queen in New York; Editing by Stephen Coates
+The government is expected to appeal. Earlier in the case, the administration twice convinced the Supreme Court to lift a [preliminary injunction](https://www.reuters.com/world/us/us-appeals-court-rejects-trump-bid-swiftly-deport-migrants-third-countries-2025-05-16/) protecting migrants' due-process rights, clearing the way for eight men ​to be deported to South Sudan.
+
+The administration has also carried out third-country deportations of people to nations including [Uganda](https://www.reuters.com/world/africa/twelve-deportees-us-arrive-uganda-law-society-says-2026-04-02/), [Equatorial Guinea](https://www.reuters.com/legal/government/egyptian-deported-by-us-equatorial-guinea-held-incommunicado-week-lawyer-says-2026-09-18/), [Liberia](https://www.reuters.com/world/africa/venezuelans-cubans-among-deportees-liberia-under-trump-deal-official-says-2026-08-20/) and the [Central African Republic](https://www.reuters.com/world/africa/central-african-republic-accept-third-country-deportees-us-sources-say-2026-06-07/).
+
+DHS General Counsel James ​Percival posted on X that the policy remains in force because the 1st Circuit's decision is not yet in effect.
+
+"If you claim fear in your home country, DHS has ‌the right ⁠to send you elsewhere," he said.
+
+## THIRD-COUNTRY DEPORTATIONS
+
+In March 2025, DHS adopted a policy aimed at addressing individuals who were subject to final orders of deportation but had been granted protections in immigration court against being sent back to their countries of origin.
+
+The policy would allow migrants to be sent to alternative countries if immigration authorities have credible diplomatic assurances they will not be persecuted or tortured there.
+
+The policy called for only minimal notice before a migrant could be sent to ​a third country that had not ​given the State Department such assurances.
+
+US ⁠District Judge Brian Murphy, an appointee of Democratic President Joe Biden, set aside the policy and concluded that it failed to protect migrants' due-process rights and could lead to their swift deportation to unfamiliar and potentially dangerous countries, without notice.
+
+On ​appeal, the Trump administration contended that Murphy's order, if left intact, would usurp its authority to execute potentially ​thousands of valid orders ⁠of deportation to third countries.
+
+But US Circuit Judge Seth Aframe, writing for Friday's panel, said Murphy adopted a "sensible" interpretation of the immigration law requiring migrants be given a "meaningful" chance to raise any concerns before they are deported.
+
+"DHS's proposed interpretation would deny access to that protection to a substantial swath of noncitizens who are sent to third ⁠countries with ​no notice of their destination," Aframe wrote. "We decline to adopt such an interpretation."
+
+The panel included two ​Biden appointees, including Aframe, and a judge appointed by a Republican president.
+
+However, the 1st Circuit overturned one part of Murphy's ruling on procedural grounds. It concerned whether the government must first try ​to deport migrants to countries they have ties to before sending them to third countries.
+
+Reporting by Nate Raymond in Boston; Editing by Sanjeev Miglani and William Mallard
 
 Our Standards: [The Thomson Reuters Trust Principles., opens new tab](https://www.thomsonreuters.com/en/about-us/trust-principles.html)
 
 - Suggested Topics:
-- [](https://www.reuters.com/legal/litigation/)
+- [](https://www.reuters.com/legal/government/)
 - [](https://www.reuters.com/legal/constitutional-law/)
-- [](https://www.reuters.com/sustainability/human-rights/)
-- [](https://www.reuters.com/legal/criminal/)
+- [](https://www.reuters.com/legal/consumer-protection/)
+- [](https://www.reuters.com/legal/judiciary/)
+- [](https://www.reuters.com/legal/supreme-court-of-the-united-states/)
 
 [](https://www.reutersagency.com/en/licensereuterscontent/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead)
 
-## Read Next / Editor's Picks
+[
 
-- [Legal Industrycategory](https://www.reuters.com/legal/legalindustry/)
+](https://www.reuters.com/authors/nate-raymond/)
+
+[Nate Raymond](https://www.reuters.com/authors/nate-raymond/)
+
+Thomson Reuters
+
+Nate Raymond reports on the federal judiciary and litigation. He can be reached at nate.raymond@thomsonreuters.com.
+
+- [](mailto:nate.raymond@thomsonreuters.com)
+- [](https://x.com/nateraymond)
+
+## Read Next
+
+- [Worldcategory](https://www.reuters.com/world/)
     
-    [Nike, Lululemon agree to end patent dispute over Mirror home workout tech](https://www.reuters.com/legal/legalindustry/nike-lululemon-agree-end-patent-dispute-over-mirror-home-workout-tech-2026-09-17/)
+    [Disney says Trump threats against reporters should prompt court to block FCC action](https://www.reuters.com/world/trump-threats-against-reporters-should-prompt-court-block-fcc-action-disney-says-2026-09-17/)
     
     [
     
-    ](https://www.reuters.com/legal/legalindustry/nike-lululemon-agree-end-patent-dispute-over-mirror-home-workout-tech-2026-09-17/)
-    
-- [Legal Industrycategory](https://www.reuters.com/legal/legalindustry/)
-    
-    [Lenovo ends US patent lawsuit over Asus laptops](https://www.reuters.com/legal/legalindustry/lenovo-ends-us-patent-lawsuit-over-asus-laptops-2026-09-17/)
-    
-    [
-    
-    ](https://www.reuters.com/legal/legalindustry/lenovo-ends-us-patent-lawsuit-over-asus-laptops-2026-09-17/)
+    ](https://www.reuters.com/world/trump-threats-against-reporters-should-prompt-court-block-fcc-action-disney-says-2026-09-17/)
     
 - [Governmentcategory](https://www.reuters.com/legal/government/)
     
-    [UK silence over demand for Apple data access is farcical, lawyer says](https://www.reuters.com/legal/government/uk-silence-over-demand-apple-data-access-is-farcical-lawyer-says-2026-09-17/)
+    [White House drops Schroyer nomination for ICE director](https://www.reuters.com/legal/government/white-house-drops-schroyer-nomination-ice-director-2026-09-17/)
     
     [
     
-    ](https://www.reuters.com/legal/government/uk-silence-over-demand-apple-data-access-is-farcical-lawyer-says-2026-09-17/)
+    ](https://www.reuters.com/legal/government/white-house-drops-schroyer-nomination-ice-director-2026-09-17/)
+    
+- [Worldcategory](https://www.reuters.com/world/)
+    
+    EXCLUSIVE
+    
+    [US weighs allowing most pharma licensing deals with China](https://www.reuters.com/world/us-weighs-allowing-most-pharma-licensing-deals-with-china-sources-say-2026-09-18/)
+    
+    [
+    
+    ](https://www.reuters.com/world/us-weighs-allowing-most-pharma-licensing-deals-with-china-sources-say-2026-09-18/)
     
 - [
     
-    ](https://www.reuters.com/world/middle-east/assad-era-syrian-official-jailed-60-years-by-us-court-2026-09-18/)
+    ](https://www.reuters.com/legal/litigation/us-senate-panel-sets-hearing-trumps-fda-pick-2026-09-17/)
     
 - [
     
-    ](https://www.reuters.com/legal/legalindustry/new-balance-sues-decathlon-trademark-infringement-over-shoe-logo-2026-09-16/)
+    ](https://www.reuters.com/legal/government/us-congress-moves-closer-restoring-access-popular-small-business-bankruptcy-2026-09-17/)
     
 - [
     
-    ](https://www.reuters.com/world/google-should-appoint-antitrust-compliance-officer-us-judge-says-ad-tech-case-2026-09-16/)
-    
-- [
-    
-    ](https://www.reuters.com/legal/litigation/openai-challenges-secrecy-apple-pact-with-musks-x-spacexai-2026-09-16/)
-    
-- [
-    
-    ](https://www.reuters.com/legal/government/us-appeals-court-blocks-kalshi-offering-event-contracts-native-american-lands-2026-09-16/)
-    
-- [
-    
-    ](https://www.reuters.com/legal/legalindustry/tesla-spacex-sue-nanotech-company-over-terafab-name-2026-09-16/)
-    
-- [
-    
-    ](https://www.reuters.com/business/energy/ge-vernova-vineyard-wind-settle-legal-battle-over-new-england-wind-farm-2026-09-16/)
-    
-- [
-    
-    ](https://www.reuters.com/legal/government/3m-dupont-must-face-connecticut-firefighters-lawsuit-over-forever-chemicals-2026-09-15/)
-    
-- [
-    
-    ](https://www.reuters.com/legal/litigation/bristol-myers-sues-amgen-over-proposed-opdivo-biosimilar-2026-09-15/)
-    
-- [
-    
-    ](https://www.reuters.com/legal/government/starbucks-settles-florida-lawsuit-claiming-diversity-policies-were-illegal-2026-09-17/)
-    
-- [
-    
-    ](https://www.reuters.com/legal/government/bayers-monsanto-unit-urges-missouri-judge-approve-725-billion-roundup-settlement-2026-09-14/)
-    
-- [
-    
-    ](https://www.reuters.com/world/us-judge-blocks-trump-limits-duration-visas-foreign-students-journalists-2026-09-14/)
-    
-- [
-    
-    ](https://www.reuters.com/legal/litigation/us-judge-denies-openai-bid-review-x-corps-settlement-with-apple-2026-09-18/)
+    ](https://www.reuters.com/legal/government/judge-kennedy-center-case-orders-trump-administration-explain-closure-plans-2026-09-16/)
     
 
 [](https://www.lseg.com/en/data-analytics/products/workspace?utm_source=reuters.com&utm_medium=articlebanner&utm_campaign=Reuters_ProductPage_Links)
+
+## [World](https://www.reuters.com/world/)
+
+- [
+    
+    ](https://www.reuters.com/business/aerospace-defense/german-general-breuer-elected-head-top-nato-military-body-2026-09-19/)
+    
+    ### [German general Breuer elected to head top NATO military body](https://www.reuters.com/business/aerospace-defense/german-general-breuer-elected-head-top-nato-military-body-2026-09-19/)
+    
+    [category](https://www.reuters.com/business/)· September 19, 2026 · 8:32 AM PDT · 8 mins ago
+    
+    General Carsten Breuer, Germany's chief of defence, was chosen on Saturday as the next head of NATO's military committee, the alliance's top military authority ​and a key advisory body for its political leaders.
+    
+- [
+    
+    ](https://www.reuters.com/business/french-finance-ministry-expects-record-debt-2026-reaching-nearly-120-gdp-2026-09-19/)
+    
+    [Businesscategory](https://www.reuters.com/business/)[French finance ministry expects record debt in 2026, reaching nearly 120% of GDP](https://www.reuters.com/business/french-finance-ministry-expects-record-debt-2026-reaching-nearly-120-gdp-2026-09-19/)
+    
+    8:06 AM PDT
+    
+- [
+    
+    ](https://www.reuters.com/world/middle-east/israeli-strikes-kill-three-people-gaza-medics-say-2026-09-19/)
+    
+    [Middle Eastcategory](https://www.reuters.com/world/middle-east/)[Israeli strikes kill three people in Gaza, medics say](https://www.reuters.com/world/middle-east/israeli-strikes-kill-three-people-gaza-medics-say-2026-09-19/)
+    
+    7:44 AM PDT
+    
+- [
+    
+    ](https://www.reuters.com/world/middle-east/un-peacekeeping-chief-lebanon-says-smooth-transition-is-critical-before-pull-out-2026-09-19/)
+    
+    [Middle Eastcategory](https://www.reuters.com/world/middle-east/)[UN peacekeeping chief in Lebanon says smooth transition is critical before pull-out](https://www.reuters.com/world/middle-east/un-peacekeeping-chief-lebanon-says-smooth-transition-is-critical-before-pull-out-2026-09-19/)
+    
+    7:02 AM PDT
+    
+- [
+    
+    ](https://www.reuters.com/legal/government/us-judge-signals-rejection-part-tiktok-privacy-settlement-2026-09-19/)
+    
+    [Legalcategory](https://www.reuters.com/legal/)[US judge signals rejection of part of TikTok privacy settlement](https://www.reuters.com/legal/government/us-judge-signals-rejection-part-tiktok-privacy-settlement-2026-09-19/)
+    
+    6:58 AM PDT
+    
 
 ### Site Index
 

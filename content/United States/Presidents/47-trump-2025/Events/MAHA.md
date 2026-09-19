@@ -2,6 +2,11 @@
 layout: default
 title: MAHA
 ---
+
+# Medical Establishment Takeover
+## Preventive Services Task Force
+- **TF Chair Fired** (May 20, 2026): Kennedy fires Dr. Wong (chair) and Dr. Davis (vice chair) of the U.S. Preventive Services Task Force, which decides what preventive medical care should be provided at no cost to patients.  Kennedy previously [cancelled the 16 member task force's regular meetings](https://www.reuters.com/world/us-health-secretary-kennedy-fires-heads-key-preventive-health-panel-2026-05-20/) in 2025 and they have not met since then. A group of 104 health organizations, including the influential American Medical Association and the American Academy of Pediatrics, in July 2025 sent a letter to. Congressional health committees, urging them "to protect the integrity" of the task force.
+- **RFK Appointments** (September 17): Kennedy Jr. adds [eight new members](https://www.reuters.com/world/us/us-health-secretary-kennedy-adds-eight-new-members-key-preventive-health-panel-2026-09-17/) to the task force. 
 # Vaccines
 ## Child Immunization Schedule
 ### Executive Orders
