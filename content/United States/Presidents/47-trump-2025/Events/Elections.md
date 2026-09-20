@@ -35,3 +35,10 @@ In September 2026, The [Missouri Supreme Court blocked](https://www.reuters.com/
 ## Issues
 ### Affordability
 - [Paid Family Leave](https://www.reuters.com/legal/litigation/trump-administration-unveils-new-paid-family-leave-incentives-2026-08-05/): in August the Trump admin issued new guidance allowing employers to claim tax credits if they offer at least two weeks of family and medical leave worth at least 50% of an employee's wages.
+
+
+
+# Affordability
+## Healthcare
+### Most Favored Nation Pricing
+- September 2026: [All 50 states sign up](https://www.reuters.com/world/us-plans-medicaid-most-favored-nation-pricing-some-drugs-all-states-semafor-2026-09-18/) for Trump's Medicaid most-favored-nation plan. White House projected more than $64 billion in combined federal and state savings over 10 years.

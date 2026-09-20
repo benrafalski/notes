@@ -30,6 +30,11 @@ In August 2026, Trump made a Truth post saying NBC reporter [Kristen Welker will
 ## Pentagon Attacks
 ### Stars and Stripes Purge
 In August 2026, the Pentagon fired Stars and Stripes editor-in-chief Erik Slavin, publisher Max Lederer, and reporter Lara Korte for "insubordination." Slavin said the termination was because he said in a CBS interview that [hypothetical censorship](https://www.reuters.com/world/us/pentagon-fires-us-military-newspaper-leadership-2026-08-21/) of news for service members ​would constitute a personal red line.
+
+## White House Press Access
+### AP
+### CNN, MS NOW, Politico Ban
+In September 2026, Trump banned CNN, MS NOW and Politico from the White House in his latest [threat to the independent press](https://www.reuters.com/world/us/trump-bans-media-outlets-cnn-msnow-politico-white-house-2026-09-18/). Trump accused the outlets of "reporting FAKE NEWS" and said they "shouldn't be able to constantly write or report FICTION and LIES when they're covering the President of the United States."
 # Free Speech
 - [Court rulings](https://www.reuters.com/legal/government/trump-vowed-bring-free-speech-back-judges-75-cases-ruled-that-he-has-stifled-it-2026-08-04/): Reuters review identifies 75 rulings against Trump administration among 93 cases decided on First-Amendment grounds , with Republican-appointed judges ruling against Trump in 10 of the 75 cases. During Biden there were 13 rulings of 27 against his admin on First Amendment grounds. 
 

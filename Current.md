@@ -24,129 +24,130 @@
 
 [My News](https://www.reuters.com/my-news/feed/)
 
-[](https://www.reuters.com/account/sign-in/?website=reuters&redirect=https%3A%2F%2Fwww.reuters.com%2Fworld%2Fus-appeals-court-rejects-trump-policy-allowing-fast-thirdcountry-deportations-2026-09-18%2F)[](https://www.reuters.com/account/subscribe/offer/?website=reuters&redirect=https%3A%2F%2Fwww.reuters.com%2Fworld%2Fus-appeals-court-rejects-trump-policy-allowing-fast-thirdcountry-deportations-2026-09-18%2F&referrer=subscription_button&journeyStart=navigation)
+[](https://www.reuters.com/account/sign-in/?website=reuters&redirect=https%3A%2F%2Fwww.reuters.com%2Fworld%2Fus%2Ftrump-bans-media-outlets-cnn-msnow-politico-white-house-2026-09-18%2F)[](https://www.reuters.com/account/subscribe/offer/?website=reuters&redirect=https%3A%2F%2Fwww.reuters.com%2Fworld%2Fus%2Ftrump-bans-media-outlets-cnn-msnow-politico-white-house-2026-09-18%2F&referrer=subscription_button&journeyStart=navigation)
 
-# US appeals court rejects Trump policy allowing swift deportations to third countries
+# Trump says he is banning media outlets CNN, MS NOW, Politico from White House
 
-By [Nate Raymond](https://www.reuters.com/authors/nate-raymond/)
+By [Jacob Bogage](https://www.reuters.com/authors/jacob-bogage/) and [David Shepardson](https://www.reuters.com/authors/david-shepardson/)
 
-September 18, 202612:43 PM PDTUpdated 11 hours ago
+September 18, 202612:19 PM PDTUpdated September 19, 2026
 
-![Former California police captain to be sentenced in eBay cyberstalking case](https://www.reuters.com/resizer/v2/5Y3UQXZMZBMSVB3B3XB52ON5MA.jpg?auth=aaca22b5485832e67e9d3bb686fde8501edb1e8a55546d0089d348b642784cfe&width=1920&quality=80)
-
-A general view of The John Joseph Moakley United States Courthouse in Boston, Massachusetts, U.S., July 27, 2021. REUTERS/Nicholas Pfosi/File Photo [Purchase Licensing Rights, opens new tab](https://www.reutersconnect.com/item/former-california-police-captain-to-be-sentenced-in-ebay-cyberstalking-case/dGFnOnJldXRlcnMuY29tLDIwMjE6bmV3c21sX1JDMjNUTzk4NjIyMA%3D%3D/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead)
+![Trump says he might ban other media outlets from the White House](https://ajo.prod.reuters.tv/api/v2/img/6aadb4d0e4b019e07971ec61-1789768947875?width=1080&quality=80)
 
 - Summary
+- Companies
 
-- Appeals panel largely upholds February ruling finding Homeland Security policy unlawful
-- Policy lets authorities deport migrants with as little as six hours of notice
-- Administration sent more than 25,000 migrants to at least 29 third countries, watchdog project says
+- Trump indicates he will ban other media outlets, too
+- Moves likely to face constitutional legal challenges
+- First Amendment protects freedom of speech and press
 
-BOSTON, Sept 18 (Reuters) - A US ​federal appeals court rejected on Friday a policy adopted by the Trump administration that allows authorities to rapidly deport migrants to countries ‌other than their own without giving them a chance to raise safety concerns.
+WASHINGTON, Sept 18 (Reuters) - US President Donald Trump said on Friday he is banning three major news outlets – CNN, MS NOW and Politico – from the White House in his latest threat to the independent press.
 
-Ruling in a case that is likely headed to the Supreme Court, a three-judge panel of the Boston-based 1st US Circuit Court of Appeals [largely upheld, opens new tab](https://fingfx.thomsonreuters.com/gfx/legaldocs/lgvdbkemnvo/09182026thirdcountries.pdf) a February decision by a lower-court judge that declared the Department of Homeland Security's policy unlawful.
+The move is almost certain to ​face legal challenges as free speech experts said it conflicts with the US Constitution's First Amendment protections for free speech and a free press.
 
-The Misinformation Monitor newsletter rounds up international misinformation narratives, with a "Real or Fake?" quiz in every edition. Sign up [here.](https://www.reuters.com/newsletters/misinformation-monitor/?location=article-paragraph&redirectUrl=%2Fworld%2Fus-appeals-court-rejects-trump-policy-allowing-fast-thirdcountry-deportations-2026-09-18%2F)
+The Misinformation Monitor newsletter rounds up international misinformation narratives, with a "Real or Fake?" quiz in every edition. Sign up [here.](https://www.reuters.com/newsletters/misinformation-monitor/?location=article-paragraph&redirectUrl=%2Fworld%2Fus%2Ftrump-bans-media-outlets-cnn-msnow-politico-white-house-2026-09-18%2F)
 
-The ruling came in a class-action lawsuit filed by ​migrants subject to deportation orders that has become a key test of what due-process protections the government must provide before removing people to ​countries with which they have no connection.
+Trump accused the outlets of "reporting FAKE NEWS" in a ‌social media post, and said they "shouldn't be able to constantly write or report FICTION and LIES when they're covering the President of the United States." Trump added, "Other Fake News Media Outlets to follow."
 
-"This decision confirms that due process and the protections Congress enacted against persecution and ⁠torture cannot be circumvented by putting someone on a plane to a country that was never part of their removal proceedings," Trina Realmuto, a lawyer ​for the plaintiffs at the National Immigration Litigation Alliance, said.
+Representatives of all three outlets could be seen working in the White House on Friday afternoon following Trump's post. The White House was informing all three they would be banned from the White House grounds as of Saturday, Fox News reported, citing an unnamed senior White House official.
 
-Under President [Donald Trump,](https://www.reuters.com/world/us/donald-trump/) the administration has entered into a series of agreements that have allowed it to send ​more than 25,000 migrants to at least 29 third countries, in many cases Mexico, according to Third Country Deportation Watch, a project run by Refugees International and Human Rights First.
+Trump said there was no specific incident that prompted the ban, ​telling reporters in the Oval Office, "It's really just cumulative stories over the past few years."
 
-The government is expected to appeal. Earlier in the case, the administration twice convinced the Supreme Court to lift a [preliminary injunction](https://www.reuters.com/world/us/us-appeals-court-rejects-trump-bid-swiftly-deport-migrants-third-countries-2025-05-16/) protecting migrants' due-process rights, clearing the way for eight men ​to be deported to South Sudan.
+Trump added, "I don't have to let them into my, into the people's house."
 
-The administration has also carried out third-country deportations of people to nations including [Uganda](https://www.reuters.com/world/africa/twelve-deportees-us-arrive-uganda-law-society-says-2026-04-02/), [Equatorial Guinea](https://www.reuters.com/legal/government/egyptian-deported-by-us-equatorial-guinea-held-incommunicado-week-lawyer-says-2026-09-18/), [Liberia](https://www.reuters.com/world/africa/venezuelans-cubans-among-deportees-liberia-under-trump-deal-official-says-2026-08-20/) and the [Central African Republic](https://www.reuters.com/world/africa/central-african-republic-accept-third-country-deportees-us-sources-say-2026-06-07/).
+When asked what he meant by others "to follow," Trump ​mentioned the New York Times and the Washington Post as what he called "fake news."
 
-DHS General Counsel James ​Percival posted on X that the policy remains in force because the 1st Circuit's decision is not yet in effect.
+The extent of the ban announced by Trump was not immediately clear, and the legality of any ⁠move could depend on its scope.
 
-"If you claim fear in your home country, DHS has ‌the right ⁠to send you elsewhere," he said.
+Courts have given presidents broad discretion over selective access to events such as Oval Office meetings and small press pools, while broader exclusions from generally available White House press facilities or credentials could ​face stronger challenges under the First Amendment and constitutional protections for due process.
 
-## THIRD-COUNTRY DEPORTATIONS
+Trump's move came weeks ahead of the November 3 midterm elections in which Trump's fellow Republicans are defending narrow majorities in Congress. Reuters/Ipsos polls show the [public souring on ​Republicans](https://www.reuters.com/data/which-party-do-americans-want-run-congress-2025-11-05/), as Trump's own [approval ratings](https://www.reuters.com/data/trumps-approval-rating-2025-01-21/) stand near historic lows amid the deeply unpopular Iran war he kicked off that has sent energy prices soaring.
 
-In March 2025, DHS adopted a policy aimed at addressing individuals who were subject to final orders of deportation but had been granted protections in immigration court against being sent back to their countries of origin.
+## DECADES OF TRADITION
 
-The policy would allow migrants to be sent to alternative countries if immigration authorities have credible diplomatic assurances they will not be persecuted or tortured there.
+The Trump administration has upended decades of tradition in dealings between the White House and press, cutting back the access many major news organizations have had to the president while elevating the presence of new media outlets seen as more sympathetic to the administration.
 
-The policy called for only minimal notice before a migrant could be sent to ​a third country that had not ​given the State Department such assurances.
+MS NOW in a statement on Saturday said it will continue its reporting on the Trump administration and intends to "take ​any and all steps necessary to defend our First Amendment rights and the essential role of independent journalism in our democracy."
 
-US ⁠District Judge Brian Murphy, an appointee of Democratic President Joe Biden, set aside the policy and concluded that it failed to protect migrants' due-process rights and could lead to their swift deportation to unfamiliar and potentially dangerous countries, without notice.
+Item 1 of 5 U.S. President Donald Trump speaks to the media as he departs the White House for Florida, in Washington, D.C., U.S., March 20, 2026. REUTERS/Nathan Howard
 
-On ​appeal, the Trump administration contended that Murphy's order, if left intact, would usurp its authority to execute potentially ​thousands of valid orders ⁠of deportation to third countries.
+**[1/5]**U.S. President Donald Trump speaks to the media as he departs the White House for Florida, in Washington, D.C., U.S., March 20, 2026. REUTERS/Nathan Howard [Purchase Licensing Rights, opens new tab](https://www.reutersconnect.com/item/us-president-trump-departs-the-white-house-for-florida-in-washington/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1JDMko4S0EwRlM0Qg%3D%3D/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead)
 
-But US Circuit Judge Seth Aframe, writing for Friday's panel, said Murphy adopted a "sensible" interpretation of the immigration law requiring migrants be given a "meaningful" chance to raise any concerns before they are deported.
+CNN on Friday said it stands behind its journalists who cover the White House.
 
-"DHS's proposed interpretation would deny access to that protection to a substantial swath of noncitizens who are sent to third ⁠countries with ​no notice of their destination," Aframe wrote. "We decline to adopt such an interpretation."
+"We have a right under the US Constitution ​to do that reporting without hindrance or interference from the government," CNN said in a statement. "Should the ban which President Trump threatened go ahead, it would be an illegal assault on that fundamental and constitutionally protected right."
 
-The panel included two ​Biden appointees, including Aframe, and a judge appointed by a Republican president.
+Politico posted on X that it would "continue ‌to fairly report ⁠on this White House and future ones."
 
-However, the 1st Circuit overturned one part of Murphy's ruling on procedural grounds. It concerned whether the government must first try ​to deport migrants to countries they have ties to before sending them to third countries.
+"We will vigorously defend our First Amendment rights against any attempt to restrict them," Politico posted on Friday.
 
-Reporting by Nate Raymond in Boston; Editing by Sanjeev Miglani and William Mallard
+"It's difficult to imagine a more blatant violation of the First Amendment than Trump banning news outlets from the People's House for criticizing the government," Seth Stern, chief of advocacy at Freedom of the Press Foundation, said in a statement.
+
+Jameel Jaffer, executive director of the Knight First Amendment Institute at Columbia University, said the First Amendment prohibits the president from punishing journalists because he does not like their coverage.
+
+"If President Trump means to expel these news organizations from the White House press pool, his action is doubly unconstitutional because the press pool is a 'public forum' under ​the First Amendment, which means the president can't exclude journalists ​from it on the basis of their viewpoints," ⁠Jaffer said in a statement.
+
+## TABLOID HISTORY
+
+Trump rose to fame as a New York developer skilled in getting the city's tabloid newspapers to cover his social life, and went on to build his profile as a reality television personality before making a serious push into politics.
+
+Since his successful 2016 campaign, Trump has regularly criticized the press, stepping up his ​complaints during his second term in office. He has repeatedly urged broadcasters to drop comedy or news programs he dislikes or which have joked about or criticized him ​or his administration, calling on ⁠the Federal Communications Commission to strip disfavored broadcast stations of their licenses.
+
+Trump has filed several lawsuits against the press, including the Wall Street Journal, the New York Times, the BBC and the Des Moines Register. The suits can have a chilling effect. His defamation suits against ABC and CBS were settled for $15 million and $16 million, respectively.
+
+In his first term, Trump's White House sought to revoke or suspend the credentials of Playboy correspondent Brian Karem and CNN's Jim Acosta, but federal judges ordered their ⁠White House press ​passes restored.
+
+Since returning to the presidency in January 2025, Trump has openly badgered reporters, particularly from US television networks.
+
+Last year, he also banned ​the Associated Press from the usual pool of reporters that cover his movements because the news agency did not adopt Trump's preferred name for the Gulf of Mexico, which Trump has instructed executive branch employees to refer to as the Gulf of America.
+
+Reporting by Jacob Bogage and David ​Shepardson; additional reporting by Steve Holland, Jack Queen, Humeyra Pamuk, Edmund Lee, Jasper Ward, Doina Chiacu, Kanishka Singh and Waylon Cunningham; Writing by Jonathan Allen and Daniel Trotta; Editing by Caitlin Webber, Scott Malone, Will Dunham and Sergio Non
 
 Our Standards: [The Thomson Reuters Trust Principles., opens new tab](https://www.thomsonreuters.com/en/about-us/trust-principles.html)
 
 - Suggested Topics:
-- [](https://www.reuters.com/legal/government/)
-- [](https://www.reuters.com/legal/constitutional-law/)
-- [](https://www.reuters.com/legal/consumer-protection/)
-- [](https://www.reuters.com/legal/judiciary/)
-- [](https://www.reuters.com/legal/supreme-court-of-the-united-states/)
+- [](https://www.reuters.com/world/us/)
+- [](https://www.reuters.com/sustainability/human-rights/)
 
 [](https://www.reutersagency.com/en/licensereuterscontent/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead)
 
-[
-
-](https://www.reuters.com/authors/nate-raymond/)
-
-[Nate Raymond](https://www.reuters.com/authors/nate-raymond/)
-
-Thomson Reuters
-
-Nate Raymond reports on the federal judiciary and litigation. He can be reached at nate.raymond@thomsonreuters.com.
-
-- [](mailto:nate.raymond@thomsonreuters.com)
-- [](https://x.com/nateraymond)
-
 ## Read Next
 
-- [Worldcategory](https://www.reuters.com/world/)
+- [Businesscategory](https://www.reuters.com/business/)
     
-    [Disney says Trump threats against reporters should prompt court to block FCC action](https://www.reuters.com/world/trump-threats-against-reporters-should-prompt-court-block-fcc-action-disney-says-2026-09-17/)
-    
-    [
-    
-    ](https://www.reuters.com/world/trump-threats-against-reporters-should-prompt-court-block-fcc-action-disney-says-2026-09-17/)
-    
-- [Governmentcategory](https://www.reuters.com/legal/government/)
-    
-    [White House drops Schroyer nomination for ICE director](https://www.reuters.com/legal/government/white-house-drops-schroyer-nomination-ice-director-2026-09-17/)
+    [Billionaires abound in California. Why not tax their wealth?](https://www.reuters.com/business/retail-consumer/billionaires-abound-california-why-not-tax-their-wealth-2026-09-20/)
     
     [
     
-    ](https://www.reuters.com/legal/government/white-house-drops-schroyer-nomination-ice-director-2026-09-17/)
+    ](https://www.reuters.com/business/retail-consumer/billionaires-abound-california-why-not-tax-their-wealth-2026-09-20/)
     
-- [Worldcategory](https://www.reuters.com/world/)
+- [United Statescategory](https://www.reuters.com/world/us/)
     
-    EXCLUSIVE
-    
-    [US weighs allowing most pharma licensing deals with China](https://www.reuters.com/world/us-weighs-allowing-most-pharma-licensing-deals-with-china-sources-say-2026-09-18/)
+    [Trump to use Washington arch as military complex for drones and snipers](https://www.reuters.com/world/us/trump-convert-triumphal-arch-into-military-complex-2026-09-20/)
     
     [
     
-    ](https://www.reuters.com/world/us-weighs-allowing-most-pharma-licensing-deals-with-china-sources-say-2026-09-18/)
+    ](https://www.reuters.com/world/us/trump-convert-triumphal-arch-into-military-complex-2026-09-20/)
+    
+- [Businesscategory](https://www.reuters.com/business/)
+    
+    [Fed's Kashkari says inflation is still too high in 'all aspects' of US economy, in Fox News interview](https://www.reuters.com/business/feds-kashkari-says-inflation-goes-beyond-oil-prices-according-fox-news-interview-2026-09-20/)
+    
+    [
+    
+    ](https://www.reuters.com/business/feds-kashkari-says-inflation-goes-beyond-oil-prices-according-fox-news-interview-2026-09-20/)
     
 - [
     
-    ](https://www.reuters.com/legal/litigation/us-senate-panel-sets-hearing-trumps-fda-pick-2026-09-17/)
+    ](https://www.reuters.com/world/white-house-turns-away-cnn-ms-now-politico-reporters-after-trump-announces-ban-2026-09-19/)
     
 - [
     
-    ](https://www.reuters.com/legal/government/us-congress-moves-closer-restoring-access-popular-small-business-bankruptcy-2026-09-17/)
+    ](https://www.reuters.com/legal/government/lingering-feuds-threaten-democrats-bid-reclaim-us-congress-2026-09-19/)
     
 - [
     
-    ](https://www.reuters.com/legal/government/judge-kennedy-center-case-orders-trump-administration-explain-closure-plans-2026-09-16/)
+    ](https://www.reuters.com/world/us/trump-says-he-will-create-ai-force-name-ai-czar-2026-09-19/)
     
 
 [](https://www.lseg.com/en/data-analytics/products/workspace?utm_source=reuters.com&utm_medium=articlebanner&utm_campaign=Reuters_ProductPage_Links)
@@ -155,45 +156,45 @@ Nate Raymond reports on the federal judiciary and litigation. He can be reached 
 
 - [
     
-    ](https://www.reuters.com/business/aerospace-defense/german-general-breuer-elected-head-top-nato-military-body-2026-09-19/)
+    ](https://www.reuters.com/world/germanys-far-right-afd-leads-race-north-east-state-exit-poll-shows-2026-09-20/)
     
-    ### [German general Breuer elected to head top NATO military body](https://www.reuters.com/business/aerospace-defense/german-general-breuer-elected-head-top-nato-military-body-2026-09-19/)
+    ### [Germany's far-right AfD leads race in north-east state, exit poll shows](https://www.reuters.com/world/germanys-far-right-afd-leads-race-north-east-state-exit-poll-shows-2026-09-20/)
     
-    [category](https://www.reuters.com/business/)· September 19, 2026 · 8:32 AM PDT · 8 mins ago
+    [Worldcategory](https://www.reuters.com/world/) · September 20, 2026 · 9:09 AM PDT · 1 hour ago
     
-    General Carsten Breuer, Germany's chief of defence, was chosen on Saturday as the next head of NATO's military committee, the alliance's top military authority ​and a key advisory body for its political leaders.
+    Germany's AfD was projected to win ​the most votes in ‌the northeastern state of Mecklenburg-Western Pomerania on Sunday, ​exit polls showed, but ​the far-right party is ⁠unlikely to govern as ​other parties rule out ​working with it.
     
 - [
     
-    ](https://www.reuters.com/business/french-finance-ministry-expects-record-debt-2026-reaching-nearly-120-gdp-2026-09-19/)
+    ](https://www.reuters.com/business/feds-kashkari-says-inflation-goes-beyond-oil-prices-according-fox-news-interview-2026-09-20/)
     
-    [Businesscategory](https://www.reuters.com/business/)[French finance ministry expects record debt in 2026, reaching nearly 120% of GDP](https://www.reuters.com/business/french-finance-ministry-expects-record-debt-2026-reaching-nearly-120-gdp-2026-09-19/)
+    [Businesscategory](https://www.reuters.com/business/)[Fed's Kashkari says inflation is still too high in 'all aspects' of US economy, in Fox News interview](https://www.reuters.com/business/feds-kashkari-says-inflation-goes-beyond-oil-prices-according-fox-news-interview-2026-09-20/)
     
     8:06 AM PDT
     
 - [
     
-    ](https://www.reuters.com/world/middle-east/israeli-strikes-kill-three-people-gaza-medics-say-2026-09-19/)
+    ](https://www.reuters.com/world/russian-exiles-cast-votes-voice-dissent-putin-ukraine-war-2026-09-20/)
     
-    [Middle Eastcategory](https://www.reuters.com/world/middle-east/)[Israeli strikes kill three people in Gaza, medics say](https://www.reuters.com/world/middle-east/israeli-strikes-kill-three-people-gaza-medics-say-2026-09-19/)
+    [Worldcategory](https://www.reuters.com/world/)[Russian exiles cast votes to voice dissent](https://www.reuters.com/world/russian-exiles-cast-votes-voice-dissent-putin-ukraine-war-2026-09-20/)
     
-    7:44 AM PDT
-    
-- [
-    
-    ](https://www.reuters.com/world/middle-east/un-peacekeeping-chief-lebanon-says-smooth-transition-is-critical-before-pull-out-2026-09-19/)
-    
-    [Middle Eastcategory](https://www.reuters.com/world/middle-east/)[UN peacekeeping chief in Lebanon says smooth transition is critical before pull-out](https://www.reuters.com/world/middle-east/un-peacekeeping-chief-lebanon-says-smooth-transition-is-critical-before-pull-out-2026-09-19/)
-    
-    7:02 AM PDT
+    7:22 AM PDT
     
 - [
     
-    ](https://www.reuters.com/legal/government/us-judge-signals-rejection-part-tiktok-privacy-settlement-2026-09-19/)
+    ](https://www.reuters.com/world/asia-pacific/iran-warns-against-new-escalation-by-us-allies-2026-09-20/)
     
-    [Legalcategory](https://www.reuters.com/legal/)[US judge signals rejection of part of TikTok privacy settlement](https://www.reuters.com/legal/government/us-judge-signals-rejection-part-tiktok-privacy-settlement-2026-09-19/)
+    [Asia Pacificcategory](https://www.reuters.com/world/asia-pacific/)[Iran warns against new escalation by US and its allies](https://www.reuters.com/world/asia-pacific/iran-warns-against-new-escalation-by-us-allies-2026-09-20/)
     
-    6:58 AM PDT
+    6:19 AM PDT
+    
+- [
+    
+    ](https://www.reuters.com/business/aerospace-defense/luxembourg-deploys-additional-detection-assets-following-drone-sightings-2026-09-20/)
+    
+    [category](https://www.reuters.com/business/)[Luxembourg deploys additional detection assets following drone sightings](https://www.reuters.com/business/aerospace-defense/luxembourg-deploys-additional-detection-assets-following-drone-sightings-2026-09-20/)
+    
+    5:30 AM PDT
     
 
 ### Site Index
@@ -288,7 +289,6 @@ Reuters, the news and media division of Thomson Reuters, is the world’s larges
 - [Corrections](https://www.reuters.com/info-pages/contact-us/)
 - [Data Disclosure and Sources, opens new tab](https://www.reuters.com/info-pages/data-disclosure-and-sources/)
 - [Site Feedback, opens new tab](https://trdigital.iad1.qualtrics.com/jfe/form/SV_8kte8gArGyCGVhz)
-- Manage Cookies & Your Privacy Choices
 
 All quotes delayed a minimum of 15 minutes. [See here for a list of exchanges and delays.](https://www.reuters.com/info-pages/disclaimer/)
 
