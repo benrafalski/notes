@@ -24,130 +24,138 @@
 
 [My News](https://www.reuters.com/my-news/feed/)
 
-[](https://www.reuters.com/account/sign-in/?website=reuters&redirect=https%3A%2F%2Fwww.reuters.com%2Fworld%2Fus%2Ftrump-bans-media-outlets-cnn-msnow-politico-white-house-2026-09-18%2F)[](https://www.reuters.com/account/subscribe/offer/?website=reuters&redirect=https%3A%2F%2Fwww.reuters.com%2Fworld%2Fus%2Ftrump-bans-media-outlets-cnn-msnow-politico-white-house-2026-09-18%2F&referrer=subscription_button&journeyStart=navigation)
+[](https://www.reuters.com/account/sign-in/?website=reuters&redirect=https%3A%2F%2Fwww.reuters.com%2Fworld%2Fus%2Fice-agent-wounds-man-austin-texas-shooting-city-officials-say-2026-09-20%2F)[](https://www.reuters.com/account/subscribe/offer/?website=reuters&redirect=https%3A%2F%2Fwww.reuters.com%2Fworld%2Fus%2Fice-agent-wounds-man-austin-texas-shooting-city-officials-say-2026-09-20%2F&referrer=subscription_button&journeyStart=navigation)
 
-# Trump says he is banning media outlets CNN, MS NOW, Politico from White House
+# ICE agent wounds man in Austin, Texas, shooting, city officials say
 
-By [Jacob Bogage](https://www.reuters.com/authors/jacob-bogage/) and [David Shepardson](https://www.reuters.com/authors/david-shepardson/)
+By [Karen Sloan](https://www.reuters.com/authors/karen-sloan/) and [Kanishka Singh](https://www.reuters.com/authors/kanishka-singh/)
 
-September 18, 202612:19 PM PDTUpdated September 19, 2026
+September 20, 20264:16 PM PDTUpdated 2 hours ago
 
-![Trump says he might ban other media outlets from the White House](https://ajo.prod.reuters.tv/api/v2/img/6aadb4d0e4b019e07971ec61-1789768947875?width=1080&quality=80)
+![Austin officials open investigation after ICE-involved shooting](https://ajo.prod.reuters.tv/api/v2/img/6ab0b9cae4b06a3e5e80c264-1789966863926?width=1080&quality=80)
 
 - Summary
-- Companies
 
-- Trump indicates he will ban other media outlets, too
-- Moves likely to face constitutional legal challenges
-- First Amendment protects freedom of speech and press
+- Man suffers torso wound; in serious but stable condition
+- Austin mayor wants city police, Texas Rangers involved in investigation
+- Police chief says ICE agent shot man in brief foot pursuit on Sunday
 
-WASHINGTON, Sept 18 (Reuters) - US President Donald Trump said on Friday he is banning three major news outlets – CNN, MS NOW and Politico – from the White House in his latest threat to the independent press.
+Sept 20 (Reuters) - An Immigration and Customs Enforcement officer shot ​and wounded a man in Austin, Texas, on Sunday, city officials said, adding that the man was in serious but stable condition.
 
-The move is almost certain to ​face legal challenges as free speech experts said it conflicts with the US Constitution's First Amendment protections for free speech and a free press.
+The ‌man was shot in the torso and taken to a local hospital, officials told reporters at a press conference. The ICE agent shot him during a brief pursuit on foot shortly before 1 p.m. (1800 GMT), Austin Police Chief Lisa Davis said.
 
-The Misinformation Monitor newsletter rounds up international misinformation narratives, with a "Real or Fake?" quiz in every edition. Sign up [here.](https://www.reuters.com/newsletters/misinformation-monitor/?location=article-paragraph&redirectUrl=%2Fworld%2Fus%2Ftrump-bans-media-outlets-cnn-msnow-politico-white-house-2026-09-18%2F)
+The Misinformation Monitor newsletter rounds up international misinformation narratives, with a "Real or Fake?" quiz in every edition. Sign up [here.](https://www.reuters.com/newsletters/misinformation-monitor/?location=article-paragraph&redirectUrl=%2Fworld%2Fus%2Fice-agent-wounds-man-austin-texas-shooting-city-officials-say-2026-09-20%2F)
 
-Trump accused the outlets of "reporting FAKE NEWS" in a ‌social media post, and said they "shouldn't be able to constantly write or report FICTION and LIES when they're covering the President of the United States." Trump added, "Other Fake News Media Outlets to follow."
+Immigration attorney Kate Lincoln-Goldfinch identified the victim to multiple news outlets as Wilber Rafael Garces Perez, 28, and posted on social ​media that she is representing his family. Lincoln-Goldfinch said he was released from the hospital on Sunday into the apparent custody of ICE.
 
-Representatives of all three outlets could be seen working in the White House on Friday afternoon following Trump's post. The White House was informing all three they would be banned from the White House grounds as of Saturday, Fox News reported, citing an unnamed senior White House official.
+Perez is ​an undocumented immigrant from Venezuela, a law enforcement source told CNN. Lincoln-Goldfinch told the Texas Tribune that her client entered ⁠the United States legally.
 
-Trump said there was no specific incident that prompted the ban, ​telling reporters in the Oval Office, "It's really just cumulative stories over the past few years."
+The Department of Homeland Security said in a post on social media website X that its Homeland Security Investigations unit is leading the ​investigation of a case of an officer-involved shooting in Austin on Sunday with the assistance of the FBI.
 
-Trump added, "I don't have to let them into my, into the people's house."
+The post said the person shot was a Venezuelan who ​entered the United States "illegally" during the Biden administration and was subject to a final removal order, adding the person is stable and in federal custody pending removal.
 
-When asked what he meant by others "to follow," Trump ​mentioned the New York Times and the Washington Post as what he called "fake news."
+ICE is an agency within the Department of Homeland Security.
 
-The extent of the ban announced by Trump was not immediately clear, and the legality of any ⁠move could depend on its scope.
+City officials did not identify the man who was shot, and said they did not know the identity of the ICE agent involved. Austin Police Chief ​Davis said she had not been briefed yet by federal officials and had few details about the incident.
 
-Courts have given presidents broad discretion over selective access to events such as Oval Office meetings and small press pools, while broader exclusions from generally available White House press facilities or credentials could ​face stronger challenges under the First Amendment and constitutional protections for due process.
+The shooting is the latest in a series of ​incidents involving ICE, which has become the face of the Trump administration's immigration crackdown and whose actions have drawn scrutiny and calls for accountability from rights advocates.
 
-Trump's move came weeks ahead of the November 3 midterm elections in which Trump's fellow Republicans are defending narrow majorities in Congress. Reuters/Ipsos polls show the [public souring on ​Republicans](https://www.reuters.com/data/which-party-do-americans-want-run-congress-2025-11-05/), as Trump's own [approval ratings](https://www.reuters.com/data/trumps-approval-rating-2025-01-21/) stand near historic lows amid the deeply unpopular Iran war he kicked off that has sent energy prices soaring.
+## CALLS FOR POLICE ‌INVESTIGATION
 
-## DECADES OF TRADITION
+Item 1 of 5 Demonstrators react to tear gas flung in their direction by police during a protest after a US Immigration and Customs Enforcement (ICE) agent shot and wounded a man, city officials said, in Austin, Texas, US, September 20, 2026. REUTERS/Kaylee Greenlee
 
-The Trump administration has upended decades of tradition in dealings between the White House and press, cutting back the access many major news organizations have had to the president while elevating the presence of new media outlets seen as more sympathetic to the administration.
+**[1/5]**Demonstrators react to tear gas flung in their direction by police during a protest after a US Immigration and Customs Enforcement (ICE) agent shot and wounded a man, city officials said, in Austin, Texas, US, September 20, 2026. REUTERS/Kaylee Greenlee [Purchase Licensing Rights, opens new tab](https://www.reutersconnect.com/item/demonstrators-gather-after-a-us-immigration-and-customs-enforcement-ice-agent-and-wounded-a-man-city-officials-said-in-austin/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1JDMkZOTkFQS1gwRw%3D%3D/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead)
 
-MS NOW in a statement on Saturday said it will continue its reporting on the Trump administration and intends to "take ​any and all steps necessary to defend our First Amendment rights and the essential role of independent journalism in our democracy."
+Austin Mayor ⁠Kirk Watson, a Democrat, said he wants city police involved in the investigation, with the additional participation of the Texas Rangers.
 
-Item 1 of 5 U.S. President Donald Trump speaks to the media as he departs the White House for Florida, in Washington, D.C., U.S., March 20, 2026. REUTERS/Nathan Howard
+“From my perspective, the credibility of ICE doing some form of an investigation just by itself and excluding others would not be appropriate,” Watson said, adding that he is angry about the shooting but not surprised by it.
 
-**[1/5]**U.S. President Donald Trump speaks to the media as he departs the White House for Florida, in Washington, D.C., U.S., March 20, 2026. REUTERS/Nathan Howard [Purchase Licensing Rights, opens new tab](https://www.reutersconnect.com/item/us-president-trump-departs-the-white-house-for-florida-in-washington/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1JDMko4S0EwRlM0Qg%3D%3D/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead)
+ICE recently started detaining more people in Austin, Watson and US Representative Greg Casar, a Texas Democrat, said.
 
-CNN on Friday said it stands behind its journalists who cover the White House.
+"Just a few weeks ago, as we ​saw the ICE surge come to Austin, ​especially to North Central Austin, I ⁠and others said that ICE needed to leave before someone was shot," said Casar, whose district includes parts of Austin.
 
-"We have a right under the US Constitution ​to do that reporting without hindrance or interference from the government," CNN said in a statement. "Should the ban which President Trump threatened go ahead, it would be an illegal assault on that fundamental and constitutionally protected right."
+Local TV news coverage on Sunday afternoon showed protesters gathered across the street from a blue Toyota Corolla that had sustained ​damage to the passenger-side door, as ICE agents stood nearby.
 
-Politico posted on X that it would "continue ‌to fairly report ⁠on this White House and future ones."
+Rights advocates say the federal immigration crackdown under President [Donald Trump](https://www.reuters.com/world/us/donald-trump/) ​violates free speech and ⁠due process rights. Trump defends his actions by saying he aims to improve domestic security.
 
-"We will vigorously defend our First Amendment rights against any attempt to restrict them," Politico posted on Friday.
+## PATTERN OF ICE SHOOTINGS
 
-"It's difficult to imagine a more blatant violation of the First Amendment than Trump banning news outlets from the People's House for criticizing the government," Seth Stern, chief of advocacy at Freedom of the Press Foundation, said in a statement.
+Federal immigration officials have been involved in multiple shootings this year, including [the killing of two US citizens in Minnesota](https://www.reuters.com/world/us/can-ice-agents-be-prosecuted-minneapolis-shootings-2026-01-25/), which sparked a widespread backlash. More than 50 people have died in ICE detention since Trump returned to office last ⁠year.
 
-Jameel Jaffer, executive director of the Knight First Amendment Institute at Columbia University, said the First Amendment prohibits the president from punishing journalists because he does not like their coverage.
+The killing ​of US citizen Renee Good in Minnesota earlier this year showed that ICE cannot be trusted ​to provide accurate information about its shootings, Casar said.
 
-"If President Trump means to expel these news organizations from the White House press pool, his action is doubly unconstitutional because the press pool is a 'public forum' under ​the First Amendment, which means the president can't exclude journalists ​from it on the basis of their viewpoints," ⁠Jaffer said in a statement.
+“It is important for us to have transparency and the true facts in this case,” he said. “Unfortunately, ICE has not been truthful in shootings in ​other cities.”
 
-## TABLOID HISTORY
-
-Trump rose to fame as a New York developer skilled in getting the city's tabloid newspapers to cover his social life, and went on to build his profile as a reality television personality before making a serious push into politics.
-
-Since his successful 2016 campaign, Trump has regularly criticized the press, stepping up his ​complaints during his second term in office. He has repeatedly urged broadcasters to drop comedy or news programs he dislikes or which have joked about or criticized him ​or his administration, calling on ⁠the Federal Communications Commission to strip disfavored broadcast stations of their licenses.
-
-Trump has filed several lawsuits against the press, including the Wall Street Journal, the New York Times, the BBC and the Des Moines Register. The suits can have a chilling effect. His defamation suits against ABC and CBS were settled for $15 million and $16 million, respectively.
-
-In his first term, Trump's White House sought to revoke or suspend the credentials of Playboy correspondent Brian Karem and CNN's Jim Acosta, but federal judges ordered their ⁠White House press ​passes restored.
-
-Since returning to the presidency in January 2025, Trump has openly badgered reporters, particularly from US television networks.
-
-Last year, he also banned ​the Associated Press from the usual pool of reporters that cover his movements because the news agency did not adopt Trump's preferred name for the Gulf of Mexico, which Trump has instructed executive branch employees to refer to as the Gulf of America.
-
-Reporting by Jacob Bogage and David ​Shepardson; additional reporting by Steve Holland, Jack Queen, Humeyra Pamuk, Edmund Lee, Jasper Ward, Doina Chiacu, Kanishka Singh and Waylon Cunningham; Writing by Jonathan Allen and Daniel Trotta; Editing by Caitlin Webber, Scott Malone, Will Dunham and Sergio Non
+Reporting by Karen Sloan in San Francisco and Kanishka Singh in Washington; additional reporting by Rishabh Jaiswal; Editing by Sergio Non, Matthew Lewis and Christian Schmollinger
 
 Our Standards: [The Thomson Reuters Trust Principles., opens new tab](https://www.thomsonreuters.com/en/about-us/trust-principles.html)
 
 - Suggested Topics:
 - [](https://www.reuters.com/world/us/)
 - [](https://www.reuters.com/sustainability/human-rights/)
+- [](https://www.reuters.com/legal/civil-rights/)
+- [](https://www.reuters.com/legal/immigration/)
 
 [](https://www.reutersagency.com/en/licensereuterscontent/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead)
 
+[
+
+](https://www.reuters.com/authors/karen-sloan/)
+
+[Karen Sloan](https://www.reuters.com/authors/karen-sloan/)
+
+Thomson Reuters
+
+Karen Sloan reports on law firms, law schools, and the business of law. Reach her at karen.sloan@thomsonreuters.com
+
+- [](mailto:Karen.Sloan@thomsonreuters.com)
+
+[
+
+](https://www.reuters.com/authors/kanishka-singh/)
+
+[Kanishka Singh](https://www.reuters.com/authors/kanishka-singh/)
+
+Thomson Reuters
+
+Kanishka Singh is a breaking news reporter for Reuters in Washington DC, who primarily covers US politics and national affairs in his current role. His past breaking news coverage has spanned across a range of topics like the Black Lives Matter movement; the US elections; the 2021 Capitol riots and their follow up probes; the Brexit deal; US-China trade tensions; the NATO withdrawal from Afghanistan; the COVID-19 pandemic; and a 2019 Supreme Court verdict on a religious dispute site in his native India.
+
+- [](mailto:Kanishka.Singh@thomsonreuters.com)
+- [](https://x.com/kanishka183)
+
 ## Read Next
 
-- [Businesscategory](https://www.reuters.com/business/)
+- [United Statescategory](https://www.reuters.com/world/us/)
     
-    [Billionaires abound in California. Why not tax their wealth?](https://www.reuters.com/business/retail-consumer/billionaires-abound-california-why-not-tax-their-wealth-2026-09-20/)
+    [US report says FAA must better address threats to aircraft communication](https://www.reuters.com/world/us/us-report-says-faa-must-better-address-threats-aircraft-communication-2026-09-21/)
     
     [
+    
+    ](https://www.reuters.com/world/us/us-report-says-faa-must-better-address-threats-aircraft-communication-2026-09-21/)
+    
+- [Worldcategory](https://www.reuters.com/world/)
+    
+    [CNN, MS NOW and Politico suing Trump over White House ban](https://www.reuters.com/world/cnn-ms-now-politico-file-lawsuit-against-trump-administration-over-white-house-2026-09-21/)
+    
+    [
+    
+    ](https://www.reuters.com/world/cnn-ms-now-politico-file-lawsuit-against-trump-administration-over-white-house-2026-09-21/)
+    
+- [Legalcategory](https://www.reuters.com/legal/)
+    
+    [Trump's favorite 2026 campaign target is Biden: nearly 900 mentions and counting](https://www.reuters.com/legal/government/trumps-favorite-2026-campaign-target-is-biden-nearly-900-mentions-counting-2026-09-21/)
+    
+    [
+    
+    ](https://www.reuters.com/legal/government/trumps-favorite-2026-campaign-target-is-biden-nearly-900-mentions-counting-2026-09-21/)
+    
+- [
     
     ](https://www.reuters.com/business/retail-consumer/billionaires-abound-california-why-not-tax-their-wealth-2026-09-20/)
     
-- [United Statescategory](https://www.reuters.com/world/us/)
-    
-    [Trump to use Washington arch as military complex for drones and snipers](https://www.reuters.com/world/us/trump-convert-triumphal-arch-into-military-complex-2026-09-20/)
-    
-    [
-    
-    ](https://www.reuters.com/world/us/trump-convert-triumphal-arch-into-military-complex-2026-09-20/)
-    
-- [Businesscategory](https://www.reuters.com/business/)
-    
-    [Fed's Kashkari says inflation is still too high in 'all aspects' of US economy, in Fox News interview](https://www.reuters.com/business/feds-kashkari-says-inflation-goes-beyond-oil-prices-according-fox-news-interview-2026-09-20/)
-    
-    [
-    
-    ](https://www.reuters.com/business/feds-kashkari-says-inflation-goes-beyond-oil-prices-according-fox-news-interview-2026-09-20/)
-    
 - [
     
-    ](https://www.reuters.com/world/white-house-turns-away-cnn-ms-now-politico-reporters-after-trump-announces-ban-2026-09-19/)
-    
-- [
-    
-    ](https://www.reuters.com/legal/government/lingering-feuds-threaten-democrats-bid-reclaim-us-congress-2026-09-19/)
-    
-- [
-    
-    ](https://www.reuters.com/world/us/trump-says-he-will-create-ai-force-name-ai-czar-2026-09-19/)
+    ](https://www.reuters.com/world/us/trump-eyes-busy-week-meetings-un-general-assembly-gathers-2026-09-20/)
     
 
 [](https://www.lseg.com/en/data-analytics/products/workspace?utm_source=reuters.com&utm_medium=articlebanner&utm_campaign=Reuters_ProductPage_Links)
@@ -156,45 +164,45 @@ Our Standards: [The Thomson Reuters Trust Principles., opens new tab](https://ww
 
 - [
     
-    ](https://www.reuters.com/world/germanys-far-right-afd-leads-race-north-east-state-exit-poll-shows-2026-09-20/)
+    ](https://www.reuters.com/world/europe/eu-lift-sanctions-russia-linked-usmanov-fridman-diplomats-say-2026-09-21/)
     
-    ### [Germany's far-right AfD leads race in north-east state, exit poll shows](https://www.reuters.com/world/germanys-far-right-afd-leads-race-north-east-state-exit-poll-shows-2026-09-20/)
+    ### [EU to lift sanctions on Russia-linked Usmanov and Fridman, diplomats say](https://www.reuters.com/world/europe/eu-lift-sanctions-russia-linked-usmanov-fridman-diplomats-say-2026-09-21/)
     
-    [Worldcategory](https://www.reuters.com/world/) · September 20, 2026 · 9:09 AM PDT · 1 hour ago
+    [Europecategory](https://www.reuters.com/world/europe/) · September 21, 2026 · 7:05 AM PDT · 36 mins ago
     
-    Germany's AfD was projected to win ​the most votes in ‌the northeastern state of Mecklenburg-Western Pomerania on Sunday, ​exit polls showed, but ​the far-right party is ⁠unlikely to govern as ​other parties rule out ​working with it.
-    
-- [
-    
-    ](https://www.reuters.com/business/feds-kashkari-says-inflation-goes-beyond-oil-prices-according-fox-news-interview-2026-09-20/)
-    
-    [Businesscategory](https://www.reuters.com/business/)[Fed's Kashkari says inflation is still too high in 'all aspects' of US economy, in Fox News interview](https://www.reuters.com/business/feds-kashkari-says-inflation-goes-beyond-oil-prices-according-fox-news-interview-2026-09-20/)
-    
-    8:06 AM PDT
+    European Union envoys agreed on Monday to lift sanctions imposed over Russia’s war ​in Ukraine on businessmen Alisher Usmanov and Mikhail Fridman as ‌long as no EU government objected to the move within the next few hours, diplomats said.
     
 - [
     
-    ](https://www.reuters.com/world/russian-exiles-cast-votes-voice-dissent-putin-ukraine-war-2026-09-20/)
+    ](https://www.reuters.com/world/middle-east/trump-call-with-yemen-president-did-not-pledge-military-support-against-houthis-2026-09-21/)
     
-    [Worldcategory](https://www.reuters.com/world/)[Russian exiles cast votes to voice dissent](https://www.reuters.com/world/russian-exiles-cast-votes-voice-dissent-putin-ukraine-war-2026-09-20/)
+    [Middle Eastcategory](https://www.reuters.com/world/middle-east/)[Trump, in call with Yemen president, did not pledge military support against Houthis, say sources](https://www.reuters.com/world/middle-east/trump-call-with-yemen-president-did-not-pledge-military-support-against-houthis-2026-09-21/)
     
-    7:22 AM PDT
-    
-- [
-    
-    ](https://www.reuters.com/world/asia-pacific/iran-warns-against-new-escalation-by-us-allies-2026-09-20/)
-    
-    [Asia Pacificcategory](https://www.reuters.com/world/asia-pacific/)[Iran warns against new escalation by US and its allies](https://www.reuters.com/world/asia-pacific/iran-warns-against-new-escalation-by-us-allies-2026-09-20/)
-    
-    6:19 AM PDT
+    6:56 AM PDT
     
 - [
     
-    ](https://www.reuters.com/business/aerospace-defense/luxembourg-deploys-additional-detection-assets-following-drone-sightings-2026-09-20/)
+    ](https://www.reuters.com/world/europe/papal-envoy-plans-visit-russia-late-september-ria-says-2026-09-21/)
     
-    [category](https://www.reuters.com/business/)[Luxembourg deploys additional detection assets following drone sightings](https://www.reuters.com/business/aerospace-defense/luxembourg-deploys-additional-detection-assets-following-drone-sightings-2026-09-20/)
+    [Europecategory](https://www.reuters.com/world/europe/)[Papal envoy plans to visit Russia in late September, RIA says](https://www.reuters.com/world/europe/papal-envoy-plans-visit-russia-late-september-ria-says-2026-09-21/)
     
-    5:30 AM PDT
+    6:49 AM PDT
+    
+- [
+    
+    ](https://www.reuters.com/world/americas/pope-leo-sets-packed-agenda-november-trip-peru-argentina-uruguay-2026-09-21/)
+    
+    [Americascategory](https://www.reuters.com/world/americas/)[Pope Leo sets packed agenda for November trip to Peru, Argentina, Uruguay](https://www.reuters.com/world/americas/pope-leo-sets-packed-agenda-november-trip-peru-argentina-uruguay-2026-09-21/)
+    
+    6:42 AM PDT
+    
+- [
+    
+    ](https://www.reuters.com/world/africa/south-african-police-arrest-three-people-over-womans-death-after-spate-killings-2026-09-21/)
+    
+    [Africacategory](https://www.reuters.com/world/africa/)[South African police arrest three people over woman's death after spate of killings](https://www.reuters.com/world/africa/south-african-police-arrest-three-people-over-womans-death-after-spate-killings-2026-09-21/)
+    
+    6:32 AM PDT
     
 
 ### Site Index

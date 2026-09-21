@@ -480,4 +480,11 @@ January 24: 8th U.S. Circuit Court of Appeals rejects DOJ bid to charge five mor
             The material includes videos from agents' body cameras, other digital evidence and Good's bullet-damaged car.
 
             <sup><a href="https://www.reuters.com/legal/government/trump-officials-turn-over-withheld-evidence-immigration-agents-killings-renee-2026-07-13/" target="_blank">[59]</a></sup>
-            
+
+
+
+# ICE Shootings
+## Austin Shooting
+- September 2026: ICE shoots man, Wilber Rafael Garces Perez, in torso, seriously wounding him. Law enforcement said Perez is ​an undocumented immigrant from Venezuela.
+# End
+
