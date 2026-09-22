@@ -41,5 +41,5 @@ In August 2026, [Canada imposed tariffs](https://www.reuters.com/business/carney
 
 In September 2026, the [US effectively banned Canadian alcoholic beverages, motorcycles and dairy products](https://www.reuters.com/business/autos-transportation/canadas-retaliatory-tariffs-take-effect-us-trade-talks-stall-2026-09-08/) from import, sharply escalating the already acrimonious trade spat.
 
-
-
+## Canada Shifts to other Countries
+- **EU Associate Member** ([September 18, 2026](https://www.reuters.com/world/canada-eu-face-limits-relationship-after-symbolic-eu-overture-carney-2026-09-18/)): Carney secured this week an offer to become the European Union's first associate member, a mostly symbolic ​victory in his campaign to demonstrate Canada can flourish while decreasing its reliance on the United States.

@@ -24,91 +24,53 @@
 
 [My News](https://www.reuters.com/my-news/feed/)
 
-[](https://www.reuters.com/account/sign-in/?website=reuters&redirect=https%3A%2F%2Fwww.reuters.com%2Fworld%2Fus%2Fice-agent-wounds-man-austin-texas-shooting-city-officials-say-2026-09-20%2F)[](https://www.reuters.com/account/subscribe/offer/?website=reuters&redirect=https%3A%2F%2Fwww.reuters.com%2Fworld%2Fus%2Fice-agent-wounds-man-austin-texas-shooting-city-officials-say-2026-09-20%2F&referrer=subscription_button&journeyStart=navigation)
+[](https://www.reuters.com/account/sign-in/?website=reuters&redirect=https%3A%2F%2Fwww.reuters.com%2Fworld%2Fman-shot-by-ice-agents-texas-says-he-is-detention-with-bullet-back-2026-09-22%2F)[](https://www.reuters.com/account/subscribe/offer/?website=reuters&redirect=https%3A%2F%2Fwww.reuters.com%2Fworld%2Fman-shot-by-ice-agents-texas-says-he-is-detention-with-bullet-back-2026-09-22%2F&referrer=subscription_button&journeyStart=navigation)
 
-# ICE agent wounds man in Austin, Texas, shooting, city officials say
+# Man shot by ICE agents in Texas says he is in detention with bullet in back
 
-By [Karen Sloan](https://www.reuters.com/authors/karen-sloan/) and [Kanishka Singh](https://www.reuters.com/authors/kanishka-singh/)
+By [Brad Brooks](https://www.reuters.com/authors/brad-brooks/) and [Kanishka Singh](https://www.reuters.com/authors/kanishka-singh/)
 
-September 20, 20264:16 PM PDTUpdated 2 hours ago
+September 21, 20265:41 PM PDTUpdated 12 hours ago
 
 ![Austin officials open investigation after ICE-involved shooting](https://ajo.prod.reuters.tv/api/v2/img/6ab0b9cae4b06a3e5e80c264-1789966863926?width=1080&quality=80)
 
-- Summary
+Sept 21 (Reuters) - A man identified as the Venezuelan who was shot and wounded by a federal immigration agent in Texas said on Monday that he was in pain and being held at an ICE ​detention center with a bullet lodged in his back.
 
-- Man suffers torso wound; in serious but stable condition
-- Austin mayor wants city police, Texas Rangers involved in investigation
-- Police chief says ICE agent shot man in brief foot pursuit on Sunday
+Attorney Kate Lincoln-Goldfinch introduced the man who phoned ‌into a news conference she was holding in Austin as her client, Wilber Rafael Garces Perez. He said he was bleeding and was not receiving adequate medical care in a Texas detention facility.
 
-Sept 20 (Reuters) - An Immigration and Customs Enforcement officer shot ​and wounded a man in Austin, Texas, on Sunday, city officials said, adding that the man was in serious but stable condition.
+The Misinformation Monitor newsletter rounds up international misinformation narratives, with a "Real or Fake?" quiz in every edition. Sign up [here.](https://www.reuters.com/newsletters/misinformation-monitor/?location=article-paragraph&redirectUrl=%2Fworld%2Fman-shot-by-ice-agents-texas-says-he-is-detention-with-bullet-back-2026-09-22%2F)
 
-The ‌man was shot in the torso and taken to a local hospital, officials told reporters at a press conference. The ICE agent shot him during a brief pursuit on foot shortly before 1 p.m. (1800 GMT), Austin Police Chief Lisa Davis said.
+"I'm not doing well because of the gunshot I received," Perez, 28, said in ​Spanish as reporters listened to a speakerphone, adding that he had to sleep on the floor at the ​detention center.
 
-The Misinformation Monitor newsletter rounds up international misinformation narratives, with a "Real or Fake?" quiz in every edition. Sign up [here.](https://www.reuters.com/newsletters/misinformation-monitor/?location=article-paragraph&redirectUrl=%2Fworld%2Fus%2Fice-agent-wounds-man-austin-texas-shooting-city-officials-say-2026-09-20%2F)
+Attorney Lincoln-Goldfinch said at the news conference that Perez was being held at the ⁠South Texas ICE Processing Center, about 130 miles southwest of Austin, and that he was undergoing questioning by agents.
 
-Immigration attorney Kate Lincoln-Goldfinch identified the victim to multiple news outlets as Wilber Rafael Garces Perez, 28, and posted on social ​media that she is representing his family. Lincoln-Goldfinch said he was released from the hospital on Sunday into the apparent custody of ICE.
+Perez ​said he was released within four hours of arriving at a hospital, and that a doctor treating him told him ICE ​agents were in a hurry to transfer him to a detention center.
 
-Perez is ​an undocumented immigrant from Venezuela, a law enforcement source told CNN. Lincoln-Goldfinch told the Texas Tribune that her client entered ⁠the United States legally.
+Item 1 of 5 People set up a vigil at the site where a federal immigration officer shot and wounded a man, city officials said, in Austin, Texas, US, September 20, 2026. REUTERS/Shahrzad Rasekh
 
-The Department of Homeland Security said in a post on social media website X that its Homeland Security Investigations unit is leading the ​investigation of a case of an officer-involved shooting in Austin on Sunday with the assistance of the FBI.
+**[1/5]**People set up a vigil at the site where a federal immigration officer shot and wounded a man, city officials said, in Austin, Texas, US, September 20, 2026. REUTERS/Shahrzad Rasekh [Purchase Licensing Rights, opens new tab](https://www.reutersconnect.com/item/ice-agent-wounds-man-in-austin-texas-shooting-city-officials-say/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1JDMkVOTkFMWkNEUA%3D%3D/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead)
 
-The post said the person shot was a Venezuelan who ​entered the United States "illegally" during the Biden administration and was subject to a final removal order, adding the person is stable and in federal custody pending removal.
+He said that he had been out working as a DoorDash food delivery driver on Sunday when his car was sideswiped by the agents, who he said did not identify themselves or turn on ​any sort of lights or siren. He said that an agent shot him while he was still in his car ​and that there had been no foot chase. Austin police said on Sunday that he had run from agents.
 
-ICE is an agency within the Department of Homeland Security.
+Neither ICE nor the ‌Department of ⁠Homeland Security, which oversees ICE, responded to requests for comment on Monday.
 
-City officials did not identify the man who was shot, and said they did not know the identity of the ICE agent involved. Austin Police Chief ​Davis said she had not been briefed yet by federal officials and had few details about the incident.
+DHS on Sunday released a written statement saying that Perez was in the US illegally and that he had a final order of removal from the country. They did not provide details on the circumstance of the shooting.
 
-The shooting is the latest in a series of ​incidents involving ICE, which has become the face of the Trump administration's immigration crackdown and whose actions have drawn scrutiny and calls for accountability from rights advocates.
+The New York Times, citing two unnamed people it said were familiar ​with the federal investigation into ​the shooting, reported on ⁠Monday that ICE agents were out in Austin checking license plates when they discovered that Perez had a deportation order. The agents, the newspaper reported, pulled Perez over around 12:45 ​p.m. (1745 GMT) identified themselves and said he was going to be arrested, at which point ​Perez allegedly ⁠fled in his car, leading to a short chase, sideswiping and shooting.
 
-## CALLS FOR POLICE ‌INVESTIGATION
+Lincoln-Goldfinch, speaking on CNN, said that account of the events "doesn't match" what Perez told her, though she provided no details on if he had been stopped by ICE agents before being ⁠shot.
 
-Item 1 of 5 Demonstrators react to tear gas flung in their direction by police during a protest after a US Immigration and Customs Enforcement (ICE) agent shot and wounded a man, city officials said, in Austin, Texas, US, September 20, 2026. REUTERS/Kaylee Greenlee
+Federal immigration ​officials have been involved in multiple shootings this year, including [the killing of ​two US citizens in Minnesota](https://www.reuters.com/world/us/can-ice-agents-be-prosecuted-minneapolis-shootings-2026-01-25/), which sparked a widespread backlash. More than 50 people have died in ICE detention since Trump returned to office last ​year.
 
-**[1/5]**Demonstrators react to tear gas flung in their direction by police during a protest after a US Immigration and Customs Enforcement (ICE) agent shot and wounded a man, city officials said, in Austin, Texas, US, September 20, 2026. REUTERS/Kaylee Greenlee [Purchase Licensing Rights, opens new tab](https://www.reutersconnect.com/item/demonstrators-gather-after-a-us-immigration-and-customs-enforcement-ice-agent-and-wounded-a-man-city-officials-said-in-austin/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1JDMkZOTkFQS1gwRw%3D%3D/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead)
-
-Austin Mayor ⁠Kirk Watson, a Democrat, said he wants city police involved in the investigation, with the additional participation of the Texas Rangers.
-
-“From my perspective, the credibility of ICE doing some form of an investigation just by itself and excluding others would not be appropriate,” Watson said, adding that he is angry about the shooting but not surprised by it.
-
-ICE recently started detaining more people in Austin, Watson and US Representative Greg Casar, a Texas Democrat, said.
-
-"Just a few weeks ago, as we ​saw the ICE surge come to Austin, ​especially to North Central Austin, I ⁠and others said that ICE needed to leave before someone was shot," said Casar, whose district includes parts of Austin.
-
-Local TV news coverage on Sunday afternoon showed protesters gathered across the street from a blue Toyota Corolla that had sustained ​damage to the passenger-side door, as ICE agents stood nearby.
-
-Rights advocates say the federal immigration crackdown under President [Donald Trump](https://www.reuters.com/world/us/donald-trump/) ​violates free speech and ⁠due process rights. Trump defends his actions by saying he aims to improve domestic security.
-
-## PATTERN OF ICE SHOOTINGS
-
-Federal immigration officials have been involved in multiple shootings this year, including [the killing of two US citizens in Minnesota](https://www.reuters.com/world/us/can-ice-agents-be-prosecuted-minneapolis-shootings-2026-01-25/), which sparked a widespread backlash. More than 50 people have died in ICE detention since Trump returned to office last ⁠year.
-
-The killing ​of US citizen Renee Good in Minnesota earlier this year showed that ICE cannot be trusted ​to provide accurate information about its shootings, Casar said.
-
-“It is important for us to have transparency and the true facts in this case,” he said. “Unfortunately, ICE has not been truthful in shootings in ​other cities.”
-
-Reporting by Karen Sloan in San Francisco and Kanishka Singh in Washington; additional reporting by Rishabh Jaiswal; Editing by Sergio Non, Matthew Lewis and Christian Schmollinger
+Reporting by Brad Brooks in Colorado; Additional reporting by Kanishka Singh in Washington; Editing by Donna Bryson and Michael Perry
 
 Our Standards: [The Thomson Reuters Trust Principles., opens new tab](https://www.thomsonreuters.com/en/about-us/trust-principles.html)
 
 - Suggested Topics:
-- [](https://www.reuters.com/world/us/)
+- [](https://www.reuters.com/world/)
 - [](https://www.reuters.com/sustainability/human-rights/)
-- [](https://www.reuters.com/legal/civil-rights/)
-- [](https://www.reuters.com/legal/immigration/)
 
 [](https://www.reutersagency.com/en/licensereuterscontent/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead)
-
-[
-
-](https://www.reuters.com/authors/karen-sloan/)
-
-[Karen Sloan](https://www.reuters.com/authors/karen-sloan/)
-
-Thomson Reuters
-
-Karen Sloan reports on law firms, law schools, and the business of law. Reach her at karen.sloan@thomsonreuters.com
-
-- [](mailto:Karen.Sloan@thomsonreuters.com)
 
 [
 
@@ -125,37 +87,43 @@ Kanishka Singh is a breaking news reporter for Reuters in Washington DC, who pri
 
 ## Read Next
 
-- [United Statescategory](https://www.reuters.com/world/us/)
+- [Middle Eastcategory](https://www.reuters.com/world/middle-east/)
     
-    [US report says FAA must better address threats to aircraft communication](https://www.reuters.com/world/us/us-report-says-faa-must-better-address-threats-aircraft-communication-2026-09-21/)
-    
-    [
-    
-    ](https://www.reuters.com/world/us/us-report-says-faa-must-better-address-threats-aircraft-communication-2026-09-21/)
-    
-- [Worldcategory](https://www.reuters.com/world/)
-    
-    [CNN, MS NOW and Politico suing Trump over White House ban](https://www.reuters.com/world/cnn-ms-now-politico-file-lawsuit-against-trump-administration-over-white-house-2026-09-21/)
+    [Iran, US hint at revival of talks as Trump, Pezeshkian due to attend UN](https://www.reuters.com/world/middle-east/tehran-hints-hormuz-talks-with-us-leaders-gather-un-2026-09-22/)
     
     [
     
-    ](https://www.reuters.com/world/cnn-ms-now-politico-file-lawsuit-against-trump-administration-over-white-house-2026-09-21/)
+    ](https://www.reuters.com/world/middle-east/tehran-hints-hormuz-talks-with-us-leaders-gather-un-2026-09-22/)
     
-- [Legalcategory](https://www.reuters.com/legal/)
+- [Middle Eastcategory](https://www.reuters.com/world/middle-east/)
     
-    [Trump's favorite 2026 campaign target is Biden: nearly 900 mentions and counting](https://www.reuters.com/legal/government/trumps-favorite-2026-campaign-target-is-biden-nearly-900-mentions-counting-2026-09-21/)
+    [Netanyahu says he will 'tell the truth' on Israel's actions at United Nations](https://www.reuters.com/world/middle-east/netanyahu-says-will-tell-truth-israels-actions-united-nations-2026-09-22/)
     
     [
     
-    ](https://www.reuters.com/legal/government/trumps-favorite-2026-campaign-target-is-biden-nearly-900-mentions-counting-2026-09-21/)
+    ](https://www.reuters.com/world/middle-east/netanyahu-says-will-tell-truth-israels-actions-united-nations-2026-09-22/)
+    
+- [Chinacategory](https://www.reuters.com/world/china/)
+    
+    EXCLUSIVE
+    
+    [China's Xi expected to press Trump to halt Taiwan arms sales under 1982 agreement](https://www.reuters.com/world/china/chinas-xi-expected-press-trump-halt-taiwan-arms-sales-under-1982-agreement-2026-09-22/)
+    
+    [
+    
+    ](https://www.reuters.com/world/china/chinas-xi-expected-press-trump-halt-taiwan-arms-sales-under-1982-agreement-2026-09-22/)
     
 - [
     
-    ](https://www.reuters.com/business/retail-consumer/billionaires-abound-california-why-not-tax-their-wealth-2026-09-20/)
+    ](https://www.reuters.com/world/africa/us-withholding-sudanese-leaders-visa-over-ceasefire-plan-sources-say-2026-09-22/)
     
 - [
     
-    ](https://www.reuters.com/world/us/trump-eyes-busy-week-meetings-un-general-assembly-gathers-2026-09-20/)
+    ](https://www.reuters.com/world/americas/trump-set-whirlwind-un-meetings-with-wars-iran-ukraine-agenda-2026-09-22/)
+    
+- [
+    
+    ](https://www.reuters.com/legal/government/spain-allows-us-extradition-case-against-pro-palestinian-donor-proceed-2026-09-22/)
     
 
 [](https://www.lseg.com/en/data-analytics/products/workspace?utm_source=reuters.com&utm_medium=articlebanner&utm_campaign=Reuters_ProductPage_Links)
@@ -164,45 +132,45 @@ Kanishka Singh is a breaking news reporter for Reuters in Washington DC, who pri
 
 - [
     
-    ](https://www.reuters.com/world/europe/eu-lift-sanctions-russia-linked-usmanov-fridman-diplomats-say-2026-09-21/)
+    ](https://www.reuters.com/world/china/trump-says-he-thinks-us-will-make-deal-with-iran-after-election-2026-09-22/)
     
-    ### [EU to lift sanctions on Russia-linked Usmanov and Fridman, diplomats say](https://www.reuters.com/world/europe/eu-lift-sanctions-russia-linked-usmanov-fridman-diplomats-say-2026-09-21/)
+    ### [Trump says he thinks US will make deal with Iran after election](https://www.reuters.com/world/china/trump-says-he-thinks-us-will-make-deal-with-iran-after-election-2026-09-22/)
     
-    [Europecategory](https://www.reuters.com/world/europe/) · September 21, 2026 · 7:05 AM PDT · 36 mins ago
+    [Chinacategory](https://www.reuters.com/world/china/) · September 22, 2026 · 7:52 AM PDT · 7 mins ago
     
-    European Union envoys agreed on Monday to lift sanctions imposed over Russia’s war ​in Ukraine on businessmen Alisher Usmanov and Mikhail Fridman as ‌long as no EU government objected to the move within the next few hours, diplomats said.
-    
-- [
-    
-    ](https://www.reuters.com/world/middle-east/trump-call-with-yemen-president-did-not-pledge-military-support-against-houthis-2026-09-21/)
-    
-    [Middle Eastcategory](https://www.reuters.com/world/middle-east/)[Trump, in call with Yemen president, did not pledge military support against Houthis, say sources](https://www.reuters.com/world/middle-east/trump-call-with-yemen-president-did-not-pledge-military-support-against-houthis-2026-09-21/)
-    
-    6:56 AM PDT
+    President ​Donald Trump on ‌Tuesday said that he thought the US would make a ​deal with ​Iran after mid-term elections ⁠are held ​on November 3.
     
 - [
     
-    ](https://www.reuters.com/world/europe/papal-envoy-plans-visit-russia-late-september-ria-says-2026-09-21/)
+    ](https://www.reuters.com/world/china/pfizer-ceo-bourla-plans-attend-white-house-state-dinner-chinas-xi-source-says-2026-09-22/)
     
-    [Europecategory](https://www.reuters.com/world/europe/)[Papal envoy plans to visit Russia in late September, RIA says](https://www.reuters.com/world/europe/papal-envoy-plans-visit-russia-late-september-ria-says-2026-09-21/)
+    [Chinacategory](https://www.reuters.com/world/china/)[Pfizer CEO Bourla plans to attend White House state dinner for China's Xi, source says](https://www.reuters.com/world/china/pfizer-ceo-bourla-plans-attend-white-house-state-dinner-chinas-xi-source-says-2026-09-22/)
     
-    6:49 AM PDT
-    
-- [
-    
-    ](https://www.reuters.com/world/americas/pope-leo-sets-packed-agenda-november-trip-peru-argentina-uruguay-2026-09-21/)
-    
-    [Americascategory](https://www.reuters.com/world/americas/)[Pope Leo sets packed agenda for November trip to Peru, Argentina, Uruguay](https://www.reuters.com/world/americas/pope-leo-sets-packed-agenda-november-trip-peru-argentina-uruguay-2026-09-21/)
-    
-    6:42 AM PDT
+    7:49 AM PDT
     
 - [
     
-    ](https://www.reuters.com/world/africa/south-african-police-arrest-three-people-over-womans-death-after-spate-killings-2026-09-21/)
+    ](https://www.reuters.com/business/energy/brazils-petrobras-drill-new-foz-do-amazonas-wells-january-2026-09-22/)
     
-    [Africacategory](https://www.reuters.com/world/africa/)[South African police arrest three people over woman's death after spate of killings](https://www.reuters.com/world/africa/south-african-police-arrest-three-people-over-womans-death-after-spate-killings-2026-09-21/)
+    [category](https://www.reuters.com/business/)[Brazil's Petrobras to drill new Foz do Amazonas wells in January](https://www.reuters.com/business/energy/brazils-petrobras-drill-new-foz-do-amazonas-wells-january-2026-09-22/)
     
-    6:32 AM PDT
+    7:46 AM PDT
+    
+- [
+    
+    ](https://www.reuters.com/world/eu-renews-russia-sanctions-drops-russian-billionaires-usmanov-fridman-2026-09-22/)
+    
+    [Worldcategory](https://www.reuters.com/world/)[EU renews Russia sanctions, drops Russian billionaires Usmanov and Fridman](https://www.reuters.com/world/eu-renews-russia-sanctions-drops-russian-billionaires-usmanov-fridman-2026-09-22/)
+    
+    7:41 AM PDT
+    
+- [
+    
+    ](https://www.reuters.com/world/americas/brazil-needs-cooperation-not-intervention-fight-crime-lula-says-2026-09-22/)
+    
+    [Americascategory](https://www.reuters.com/world/americas/)[Brazil needs cooperation, not intervention, to fight crime, Lula says](https://www.reuters.com/world/americas/brazil-needs-cooperation-not-intervention-fight-crime-lula-says-2026-09-22/)
+    
+    7:36 AM PDT
     
 
 ### Site Index

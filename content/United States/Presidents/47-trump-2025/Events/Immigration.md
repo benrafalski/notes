@@ -485,6 +485,6 @@ January 24: 8th U.S. Circuit Court of Appeals rejects DOJ bid to charge five mor
 
 # ICE Shootings
 ## Austin Shooting
-- September 2026: ICE shoots man, Wilber Rafael Garces Perez, in torso, seriously wounding him. Law enforcement said Perez is ​an undocumented immigrant from Venezuela.
+- September 2026: ICE shoots man, Wilber Rafael Garces Perez, in torso, seriously wounding him. Law enforcement said Perez is ​an undocumented immigrant from Venezuela. Perez was detained in an ICE facility following the shooting with a [bullet still in his back](https://www.reuters.com/world/man-shot-by-ice-agents-texas-says-he-is-detention-with-bullet-back-2026-09-22/). 
 # End
 
