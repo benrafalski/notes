@@ -51,3 +51,9 @@ Served as ​the U.S. attorney for the Southern District of New York during Trum
 
 # Post-presidency
 - N/A since he was assassinated during mid-term
+
+
+
+# Notes
+## First Amendment
+- Banning [[Weaponization of Government#CNN, MS NOW, Politico Ban|CNN, MS NOW, Politico]]

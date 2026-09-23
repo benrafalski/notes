@@ -1,7 +1,9 @@
 
 # Partisan Redistricting
 ## Missouri
-In September 2026, The [Missouri Supreme Court blocked](https://www.reuters.com/legal/government/blow-trump-missouri-top-court-blocks-republican-drawn-congressional-map-2026-09-03/) a new Republican congressional map from being used. The court ruled 7-0 that the map must be approved by voters ​in a November referendum before it can take effect. The state held primary elections under the new map in August, and the court did not specify how it expected nominees to be selected now that the old map is back in place. A few days later, U.S. Supreme Court justice [Kavanaugh declined](https://www.reuters.com/world/us-supreme-court-wont-reinstate-republican-drawn-congressional-map-missouri-2026-09-08/) to reinstate the Republican-drawn congressional map in an emergency ruling, even despite Chief U.S. District Judge Stephen Clark acting in a separate case ruling in favor of a TRO that the reconfigured boundaries must be used. However, the Supreme Court also later [blocked Judge Clark's ruling](https://www.reuters.com/world/us-supreme-court-blocks-republican-drawn-congressional-map-missouri-2026-09-10/) as well.
+- In September 2026, The [Missouri Supreme Court blocked](https://www.reuters.com/legal/government/blow-trump-missouri-top-court-blocks-republican-drawn-congressional-map-2026-09-03/) a new Republican congressional map from being used. The court ruled 7-0 that the map must be approved by voters ​in a November referendum before it can take effect. The state held primary elections under the new map in August, and the court did not specify how it expected nominees to be selected now that the old map is back in place. 
+- A few days later, U.S. Supreme Court justice [Kavanaugh declined](https://www.reuters.com/world/us-supreme-court-wont-reinstate-republican-drawn-congressional-map-missouri-2026-09-08/) to reinstate the Republican-drawn congressional map in an emergency ruling, even despite Chief U.S. District Judge Stephen Clark acting in a separate case ruling in favor of a TRO that the reconfigured boundaries must be used. However, the Supreme Court also later [blocked Judge Clark's ruling](https://www.reuters.com/world/us-supreme-court-blocks-republican-drawn-congressional-map-missouri-2026-09-10/) as well.
+- On September 21,  the St. Louis, Missouri-based 8th US Circuit [Court of Appeals ruled in favor](https://www.reuters.com/legal/government/us-appeals-court-backs-missouris-republican-drawn-congressional-map-sets-up-2026-09-21/) of the Republican drawn map.
 
 # Mail-in Voting
 ## USPS Order
@@ -40,5 +42,4 @@ In September 2026, The [Missouri Supreme Court blocked](https://www.reuters.com/
 
 # Affordability
 ## Healthcare
-### Most Favored Nation Pricing
-- September 2026: [All 50 states sign up](https://www.reuters.com/world/us-plans-medicaid-most-favored-nation-pricing-some-drugs-all-states-semafor-2026-09-18/) for Trump's Medicaid most-favored-nation plan. White House projected more than $64 billion in combined federal and state savings over 10 years.
+

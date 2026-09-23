@@ -1,0 +1,5 @@
+# Healthcare
+## Obamacare
+- **Emergency Freeze** ([September, 22 2026](https://www.reuters.com/legal/government/us-says-it-canceled-315000-obamacare-policies-last-month-2026-09-22/)): New Trump emergency rule freezes new Obamacare broker registrations  for more than 760,000 enrollees it believes were fraudulently signed up through February 1, 2027 and CMS to bar some 569 brokers over 'statistically implausible' 2026 applications. CMS said some brokers have allegedly enrolled people without genuine consent, changed people's plans without permission, used inaccurate information, or created questionable applications to receive commissions. The cancellations were led by Vance's anti-fraud task force, who said the cancellations would save $2.2 billion for taxpayers. 
+## Most Favored Nation Pricing
+- September 2026: [All 50 states sign up](https://www.reuters.com/world/us-plans-medicaid-most-favored-nation-pricing-some-drugs-all-states-semafor-2026-09-18/) for Trump's Medicaid most-favored-nation plan. White House projected more than $64 billion in combined federal and state savings over 10 years.

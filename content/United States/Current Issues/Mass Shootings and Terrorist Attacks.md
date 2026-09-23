@@ -4,6 +4,10 @@
 In 2025, Sophia Roske is sentenced to [8 years in prison](https://www.reuters.com/world/us-judge-sentences-planned-kavanaugh-assassin-8-years-prison-2025-10-03/), judge says she showed sincere remorse (DOJ was seeking 30 year minimum sentence).
 
 # 2023
+## Hate Crimes
+### Vermont Palestinian Students Attack (November 25, 2023)
+Three Palestinian Americans were shot in late 2023 in Burlington, Vermont. One victim was left paralyzed from waist down. Jury found Jason Eaton [guilty on three counts of attempted murder](https://www.reuters.com/legal/government/man-convicted-attempted-murder-shooting-three-palestinian-students-vermont-2026-09-21/) in September 2026.
+
 ## Assassinations
 ### Obama Tunnels Threat (June 28)
 Taylor Taranto, a Navy Veteran and January 6 rioter, [livestreamed](https://www.cbsnews.com/news/taylor-taranto-obama-home-january-6-threatened-blow-up-government-building-feds/) himself making fake bomb hoax threats saying he was going to blow up the NIST building in D.C. (building tied to government conspiracies). The next day, Taranto reposted a Trump Truth post that had Obama's address, then drove his weapons-filled van (2 guns) to the Obama's neighborhood. He then livestreamed himself hunting "entrance points to underground tunnels," saying "Gotta get the shot, stop at nothing," "We got 'em surrounded," and "They hang for treason." Taranto was referring to the QAnon belief that [underground "tunnels"](https://www.justice.gov/usao-dc/pr/washington-state-man-indicted-federal-firearms-charges-and-actions-during-jan-6-capitol) link the homes of prominent Democrats like Obama and John Podesta. In 2025, Taranto was sentenced to [21 months in prison](https://www.reuters.com/legal/litigation/us-judge-praises-prosecutors-who-were-suspended-after-referring-january-6-mob-2025-10-30/) for the incident.

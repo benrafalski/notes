@@ -9,8 +9,16 @@
 ## Emissions Impact
 - June 30: Report from Ember, Kearney Institute and KPMG finds global energy-related carbon emissions from the production and use of energy, rose 1.1% in 2025 with about [13.3% of that increase came from the United States](https://www.reuters.com/business/energy/us-leads-global-co2-emissions-increase-2025-report-finds-2026-06-29/). The jump was due to U.S. coal consumption jumping 10% in 2025.
 
-
-
-
-
+# Deregulation
+## Endangered ​Species Act
+50-year-old Endangered ​Species Act is credited with helping to save the bald eagle, the US national ‌bird, along with the California condor and numerous other animals and plants [from extinction](https://www.reuters.com/legal/litigation/timeline-trump-administration-moves-weaken-endangered-species-protections-2026-09-21/).
+### Timeline
+- **April 16, 2025**: Trump admin [proposes](https://www.reuters.com/sustainability/boards-policy-regulation/us-proposes-looser-interpretation-law-that-protects-threatened-species-2025-04-16/) rescinding the ESA's regulatory definition of "harm," arguing that habitat modification should ​not qualify as a prohibited "take" of a protected species. A "take" is defined as "to ​harass, harm, pursue, hunt, shoot, wound, kill, trap, capture, or collect, or to ⁠attempt to engage in any such conduct."
+- **November 19**: Interior Department [proposes](https://www.reuters.com/legal/litigation/trump-administration-proposes-loosen-rules-protecting-endangered-species-2025-11-19/) four rules to roll back Biden​endangered species regulations that would make it easier to exclude areas from critical habitat designations by considering economic and national security impacts.
+- **March 31**: Endangered Species Committee unanimously [exempts](https://www.reuters.com/business/energy/us-may-exempt-gulf-mexico-drillers-protecting-endangered-species-2026-03-31/) Gulf of Mexico oil and gas operations from certain requirements of ​the Endangered Species Act, citing national security and domestic energy needs (first ESA exception in three decades)
+- **July 10**: Trump admin [finalizes](https://www.reuters.com/legal/litigation/trump-administration-rule-weakens-protections-threatened-species-2026-07-10/) a rule removing habitat destruction from the regulatory definition of "harm" ‌under the ⁠ESA. The change allows habitat modification so long as protected animals are not directly injured or killed.
+- **July 17**: Trump admin finalizes additional ESA regulatory changes, ending automatic protections for newly listed threatened species and making it easier for regulators to consider economic and national ​security concerns when designating ​critical habitat.
+- **September 4, 2026**: Trump ⁠signs executive order directing the Interior Department to determine whether gray wolves and Mexican wolves qualify for delisting or down listing under the ESA and to begin the process if so.
+- **September 9**: Twenty states + D.C., sue the ​admin, challenging the ⁠revised definition of "harm" and other ESA rule changes that they say unlawfully weaken protections for endangered and threatened species.
+- **September 14**: Internal US Fish and Wildlife Service memo instructs agency to ⁠adopt a ​narrower interpretation of the ESA's prohibition on "take" following repeal of ​the harm rule, saying a prohibited take occurs only when intentionally directed at a particular animal, potentially limiting enforcement.
 
