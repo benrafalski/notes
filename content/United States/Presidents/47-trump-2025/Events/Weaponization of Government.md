@@ -38,9 +38,10 @@ CNN, ABC, CBS, Fox News and NBC make up the primary White House television pool.
 In September 2026, Trump banned CNN, MS NOW and Politico from the White House in his latest [threat to the independent press](https://www.reuters.com/world/us/trump-bans-media-outlets-cnn-msnow-politico-white-house-2026-09-18/). Trump accused the outlets of "reporting FAKE NEWS" and said they "shouldn't be able to constantly write or report FICTION and LIES when they're covering the President of the United States."
 #### Lawsuit
 - Case:
-- Judge
+- Judge: Judge Timothy Kelly in D.C., Trump appointee
 - Timeline
-	- September 21, 2026: CNN, MS NOW and Politico sue Trump and other admin officials for banning them from the White House grounds, saying the action violated their rights to free speech ​and a free press under the First Amendment. The outlets asked for a TRO to block Trump's action. 
+	- [September 21, 2026](https://www.reuters.com/world/cnn-ms-now-politico-file-lawsuit-against-trump-administration-over-white-house-2026-09-21/): CNN, MS NOW and Politico sue Trump and other admin officials for banning them from the White House grounds, saying the action violated their rights to free speech ​and a free press under the First Amendment. The outlets asked for a TRO to block Trump's action. 
+	- [September 23](https://www.reuters.com/world/judge-lifts-trumps-white-house-ban-cnn-ms-now-politico-2026-09-24/): Kelly grants TRO and orders administration to restore press passes immediately and bars ban's enforcement for 14 days. Kelly said two precedents from the US Court of Appeals for the District of Columbia Circuit made clear that journalists are entitled to due process before their press passes can be revoked and added that the White House had given the outlets a meaningful opportunity to ​contest the revocation of their access.
 # Free Speech
 - [Court rulings](https://www.reuters.com/legal/government/trump-vowed-bring-free-speech-back-judges-75-cases-ruled-that-he-has-stifled-it-2026-08-04/): Reuters review identifies 75 rulings against Trump administration among 93 cases decided on First-Amendment grounds , with Republican-appointed judges ruling against Trump in 10 of the 75 cases. During Biden there were 13 rulings of 27 against his admin on First Amendment grounds. 
 
