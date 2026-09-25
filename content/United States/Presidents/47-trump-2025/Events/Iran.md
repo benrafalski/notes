@@ -29,6 +29,7 @@
 - [September 15](https://www.reuters.com/world/middle-east/saudi-coalition-says-houthi-drone-destroyed-near-mecca-2026-09-16/): Saudi-Houthi violence intensifies sharply as Middle East conflict spreads, displacing100,000+ Yemenis .
 - [September 18-21](https://www.reuters.com/world/middle-east/houthis-push-control-yemen-highlands-trump-reported-have-called-off-airstrikes-2026-09-21/): Houthis fire on Saudi capitol Riyadh for the first time, striking their airport. Trump continues to refuse to strike Houthis, calling off strikes against Houthis as troops were loading bombs onto planes.
 - [September 22](https://www.reuters.com/world/middle-east/tehran-hints-hormuz-talks-with-us-leaders-gather-un-2026-09-22/): Trump threatens to annihilate Iran if they don't make a deal as the Houthis continue their advance in Yemen.
+- [September 24-25](https://www.reuters.com/world/middle-east/allies-unite-behind-saudi-arabia-houthis-step-up-attacks-2026-09-25/): Iranian airlines are banned from UAE, Oman, Iraq airspaces following US secondary sanctions pressure (Economic D-Day threats).
 
 
 

@@ -56,4 +56,5 @@ Served as ​the U.S. attorney for the Southern District of New York during Trum
 
 # Notes
 ## First Amendment
+- Suing [[Weaponization of Government#Iowa Pollster|Ann Selzer Pollster]]
 - Banning [[Weaponization of Government#CNN, MS NOW, Politico Ban|CNN, MS NOW, Politico]]

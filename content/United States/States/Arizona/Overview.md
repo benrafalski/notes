@@ -1,4 +1,9 @@
 # TODO
+## Videos
+- The Many Ills of Phoenix.: https://youtu.be/FlQ-L1p7N88?si=4wfUfKThd-MFt2le
+- Arizona: The Untold Story of America’s Most Extreme State: https://youtu.be/FlQ-L1p7N88?si=S4VdqfaAdsuMra1r
+- Arizona: From New Deal Fortress to Conservative Stronghold: https://youtu.be/9iIeqx1Xrok?si=HVk4QvgkRmxEw3XA
+## Topics
 - Hohokam 
 - Jack Swelling 
 	- Phoenix

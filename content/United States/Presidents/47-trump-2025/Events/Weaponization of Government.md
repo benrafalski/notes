@@ -42,8 +42,15 @@ In September 2026, Trump banned CNN, MS NOW and Politico from the White House in
 - Timeline
 	- [September 21, 2026](https://www.reuters.com/world/cnn-ms-now-politico-file-lawsuit-against-trump-administration-over-white-house-2026-09-21/): CNN, MS NOW and Politico sue Trump and other admin officials for banning them from the White House grounds, saying the action violated their rights to free speech ​and a free press under the First Amendment. The outlets asked for a TRO to block Trump's action. 
 	- [September 23](https://www.reuters.com/world/judge-lifts-trumps-white-house-ban-cnn-ms-now-politico-2026-09-24/): Kelly grants TRO and orders administration to restore press passes immediately and bars ban's enforcement for 14 days. Kelly said two precedents from the US Court of Appeals for the District of Columbia Circuit made clear that journalists are entitled to due process before their press passes can be revoked and added that the White House had given the outlets a meaningful opportunity to ​contest the revocation of their access.
+	- [September 24](https://www.reuters.com/world/cnn-politico-ms-now-seek-court-hearing-after-being-barred-white-house-court-2026-09-24/): CNN, MS NOW, Politico seek emergency court hearing after being barred from White House despite Kelly's order.
 # Free Speech
 - [Court rulings](https://www.reuters.com/legal/government/trump-vowed-bring-free-speech-back-judges-75-cases-ruled-that-he-has-stifled-it-2026-08-04/): Reuters review identifies 75 rulings against Trump administration among 93 cases decided on First-Amendment grounds , with Republican-appointed judges ruling against Trump in 10 of the 75 cases. During Biden there were 13 rulings of 27 against his admin on First Amendment grounds. 
+## Iowa Pollster
+### Lawsuit
+- Case
+- Judge: Judge Scott Beattie
+- Timeline
+	- [September 23, 2026](https://www.reuters.com/legal/government/judge-dismisses-trump-lawsuit-against-iowa-newspaper-pollster-2026-09-23/): Judge Beattie dismissed Trump's ‌lawsuit against the Des Moines Register newspaper and pollster J. Ann Selzer, saying a poll was legally protected speech. He also ruled that Trump's lawsuit did not fit the state fraud statutes he sued under.
 
 
 # Political Enemies

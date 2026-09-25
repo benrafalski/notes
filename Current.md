@@ -24,136 +24,133 @@
 
 [My News](https://www.reuters.com/my-news/feed/)
 
-[](https://www.reuters.com/account/sign-in/?website=reuters&redirect=https%3A%2F%2Fwww.reuters.com%2Flegal%2Fgovernment%2Ftrump-administration-admit-primarily-afrikaners-under-new-refugee-proposal-2026-09-22%2F)[](https://www.reuters.com/account/subscribe/offer/?website=reuters&redirect=https%3A%2F%2Fwww.reuters.com%2Flegal%2Fgovernment%2Ftrump-administration-admit-primarily-afrikaners-under-new-refugee-proposal-2026-09-22%2F&referrer=subscription_button&journeyStart=navigation)
+[](https://www.reuters.com/account/sign-in/?website=reuters&redirect=https%3A%2F%2Fwww.reuters.com%2Fworld%2Fcnn-politico-ms-now-seek-court-hearing-after-being-barred-white-house-court-2026-09-24%2F)[](https://www.reuters.com/account/subscribe/offer/?website=reuters&redirect=https%3A%2F%2Fwww.reuters.com%2Fworld%2Fcnn-politico-ms-now-seek-court-hearing-after-being-barred-white-house-court-2026-09-24%2F&referrer=subscription_button&journeyStart=navigation)
 
-# Trump administration to admit primarily Afrikaners under new refugee proposal
+# CNN, Politico, MS NOW seek court hearing after being barred from White House, court filing says
 
 By Reuters
 
-September 22, 20263:36 PM PDTUpdated September 22, 2026
+September 24, 20267:19 AM PDTUpdated 23 hours ago
 
-![First group of White South Africans under U.S. Under Trump's Refugee plan, arrives in Dulles](https://www.reuters.com/resizer/v2/NJOHFESP6VMOXFACAL54LIE6RA.jpg?auth=1f64a857555b8748024c9990a152a6cf233bdb9da3aaafa5773e2e5b7490d2b2&width=1920&quality=80)
+- Companies
 
-A U.S. State Department official helps people from the first group of white South Africans granted refugee status for being deemed victims of racial discrimination under U.S. President Trump's Refugee plan, check in for a connecting flight, at Dulles International Airport, in Dulles, Virginia, U.S., May 12, 2025. REUTERS/Jonathan... [Purchase Licensing Rights, opens new tab](https://www.reutersconnect.com/item/first-group-of-white-south-africans-under-us-under-trumps-refugee-plan-arrives-in-dulles/dGFnOnJldXRlcnMuY29tLDIwMjU6bmV3c21sX1JDMktHRUFBSTc5NA%3D%3D/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead) Read more
+- [
+    
+    Paramount Skydance Corp
+    
+    ](https://www.reuters.com/company/paramount-skydance-corp/)
+    
+- [
+    
+    Versant Media Group Inc
+    
+    ](https://www.reuters.com/company/versant-media-group-inc/)
+    
 
-- Summary
+Item 1 of 3 The CNN booth at the White House after US President Donald Trump announced he would ban CNN, MS NOW, and Politico from the White House in Washington, D.C., US, September 18, 2026. REUTERS/Evan Vucci/File Photo
 
-- Refugee admissions ceiling would be 17,500 over next 12 months, congressional notice shows
-- Admissions will consist 'primarily' of Afrikaners from South Africa, notice says
-- Resettlement is ​expected to cost about $500 million
+**[1/3]**The CNN booth at the White House after US President Donald Trump announced he would ban CNN, MS NOW, and Politico from the White House in Washington, D.C., US, September 18, 2026. REUTERS/Evan Vucci/File Photo [Purchase Licensing Rights, opens new tab](https://www.reutersconnect.com/item/the-cnn-booth-at-the-white-house-after-us-president-donald-trump-announced-he-would-ban-cnn-ms-now-and-politico-from-the-white-house/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1JDMlhMTkE5SDdHOA%3D%3D/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead)
 
-SAN FRANCISCO, Sept 22 (Reuters) - The Trump administration ‌plans to set a refugee admissions ceiling of 17,500 over the next 12 months consisting "primarily" of [South Africans](https://www.reuters.com/world/africa/trump-poised-expand-refugee-program-white-south-africans-2026-04-23/) from the country's white Afrikaner ethnic minority, according to ​a notice sent to Congress on Tuesday.
+WASHINGTON, Sept 24 (Reuters) - The news ​outlets CNN, Politico, ‌and MS NOW said ​in a ​Thursday court filing that ⁠President ​Donald Trump’s administration ​has not yet complied with an ​overnight ​court order to restore ‌their ⁠access to the White House grounds ​and ​asked ⁠the judge who ​issued the ​ruling ⁠to hold an emergency ⁠follow-up ​hearing.
 
-U.S. President [Donald Trump](https://www.reuters.com/world/us/donald-trump/) has claimed ​Afrikaners [face persecution](https://www.reuters.com/world/us/trump-says-white-south-africans-are-persecuted-some-are-returning-better-life-2026-03-11/) based on their race in the Black-majority ⁠country, allegations the South African government has denied.
+The Misinformation Monitor newsletter rounds up international misinformation narratives, with a "Real or Fake?" quiz in every edition. Sign up [here.](https://www.reuters.com/newsletters/misinformation-monitor/?location=article-paragraph&redirectUrl=%2Fworld%2Fcnn-politico-ms-now-seek-court-hearing-after-being-barred-white-house-court-2026-09-24%2F)
 
-Jumpstart your morning with the latest legal news delivered straight to your inbox from The Daily Docket newsletter. Sign up [here.](https://www.reuters.com/newsletters/daily-docket/?location=article-paragraph&redirectUrl=%2Flegal%2Fgovernment%2Ftrump-administration-admit-primarily-afrikaners-under-new-refugee-proposal-2026-09-22%2F)
-
-Trump paused all US refugee ​admissions when he took office in January 2025, saying they would only ​be restarted if it was in the country's best interests. Weeks later, he launched an effort to bring in Afrikaners, sparking criticism from refugee advocates who decried ​the exclusion of people of other nationalities fleeing persecution and violence.
-
-The ​notice sent by the State Department to congressional officials said it "anticipates that Afrikaners from ‌South ⁠Africa will fully assimilate into the United States in a manner that preserves taxpayer resources for US citizens."
-
-Resettlement under the proposed ceiling is expected to cost approximately $500 million, the notice said.
-
-All but three of the nearly ​3,000 people admitted ​as refugees in ⁠the current fiscal year ending September 30, 2026, were South Africans, according to State Department data through ​August.
-
-In fiscal year 2024, by contrast, the Biden administration ​brought in ⁠more than 100,000 refugees from dozens of countries.
-
-“A refugee program that centers one group and sidelines all others is an abdication of our global ⁠humanitarian leadership ​and an abandonment of thousands of vulnerable ​families,” Krish O’Mara Vignarajah, president and CEO of Global Refuge, said in a statement.
-
-Reporting by ​Kristina Cooke in San Francisco; Editing by Jesse Mesner-Hage and Jamie Freed
+Reporting by ​Jan Wolfe; Editing ​by Doina Chiacu
 
 Our Standards: [The Thomson Reuters Trust Principles., opens new tab](https://www.thomsonreuters.com/en/about-us/trust-principles.html)
 
 - Suggested Topics:
-- [](https://www.reuters.com/legal/government/)
-- [](https://www.reuters.com/legal/immigration/)
+- [](https://www.reuters.com/business/media-telecom/)
+- [](https://www.reuters.com/legal/constitutional-law/)
 - [](https://www.reuters.com/legal/public-policy/)
-- [](https://www.reuters.com/legal/civil-rights/)
 
 [](https://www.reutersagency.com/en/licensereuterscontent/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead)
 
-## Read Next / Editor's Picks
+## Read Next
 
-- [Governmentcategory](https://www.reuters.com/legal/government/)
+- [Legalcategory](https://www.reuters.com/legal/)
     
-    [Trump ramps up noncitizen voting prosecutions ahead of midterms](https://www.reuters.com/legal/government/trump-ramps-up-noncitizen-voting-prosecutions-ahead-midterms-2026-09-23/)
-    
-    [
-    
-    ](https://www.reuters.com/legal/government/trump-ramps-up-noncitizen-voting-prosecutions-ahead-midterms-2026-09-23/)
-    
-- [Governmentcategory](https://www.reuters.com/legal/government/)
-    
-    [Judge appears open to blocking Trump's transgender-related limits on HIV funding](https://www.reuters.com/legal/government/judge-appears-open-blocking-trumps-transgender-related-limits-hiv-funding-2026-09-23/)
+    [Why the court fight over the White House media ban isn't over](https://www.reuters.com/legal/government/why-court-fight-over-white-house-media-ban-isnt-over-2026-09-25/)
     
     [
     
-    ](https://www.reuters.com/legal/government/judge-appears-open-blocking-trumps-transgender-related-limits-hiv-funding-2026-09-23/)
+    ](https://www.reuters.com/legal/government/why-court-fight-over-white-house-media-ban-isnt-over-2026-09-25/)
     
-- [Worldcategory](https://www.reuters.com/world/)
+- [Media & Telecomcategory](https://www.reuters.com/business/media-telecom/)
     
-    EXCLUSIVE
-    
-    [Hacked FBI data has sensitive information about employees’ intelligence roles](https://www.reuters.com/world/hacked-fbi-data-has-sensitive-information-about-employees-intelligence-roles-2026-09-23/)
+    [White House reinstates access to CNN, MS NOW and Politico following judge's order](https://www.reuters.com/business/media-telecom/politico-denied-access-white-house-after-judges-order-news-outlet-says-2026-09-24/)
     
     [
     
-    ](https://www.reuters.com/world/hacked-fbi-data-has-sensitive-information-about-employees-intelligence-roles-2026-09-23/)
+    ](https://www.reuters.com/business/media-telecom/politico-denied-access-white-house-after-judges-order-news-outlet-says-2026-09-24/)
+    
+- [Financecategory](https://www.reuters.com/business/finance/)
+    
+    [Fed's Schmid: Need to understand if AI "ecosystem" getting too big to fail](https://www.reuters.com/business/finance/feds-schmid-need-understand-if-ai-ecosystem-getting-too-big-fail-2026-09-25/)
+    
+    [
+    
+    ](https://www.reuters.com/business/finance/feds-schmid-need-understand-if-ai-ecosystem-getting-too-big-fail-2026-09-25/)
     
 - [
     
-    ](https://www.reuters.com/legal/government/second-judge-finds-trumps-epa-unlawfully-nixed-7-billion-solar-grant-program-2026-09-23/)
+    ](https://www.reuters.com/business/media-telecom/frances-prestigious-goncourt-prize-drops-novel-after-author-accused-using-ai-2026-09-25/)
     
 - [
     
-    ](https://www.reuters.com/legal/government/us-says-it-canceled-315000-obamacare-policies-last-month-2026-09-22/)
+    ](https://www.reuters.com/legal/government/tv-networks-resume-coverage-trump-events-cnn-says-2026-09-25/)
     
 - [
     
-    ](https://www.reuters.com/legal/government/us-appeals-court-backs-missouris-republican-drawn-congressional-map-sets-up-2026-09-21/)
-    
-- [
-    
-    ](https://www.reuters.com/legal/government/us-expands-its-prosecution-2021-assassination-haitis-president-2026-09-22/)
-    
-- [
-    
-    ](https://www.reuters.com/legal/transactional/critics-say-california-got-too-little-deal-let-paramount-buy-warner-bros-2026-09-21/)
-    
-- [
-    
-    ](https://www.reuters.com/world/cnn-ms-now-politico-file-lawsuit-against-trump-administration-over-white-house-2026-09-21/)
-    
-- [
-    
-    ](https://www.reuters.com/legal/government/banned-white-house-outlets-cover-trump-un-court-hearing-looms-2026-09-22/)
-    
-- [
-    
-    ](https://www.reuters.com/legal/government/trump-administration-sued-over-withheld-federal-grants-us-community-lenders-2026-09-21/)
-    
-- [
-    
-    ](https://www.reuters.com/legal/litigation/california-governor-signs-broad-data-center-oversight-bill-package-2026-09-21/)
-    
-- [
-    
-    ](https://www.reuters.com/world/new-york-sues-polymarket-says-it-ran-illegal-gambling-operation-2026-09-24/)
-    
-- [
-    
-    ](https://www.reuters.com/world/cnn-politico-ms-now-seek-court-hearing-after-being-barred-white-house-court-2026-09-24/)
-    
-- [
-    
-    ](https://www.reuters.com/world/us-seek-supreme-court-relief-after-court-blocked-third-country-removals-blanche-2026-09-24/)
-    
-- [
-    
-    ](https://www.reuters.com/legal/litigation/trump-rolled-back-regulations-oil-company-campaign-donors-democrats-say-2026-09-24/)
+    ](https://www.reuters.com/business/media-telecom/lumen-technologies-move-stock-listing-nasdaq-2026-09-25/)
     
 
 [](https://www.lseg.com/en/data-analytics/products/workspace?utm_source=reuters.com&utm_medium=articlebanner&utm_campaign=Reuters_ProductPage_Links)
+
+## [World](https://www.reuters.com/world/)
+
+- [
+    
+    ](https://www.reuters.com/world/middle-east/un-expands-list-companies-linked-israeli-settlements-2026-09-25/)
+    
+    ### [UN expands list of companies linked to Israeli settlements](https://www.reuters.com/world/middle-east/un-expands-list-companies-linked-israeli-settlements-2026-09-25/)
+    
+    [Middle Eastcategory](https://www.reuters.com/world/middle-east/) · September 25, 2026 · 7:48 AM PDT · 9 mins ago
+    
+    The United Nations human rights office issued a ​list on Friday adding 61 more companies operating in Israeli West Bank settlements, which the global body ‌considers illegal.
+    
+- [
+    
+    ](https://www.reuters.com/world/russia-can-restart-80-black-sea-grain-export-terminals-if-attacks-stop-2026-09-25/)
+    
+    [Worldcategory](https://www.reuters.com/world/)[Russia can restart 80% of Black Sea grain export terminals if attacks stop](https://www.reuters.com/world/russia-can-restart-80-black-sea-grain-export-terminals-if-attacks-stop-2026-09-25/)
+    
+    7:44 AM PDT
+    
+- [
+    
+    ](https://www.reuters.com/business/finance/man-city-found-guilty-all-one-115-charges-reports-say-2026-09-25/)
+    
+    [category](https://www.reuters.com/business/)[Man City found guilty on all but one of 115 charges, reports say](https://www.reuters.com/business/finance/man-city-found-guilty-all-one-115-charges-reports-say-2026-09-25/)
+    
+    7:21 AM PDT
+    
+- [
+    
+    ](https://www.reuters.com/world/americas/nearly-15-million-displaced-haiti-violence-spreads-un-says-2026-09-25/)
+    
+    [Americascategory](https://www.reuters.com/world/americas/)[Nearly 1.5 million displaced in Haiti as violence spreads, UN says](https://www.reuters.com/world/americas/nearly-15-million-displaced-haiti-violence-spreads-un-says-2026-09-25/)
+    
+    7:16 AM PDT
+    
+- [
+    
+    ](https://www.reuters.com/world/slovak-pm-fico-says-government-may-lose-majority-over-spat-coalition-partner-2026-09-25/)
+    
+    [Worldcategory](https://www.reuters.com/world/)[Slovak PM Fico says government may lose majority over spat in coalition partner](https://www.reuters.com/world/slovak-pm-fico-says-government-may-lose-majority-over-spat-coalition-partner-2026-09-25/)
+    
+    7:08 AM PDT
+    
 
 ### Site Index
 
@@ -247,6 +244,7 @@ Reuters, the news and media division of Thomson Reuters, is the world’s larges
 - [Corrections](https://www.reuters.com/info-pages/contact-us/)
 - [Data Disclosure and Sources, opens new tab](https://www.reuters.com/info-pages/data-disclosure-and-sources/)
 - [Site Feedback, opens new tab](https://trdigital.iad1.qualtrics.com/jfe/form/SV_8kte8gArGyCGVhz)
+- Manage Cookies & Your Privacy Choices
 
 All quotes delayed a minimum of 15 minutes. [See here for a list of exchanges and delays.](https://www.reuters.com/info-pages/disclaimer/)
 
