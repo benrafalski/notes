@@ -193,4 +193,11 @@ On March 9, 2025, Columbia grad student and Palestinian refugee with permanent U
 - Federal Judge: Susan Illston in San Francisco, Clinton appointed
 - Timeline
 	- [September 12, 2026](https://www.reuters.com/legal/government/us-judge-rules-that-trump-plan-halve-fema-workforce-violated-law-2026-09-12/): Judge Illston rules that DHS broke the law by ordering FEMA to cut its workforce in half, saying they acted unlawfully by usurping FEMA's authority. While FEMA is part of DHS, a federal law adopted after Hurricane Katrina in ​2005 says the department "may not substantially or significantly reduce (FEMA's) authorities, responsibilities, or functions." Illston also said ​deleted DHS Signal chat messages would have been relevant to the lawsuit and that moving forward she would presume "that the lost Signal messages would have been unfavorable to Defendants because they ​would have been further evidence" of unlawful conduct.
-- 
+
+
+# Usurping Congressional Power
+## Pocket Rescission
+### August 2025
+Trump sent a letter to House Speaker Mike Johnson that he plans to unilaterally cancel [$4.9 billion](https://www.reuters.com/legal/government/trump-cancels-49-billion-foreign-aid-escalating-spending-fight-with-congress-2025-08-29/) in foreign aid by withholding funding for 15 international programs. The money at issue was earmarked for foreign aid, United Nations peacekeeping operations, and democracy-promotion efforts overseas. Budget director Russell Vought argued that Trump can withhold funds for 45 days, which would run out the clock until the end of the fiscal year on September 30, a tactic last used in 1977.
+### September 2026
+Trump used pocket rescission to withhold more than [$800 million](https://www.reuters.com/legal/government/trump-seeks-withhold-800-million-congress-approved-funds-2026-09-26/) in spending on immigration, ​race and education that Congress has approved to "cut wasteful ​and harmful government spending."

@@ -24,85 +24,107 @@
 
 [My News](https://www.reuters.com/my-news/feed/)
 
-[](https://www.reuters.com/account/sign-in/?website=reuters&redirect=https%3A%2F%2Fwww.reuters.com%2Fworld%2Fcnn-politico-ms-now-seek-court-hearing-after-being-barred-white-house-court-2026-09-24%2F)[](https://www.reuters.com/account/subscribe/offer/?website=reuters&redirect=https%3A%2F%2Fwww.reuters.com%2Fworld%2Fcnn-politico-ms-now-seek-court-hearing-after-being-barred-white-house-court-2026-09-24%2F&referrer=subscription_button&journeyStart=navigation)
+[](https://www.reuters.com/account/sign-in/?website=reuters&redirect=https%3A%2F%2Fwww.reuters.com%2Fworld%2Fus-supreme-court-bars-republican-drawn-map-missouri-third-time-2026-09-25%2F)[](https://www.reuters.com/account/subscribe/offer/?website=reuters&redirect=https%3A%2F%2Fwww.reuters.com%2Fworld%2Fus-supreme-court-bars-republican-drawn-map-missouri-third-time-2026-09-25%2F&referrer=subscription_button&journeyStart=navigation)
 
-# CNN, Politico, MS NOW seek court hearing after being barred from White House, court filing says
+# US Supreme Court bars Republican-drawn map in Missouri for third time
 
-By Reuters
+By [Andrew Chung](https://www.reuters.com/authors/andrew-chung/)
 
-September 24, 20267:19 AM PDTUpdated 23 hours ago
+September 25, 20263:02 PM PDTUpdated 15 hours ago
 
-- Companies
+![The U.S. Supreme Court in Washington](https://www.reuters.com/resizer/v2/4KDVZCJSWZLQXBIOFJFTG4KECU.jpg?auth=2283310d369d291435fcdb71b86b843646facaac7283d038e8ad8e0314642aee&width=1920&quality=80)
 
-- [
-    
-    Paramount Skydance Corp
-    
-    ](https://www.reuters.com/company/paramount-skydance-corp/)
-    
-- [
-    
-    Versant Media Group Inc
-    
-    ](https://www.reuters.com/company/versant-media-group-inc/)
-    
+The U.S. Supreme Court in Washington, D.C., U.S., June 25, 2026. REUTERS/Elizabeth Frantz/File Photo [Purchase Licensing Rights, opens new tab](https://www.reutersconnect.com/item/the-us-supreme-court-in-washington/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1JDMjIxTUFRWEpPUQ%3D%3D/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead)
 
-Item 1 of 3 The CNN booth at the White House after US President Donald Trump announced he would ban CNN, MS NOW, and Politico from the White House in Washington, D.C., US, September 18, 2026. REUTERS/Evan Vucci/File Photo
+- Summary
 
-**[1/3]**The CNN booth at the White House after US President Donald Trump announced he would ban CNN, MS NOW, and Politico from the White House in Washington, D.C., US, September 18, 2026. REUTERS/Evan Vucci/File Photo [Purchase Licensing Rights, opens new tab](https://www.reutersconnect.com/item/the-cnn-booth-at-the-white-house-after-us-president-donald-trump-announced-he-would-ban-cnn-ms-now-and-politico-from-the-white-house/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1JDMlhMTkE5SDdHOA%3D%3D/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead)
+- At issue is disputed map of Missouri US House districts
+- Republican-drawn map erased a Democratic-held district
+- Missouri's top court blocked new map pending referendum
+- Dispute comes weeks before November midterm elections
 
-WASHINGTON, Sept 24 (Reuters) - The news ​outlets CNN, Politico, ‌and MS NOW said ​in a ​Thursday court filing that ⁠President ​Donald Trump’s administration ​has not yet complied with an ​overnight ​court order to restore ‌their ⁠access to the White House grounds ​and ​asked ⁠the judge who ​issued the ​ruling ⁠to hold an emergency ⁠follow-up ​hearing.
+Sept 25 (Reuters) - The [US Supreme Court](https://www.reuters.com/legal/us-supreme-court/), acting for a third time in a fierce battle over the makeup ​of Missouri's congressional districts, barred the state on Friday from using a redrawn map designed to favor Republicans in November's elections, a setback for ‌President [Donald Trump](https://www.reuters.com/world/us/donald-trump/)'s party as it fights to keep control of Congress.
 
-The Misinformation Monitor newsletter rounds up international misinformation narratives, with a "Real or Fake?" quiz in every edition. Sign up [here.](https://www.reuters.com/newsletters/misinformation-monitor/?location=article-paragraph&redirectUrl=%2Fworld%2Fcnn-politico-ms-now-seek-court-hearing-after-being-barred-white-house-court-2026-09-24%2F)
+The justices granted a request by the map's challengers, including a group called People Not Politicians, to suspend lower court decisions that had required the reconfigured US House of Representatives district boundaries to be used in the November 3 midterm elections.
 
-Reporting by ​Jan Wolfe; Editing ​by Doina Chiacu
+The Misinformation Monitor newsletter rounds up international misinformation narratives, with a "Real or Fake?" quiz in every edition. Sign up [here.](https://www.reuters.com/newsletters/misinformation-monitor/?location=article-paragraph&redirectUrl=%2Fworld%2Fus-supreme-court-bars-republican-drawn-map-missouri-third-time-2026-09-25%2F)
+
+The dispute, waged in both state and federal courts, has led to multiple conflicting court ​rulings, leaving Missouri's House districts in limbo as the legal wrangling raced back and forth to the top US judicial body. Absentee voting is already ​underway in Missouri.
+
+Reinstating the Republican-drawn map "in the midst of an ongoing election would usher in electoral chaos," the court said in an ⁠unsigned ruling. Given its two prior interventions, the latest order should "come as no surprise," the ruling added. No justice publicly dissented from the decision.
+
+The Supreme Court's latest action ​came after the St. Louis-based 8th US Circuit Court of Appeals on Monday ruled that the Republican-drawn map must be used — even though the Supreme Court had [blocked](https://www.reuters.com/world/us-supreme-court-blocks-republican-drawn-congressional-map-missouri-2026-09-10/) it on ​September 10, a decision thought to have settled the matter.
+
+The 8th Circuit upheld a temporary order by US District Judge Stephen Clark in St. Louis favoring the Republican map. But in doing so, the 8th Circuit ordered Clark, a Trump appointee, to make his temporary order permanent — a move that appeared to require renewed Supreme Court intervention.
+
+The challengers told the Supreme Court that the 8th ​Circuit panel that made the ruling, which included two judges appointed by Trump and one appointed by another Republican president, has undermined a September 10 decision by the ​justices, and urged quick correction.
+
+Richard von Glahn, the executive director of People Not Politicians Missouri, praised Friday's ruling.
+
+"We are done with corrupt politicians trying to force their map into effect outside ‌the process ⁠outlined in the Missouri constitution. We have said from the beginning, people, not politicians will be the final deciders on this DC power grab," von Glahn said in a statement.
+
+"After repeated legal victories defending Missouri's fair congressional map, today's decision throws Missouri voters into unnecessary uncertainty after they already cast their primary ballots," a spokesperson for the Republican National Committee said.
+
+Trump last year urged Republican-governed states to redraw the boundaries of their House districts to favor Republican candidates in order to boost the party's chances of maintaining ​its narrow majority in the House.
+
+Missouri Republicans ​in 2025 adopted their new map, ⁠which dismantled a Kansas City-based House district held by longtime Democratic Representative Emanuel Cleaver.
+
+The Missouri Supreme Court unanimously [ruled](https://www.reuters.com/legal/government/blow-trump-missouri-top-court-blocks-republican-drawn-congressional-map-2026-09-03/) on September 3 that under state law the Republican-drawn map could not be used in the midterms until it is first put to a voter ​referendum.
+
+Missouri officials asked the US Supreme Court to intervene to allow the map, but were [rebuffed](https://www.reuters.com/world/us-supreme-court-wont-reinstate-republican-drawn-congressional-map-missouri-2026-09-08/) on September 8 in a ​decision made by conservative ⁠Justice Brett Kavanaugh.
+
+Clark later that day issued his order barring any map except for the redrawn 2025 one because those congressional district lines were already used in Missouri's August 4 party primary elections. Clark acted in a lawsuit by Republican US Representative Bob Onder of Missouri and other plaintiffs after the unfavorable ruling by the state's top court.
+
+The US Supreme ⁠Court in ​turn blocked the redrawn map on September 10. No justice publicly dissented from that brief order, which ​was unsigned and gave no explanation.
+
+Following that action, Republican officials said the midterms would be held using the state's previous congressional map, passed in 2022. But the 8th Circuit proceeded with an appeal of Clark's ​temporary order, and on Monday it upheld Clark's decision, paving the way for the Supreme Court to act again.
+
+Adds comment from Republican National Committee spokesperson in paragraph 10
+
+Reporting by Andrew Chung; Editing by Will Dunham and Stephen Coates
 
 Our Standards: [The Thomson Reuters Trust Principles., opens new tab](https://www.thomsonreuters.com/en/about-us/trust-principles.html)
 
 - Suggested Topics:
-- [](https://www.reuters.com/business/media-telecom/)
+- [](https://www.reuters.com/legal/government/)
 - [](https://www.reuters.com/legal/constitutional-law/)
-- [](https://www.reuters.com/legal/public-policy/)
+- [](https://www.reuters.com/legal/judiciary/)
+- [](https://www.reuters.com/legal/supreme-court-of-the-united-states/)
+- [](https://www.reuters.com/legal/civil-rights/)
 
 [](https://www.reutersagency.com/en/licensereuterscontent/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead)
 
 ## Read Next
 
-- [Legalcategory](https://www.reuters.com/legal/)
+- [Governmentcategory](https://www.reuters.com/legal/government/)
     
-    [Why the court fight over the White House media ban isn't over](https://www.reuters.com/legal/government/why-court-fight-over-white-house-media-ban-isnt-over-2026-09-25/)
-    
-    [
-    
-    ](https://www.reuters.com/legal/government/why-court-fight-over-white-house-media-ban-isnt-over-2026-09-25/)
-    
-- [Media & Telecomcategory](https://www.reuters.com/business/media-telecom/)
-    
-    [White House reinstates access to CNN, MS NOW and Politico following judge's order](https://www.reuters.com/business/media-telecom/politico-denied-access-white-house-after-judges-order-news-outlet-says-2026-09-24/)
+    [Trump administration settles unions' legal challenge to mass layoffs during shutdown](https://www.reuters.com/legal/government/trump-administration-settles-unions-legal-challenge-mass-layoffs-during-shutdown-2026-09-25/)
     
     [
     
-    ](https://www.reuters.com/business/media-telecom/politico-denied-access-white-house-after-judges-order-news-outlet-says-2026-09-24/)
+    ](https://www.reuters.com/legal/government/trump-administration-settles-unions-legal-challenge-mass-layoffs-during-shutdown-2026-09-25/)
     
-- [Financecategory](https://www.reuters.com/business/finance/)
-    
-    [Fed's Schmid: Need to understand if AI "ecosystem" getting too big to fail](https://www.reuters.com/business/finance/feds-schmid-need-understand-if-ai-ecosystem-getting-too-big-fail-2026-09-25/)
+- [Senate approves mental health legislation for US pilots, air traffic controllers](https://www.reuters.com/business/healthcare-pharmaceuticals/us-senate-approves-legislation-address-pilot-air-traffic-control-mental-health-2026-09-25/)
     
     [
     
-    ](https://www.reuters.com/business/finance/feds-schmid-need-understand-if-ai-ecosystem-getting-too-big-fail-2026-09-25/)
+    ](https://www.reuters.com/business/healthcare-pharmaceuticals/us-senate-approves-legislation-address-pilot-air-traffic-control-mental-health-2026-09-25/)
+    
+- [Litigationcategory](https://www.reuters.com/legal/litigation/)
+    
+    [Americans navigate 'wild West' of health insurance options after dropping Obamacare plans](https://www.reuters.com/legal/litigation/americans-navigate-wild-west-health-insurance-options-after-dropping-obamacare-2026-09-25/)
+    
+    [
+    
+    ](https://www.reuters.com/legal/litigation/americans-navigate-wild-west-health-insurance-options-after-dropping-obamacare-2026-09-25/)
     
 - [
     
-    ](https://www.reuters.com/business/media-telecom/frances-prestigious-goncourt-prize-drops-novel-after-author-accused-using-ai-2026-09-25/)
+    ](https://www.reuters.com/legal/litigation/trumps-fda-pick-face-vaccine-abortion-pill-questions-us-senate-hearing-2026-09-24/)
     
 - [
     
-    ](https://www.reuters.com/legal/government/tv-networks-resume-coverage-trump-events-cnn-says-2026-09-25/)
-    
-- [
-    
-    ](https://www.reuters.com/business/media-telecom/lumen-technologies-move-stock-listing-nasdaq-2026-09-25/)
+    ](https://www.reuters.com/legal/government/judge-dismisses-trump-lawsuit-against-iowa-newspaper-pollster-2026-09-23/)
     
 
 [](https://www.lseg.com/en/data-analytics/products/workspace?utm_source=reuters.com&utm_medium=articlebanner&utm_campaign=Reuters_ProductPage_Links)
@@ -111,45 +133,45 @@ Our Standards: [The Thomson Reuters Trust Principles., opens new tab](https://ww
 
 - [
     
-    ](https://www.reuters.com/world/middle-east/un-expands-list-companies-linked-israeli-settlements-2026-09-25/)
+    ](https://www.reuters.com/sports/soccer/man-city-chairman-rallies-fans-after-reports-club-found-guilty-114-charges-2026-09-26/)
     
-    ### [UN expands list of companies linked to Israeli settlements](https://www.reuters.com/world/middle-east/un-expands-list-companies-linked-israeli-settlements-2026-09-25/)
+    ### [Man City chairman rallies fans after reports club found guilty of 114 charges](https://www.reuters.com/sports/soccer/man-city-chairman-rallies-fans-after-reports-club-found-guilty-114-charges-2026-09-26/)
     
-    [Middle Eastcategory](https://www.reuters.com/world/middle-east/) · September 25, 2026 · 7:48 AM PDT · 9 mins ago
+    [Sportscategory](https://www.reuters.com/sports/) · September 26, 2026 · 8:01 AM PDT · 41 mins ago
     
-    The United Nations human rights office issued a ​list on Friday adding 61 more companies operating in Israeli West Bank settlements, which the global body ‌considers illegal.
-    
-- [
-    
-    ](https://www.reuters.com/world/russia-can-restart-80-black-sea-grain-export-terminals-if-attacks-stop-2026-09-25/)
-    
-    [Worldcategory](https://www.reuters.com/world/)[Russia can restart 80% of Black Sea grain export terminals if attacks stop](https://www.reuters.com/world/russia-can-restart-80-black-sea-grain-export-terminals-if-attacks-stop-2026-09-25/)
-    
-    7:44 AM PDT
+    Manchester City chairman Khaldoon Al Mubarak said the club remained confident of proving their innocence, a day after media reports that City had been found guilty of 114 breaches ​of Premier League financial rules in the long-running case.
     
 - [
     
-    ](https://www.reuters.com/business/finance/man-city-found-guilty-all-one-115-charges-reports-say-2026-09-25/)
+    ](https://www.reuters.com/world/americas/trump-says-he-spoke-with-venezuelas-rodriguez-about-elections-2026-09-26/)
     
-    [category](https://www.reuters.com/business/)[Man City found guilty on all but one of 115 charges, reports say](https://www.reuters.com/business/finance/man-city-found-guilty-all-one-115-charges-reports-say-2026-09-25/)
+    [Americascategory](https://www.reuters.com/world/americas/)[Trump says he spoke with Venezuela's Rodriguez about elections](https://www.reuters.com/world/americas/trump-says-he-spoke-with-venezuelas-rodriguez-about-elections-2026-09-26/)
     
-    7:21 AM PDT
-    
-- [
-    
-    ](https://www.reuters.com/world/americas/nearly-15-million-displaced-haiti-violence-spreads-un-says-2026-09-25/)
-    
-    [Americascategory](https://www.reuters.com/world/americas/)[Nearly 1.5 million displaced in Haiti as violence spreads, UN says](https://www.reuters.com/world/americas/nearly-15-million-displaced-haiti-violence-spreads-un-says-2026-09-25/)
-    
-    7:16 AM PDT
+    7:53 AM PDT
     
 - [
     
-    ](https://www.reuters.com/world/slovak-pm-fico-says-government-may-lose-majority-over-spat-coalition-partner-2026-09-25/)
+    ](https://www.reuters.com/world/americas/trump-predicts-cuba-us-will-make-deal-2026-09-26/)
     
-    [Worldcategory](https://www.reuters.com/world/)[Slovak PM Fico says government may lose majority over spat in coalition partner](https://www.reuters.com/world/slovak-pm-fico-says-government-may-lose-majority-over-spat-coalition-partner-2026-09-25/)
+    [Americascategory](https://www.reuters.com/world/americas/)[Trump predicts Cuba and US will make a deal](https://www.reuters.com/world/americas/trump-predicts-cuba-us-will-make-deal-2026-09-26/)
     
-    7:08 AM PDT
+    7:39 AM PDT
+    
+- [
+    
+    ](https://www.reuters.com/world/china/china-pushes-back-against-us-iran-cuba-un-speech-2026-09-26/)
+    
+    [Chinacategory](https://www.reuters.com/world/china/)[China pushes back against US on Iran and Cuba in UN speech](https://www.reuters.com/world/china/china-pushes-back-against-us-iran-cuba-un-speech-2026-09-26/)
+    
+    7:18 AM PDT
+    
+- [
+    
+    ](https://www.reuters.com/world/africa/german-minister-calls-expedited-deportation-mass-border-crossings-2026-09-26/)
+    
+    [Africacategory](https://www.reuters.com/world/africa/)[German minister calls for expedited deportation in mass border crossings](https://www.reuters.com/world/africa/german-minister-calls-expedited-deportation-mass-border-crossings-2026-09-26/)
+    
+    7:06 AM PDT
     
 
 ### Site Index
@@ -244,7 +266,6 @@ Reuters, the news and media division of Thomson Reuters, is the world’s larges
 - [Corrections](https://www.reuters.com/info-pages/contact-us/)
 - [Data Disclosure and Sources, opens new tab](https://www.reuters.com/info-pages/data-disclosure-and-sources/)
 - [Site Feedback, opens new tab](https://trdigital.iad1.qualtrics.com/jfe/form/SV_8kte8gArGyCGVhz)
-- Manage Cookies & Your Privacy Choices
 
 All quotes delayed a minimum of 15 minutes. [See here for a list of exchanges and delays.](https://www.reuters.com/info-pages/disclaimer/)
 
