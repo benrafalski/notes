@@ -24,73 +24,59 @@
 
 [My News](https://www.reuters.com/my-news/feed/)
 
-[](https://www.reuters.com/account/sign-in/?website=reuters&redirect=https%3A%2F%2Fwww.reuters.com%2Fworld%2Fus-supreme-court-bars-republican-drawn-map-missouri-third-time-2026-09-25%2F)[](https://www.reuters.com/account/subscribe/offer/?website=reuters&redirect=https%3A%2F%2Fwww.reuters.com%2Fworld%2Fus-supreme-court-bars-republican-drawn-map-missouri-third-time-2026-09-25%2F&referrer=subscription_button&journeyStart=navigation)
+[](https://www.reuters.com/account/sign-in/?website=reuters&redirect=https%3A%2F%2Fwww.reuters.com%2Fworld%2Fus-appeals-court-declines-block-pentagons-blacklisting-anthropic-2026-09-25%2F)[](https://www.reuters.com/account/subscribe/offer/?website=reuters&redirect=https%3A%2F%2Fwww.reuters.com%2Fworld%2Fus-appeals-court-declines-block-pentagons-blacklisting-anthropic-2026-09-25%2F&referrer=subscription_button&journeyStart=navigation)
 
-# US Supreme Court bars Republican-drawn map in Missouri for third time
+# US appeals court upholds Pentagon's blacklisting of Anthropic
 
-By [Andrew Chung](https://www.reuters.com/authors/andrew-chung/)
+By Reuters
 
-September 25, 20263:02 PM PDTUpdated 15 hours ago
+September 25, 20268:20 AM PDTUpdated September 25, 2026
 
-![The U.S. Supreme Court in Washington](https://www.reuters.com/resizer/v2/4KDVZCJSWZLQXBIOFJFTG4KECU.jpg?auth=2283310d369d291435fcdb71b86b843646facaac7283d038e8ad8e0314642aee&width=1920&quality=80)
+![Anthropic's logo is seen in San Francisco](https://www.reuters.com/resizer/v2/QLEFYBXJABODZKBWONSKBDQULU.jpg?auth=f583c035b1e11336e9768578a2d44f4430adf64bde589b032b70a457c98efce9&width=1920&quality=80)
 
-The U.S. Supreme Court in Washington, D.C., U.S., June 25, 2026. REUTERS/Elizabeth Frantz/File Photo [Purchase Licensing Rights, opens new tab](https://www.reutersconnect.com/item/the-us-supreme-court-in-washington/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1JDMjIxTUFRWEpPUQ%3D%3D/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead)
+An Anthropic logo is displayed at Moscone Center during the Dreamforce 2026 technology summit in San Francisco, California, US, September 17, 2026. REUTERS/Carlos Barria/File Photo [Purchase Licensing Rights, opens new tab](https://www.reutersconnect.com/item/anthropics-logo-is-seen-in-san-francisco/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1JDMjlMTkFLOFVFUQ%3D%3D/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead)
 
 - Summary
+- Companies
 
-- At issue is disputed map of Missouri US House districts
-- Republican-drawn map erased a Democratic-held district
-- Missouri's top court blocked new map pending referendum
-- Dispute comes weeks before November midterm elections
+- Court finds Pentagon's concerns about battlefield readiness were reasonable
+- Pentagon blacklisted Anthropic after it refused to permit use in autonomous weapons, mass surveillance
+- Judges reject ​Anthropic's claim that the government retaliated against its AI safety views
 
-Sept 25 (Reuters) - The [US Supreme Court](https://www.reuters.com/legal/us-supreme-court/), acting for a third time in a fierce battle over the makeup ​of Missouri's congressional districts, barred the state on Friday from using a redrawn map designed to favor Republicans in November's elections, a setback for ‌President [Donald Trump](https://www.reuters.com/world/us/donald-trump/)'s party as it fights to keep control of Congress.
+NEW YORK, Sept 25 (Reuters) - A ‌federal appeals court upheld on Friday the Pentagon's blacklisting of Anthropic from military contracts, handing a victory to President Donald Trump and Defense Secretary Pete Hegseth in their battle with the AI startup over safety guardrails on its technology.
 
-The justices granted a request by the map's challengers, including a group called People Not Politicians, to suspend lower court decisions that had required the reconfigured US House of Representatives district boundaries to be used in the November 3 midterm elections.
+The 2-1 decision by ​the US Court of Appeals in Washington, D.C. came in a lawsuit by Anthropic challenging its March ​designation by the Pentagon as a national security supply chain risk, which the startup ⁠says has cost it billions of dollars in lost business and damaged its reputation ahead of a [highly anticipated ​initial public offering](https://www.reuters.com/business/ai-giant-anthropic-confidentially-files-us-ipo-2026-06-01/).
 
-The Misinformation Monitor newsletter rounds up international misinformation narratives, with a "Real or Fake?" quiz in every edition. Sign up [here.](https://www.reuters.com/newsletters/misinformation-monitor/?location=article-paragraph&redirectUrl=%2Fworld%2Fus-supreme-court-bars-republican-drawn-map-missouri-third-time-2026-09-25%2F)
+The Misinformation Monitor newsletter rounds up international misinformation narratives, with a "Real or Fake?" quiz in every edition. Sign up [here.](https://www.reuters.com/newsletters/misinformation-monitor/?location=article-paragraph&redirectUrl=%2Fworld%2Fus-appeals-court-declines-block-pentagons-blacklisting-anthropic-2026-09-25%2F)
 
-The dispute, waged in both state and federal courts, has led to multiple conflicting court ​rulings, leaving Missouri's House districts in limbo as the legal wrangling raced back and forth to the top US judicial body. Absentee voting is already ​underway in Missouri.
+The court's majority said it was reasonable for the Pentagon to designate Anthropic after it refused ​to allow its products to be used for autonomous weapons or mass surveillance. It rejected Anthropic's claim that the Pentagon had retaliated against it for its views on AI safety and ethics.
 
-Reinstating the Republican-drawn map "in the midst of an ongoing election would usher in electoral chaos," the court said in an ⁠unsigned ruling. Given its two prior interventions, the latest order should "come as no surprise," the ruling added. No justice publicly dissented from the decision.
+Siding with Hegseth's argument that Anthropic's safety restrictions could compromise military ​operations, the majority said: “The Secretary raises the deeply sobering prospect of overly constrained AI models shutting down unexpectedly ​and thus causing important military operations to fail," in an opinion by Judge Gregory Katsas.
 
-The Supreme Court's latest action ​came after the St. Louis-based 8th US Circuit Court of Appeals on Monday ruled that the Republican-drawn map must be used — even though the Supreme Court had [blocked](https://www.reuters.com/world/us-supreme-court-blocks-republican-drawn-congressional-map-missouri-2026-09-10/) it on ​September 10, a decision thought to have settled the matter.
+San Francisco-based Anthropic said in a statement ‌Friday ⁠that it respectfully disagrees with the decision but remains confident in its position and is considering its options, including review of the three-judge panel's decision by the full appeals court.
 
-The 8th Circuit upheld a temporary order by US District Judge Stephen Clark in St. Louis favoring the Republican map. But in doing so, the 8th Circuit ordered Clark, a Trump appointee, to make his temporary order permanent — a move that appeared to require renewed Supreme Court intervention.
+The White House and the Department of Defense did not immediately respond to emails seeking comment.
 
-The challengers told the Supreme Court that the 8th ​Circuit panel that made the ruling, which included two judges appointed by Trump and one appointed by another Republican president, has undermined a September 10 decision by the ​justices, and urged quick correction.
+A federal judge in San Francisco last month [struck down a parallel designation](https://www.reuters.com/legal/government/us-judge-blocks-pentagons-anthropic-blacklisting-2026-08-28/) ​under a different law, finding ​the administration had unlawfully ⁠retaliated against Anthropic for its views on AI safety. US District Judge Rita Lin in San Francisco also blocked Trump's government-wide ban on Anthropic and Hegseth's order barring ​military contractors from doing any business with the startup.
 
-Richard von Glahn, the executive director of People Not Politicians Missouri, praised Friday's ruling.
+Hegseth designated Anthropic as a risk ​under two ⁠different laws after Anthropic refused to remove guardrails against its technology being used for autonomous weapons or mass domestic surveillance.
 
-"We are done with corrupt politicians trying to force their map into effect outside ‌the process ⁠outlined in the Missouri constitution. We have said from the beginning, people, not politicians will be the final deciders on this DC power grab," von Glahn said in a statement.
+The unprecedented move came after [months of negotiations](https://www.reuters.com/legal/litigation/anthropics-case-against-government-what-ai-company-says-happened-2026-03-09/) ended in failure and public recriminations by Hegseth and Trump, who accused Anthropic ⁠of ​endangering American lives with ideological posturing.
 
-"After repeated legal victories defending Missouri's fair congressional map, today's decision throws Missouri voters into unnecessary uncertainty after they already cast their primary ballots," a spokesperson for the Republican National Committee said.
+Anthropic denied that characterization and said ​AI is not yet reliable enough to be safely used in autonomous weapons. The company also said it opposes domestic surveillance as a ​violation of fundamental rights.
 
-Trump last year urged Republican-governed states to redraw the boundaries of their House districts to favor Republican candidates in order to boost the party's chances of maintaining ​its narrow majority in the House.
+Adds context in paragraph 1 and 7-10, government requests for comment in 6
 
-Missouri Republicans ​in 2025 adopted their new map, ⁠which dismantled a Kansas City-based House district held by longtime Democratic Representative Emanuel Cleaver.
-
-The Missouri Supreme Court unanimously [ruled](https://www.reuters.com/legal/government/blow-trump-missouri-top-court-blocks-republican-drawn-congressional-map-2026-09-03/) on September 3 that under state law the Republican-drawn map could not be used in the midterms until it is first put to a voter ​referendum.
-
-Missouri officials asked the US Supreme Court to intervene to allow the map, but were [rebuffed](https://www.reuters.com/world/us-supreme-court-wont-reinstate-republican-drawn-congressional-map-missouri-2026-09-08/) on September 8 in a ​decision made by conservative ⁠Justice Brett Kavanaugh.
-
-Clark later that day issued his order barring any map except for the redrawn 2025 one because those congressional district lines were already used in Missouri's August 4 party primary elections. Clark acted in a lawsuit by Republican US Representative Bob Onder of Missouri and other plaintiffs after the unfavorable ruling by the state's top court.
-
-The US Supreme ⁠Court in ​turn blocked the redrawn map on September 10. No justice publicly dissented from that brief order, which ​was unsigned and gave no explanation.
-
-Following that action, Republican officials said the midterms would be held using the state's previous congressional map, passed in 2022. But the 8th Circuit proceeded with an appeal of Clark's ​temporary order, and on Monday it upheld Clark's decision, paving the way for the Supreme Court to act again.
-
-Adds comment from Republican National Committee spokesperson in paragraph 10
-
-Reporting by Andrew Chung; Editing by Will Dunham and Stephen Coates
+Reporting by Jack Queen in New York, Editing by Franklin Paul, Ros Russell and Sanjeev Miglani
 
 Our Standards: [The Thomson Reuters Trust Principles., opens new tab](https://www.thomsonreuters.com/en/about-us/trust-principles.html)
 
 - Suggested Topics:
 - [](https://www.reuters.com/legal/government/)
-- [](https://www.reuters.com/legal/constitutional-law/)
-- [](https://www.reuters.com/legal/judiciary/)
-- [](https://www.reuters.com/legal/supreme-court-of-the-united-states/)
-- [](https://www.reuters.com/legal/civil-rights/)
+- [](https://www.reuters.com/legal/public-policy/)
+- [](https://www.reuters.com/legal/appellate/)
+- [](https://www.reuters.com/legal/corporate-counsel/)
+- [](https://www.reuters.com/legal/capital-markets/)
 
 [](https://www.reutersagency.com/en/licensereuterscontent/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead)
 
@@ -104,27 +90,33 @@ Our Standards: [The Thomson Reuters Trust Principles., opens new tab](https://ww
     
     ](https://www.reuters.com/legal/government/trump-administration-settles-unions-legal-challenge-mass-layoffs-during-shutdown-2026-09-25/)
     
-- [Senate approves mental health legislation for US pilots, air traffic controllers](https://www.reuters.com/business/healthcare-pharmaceuticals/us-senate-approves-legislation-address-pilot-air-traffic-control-mental-health-2026-09-25/)
+- [Worldcategory](https://www.reuters.com/world/)
+    
+    [Florida pastor accused of role in Haitian president's assassination goes on trial](https://www.reuters.com/world/americas/florida-pastor-accused-role-haitian-presidents-assassination-goes-trial-2026-09-28/)
     
     [
     
-    ](https://www.reuters.com/business/healthcare-pharmaceuticals/us-senate-approves-legislation-address-pilot-air-traffic-control-mental-health-2026-09-25/)
+    ](https://www.reuters.com/world/americas/florida-pastor-accused-role-haitian-presidents-assassination-goes-trial-2026-09-28/)
     
-- [Litigationcategory](https://www.reuters.com/legal/litigation/)
+- [Governmentcategory](https://www.reuters.com/legal/government/)
     
-    [Americans navigate 'wild West' of health insurance options after dropping Obamacare plans](https://www.reuters.com/legal/litigation/americans-navigate-wild-west-health-insurance-options-after-dropping-obamacare-2026-09-25/)
+    [Trump ramps up noncitizen voting prosecutions ahead of midterms](https://www.reuters.com/legal/government/trump-ramps-up-noncitizen-voting-prosecutions-ahead-midterms-2026-09-23/)
     
     [
     
-    ](https://www.reuters.com/legal/litigation/americans-navigate-wild-west-health-insurance-options-after-dropping-obamacare-2026-09-25/)
-    
-- [
-    
-    ](https://www.reuters.com/legal/litigation/trumps-fda-pick-face-vaccine-abortion-pill-questions-us-senate-hearing-2026-09-24/)
+    ](https://www.reuters.com/legal/government/trump-ramps-up-noncitizen-voting-prosecutions-ahead-midterms-2026-09-23/)
     
 - [
     
     ](https://www.reuters.com/legal/government/judge-dismisses-trump-lawsuit-against-iowa-newspaper-pollster-2026-09-23/)
+    
+- [
+    
+    ](https://www.reuters.com/business/healthcare-pharmaceuticals/us-senate-approves-legislation-address-pilot-air-traffic-control-mental-health-2026-09-25/)
+    
+- [
+    
+    ](https://www.reuters.com/legal/litigation/americans-navigate-wild-west-health-insurance-options-after-dropping-obamacare-2026-09-25/)
     
 
 [](https://www.lseg.com/en/data-analytics/products/workspace?utm_source=reuters.com&utm_medium=articlebanner&utm_campaign=Reuters_ProductPage_Links)
@@ -133,45 +125,45 @@ Our Standards: [The Thomson Reuters Trust Principles., opens new tab](https://ww
 
 - [
     
-    ](https://www.reuters.com/sports/soccer/man-city-chairman-rallies-fans-after-reports-club-found-guilty-114-charges-2026-09-26/)
+    ](https://www.reuters.com/world/italy-decree-limiting-foreign-pupils-classrooms-could-have-near-zero-impact-2026-09-28/)
     
-    ### [Man City chairman rallies fans after reports club found guilty of 114 charges](https://www.reuters.com/sports/soccer/man-city-chairman-rallies-fans-after-reports-club-found-guilty-114-charges-2026-09-26/)
+    ### [Italy decree limiting foreign pupils in classrooms could have near-zero impact](https://www.reuters.com/world/italy-decree-limiting-foreign-pupils-classrooms-could-have-near-zero-impact-2026-09-28/)
     
-    [Sportscategory](https://www.reuters.com/sports/) · September 26, 2026 · 8:01 AM PDT · 41 mins ago
+    [Worldcategory](https://www.reuters.com/world/) · September 28, 2026 · 7:54 AM PDT · 5 mins ago
     
-    Manchester City chairman Khaldoon Al Mubarak said the club remained confident of proving their innocence, a day after media reports that City had been found guilty of 114 breaches ​of Premier League financial rules in the long-running case.
-    
-- [
-    
-    ](https://www.reuters.com/world/americas/trump-says-he-spoke-with-venezuelas-rodriguez-about-elections-2026-09-26/)
-    
-    [Americascategory](https://www.reuters.com/world/americas/)[Trump says he spoke with Venezuela's Rodriguez about elections](https://www.reuters.com/world/americas/trump-says-he-spoke-with-venezuelas-rodriguez-about-elections-2026-09-26/)
-    
-    7:53 AM PDT
+    New rules to limit the number of foreign pupils in Italian classrooms, introduced by Prime Minister Giorgia Meloni, ​are set to affect at most just a few hundred children nationwide, ‌according to experts and a Reuters analysis of public data.
     
 - [
     
-    ](https://www.reuters.com/world/americas/trump-predicts-cuba-us-will-make-deal-2026-09-26/)
+    ](https://www.reuters.com/business/autos-transportation/us-says-gm-tech-costs-will-decline-by-204-billion-through-2031-because-lower-2026-09-28/)
     
-    [Americascategory](https://www.reuters.com/world/americas/)[Trump predicts Cuba and US will make a deal](https://www.reuters.com/world/americas/trump-predicts-cuba-us-will-make-deal-2026-09-26/)
+    [Businesscategory](https://www.reuters.com/business/)[US says GM tech costs will decline by $20.4 billion through 2031 because of lower emissions rules](https://www.reuters.com/business/autos-transportation/us-says-gm-tech-costs-will-decline-by-204-billion-through-2031-because-lower-2026-09-28/)
     
-    7:39 AM PDT
-    
-- [
-    
-    ](https://www.reuters.com/world/china/china-pushes-back-against-us-iran-cuba-un-speech-2026-09-26/)
-    
-    [Chinacategory](https://www.reuters.com/world/china/)[China pushes back against US on Iran and Cuba in UN speech](https://www.reuters.com/world/china/china-pushes-back-against-us-iran-cuba-un-speech-2026-09-26/)
-    
-    7:18 AM PDT
+    7:38 AM PDT
     
 - [
     
-    ](https://www.reuters.com/world/africa/german-minister-calls-expedited-deportation-mass-border-crossings-2026-09-26/)
+    ](https://www.reuters.com/business/russia-puts-german-retailer-metros-assets-under-temporary-administration-amid-2026-09-28/)
     
-    [Africacategory](https://www.reuters.com/world/africa/)[German minister calls for expedited deportation in mass border crossings](https://www.reuters.com/world/africa/german-minister-calls-expedited-deportation-mass-border-crossings-2026-09-26/)
+    [Businesscategory](https://www.reuters.com/business/)[Russia puts German retailer Metro's assets under temporary administration amid Ukraine tensions](https://www.reuters.com/business/russia-puts-german-retailer-metros-assets-under-temporary-administration-amid-2026-09-28/)
     
-    7:06 AM PDT
+    7:34 AM PDT
+    
+- [
+    
+    ](https://www.reuters.com/world/florida-asks-court-bar-openai-developing-new-models-part-child-harm-lawsuit-2026-09-28/)
+    
+    [Worldcategory](https://www.reuters.com/world/)[Florida asks court to bar OpenAI from developing new models as part of child harm lawsuit](https://www.reuters.com/world/florida-asks-court-bar-openai-developing-new-models-part-child-harm-lawsuit-2026-09-28/)
+    
+    7:28 AM PDT
+    
+- [
+    
+    ](https://www.reuters.com/world/us/fed-ig-flags-incident-employee-who-may-have-left-fed-with-confidential-2026-09-28/)
+    
+    [United Statescategory](https://www.reuters.com/world/us/)[Fed IG flags incident of employee who may have left Fed with confidential information](https://www.reuters.com/world/us/fed-ig-flags-incident-employee-who-may-have-left-fed-with-confidential-2026-09-28/)
+    
+    7:23 AM PDT
     
 
 ### Site Index
