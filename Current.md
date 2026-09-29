@@ -24,99 +24,134 @@
 
 [My News](https://www.reuters.com/my-news/feed/)
 
-[](https://www.reuters.com/account/sign-in/?website=reuters&redirect=https%3A%2F%2Fwww.reuters.com%2Fworld%2Fus-appeals-court-declines-block-pentagons-blacklisting-anthropic-2026-09-25%2F)[](https://www.reuters.com/account/subscribe/offer/?website=reuters&redirect=https%3A%2F%2Fwww.reuters.com%2Fworld%2Fus-appeals-court-declines-block-pentagons-blacklisting-anthropic-2026-09-25%2F&referrer=subscription_button&journeyStart=navigation)
+[](https://www.reuters.com/account/sign-in/?website=reuters&redirect=https%3A%2F%2Fwww.reuters.com%2Fworld%2Fchina%2Ftrump-wrap-up-xi-summit-with-tour-us-archives-2026-09-25%2F)[](https://www.reuters.com/account/subscribe/offer/?website=reuters&redirect=https%3A%2F%2Fwww.reuters.com%2Fworld%2Fchina%2Ftrump-wrap-up-xi-summit-with-tour-us-archives-2026-09-25%2F&referrer=subscription_button&journeyStart=navigation)
 
-# US appeals court upholds Pentagon's blacklisting of Anthropic
+# Trump, Xi end summit with tea, tour of US archives - and little sign of progress
 
-By Reuters
+By [Steve Holland](https://www.reuters.com/authors/steve-holland/) and [David Brunnstrom](https://www.reuters.com/authors/david-brunnstrom/)
 
-September 25, 20268:20 AM PDTUpdated September 25, 2026
+September 24, 202610:07 PM PDTUpdated September 26, 2026
 
-![Anthropic's logo is seen in San Francisco](https://www.reuters.com/resizer/v2/QLEFYBXJABODZKBWONSKBDQULU.jpg?auth=f583c035b1e11336e9768578a2d44f4430adf64bde589b032b70a457c98efce9&width=1920&quality=80)
-
-An Anthropic logo is displayed at Moscone Center during the Dreamforce 2026 technology summit in San Francisco, California, US, September 17, 2026. REUTERS/Carlos Barria/File Photo [Purchase Licensing Rights, opens new tab](https://www.reutersconnect.com/item/anthropics-logo-is-seen-in-san-francisco/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1JDMjlMTkFLOFVFUQ%3D%3D/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead)
+![How important is Chinese President Xi Jinping's trip to the US?](https://ajo.prod.reuters.tv/api/v2/img/6ab51653e4b0f50f5c3a3742-1790252637173?width=1080&quality=80)
 
 - Summary
-- Companies
 
-- Court finds Pentagon's concerns about battlefield readiness were reasonable
-- Pentagon blacklisted Anthropic after it refused to permit use in autonomous weapons, mass surveillance
-- Judges reject ​Anthropic's claim that the government retaliated against its AI safety views
+- Trump, Xi tout stability but few big summit breakthroughs
+- Taiwan looms as Trump takes Xi on National Archives tour
+- Focus will be Trump's post-summit comments on Taiwan
 
-NEW YORK, Sept 25 (Reuters) - A ‌federal appeals court upheld on Friday the Pentagon's blacklisting of Anthropic from military contracts, handing a victory to President Donald Trump and Defense Secretary Pete Hegseth in their battle with the AI startup over safety guardrails on its technology.
+WASHINGTON, Sept 25 (Reuters) - President [Donald Trump](https://www.reuters.com/world/us/donald-trump/) and Chinese President Xi Jinping drank tea at the White House and visited ​the National Archives on Friday, ending a three-day summit that showcased personal diplomacy rather than big public breakthroughs on a host of contentious issues.
 
-The 2-1 decision by ​the US Court of Appeals in Washington, D.C. came in a lawsuit by Anthropic challenging its March ​designation by the Pentagon as a national security supply chain risk, which the startup ⁠says has cost it billions of dollars in lost business and damaged its reputation ahead of a [highly anticipated ​initial public offering](https://www.reuters.com/business/ai-giant-anthropic-confidentially-files-us-ipo-2026-06-01/).
+Trump said "our farmers are going to ‌be happy" as a result of the talks but did not provide details.
 
-The Misinformation Monitor newsletter rounds up international misinformation narratives, with a "Real or Fake?" quiz in every edition. Sign up [here.](https://www.reuters.com/newsletters/misinformation-monitor/?location=article-paragraph&redirectUrl=%2Fworld%2Fus-appeals-court-declines-block-pentagons-blacklisting-anthropic-2026-09-25%2F)
+Make sense of global markets with the Trading Day newsletter. Sign up [here.](https://www.reuters.com/newsletters/trading-day/?location=article-paragraph&redirectUrl=%2Fworld%2Fchina%2Ftrump-wrap-up-xi-summit-with-tour-us-archives-2026-09-25%2F)
 
-The court's majority said it was reasonable for the Pentagon to designate Anthropic after it refused ​to allow its products to be used for autonomous weapons or mass surveillance. It rejected Anthropic's claim that the Pentagon had retaliated against it for its views on AI safety and ethics.
+"America is very happy about this visit, and I'm sure [China](https://www.reuters.com/world/china/) is very happy also," he said.
 
-Siding with Hegseth's argument that Anthropic's safety restrictions could compromise military ​operations, the majority said: “The Secretary raises the deeply sobering prospect of overly constrained AI models shutting down unexpectedly ​and thus causing important military operations to fail," in an opinion by Judge Gregory Katsas.
+Xi said the US-China relationship had developed into a constructive one of "strategic stability on the basis of respect, fairness and reciprocity."
 
-San Francisco-based Anthropic said in a statement ‌Friday ⁠that it respectfully disagrees with the decision but remains confident in its position and is considering its options, including review of the three-judge panel's decision by the full appeals court.
+The summit between the world's two largest economies featured military flyovers, ceremonial tours and a state dinner, but left unresolved major differences over trade, artificial intelligence, Taiwan and China's ties to ​Iran. Details of the limited trade agreements reached during the visit will be released on Monday, US Trade Representative Jamieson Greer said.
 
-The White House and the Department of Defense did not immediately respond to emails seeking comment.
+One tangible outcome of the visit was that the ​US and China agreed to extend by two months a trade truce that was due to expire on November 10, allowing more time to work ⁠on a potentially bigger trade deal.
 
-A federal judge in San Francisco last month [struck down a parallel designation](https://www.reuters.com/legal/government/us-judge-blocks-pentagons-anthropic-blacklisting-2026-08-28/) ​under a different law, finding ​the administration had unlawfully ⁠retaliated against Anthropic for its views on AI safety. US District Judge Rita Lin in San Francisco also blocked Trump's government-wide ban on Anthropic and Hegseth's order barring ​military contractors from doing any business with the startup.
+Greer told CNBC that [the US](https://www.reuters.com/world/us/) has agreed with [China](https://www.reuters.com/world/china/) on exempting some key goods from disputes over trade, including exports to China of agricultural products and medical devices and ​imports of consumer and non-sensitive goods.
 
-Hegseth designated Anthropic as a risk ​under two ⁠different laws after Anthropic refused to remove guardrails against its technology being used for autonomous weapons or mass domestic surveillance.
+Trump [highlighted progress](https://www.reuters.com/world/china/four-takeaways-trumps-summit-with-xi-washington-2026-09-24/) under a bilateral trade mechanism, citing what he described as increased market access for US farmers and ranchers, while both leaders identified AI as an area for ​dialogue.
 
-The unprecedented move came after [months of negotiations](https://www.reuters.com/legal/litigation/anthropics-case-against-government-what-ai-company-says-happened-2026-03-09/) ended in failure and public recriminations by Hegseth and Trump, who accused Anthropic ⁠of ​endangering American lives with ideological posturing.
+"In some ways, the best thing that we accomplished in this visit is to continue the conversation," US Ambassador to China David Perdue told Fox News' "America's Newsroom" program on Friday.
 
-Anthropic denied that characterization and said ​AI is not yet reliable enough to be safely used in autonomous weapons. The company also said it opposes domestic surveillance as a ​violation of fundamental rights.
+Trump announced in a social media post that he and Xi would meet twice more this year, in China in November for the Asia-Pacific Economic Cooperation forum and in Miami in December at a G20 summit.
 
-Adds context in paragraph 1 and 7-10, government requests for comment in 6
+"Much has been, and will be, accomplished," Trump said.
 
-Reporting by Jack Queen in New York, Editing by Franklin Paul, Ros Russell and Sanjeev Miglani
+## NATIONAL ARCHIVES TOUR
+
+After tea in the ​White House Red Room, Trump and Xi rode in limousines to the National Archives, where they reviewed the US Declaration of Independence, the Constitution and the Bill of Rights.
+
+Item 1 of 4 US President Donald Trump, first lady Melania Trump, Chinese President Xi Jinping and his wife Peng Liyuan chat outside the National Archives Museum in Washington, D.C., US, September 25, 2026. REUTERS/Kylie Cooper
+
+**[1/4]**US President Donald Trump, first lady Melania Trump, Chinese President Xi Jinping and his wife Peng Liyuan chat outside the National Archives Museum in Washington, D.C., US, September 25, 2026. REUTERS/Kylie Cooper [Purchase Licensing Rights, opens new tab](https://www.reutersconnect.com/item/us-president-donald-trump-and-chinas-president-xi-jinping-tour-the-national-archives-in-washington/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1JDMkdRTkExVzJUOA%3D%3D/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead)
+
+Asked about Iran, Trump said he and Xi had ​discussed it and that "I think we're going to do great," without elaborating. Beijing has denied [US allegations of helping](https://www.reuters.com/world/us/trump-told-xi-that-china-helping-iran-is-unacceptable-us-ambassador-says-2026-09-25/) Iran's leaders in the conflict launched by Trump in February.
+
+Perdue said in an interview with CNBC on Friday that ‌Trump reiterated ⁠to Xi that direct or indirect support for Iran was "totally unacceptable" and received assurances that China would not do so.
+
+Chinese state news agency Xinhua reported on Thursday that Xi had urged the US and Iran to return to negotiations to end the war, but Xi has not publicly commented on Chinese support for Iran.
+
+## CHINA PRESSES ON TAIWAN
+
+A key issue for Xi was the status of Taiwan.
+
+China claims democratically governed [Taiwan](https://www.reuters.com/world/taiwan/) as its own and Xi has long sought to persuade Trump to state publicly that the US opposes Taiwan's independence, rather than saying only that it does not support independence, which has been Washington's ​formulation for decades.
+
+He also wants the US to halt arms sales ​to the island.
+
+Xi pressed Trump on Taiwan ⁠on Thursday, saying he hoped the US would "handle the Taiwan question with prudence." China's state news agency also reported that Xi "hopes the US side will adhere to the correct position of opposing 'Taiwan independence'."
+
+While the US, like most countries, has no formal diplomatic relations with Taipei, Washington is its most important international ​backer and is bound by US law to provide it with the means to defend itself.
+
+Washington's Asian allies were watching closely to see how Trump ​talked about Taiwan following Xi's ⁠visit. As of Friday afternoon, he had said nothing substantive.
+
+After his May summit with Xi, Trump, whose administration in December approved an $11 billion arms sale package to Taiwan, said he was holding a second package, worth some $14 billion, in abeyance and described it as a "very good negotiating chip."
+
+On Thursday, Senate Democrats criticized Trump for failing to publicly address China's military pressure on Taiwan and called for the immediate delivery of approved military aid ⁠and arms sales ​to the island.
+
+Tom Christensen, a geopolitics expert at Washington’s Center for Strategic and International Studies, predicted that the current positive ​mood in the relationship would be temporary, given disputes over technology controls, rare earth exports, agricultural trade, Iran, Russia and Taiwan.
+
+"When I look a year out from now, I expect a lot of trouble in the relationship, even on the economic front," ​he said.
+
+Updates with summit over, paragraph 1, trade truce extended, paragraph 6, Trump plans to more Xi meetings this year, paragraphs 8-11
+
+Reporting by David Brunnstrom and Trevor Hunnicutt; Additional reporting by Patricia Zengerle and Simon Lewis; Writing by David Brunnstrom and Steve Holland; Editing by Don Durfee, Stephen Coates, Philippa Fletcher and Sanjeev Miglani
 
 Our Standards: [The Thomson Reuters Trust Principles., opens new tab](https://www.thomsonreuters.com/en/about-us/trust-principles.html)
 
 - Suggested Topics:
-- [](https://www.reuters.com/legal/government/)
-- [](https://www.reuters.com/legal/public-policy/)
-- [](https://www.reuters.com/legal/appellate/)
-- [](https://www.reuters.com/legal/corporate-counsel/)
-- [](https://www.reuters.com/legal/capital-markets/)
+- [](https://www.reuters.com/technology/artificial-intelligence/)
 
 [](https://www.reutersagency.com/en/licensereuterscontent/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead)
 
 ## Read Next
 
-- [Governmentcategory](https://www.reuters.com/legal/government/)
+- [Businesscategory](https://www.reuters.com/business/)
     
-    [Trump administration settles unions' legal challenge to mass layoffs during shutdown](https://www.reuters.com/legal/government/trump-administration-settles-unions-legal-challenge-mass-layoffs-during-shutdown-2026-09-25/)
+    EXCLUSIVE
     
-    [
-    
-    ](https://www.reuters.com/legal/government/trump-administration-settles-unions-legal-challenge-mass-layoffs-during-shutdown-2026-09-25/)
-    
-- [Worldcategory](https://www.reuters.com/world/)
-    
-    [Florida pastor accused of role in Haitian president's assassination goes on trial](https://www.reuters.com/world/americas/florida-pastor-accused-role-haitian-presidents-assassination-goes-trial-2026-09-28/)
+    [Anthropic's IPO prospectus shows sweeping AI vision, surging costs](https://www.reuters.com/business/finance/anthropics-ipo-prospectus-shows-sweeping-ai-vision-surging-costs-2026-09-28/)
     
     [
     
-    ](https://www.reuters.com/world/americas/florida-pastor-accused-role-haitian-presidents-assassination-goes-trial-2026-09-28/)
+    ](https://www.reuters.com/business/finance/anthropics-ipo-prospectus-shows-sweeping-ai-vision-surging-costs-2026-09-28/)
     
-- [Governmentcategory](https://www.reuters.com/legal/government/)
+- [Businesscategory](https://www.reuters.com/business/)
     
-    [Trump ramps up noncitizen voting prosecutions ahead of midterms](https://www.reuters.com/legal/government/trump-ramps-up-noncitizen-voting-prosecutions-ahead-midterms-2026-09-23/)
+    [China's AI agents can lie and scheme - just like their US rivals](https://www.reuters.com/business/retail-consumer/chinas-ai-agents-can-lie-scheme-just-like-their-us-rivals-2026-09-29/)
     
     [
     
-    ](https://www.reuters.com/legal/government/trump-ramps-up-noncitizen-voting-prosecutions-ahead-midterms-2026-09-23/)
+    ](https://www.reuters.com/business/retail-consumer/chinas-ai-agents-can-lie-scheme-just-like-their-us-rivals-2026-09-29/)
+    
+- [Businesscategory](https://www.reuters.com/business/)
+    
+    EXCLUSIVE
+    
+    [Anthropic says AI may pose 'existential risks to humanity' in IPO filing](https://www.reuters.com/business/finance/anthropic-warns-ai-may-pose-existential-risks-humanity-ipo-filing-2026-09-29/)
+    
+    [
+    
+    ](https://www.reuters.com/business/finance/anthropic-warns-ai-may-pose-existential-risks-humanity-ipo-filing-2026-09-29/)
     
 - [
     
-    ](https://www.reuters.com/legal/government/judge-dismisses-trump-lawsuit-against-iowa-newspaper-pollster-2026-09-23/)
+    ](https://www.reuters.com/world/ai-researchers-warn-companies-rushing-self-improving-systems-despite-safety-2026-09-29/)
     
 - [
     
-    ](https://www.reuters.com/business/healthcare-pharmaceuticals/us-senate-approves-legislation-address-pilot-air-traffic-control-mental-health-2026-09-25/)
+    ](https://www.reuters.com/business/anthropics-518-billion-ai-buildout-hinges-largely-deals-that-cannot-be-canceled-2026-09-29/)
     
 - [
     
-    ](https://www.reuters.com/legal/litigation/americans-navigate-wild-west-health-insurance-options-after-dropping-obamacare-2026-09-25/)
+    ](https://www.reuters.com/legal/government/trump-host-zuckerberg-anthropics-amodei-other-ai-titans-tuesday-2026-09-29/)
     
 
 [](https://www.lseg.com/en/data-analytics/products/workspace?utm_source=reuters.com&utm_medium=articlebanner&utm_campaign=Reuters_ProductPage_Links)
@@ -125,45 +160,45 @@ Our Standards: [The Thomson Reuters Trust Principles., opens new tab](https://ww
 
 - [
     
-    ](https://www.reuters.com/world/italy-decree-limiting-foreign-pupils-classrooms-could-have-near-zero-impact-2026-09-28/)
+    ](https://www.reuters.com/world/middle-east/israeli-settlers-attack-west-bank-village-blocking-familys-return-home-2026-09-29/)
     
-    ### [Italy decree limiting foreign pupils in classrooms could have near-zero impact](https://www.reuters.com/world/italy-decree-limiting-foreign-pupils-classrooms-could-have-near-zero-impact-2026-09-28/)
+    ### [Israeli settlers attack West Bank village, blocking family's return home](https://www.reuters.com/world/middle-east/israeli-settlers-attack-west-bank-village-blocking-familys-return-home-2026-09-29/)
     
-    [Worldcategory](https://www.reuters.com/world/) · September 28, 2026 · 7:54 AM PDT · 5 mins ago
+    [Middle Eastcategory](https://www.reuters.com/world/middle-east/) · September 29, 2026 · 7:40 AM PDT · 10 mins ago
     
-    New rules to limit the number of foreign pupils in Italian classrooms, introduced by Prime Minister Giorgia Meloni, ​are set to affect at most just a few hundred children nationwide, ‌according to experts and a Reuters analysis of public data.
-    
-- [
-    
-    ](https://www.reuters.com/business/autos-transportation/us-says-gm-tech-costs-will-decline-by-204-billion-through-2031-because-lower-2026-09-28/)
-    
-    [Businesscategory](https://www.reuters.com/business/)[US says GM tech costs will decline by $20.4 billion through 2031 because of lower emissions rules](https://www.reuters.com/business/autos-transportation/us-says-gm-tech-costs-will-decline-by-204-billion-through-2031-because-lower-2026-09-28/)
-    
-    7:38 AM PDT
+    More than 100 Israeli settlers have attacked a village in ​the occupied West Bank, preventing a Palestinian family from returning home and clashing with troops, ‌witnesses said.
     
 - [
     
-    ](https://www.reuters.com/business/russia-puts-german-retailer-metros-assets-under-temporary-administration-amid-2026-09-28/)
+    ](https://www.reuters.com/world/us/fbi-official-tells-shinyhunters-hackers-we-know-how-find-you-following-dutch-2026-09-29/)
     
-    [Businesscategory](https://www.reuters.com/business/)[Russia puts German retailer Metro's assets under temporary administration amid Ukraine tensions](https://www.reuters.com/business/russia-puts-german-retailer-metros-assets-under-temporary-administration-amid-2026-09-28/)
+    [United Statescategory](https://www.reuters.com/world/us/)[FBI official tells ShinyHunters hackers 'We know how to find you' following Dutch arrest](https://www.reuters.com/world/us/fbi-official-tells-shinyhunters-hackers-we-know-how-find-you-following-dutch-2026-09-29/)
     
-    7:34 AM PDT
-    
-- [
-    
-    ](https://www.reuters.com/world/florida-asks-court-bar-openai-developing-new-models-part-child-harm-lawsuit-2026-09-28/)
-    
-    [Worldcategory](https://www.reuters.com/world/)[Florida asks court to bar OpenAI from developing new models as part of child harm lawsuit](https://www.reuters.com/world/florida-asks-court-bar-openai-developing-new-models-part-child-harm-lawsuit-2026-09-28/)
-    
-    7:28 AM PDT
+    7:33 AM PDT
     
 - [
     
-    ](https://www.reuters.com/world/us/fed-ig-flags-incident-employee-who-may-have-left-fed-with-confidential-2026-09-28/)
+    ](https://www.reuters.com/world/europe/let-them-be-scared-moscow-sends-eu-message-with-widening-corporate-crackdown-2026-09-29/)
     
-    [United Statescategory](https://www.reuters.com/world/us/)[Fed IG flags incident of employee who may have left Fed with confidential information](https://www.reuters.com/world/us/fed-ig-flags-incident-employee-who-may-have-left-fed-with-confidential-2026-09-28/)
+    [Europecategory](https://www.reuters.com/world/europe/)['Let them be scared': Moscow sends EU message with widening corporate crackdown](https://www.reuters.com/world/europe/let-them-be-scared-moscow-sends-eu-message-with-widening-corporate-crackdown-2026-09-29/)
     
-    7:23 AM PDT
+    7:08 AM PDT
+    
+- [
+    
+    ](https://www.reuters.com/world/uk/uks-burnham-says-pension-triple-lock-be-adjusted-2030-2026-09-29/)
+    
+    [United Kingdomcategory](https://www.reuters.com/world/uk/)[UK's Burnham says pension triple lock to be adjusted in 2030](https://www.reuters.com/world/uk/uks-burnham-says-pension-triple-lock-be-adjusted-2030-2026-09-29/)
+    
+    6:58 AM PDT
+    
+- [
+    
+    ](https://www.reuters.com/world/africa/spain-plans-stricter-rules-asylum-seekers-ceuta-draft-decree-shows-2026-09-29/)
+    
+    [Africacategory](https://www.reuters.com/world/africa/)[Spain plans stricter rules on asylum seekers in Ceuta, draft decree shows](https://www.reuters.com/world/africa/spain-plans-stricter-rules-asylum-seekers-ceuta-draft-decree-shows-2026-09-29/)
+    
+    6:53 AM PDT
     
 
 ### Site Index

@@ -87,6 +87,14 @@ In August 2026, the Trump admin designated Palestine Action as a [terrorist grou
 
 
 # Weaponizing Federal Funding
+
+## FEMA Anti-Terrorism Funds
+In July 2026 Trump [required states](https://www.reuters.com/world/trump-administration-require-states-adopt-election-security-measures-receive-2026-07-10/) to use USCIS system to verify citizenship of people on voter database to receive FEMA anti-terrorism grant funds (else the admin with withhold 20% of grants totaling $1.1 billion). DHS also required states to transition away from electronic voting systems that use bar codes.
+### Lawsuit
+- Case
+- Judge: Washington-based US District Judge Amir Ali, 
+- Timeline
+	- [September 28, 2026](https://www.reuters.com/world/judge-blocks-trump-tying-anti-terrorism-grants-election-changes-2026-09-28/): Judge Ali blocks Trump from conditioning counterterrorism funds to state and local governments on changes to election administration.
 ## Housing Grants
 Congress created the Continuum of Care program in 1987 to provide resources for homeless people. Trump criticized the programs housing-first approach, and HUD in November 2025 said it was overhauling the grant program to focus on transitional housing initiatives with work requirements and other conditions.
 ### Lawsuit

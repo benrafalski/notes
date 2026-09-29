@@ -204,12 +204,14 @@ In March 2025: Trump signed an order [requiring proof of citizenship to vote](ht
 	- [June 13](https://www.reuters.com/world/us/us-judge-blocks-trump-administration-overhauling-federal-elections-2025-06-13/): US District Judge Denise Casper in Boston issued a preliminary injunction blocking parts of the EO, including the citizenship proof part and the counting mail-in-ballots in election day part, due to Trump lacking the authority to mandate changes to election procedures. 
 	- [October 31](https://www.reuters.com/world/us-judge-permanently-blocks-trump-order-requiring-voters-prove-citizenship-2025-10-31/): Judge Kollar-Kotelly permanently blocks the part of the executive order that requires proof of U.S. citizenship to register to vote.
 ## SAVE Database
+In 2025, DHS redesigned a federal database known as the Systematic Alien Verification for Entitlements (SAVE) used to verify a person's citizenship and immigration status. The revamp ⁠allowed users to search many records at a time and to conduct searches using individuals' Social Security numbers.
 ### Lawsuit
 - Case
 - Judge: U.S. District Judge Sparkle Sooknanan in Washington, D.C.
 - Timeline:
 	- [June 22, 2026](https://www.reuters.com/world/judge-blocks-trumps-use-revamped-immigration-database-voter-checks-2026-06-22/): Judge Sparkle Sooknanan, sides with voting rights and privacy advocates who argued that the overhaul of the SAVE citizenship database system made it less accurate and risked disenfranchising eligible voters.
 	- [September 5](https://www.reuters.com/legal/government/federal-appeals-court-upholds-ban-trumps-bid-use-citizenship-data-voter-checks-2026-09-05/): In a 2-1 ruling U.S. Court of Appeals for the District of Columbia declined to ​lift Sooknanan's ban on using the SAVE ​database to check the accuracy of citizenship records ‌on states' voter rolls.
+	- [September 25](https://www.reuters.com/world/supreme-court-restores-trumps-mass-voter-verification-system-2026-09-25/): Supreme Court rules 6-3 to halt Sooknanan's order, allowing Trump to use SAVE database, saying the plaintiffs' arguments likely fail because federal law expressly authorizes the DHS to request and receive information relating to citizenship and immigration status from other agencies, including the Social Security Administration.
 ## New Jersey Non-citizen Registered Voters
 In July 2026, New Jersey Governor Mikie Sherrill said roughly [6,600 noncitizens](https://www.reuters.com/legal/government/trump-administration-seizes-new-jersey-voting-error-demand-noncitizen-data-2026-07-22/) who were accidentally signed up to vote in the state between 2023 and 2024 due to a software glitch. Sherrill said there was no evidence the mistake swayed the results of elections.
 
