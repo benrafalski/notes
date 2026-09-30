@@ -24,134 +24,131 @@
 
 [My News](https://www.reuters.com/my-news/feed/)
 
-[](https://www.reuters.com/account/sign-in/?website=reuters&redirect=https%3A%2F%2Fwww.reuters.com%2Fworld%2Fchina%2Ftrump-wrap-up-xi-summit-with-tour-us-archives-2026-09-25%2F)[](https://www.reuters.com/account/subscribe/offer/?website=reuters&redirect=https%3A%2F%2Fwww.reuters.com%2Fworld%2Fchina%2Ftrump-wrap-up-xi-summit-with-tour-us-archives-2026-09-25%2F&referrer=subscription_button&journeyStart=navigation)
+[](https://www.reuters.com/account/sign-in/?website=reuters&redirect=https%3A%2F%2Fwww.reuters.com%2Fworld%2Fmiddle-east%2Fus-forces-exit-iraq-after-two-decades-leaving-opening-iran-2026-09-29%2F)[](https://www.reuters.com/account/subscribe/offer/?website=reuters&redirect=https%3A%2F%2Fwww.reuters.com%2Fworld%2Fmiddle-east%2Fus-forces-exit-iraq-after-two-decades-leaving-opening-iran-2026-09-29%2F&referrer=subscription_button&journeyStart=navigation)
 
-# Trump, Xi end summit with tea, tour of US archives - and little sign of progress
+# US forces exit Iraq after two decades, leaving opening for Iran
 
-By [Steve Holland](https://www.reuters.com/authors/steve-holland/) and [David Brunnstrom](https://www.reuters.com/authors/david-brunnstrom/)
+By [Ahmed Rasheed](https://www.reuters.com/authors/ahmed-rasheed/)
 
-September 24, 202610:07 PM PDTUpdated September 26, 2026
+September 28, 202611:05 PM PDTUpdated 3 hours ago
 
-![How important is Chinese President Xi Jinping's trip to the US?](https://ajo.prod.reuters.tv/api/v2/img/6ab51653e4b0f50f5c3a3742-1790252637173?width=1080&quality=80)
+![America exits Iraq. Here's what it means for Iran and ISIS](https://ajo.prod.reuters.tv/api/v2/img/6abce7ece4b00e902ff5c859-1790765050997?width=1080&quality=80)
 
 - Summary
 
-- Trump, Xi tout stability but few big summit breakthroughs
-- Taiwan looms as Trump takes Xi on National Archives tour
-- Focus will be Trump's post-summit comments on Taiwan
+- US forces leave country where 4,500 of them died in worst US war of 21st century
+- Departure boosts powerful allies of Iran, even as Washington wages war against Tehran
+- Iraqi security officials say pullout could also provide room for Islamic State to revive
+- Last US soldier killed in Iraq in July
 
-WASHINGTON, Sept 25 (Reuters) - President [Donald Trump](https://www.reuters.com/world/us/donald-trump/) and Chinese President Xi Jinping drank tea at the White House and visited ​the National Archives on Friday, ending a three-day summit that showcased personal diplomacy rather than big public breakthroughs on a host of contentious issues.
+BAGHDAD, Sept 29 (Reuters) - US forces are set to pull out from their last bases in Iraq by Wednesday, a departure celebrated as a victory by Iran and its allies ​who now have deep influence in the country where 4,500 Americans died during more than two decades of war.
 
-Trump said "our farmers are going to ‌be happy" as a result of the talks but did not provide details.
+Iraqi security experts say the withdrawal — agreed in 2024 under President Joe Biden and carried ‌out by Donald Trump's administration even as it wages war against Iran — could give Tehran and its powerful allies free rein, while also allowing other US enemies to stage a comeback, including Islamic State.
 
-Make sense of global markets with the Trading Day newsletter. Sign up [here.](https://www.reuters.com/newsletters/trading-day/?location=article-paragraph&redirectUrl=%2Fworld%2Fchina%2Ftrump-wrap-up-xi-summit-with-tour-us-archives-2026-09-25%2F)
+The Reuters Iran Briefing newsletter keeps you informed with the latest developments and analysis of the Iran war. Sign up [here.](https://www.reuters.com/newsletters/reuters-iran-briefing/?location=article-paragraph&redirectUrl=%2Fworld%2Fmiddle-east%2Fus-forces-exit-iraq-after-two-decades-leaving-opening-iran-2026-09-29%2F)
 
-"America is very happy about this visit, and I'm sure [China](https://www.reuters.com/world/china/) is very happy also," he said.
+"Iran stands to benefit strategically from the coalition's departure because it removes a military presence that for years acted as a counterweight to Tehran's influence in Iraq," said Jasim al-Bahadli, an Iraqi security analyst specialising in studying armed Shi'ite groups aligned with Iran.
 
-Xi said the US-China relationship had developed into a constructive one of "strategic stability on the basis of respect, fairness and reciprocity."
+He predicted that the pro-Iranian militia groups would not only portray the departure as a victory for their movement, ​but also "seek to translate that momentum into greater influence over security and political decision-making".
 
-The summit between the world's two largest economies featured military flyovers, ceremonial tours and a state dinner, but left unresolved major differences over trade, artificial intelligence, Taiwan and China's ties to ​Iran. Details of the limited trade agreements reached during the visit will be released on Monday, US Trade Representative Jamieson Greer said.
+Abu Mojtaba al-Yasiri, a commander in the Islamic Resistance in Iraq, an umbrella group of Iran-backed armed factions, described the US withdrawal as "a ​historic victory for the Iraqi Islamic resistance groups and honorable Iraqis, and a crushing defeat for the American project".
 
-One tangible outcome of the visit was that the ​US and China agreed to extend by two months a trade truce that was due to expire on November 10, allowing more time to work ⁠on a potentially bigger trade deal.
+"On September 30, we will celebrate the turning of a black page ⁠in Iraq’s history and the failure of the occupation to impose its will on our country," he told Reuters. "Iraq has proven that its sovereignty cannot be secured by foreign forces, but by the resistance and the will of its people."
 
-Greer told CNBC that [the US](https://www.reuters.com/world/us/) has agreed with [China](https://www.reuters.com/world/china/) on exempting some key goods from disputes over trade, including exports to China of agricultural products and medical devices and ​imports of consumer and non-sensitive goods.
+## NOT ​READY
 
-Trump [highlighted progress](https://www.reuters.com/world/china/four-takeaways-trumps-summit-with-xi-washington-2026-09-24/) under a bilateral trade mechanism, citing what he described as increased market access for US farmers and ranchers, while both leaders identified AI as an area for ​dialogue.
+While the eventual departure of US forces is broadly popular among Iraqis, those who worry about the strength of the Iran-backed groups fear the withdrawal is premature.
 
-"In some ways, the best thing that we accomplished in this visit is to continue the conversation," US Ambassador to China David Perdue told Fox News' "America's Newsroom" program on Friday.
+"We believe Iraq is still not fully ready to take over the security file ​at this time," Abdulrahman al-Zobaie, a Sunni tribal leader in Fallujah, once a bastion of anti-American resistance, told Reuters.
 
-Trump announced in a social media post that he and Xi would meet twice more this year, in China in November for the Asia-Pacific Economic Cooperation forum and in Miami in December at a G20 summit.
+"All Iraqis aspire to full sovereignty, and no Iraqi would dispute that. But I believe that the (US-led coalition) leaving in this way and creating a vacuum is what all Iraqis fear."
 
-"Much has been, and will be, accomplished," Trump said.
+American forces invaded Iraq in 2003 to topple Sunni Muslim dictator Saddam Hussein, and went on to occupy the country, install a Shi'ite-led government and fight a years-long counterinsurgency before withdrawing at the end of 2011.
 
-## NATIONAL ARCHIVES TOUR
+They returned less than three years later to help Iraqi ​forces defeat the Sunni militant group Islamic State in a major war from 2014 to 2017.
 
-After tea in the ​White House Red Room, Trump and Xi rode in limousines to the National Archives, where they reviewed the US Declaration of Independence, the Constitution and the Bill of Rights.
+Around twice as many Americans died in "Operation Iraqi Freedom" as in the parallel war in Afghanistan, which ended with an abrupt US withdrawal in 2021.
 
-Item 1 of 4 US President Donald Trump, first lady Melania Trump, Chinese President Xi Jinping and his wife Peng Liyuan chat outside the National Archives Museum in Washington, D.C., US, September 25, 2026. REUTERS/Kylie Cooper
+In ​recent years, Iraq has been the only country to maintain close political and military alliances with both the United States and Iran, which sometimes used Iraqi territory as a proxy battlefield.
 
-**[1/4]**US President Donald Trump, first lady Melania Trump, Chinese President Xi Jinping and his wife Peng Liyuan chat outside the National Archives Museum in Washington, D.C., US, September 25, 2026. REUTERS/Kylie Cooper [Purchase Licensing Rights, opens new tab](https://www.reutersconnect.com/item/us-president-donald-trump-and-chinas-president-xi-jinping-tour-the-national-archives-in-washington/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1JDMkdRTkExVzJUOA%3D%3D/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead)
+Item 1 of 4 A U.S. Army Bradley armoured vehicle of the 1st Cavalry division guards a street leading from the cemetery to Imam Ali shrine, in Najaf, Iraq, August 27, 2004. REUTERS/Chris Helgren/File Photo
 
-Asked about Iran, Trump said he and Xi had ​discussed it and that "I think we're going to do great," without elaborating. Beijing has denied [US allegations of helping](https://www.reuters.com/world/us/trump-told-xi-that-china-helping-iran-is-unacceptable-us-ambassador-says-2026-09-25/) Iran's leaders in the conflict launched by Trump in February.
+**[1/4]**A U.S. Army Bradley armoured vehicle of the 1st Cavalry division guards a street leading from the cemetery to Imam Ali shrine, in Najaf, Iraq, August 27, 2004. REUTERS/Chris Helgren/File Photo [Purchase Licensing Rights, opens new tab](https://www.reutersconnect.com/item/us-army-bradley-armoured-vehicle-guards-street-leading-to-najafs-imam-ali-shrine/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1JDMlhTTkFOUEpPMg%3D%3D/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead)
 
-Perdue said in an interview with CNBC on Friday that ‌Trump reiterated ⁠to Xi that direct or indirect support for Iran was "totally unacceptable" and received assurances that China would not do so.
+The United States killed a top Iranian commander, Qasem Soleimani, with a strike on ‌Baghdad Airport ⁠in 2020. Iran's allies repeatedly fired on US bases, sometimes drawing reprisals.
 
-Chinese state news agency Xinhua reported on Thursday that Xi had urged the US and Iran to return to negotiations to end the war, but Xi has not publicly commented on Chinese support for Iran.
+In this year's war against Iran, 7 of the 18 US service members listed as killed were in Iraq, the last an army sergeant who died during the controlled detonation of a drone at a base near Erbil in July.
 
-## CHINA PRESSES ON TAIWAN
+## VICTORY FOR IRAN'S AXIS
 
-A key issue for Xi was the status of Taiwan.
+Iran, which says its ultimate aim is to force American forces to leave the entire Middle East, casts the US withdrawal from Iraq as a victory for its "axis of resistance" of allied armed groups across the region.
 
-China claims democratically governed [Taiwan](https://www.reuters.com/world/taiwan/) as its own and Xi has long sought to persuade Trump to state publicly that the US opposes Taiwan's independence, rather than saying only that it does not support independence, which has been Washington's ​formulation for decades.
+"Lasting security will prevail in Iraq" once the Americans leave the country and the region, the deputy chairman of the National Security Commission of Iran's Parliament, Amir Hayat Moqaddam, said on Monday.
 
-He also wants the US to halt arms sales ​to the island.
+Iran "welcomes the withdrawal of ​American troops from Iraq and will undoubtedly support it," he ​told Iran's parliamentary news service. "Resistance groups are currently ⁠taking action, sometimes targeting and confronting American troops."
 
-Xi pressed Trump on Taiwan ⁠on Thursday, saying he hoped the US would "handle the Taiwan question with prudence." China's state news agency also reported that Xi "hopes the US side will adhere to the correct position of opposing 'Taiwan independence'."
+Washington has accused Iran-backed militia groups in Iraq of playing a role in the wider Middle East conflict by launching attacks on neighbouring countries at the direction of Tehran, most recently hitting a major Saudi oil pipeline this month. The Baghdad government says it is trying to curb their influence.
 
-While the US, like most countries, has no formal diplomatic relations with Taipei, Washington is its most important international ​backer and is bound by US law to provide it with the means to defend itself.
+## NEW LIFE FOR ISLAMIC STATE?
 
-Washington's Asian allies were watching closely to see how Trump ​talked about Taiwan following Xi's ⁠visit. As of Friday afternoon, he had said nothing substantive.
+Some ​Iraqi security officials, both in the federal government and the semi-autonomous northern Kurdish region, say the US pullout also risks giving new life to Islamic State fighters, who, despite ​the defeat of their self-proclaimed ⁠caliphate nearly a decade ago, retain a sleeper cell network.
 
-After his May summit with Xi, Trump, whose administration in December approved an $11 billion arms sale package to Taiwan, said he was holding a second package, worth some $14 billion, in abeyance and described it as a "very good negotiating chip."
+At their height, the fighters occupied a third of Iraq and killed thousands of people, including hundreds they videotaped themselves gunning down inside a former US military base.
 
-On Thursday, Senate Democrats criticized Trump for failing to publicly address China's military pressure on Taiwan and called for the immediate delivery of approved military aid ⁠and arms sales ​to the island.
+A lack of US intelligence, logistical support and drones will give Islamic State a chance to regroup, said Kurdish commander Sirwan Barzani.
 
-Tom Christensen, a geopolitics expert at Washington’s Center for Strategic and International Studies, predicted that the current positive ​mood in the relationship would be temporary, given disputes over technology controls, rare earth exports, agricultural trade, Iran, Russia and Taiwan.
+"For more than two weeks, we have noticed movement by (Islamic State) sleeper cells, after it was announced in the general media that there will be an official withdrawal of ⁠the international coalition from ​Iraq by the end of September," he said. "This has boosted, in my opinion, the morale" of the fighters.
 
-"When I look a year out from now, I expect a lot of trouble in the relationship, even on the economic front," ​he said.
+Iraqi security forces said a suspected ​Islamic State cell was preparing suicide attacks to coincide with the pullout. The plot highlighted concerns that the militant group remains capable of exploiting security gaps despite years of military setbacks, said four Iraqi security and army officials.
 
-Updates with summit over, paragraph 1, trade truce extended, paragraph 6, Trump plans to more Xi meetings this year, paragraphs 8-11
+Islamic State "is seeking to send a message that the group is still powerful ​and capable of launching bloody attacks," said Colonel Khalid al-Bayati, a senior security official in the strategic oil town of Kirkuk.
 
-Reporting by David Brunnstrom and Trevor Hunnicutt; Additional reporting by Patricia Zengerle and Simon Lewis; Writing by David Brunnstrom and Steve Holland; Editing by Don Durfee, Stephen Coates, Philippa Fletcher and Sanjeev Miglani
+Additional reporting by Maher Nazeh, Kawa Omar, Muayad Hameed and Elwely Elwelly Writing by Ahmed Rashed and Michael Georgy Editing by Peter Graff
 
 Our Standards: [The Thomson Reuters Trust Principles., opens new tab](https://www.thomsonreuters.com/en/about-us/trust-principles.html)
 
 - Suggested Topics:
-- [](https://www.reuters.com/technology/artificial-intelligence/)
+- [](https://www.reuters.com/world/middle-east/)
 
 [](https://www.reutersagency.com/en/licensereuterscontent/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead)
 
 ## Read Next
 
-- [Businesscategory](https://www.reuters.com/business/)
+- [Middle Eastcategory](https://www.reuters.com/world/middle-east/)
     
-    EXCLUSIVE
-    
-    [Anthropic's IPO prospectus shows sweeping AI vision, surging costs](https://www.reuters.com/business/finance/anthropics-ipo-prospectus-shows-sweeping-ai-vision-surging-costs-2026-09-28/)
+    [Passengers overcame co-pilot who tried to crash flydubai flight, Netanyahu says](https://www.reuters.com/world/middle-east/diverted-flydubai-flight-israel-was-not-hijacking-incident-israeli-prime-2026-09-30/)
     
     [
     
-    ](https://www.reuters.com/business/finance/anthropics-ipo-prospectus-shows-sweeping-ai-vision-surging-costs-2026-09-28/)
+    ](https://www.reuters.com/world/middle-east/diverted-flydubai-flight-israel-was-not-hijacking-incident-israeli-prime-2026-09-30/)
     
-- [Businesscategory](https://www.reuters.com/business/)
+- [United Statescategory](https://www.reuters.com/world/us/)
     
-    [China's AI agents can lie and scheme - just like their US rivals](https://www.reuters.com/business/retail-consumer/chinas-ai-agents-can-lie-scheme-just-like-their-us-rivals-2026-09-29/)
-    
-    [
-    
-    ](https://www.reuters.com/business/retail-consumer/chinas-ai-agents-can-lie-scheme-just-like-their-us-rivals-2026-09-29/)
-    
-- [Businesscategory](https://www.reuters.com/business/)
-    
-    EXCLUSIVE
-    
-    [Anthropic says AI may pose 'existential risks to humanity' in IPO filing](https://www.reuters.com/business/finance/anthropic-warns-ai-may-pose-existential-risks-humanity-ipo-filing-2026-09-29/)
+    [Iran says it receives US response to latest proposal](https://www.reuters.com/world/us/iran-appeals-us-voters-american-troops-leave-iraq-2026-09-30/)
     
     [
     
-    ](https://www.reuters.com/business/finance/anthropic-warns-ai-may-pose-existential-risks-humanity-ipo-filing-2026-09-29/)
+    ](https://www.reuters.com/world/us/iran-appeals-us-voters-american-troops-leave-iraq-2026-09-30/)
+    
+- [Worldcategory](https://www.reuters.com/world/)
+    
+    [Joy mixed with fear as US forces quit Iraq leaving potential security vacuum](https://www.reuters.com/world/us-forces-exit-iraq-emboldening-irans-proxies-islamic-state-2026-09-30/)
+    
+    [
+    
+    ](https://www.reuters.com/world/us-forces-exit-iraq-emboldening-irans-proxies-islamic-state-2026-09-30/)
     
 - [
     
-    ](https://www.reuters.com/world/ai-researchers-warn-companies-rushing-self-improving-systems-despite-safety-2026-09-29/)
+    ](https://www.reuters.com/business/energy/analysts-raise-2026-oil-forecasts-prolonged-gulf-disruption-2026-09-30/)
     
 - [
     
-    ](https://www.reuters.com/business/anthropics-518-billion-ai-buildout-hinges-largely-deals-that-cannot-be-canceled-2026-09-29/)
+    ](https://www.reuters.com/world/middle-east/israeli-strikes-kill-five-people-gaza-medics-say-2026-09-30/)
     
 - [
     
-    ](https://www.reuters.com/legal/government/trump-host-zuckerberg-anthropics-amodei-other-ai-titans-tuesday-2026-09-29/)
+    ](https://www.reuters.com/world/middle-east/iran-receives-us-feedback-seven-day-trust-building-plan-2026-09-30/)
     
 
 [](https://www.lseg.com/en/data-analytics/products/workspace?utm_source=reuters.com&utm_medium=articlebanner&utm_campaign=Reuters_ProductPage_Links)
@@ -160,45 +157,45 @@ Our Standards: [The Thomson Reuters Trust Principles., opens new tab](https://ww
 
 - [
     
-    ](https://www.reuters.com/world/middle-east/israeli-settlers-attack-west-bank-village-blocking-familys-return-home-2026-09-29/)
+    ](https://www.reuters.com/business/energy/trump-set-unveil-200-billion-south-korean-investment-us-bloomberg-news-reports-2026-09-30/)
     
-    ### [Israeli settlers attack West Bank village, blocking family's return home](https://www.reuters.com/world/middle-east/israeli-settlers-attack-west-bank-village-blocking-familys-return-home-2026-09-29/)
+    ### [Trump set to unveil $200 billion South Korean investment in US, Bloomberg News reports](https://www.reuters.com/business/energy/trump-set-unveil-200-billion-south-korean-investment-us-bloomberg-news-reports-2026-09-30/)
     
-    [Middle Eastcategory](https://www.reuters.com/world/middle-east/) · September 29, 2026 · 7:40 AM PDT · 10 mins ago
+    [category](https://www.reuters.com/business/)· September 30, 2026 · 7:47 AM PDT · 2 mins ago
     
-    More than 100 Israeli settlers have attacked a village in ​the occupied West Bank, preventing a Palestinian family from returning home and clashing with troops, ‌witnesses said.
-    
-- [
-    
-    ](https://www.reuters.com/world/us/fbi-official-tells-shinyhunters-hackers-we-know-how-find-you-following-dutch-2026-09-29/)
-    
-    [United Statescategory](https://www.reuters.com/world/us/)[FBI official tells ShinyHunters hackers 'We know how to find you' following Dutch arrest](https://www.reuters.com/world/us/fbi-official-tells-shinyhunters-hackers-we-know-how-find-you-following-dutch-2026-09-29/)
-    
-    7:33 AM PDT
+    US President Donald Trump is expected ​to unveil plans worth $200 ‌billion of South Korean investments in energy projects ​across the United ​States spanning nuclear power plants, ⁠a power generation ​facility and a natural ​gas export venture, Bloomberg News reported on Wednesday, citing ​a White House ​official.
     
 - [
     
-    ](https://www.reuters.com/world/europe/let-them-be-scared-moscow-sends-eu-message-with-widening-corporate-crackdown-2026-09-29/)
+    ](https://www.reuters.com/world/india/modi-speaks-with-trump-india-seeks-interim-deal-with-us-2026-09-30/)
     
-    [Europecategory](https://www.reuters.com/world/europe/)['Let them be scared': Moscow sends EU message with widening corporate crackdown](https://www.reuters.com/world/europe/let-them-be-scared-moscow-sends-eu-message-with-widening-corporate-crackdown-2026-09-29/)
+    [Indiacategory](https://www.reuters.com/world/india/)[Modi speaks with Trump as India seeks interim deal with US](https://www.reuters.com/world/india/modi-speaks-with-trump-india-seeks-interim-deal-with-us-2026-09-30/)
     
-    7:08 AM PDT
-    
-- [
-    
-    ](https://www.reuters.com/world/uk/uks-burnham-says-pension-triple-lock-be-adjusted-2030-2026-09-29/)
-    
-    [United Kingdomcategory](https://www.reuters.com/world/uk/)[UK's Burnham says pension triple lock to be adjusted in 2030](https://www.reuters.com/world/uk/uks-burnham-says-pension-triple-lock-be-adjusted-2030-2026-09-29/)
-    
-    6:58 AM PDT
+    7:34 AM PDT
     
 - [
     
-    ](https://www.reuters.com/world/africa/spain-plans-stricter-rules-asylum-seekers-ceuta-draft-decree-shows-2026-09-29/)
+    ](https://www.reuters.com/live/live-flydubai-flight-israel-diverted-after-brawl-between-pilots-2026-09-30/)
     
-    [Africacategory](https://www.reuters.com/world/africa/)[Spain plans stricter rules on asylum seekers in Ceuta, draft decree shows](https://www.reuters.com/world/africa/spain-plans-stricter-rules-asylum-seekers-ceuta-draft-decree-shows-2026-09-29/)
+    [Livecategory](https://www.reuters.com/live/)[Netanyahu says one pilot arrested after clash on flydubai flight to Israel](https://www.reuters.com/live/live-flydubai-flight-israel-diverted-after-brawl-between-pilots-2026-09-30/)
     
-    6:53 AM PDT
+    7:25 AM PDT
+    
+- [
+    
+    ](https://www.reuters.com/world/china/spain-france-align-welcoming-uk-back-eu-strengthening-china-trade-defences-2026-09-30/)
+    
+    [Chinacategory](https://www.reuters.com/world/china/)[Spain and France align on welcoming UK back to EU, strengthening China trade defences](https://www.reuters.com/world/china/spain-france-align-welcoming-uk-back-eu-strengthening-china-trade-defences-2026-09-30/)
+    
+    7:17 AM PDT
+    
+- [
+    
+    ](https://www.reuters.com/world/europe/paris-court-convicts-six-men-manslaughter-over-migrants-disaster-channel-2026-09-30/)
+    
+    [Europecategory](https://www.reuters.com/world/europe/)[Paris court convicts six men of manslaughter over migrants disaster in Channel](https://www.reuters.com/world/europe/paris-court-convicts-six-men-manslaughter-over-migrants-disaster-channel-2026-09-30/)
+    
+    6:57 AM PDT
     
 
 ### Site Index

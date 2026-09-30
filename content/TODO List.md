@@ -1,8 +1,16 @@
 # Reading
-- [ ] Oregon
-- [ ] January 6
+- [ ] JFK
+- [ ] Intel Early Era MPUs (Pre-Pentium)
+- [ ] NodeJS
+- [ ] K8s
+- [ ] Windows
+- [ ] George Washington
+- [ ] Syria
+	- [ ] Obama Policy
 - [ ] Arizona
 	- [ ] [Why 5 Million People Live in America’s Hottest City](https://www.youtube.com/watch?v=AjQuZfkU1jI&list=WL&index=16&t=1s)
+- [ ] Oregon
+- [ ] January 6
 - [ ] Malaysia
 	- [ ] MH370
 		- [ ] [The Search for Flight 370 | MH370 Disappearance: Minute by Minute | FULL DOCUMENTARY](https://www.youtube.com/watch?v=z2gUtfWMZzE&list=WL&index=18)
@@ -14,7 +22,6 @@
 		- [ ] [What Netflix got WRONG - Malaysian Flight 370](https://www.youtube.com/watch?v=MhkTo9Rk6_4&list=WL&index=24&pp=iAQBsAgC "What Netflix got WRONG - Malaysian Flight 370")
 - [ ] Yeltsin
 - [ ] Putin
-- [ ] JFK
 - [ ] Bush 1
 	- [ ] PBS 1: https://youtu.be/moAg9Xed1EY?si=oNKIh083fnE8do8G
 	- [ ] PBS 2: https://youtu.be/cXmUV1xcP0U?si=TQnsSWr2zISOGkKT

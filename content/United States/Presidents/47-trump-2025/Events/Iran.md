@@ -31,6 +31,7 @@
 - [September 22](https://www.reuters.com/world/middle-east/tehran-hints-hormuz-talks-with-us-leaders-gather-un-2026-09-22/): Trump threatens to annihilate Iran if they don't make a deal as the Houthis continue their advance in Yemen.
 - [September 24-25](https://www.reuters.com/world/middle-east/allies-unite-behind-saudi-arabia-houthis-step-up-attacks-2026-09-25/): Iranian airlines are banned from UAE, Oman, Iraq airspaces following US secondary sanctions pressure (Economic D-Day threats).
 - [September 26](https://www.reuters.com/world/middle-east/iran-awaits-us-move-after-wsj-report-says-trump-rejects-peace-plan-2026-09-26/): Trump says he has rejected Iranian proposal to end the war that would reopen strait, end fighting in 7 days, saying Iran wanted urgently to reopen strait due to economic woes.
+- September 29: US withdraws from Iraq, boosting allies of Iran. The withdrawal was agreed in 2024 under Biden.
 
 
 
