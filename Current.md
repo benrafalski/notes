@@ -24,178 +24,159 @@
 
 [My News](https://www.reuters.com/my-news/feed/)
 
-[](https://www.reuters.com/account/sign-in/?website=reuters&redirect=https%3A%2F%2Fwww.reuters.com%2Fworld%2Fmiddle-east%2Fus-forces-exit-iraq-after-two-decades-leaving-opening-iran-2026-09-29%2F)[](https://www.reuters.com/account/subscribe/offer/?website=reuters&redirect=https%3A%2F%2Fwww.reuters.com%2Fworld%2Fmiddle-east%2Fus-forces-exit-iraq-after-two-decades-leaving-opening-iran-2026-09-29%2F&referrer=subscription_button&journeyStart=navigation)
+[](https://www.reuters.com/account/sign-in/?website=reuters&redirect=https%3A%2F%2Fwww.reuters.com%2Fbusiness%2Fhealthcare-pharmaceuticals%2Fpennsylvania-reports-fifth-measles-linked-death-cases-rise-2026-09-30%2F)[](https://www.reuters.com/account/subscribe/offer/?website=reuters&redirect=https%3A%2F%2Fwww.reuters.com%2Fbusiness%2Fhealthcare-pharmaceuticals%2Fpennsylvania-reports-fifth-measles-linked-death-cases-rise-2026-09-30%2F&referrer=subscription_button&journeyStart=navigation)
 
-# US forces exit Iraq after two decades, leaving opening for Iran
+# Pennsylvania reports fifth measles-associated death as outbreak grows
 
-By [Ahmed Rasheed](https://www.reuters.com/authors/ahmed-rasheed/)
+By [Kamal Choudhury](https://www.reuters.com/authors/kamal-choudhury/)
 
-September 28, 202611:05 PM PDTUpdated 3 hours ago
+September 30, 202612:09 PM PDTUpdated 16 hours ago
 
-![America exits Iraq. Here's what it means for Iran and ISIS](https://ajo.prod.reuters.tv/api/v2/img/6abce7ece4b00e902ff5c859-1790765050997?width=1080&quality=80)
+![US CDC reports five-fold increase in weekly measles cases as Texas outbreak grows](https://www.reuters.com/resizer/v2/6VCL6BZFIZONPAX3C2M3YWJUT4.jpg?auth=e17262c42a8e2a2ea1c8659eee5ada7b9c3f6a08cfe9f21ffad508cfdf45714a&width=1920&quality=80)
+
+A sign reading "measles testing" is seen in Seminole, Texas, U.S., February 25, 2025. REUTERS/Sebastian Rocandio/File Photo [Purchase Licensing Rights, opens new tab](https://www.reutersconnect.com/item/us-cdc-reports-five-fold-increase-in-weekly-measles-cases-as-texas-outbreak-grows/dGFnOnJldXRlcnMuY29tLDIwMjU6bmV3c21sX1JDMlYxREFQV0tGTg%3D%3D/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead)
 
 - Summary
 
-- US forces leave country where 4,500 of them died in worst US war of 21st century
-- Departure boosts powerful allies of Iran, even as Washington wages war against Tehran
-- Iraqi security officials say pullout could also provide room for Islamic State to revive
-- Last US soldier killed in Iraq in July
+- Pennsylvania's measles cases rise to 943 across 39 counties
+- Fifth measles-associated death in unvaccinated Lancaster County resident, says state health dept
+- CDC has confirmed only two measles deaths nationwide
 
-BAGHDAD, Sept 29 (Reuters) - US forces are set to pull out from their last bases in Iraq by Wednesday, a departure celebrated as a victory by Iran and its allies ​who now have deep influence in the country where 4,500 Americans died during more than two decades of war.
+Sept 30 (Reuters) - Pennsylvania health officials ​said on Wednesday a Lancaster County resident had died after contracting measles, raising the state's death ‌toll from the disease this year to five, all of whom were unvaccinated.
 
-Iraqi security experts say the withdrawal — agreed in 2024 under President Joe Biden and carried ‌out by Donald Trump's administration even as it wages war against Iran — could give Tehran and its powerful allies free rein, while also allowing other US enemies to stage a comeback, including Islamic State.
+Two earlier [deaths](https://www.reuters.com/business/healthcare-pharmaceuticals/pennsylvania-reports-two-deaths-measles-health-department-says-2026-08-25/) in the county, reported in August, were the first in the US this year, [followed](https://www.reuters.com/business/healthcare-pharmaceuticals/pennsylvania-reports-two-additional-measles-associated-deaths-2026-09-15/) by one each in Jefferson and Mifflin counties in mid-September.
 
-The Reuters Iran Briefing newsletter keeps you informed with the latest developments and analysis of the Iran war. Sign up [here.](https://www.reuters.com/newsletters/reuters-iran-briefing/?location=article-paragraph&redirectUrl=%2Fworld%2Fmiddle-east%2Fus-forces-exit-iraq-after-two-decades-leaving-opening-iran-2026-09-29%2F)
+Keep up with the latest medical breakthroughs and healthcare trends with the award-winning Reuters Health Rounds newsletter. Sign up [here.](https://www.reuters.com/newsletters/reuters-health-rounds/?location=article-paragraph&redirectUrl=%2Fbusiness%2Fhealthcare-pharmaceuticals%2Fpennsylvania-reports-fifth-measles-linked-death-cases-rise-2026-09-30%2F)
 
-"Iran stands to benefit strategically from the coalition's departure because it removes a military presence that for years acted as a counterweight to Tehran's influence in Iraq," said Jasim al-Bahadli, an Iraqi security analyst specialising in studying armed Shi'ite groups aligned with Iran.
+"Every one of these deaths was preventable," ​said Amesh Adalja, a senior scholar at the Johns Hopkins Center for Health Security, noting that only ​four of the state's 943 cases have been in vaccinated people.
 
-He predicted that the pro-Iranian militia groups would not only portray the departure as a victory for their movement, ​but also "seek to translate that momentum into greater influence over security and political decision-making".
+Pennsylvania has been hardest hit ⁠by the nation's measles resurgence, with cases up from 903 on Monday across 39 counties.
 
-Abu Mojtaba al-Yasiri, a commander in the Islamic Resistance in Iraq, an umbrella group of Iran-backed armed factions, described the US withdrawal as "a ​historic victory for the Iraqi Islamic resistance groups and honorable Iraqis, and a crushing defeat for the American project".
+## CDC-STATE RIFT OVER DEATHS
 
-"On September 30, we will celebrate the turning of a black page ⁠in Iraq’s history and the failure of the occupation to impose its will on our country," he told Reuters. "Iraq has proven that its sovereignty cannot be secured by foreign forces, but by the resistance and the will of its people."
+The CDC, ​however, had [confirmed only two](https://www.reuters.com/business/healthcare-pharmaceuticals/us-cdc-confirms-two-measles-related-deaths-2026-2026-09-29/) measles-related deaths nationwide as of Tuesday without naming the states, amid a disagreement between Pennsylvania ​Governor Josh Shapiro and US Health Secretary Robert F. Kennedy Jr. over how such deaths are defined.
 
-## NOT ​READY
+The CDC said earlier this month it had shifted to using mortality data from the National Center for Health Statistics for its national measles death count, rather than ​relying on state health departments, a change that has drawn scrutiny.
 
-While the eventual departure of US forces is broadly popular among Iraqis, those who worry about the strength of the Iran-backed groups fear the withdrawal is premature.
+Adalja said the CDC's new requirement breaks with its ​usual practice of accepting a state's classification, warning such disagreements become "its own public health problem" and ammunition for those claiming the toll ‌is ⁠inflated.
 
-"We believe Iraq is still not fully ready to take over the security file ​at this time," Abdulrahman al-Zobaie, a Sunni tribal leader in Fallujah, once a bastion of anti-American resistance, told Reuters.
+"We are deeply saddened to hear of another death in Pennsylvania," the US Department of Health and Human Services, which oversees the CDC, told Reuters in an email statement.
 
-"All Iraqis aspire to full sovereignty, and no Iraqi would dispute that. But I believe that the (US-led coalition) leaving in this way and creating a vacuum is what all Iraqis fear."
+HHS added Pennsylvania had not made a formal request for federal help, but the CDC was ready to deploy epidemiologists to support the state’s identified needs if asked.
 
-American forces invaded Iraq in 2003 to topple Sunni Muslim dictator Saddam Hussein, and went on to occupy the country, install a Shi'ite-led government and fight a years-long counterinsurgency before withdrawing at the end of 2011.
+[Reuters reported](https://www.reuters.com/world/pennsylvania-asks-cdc-help-measles-outbreak-demands-agency-recognize-measles-2026-09-17/) earlier this ​month that Pennsylvania requested emergency ​support from the US ⁠CDC on condition that the federal agency recognize measles-associated deaths reported by the state.
 
-They returned less than three years later to help Iraqi ​forces defeat the Sunni militant group Islamic State in a major war from 2014 to 2017.
+Pennsylvania continues to report a "measles-associated death" when an individual with an active case of measles dies ​and meets a set of criteria.
 
-Around twice as many Americans died in "Operation Iraqi Freedom" as in the parallel war in Afghanistan, which ended with an abrupt US withdrawal in 2021.
+## MEASLES CASES SURGE IN US
 
-In ​recent years, Iraq has been the only country to maintain close political and military alliances with both the United States and Iran, which sometimes used Iraqi territory as a proxy battlefield.
+The US has recorded 3,659 ​confirmed measles cases ⁠this year as of September 24, according to CDC data.
 
-Item 1 of 4 A U.S. Army Bradley armoured vehicle of the 1st Cavalry division guards a street leading from the cemetery to Imam Ali shrine, in Najaf, Iraq, August 27, 2004. REUTERS/Chris Helgren/File Photo
+Measles is highly contagious but preventable with the measles, mumps and rubella vaccine, which is 97% effective after two doses. However, President Donald Trump last month [criticized](https://www.reuters.com/business/healthcare-pharmaceuticals/trump-sign-order-seeking-more-vaccine-flexibility-white-house-says-2026-08-10/) the MMR vaccine and called ⁠for the ​combination shot to be split into three separate shots.
 
-**[1/4]**A U.S. Army Bradley armoured vehicle of the 1st Cavalry division guards a street leading from the cemetery to Imam Ali shrine, in Najaf, Iraq, August 27, 2004. REUTERS/Chris Helgren/File Photo [Purchase Licensing Rights, opens new tab](https://www.reutersconnect.com/item/us-army-bradley-armoured-vehicle-guards-street-leading-to-najafs-imam-ali-shrine/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1JDMlhTTkFOUEpPMg%3D%3D/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead)
+A Reuters/Ipsos poll ​this month also [found](https://www.reuters.com/business/healthcare-pharmaceuticals/trust-measles-vaccines-falls-us-reuters-ipsos-poll-finds-2026-09-15/) that Americans' trust in vaccines for childhood diseases, including measles, has fallen in recent years.
 
-The United States killed a top Iranian commander, Qasem Soleimani, with a strike on ‌Baghdad Airport ⁠in 2020. Iran's allies repeatedly fired on US bases, sometimes drawing reprisals.
+In Pennsylvania, health care providers gave more ​than 53,000 MMR doses in September, the state health department said.
 
-In this year's war against Iran, 7 of the 18 US service members listed as killed were in Iraq, the last an army sergeant who died during the controlled detonation of a drone at a base near Erbil in July.
+Adds HHS response, expert comment, graphics
 
-## VICTORY FOR IRAN'S AXIS
-
-Iran, which says its ultimate aim is to force American forces to leave the entire Middle East, casts the US withdrawal from Iraq as a victory for its "axis of resistance" of allied armed groups across the region.
-
-"Lasting security will prevail in Iraq" once the Americans leave the country and the region, the deputy chairman of the National Security Commission of Iran's Parliament, Amir Hayat Moqaddam, said on Monday.
-
-Iran "welcomes the withdrawal of ​American troops from Iraq and will undoubtedly support it," he ​told Iran's parliamentary news service. "Resistance groups are currently ⁠taking action, sometimes targeting and confronting American troops."
-
-Washington has accused Iran-backed militia groups in Iraq of playing a role in the wider Middle East conflict by launching attacks on neighbouring countries at the direction of Tehran, most recently hitting a major Saudi oil pipeline this month. The Baghdad government says it is trying to curb their influence.
-
-## NEW LIFE FOR ISLAMIC STATE?
-
-Some ​Iraqi security officials, both in the federal government and the semi-autonomous northern Kurdish region, say the US pullout also risks giving new life to Islamic State fighters, who, despite ​the defeat of their self-proclaimed ⁠caliphate nearly a decade ago, retain a sleeper cell network.
-
-At their height, the fighters occupied a third of Iraq and killed thousands of people, including hundreds they videotaped themselves gunning down inside a former US military base.
-
-A lack of US intelligence, logistical support and drones will give Islamic State a chance to regroup, said Kurdish commander Sirwan Barzani.
-
-"For more than two weeks, we have noticed movement by (Islamic State) sleeper cells, after it was announced in the general media that there will be an official withdrawal of ⁠the international coalition from ​Iraq by the end of September," he said. "This has boosted, in my opinion, the morale" of the fighters.
-
-Iraqi security forces said a suspected ​Islamic State cell was preparing suicide attacks to coincide with the pullout. The plot highlighted concerns that the militant group remains capable of exploiting security gaps despite years of military setbacks, said four Iraqi security and army officials.
-
-Islamic State "is seeking to send a message that the group is still powerful ​and capable of launching bloody attacks," said Colonel Khalid al-Bayati, a senior security official in the strategic oil town of Kirkuk.
-
-Additional reporting by Maher Nazeh, Kawa Omar, Muayad Hameed and Elwely Elwelly Writing by Ahmed Rashed and Michael Georgy Editing by Peter Graff
+Reporting by Kamal Choudhury in Bengaluru; Editing by Vijay Kishore
 
 Our Standards: [The Thomson Reuters Trust Principles., opens new tab](https://www.thomsonreuters.com/en/about-us/trust-principles.html)
 
 - Suggested Topics:
-- [](https://www.reuters.com/world/middle-east/)
+- [](https://www.reuters.com/business/healthcare-pharmaceuticals/)
+- [](https://www.reuters.com/legal/health/)
+- [](https://www.reuters.com/sustainability/regulatory-oversight/)
+- [](https://www.reuters.com/business/healthcare-pharmaceuticals/regulatory/)
+- [](https://www.reuters.com/business/healthcare-pharmaceuticals/public-health/)
 
 [](https://www.reutersagency.com/en/licensereuterscontent/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead)
 
 ## Read Next
 
-- [Middle Eastcategory](https://www.reuters.com/world/middle-east/)
+- [Healthcare & Pharmaceuticalscategory](https://www.reuters.com/business/healthcare-pharmaceuticals/)
     
-    [Passengers overcame co-pilot who tried to crash flydubai flight, Netanyahu says](https://www.reuters.com/world/middle-east/diverted-flydubai-flight-israel-was-not-hijacking-incident-israeli-prime-2026-09-30/)
-    
-    [
-    
-    ](https://www.reuters.com/world/middle-east/diverted-flydubai-flight-israel-was-not-hijacking-incident-israeli-prime-2026-09-30/)
-    
-- [United Statescategory](https://www.reuters.com/world/us/)
-    
-    [Iran says it receives US response to latest proposal](https://www.reuters.com/world/us/iran-appeals-us-voters-american-troops-leave-iraq-2026-09-30/)
+    [Bangladesh warns dengue outbreak could worsen after deadly September](https://www.reuters.com/business/healthcare-pharmaceuticals/bangladesh-warns-dengue-outbreak-could-worsen-after-deadly-september-2026-10-01/)
     
     [
     
-    ](https://www.reuters.com/world/us/iran-appeals-us-voters-american-troops-leave-iraq-2026-09-30/)
+    ](https://www.reuters.com/business/healthcare-pharmaceuticals/bangladesh-warns-dengue-outbreak-could-worsen-after-deadly-september-2026-10-01/)
     
-- [Worldcategory](https://www.reuters.com/world/)
+- [Legalcategory](https://www.reuters.com/legal/)
     
-    [Joy mixed with fear as US forces quit Iraq leaving potential security vacuum](https://www.reuters.com/world/us-forces-exit-iraq-emboldening-irans-proxies-islamic-state-2026-09-30/)
+    [Sanofi expands Regeneron partnership with up to $8 billion deal in win for new CEO](https://www.reuters.com/legal/litigation/sanofi-pay-regeneron-1-billion-upfront-expanded-immunology-deal-2026-10-01/)
     
     [
     
-    ](https://www.reuters.com/world/us-forces-exit-iraq-emboldening-irans-proxies-islamic-state-2026-09-30/)
+    ](https://www.reuters.com/legal/litigation/sanofi-pay-regeneron-1-billion-upfront-expanded-immunology-deal-2026-10-01/)
+    
+- [Healthcare & Pharmaceuticalscategory](https://www.reuters.com/business/healthcare-pharmaceuticals/)
+    
+    [MSF staff member tests positive for Ebola in Congo, aid organisation says](https://www.reuters.com/business/healthcare-pharmaceuticals/medecins-sans-frontieres-staff-member-tests-positive-ebola-congo-msf-says-2026-10-01/)
+    
+    [
+    
+    ](https://www.reuters.com/business/healthcare-pharmaceuticals/medecins-sans-frontieres-staff-member-tests-positive-ebola-congo-msf-says-2026-10-01/)
     
 - [
     
-    ](https://www.reuters.com/business/energy/analysts-raise-2026-oil-forecasts-prolonged-gulf-disruption-2026-09-30/)
+    ](https://www.reuters.com/business/healthcare-pharmaceuticals/netherlands-reports-four-more-deaths-west-nile-virus-2026-10-01/)
     
 - [
     
-    ](https://www.reuters.com/world/middle-east/israeli-strikes-kill-five-people-gaza-medics-say-2026-09-30/)
+    ](https://www.reuters.com/legal/litigation/foghorn-cut-40-workforce-after-scrapping-lilly-partnered-cancer-drug-2026-10-01/)
     
 - [
     
-    ](https://www.reuters.com/world/middle-east/iran-receives-us-feedback-seven-day-trust-building-plan-2026-09-30/)
+    ](https://www.reuters.com/legal/litigation/zealand-pharma-slides-concerns-over-patients-quitting-survodutide-trials-2026-10-01/)
     
 
 [](https://www.lseg.com/en/data-analytics/products/workspace?utm_source=reuters.com&utm_medium=articlebanner&utm_campaign=Reuters_ProductPage_Links)
 
-## [World](https://www.reuters.com/world/)
+## [Business](https://www.reuters.com/business/)
 
 - [
     
-    ](https://www.reuters.com/business/energy/trump-set-unveil-200-billion-south-korean-investment-us-bloomberg-news-reports-2026-09-30/)
+    ](https://www.reuters.com/business/finance/uk-banks-tumble-gilt-yields-hit-highest-sine-1998-budget-jitters-mount-2026-10-01/)
     
-    ### [Trump set to unveil $200 billion South Korean investment in US, Bloomberg News reports](https://www.reuters.com/business/energy/trump-set-unveil-200-billion-south-korean-investment-us-bloomberg-news-reports-2026-09-30/)
+    ### [UK banks tumble as gilt yields hit highest since 1998, budget jitters mount](https://www.reuters.com/business/finance/uk-banks-tumble-gilt-yields-hit-highest-sine-1998-budget-jitters-mount-2026-10-01/)
     
-    [category](https://www.reuters.com/business/)· September 30, 2026 · 7:47 AM PDT · 2 mins ago
+    [Financecategory](https://www.reuters.com/business/finance/) · October 1, 2026 · 2:41 PM UTC · ago
     
-    US President Donald Trump is expected ​to unveil plans worth $200 ‌billion of South Korean investments in energy projects ​across the United ​States spanning nuclear power plants, ⁠a power generation ​facility and a natural ​gas export venture, Bloomberg News reported on Wednesday, citing ​a White House ​official.
-    
-- [
-    
-    ](https://www.reuters.com/world/india/modi-speaks-with-trump-india-seeks-interim-deal-with-us-2026-09-30/)
-    
-    [Indiacategory](https://www.reuters.com/world/india/)[Modi speaks with Trump as India seeks interim deal with US](https://www.reuters.com/world/india/modi-speaks-with-trump-india-seeks-interim-deal-with-us-2026-09-30/)
-    
-    7:34 AM PDT
+    UK bank stocks fell sharply on ​Thursday, as British 30-year borrowing costs hit ‌their highest since 1998, as jitters mounted about Britain's finances and vulnerability to high oil prices and ​inflation ahead of this month's budget.
     
 - [
     
-    ](https://www.reuters.com/live/live-flydubai-flight-israel-diverted-after-brawl-between-pilots-2026-09-30/)
+    ](https://www.reuters.com/business/finance/us-construction-spending-surges-august-2026-10-01/)
     
-    [Livecategory](https://www.reuters.com/live/)[Netanyahu says one pilot arrested after clash on flydubai flight to Israel](https://www.reuters.com/live/live-flydubai-flight-israel-diverted-after-brawl-between-pilots-2026-09-30/)
+    [Financecategory](https://www.reuters.com/business/finance/)[US construction spending surges in August](https://www.reuters.com/business/finance/us-construction-spending-surges-august-2026-10-01/)
     
-    7:25 AM PDT
-    
-- [
-    
-    ](https://www.reuters.com/world/china/spain-france-align-welcoming-uk-back-eu-strengthening-china-trade-defences-2026-09-30/)
-    
-    [Chinacategory](https://www.reuters.com/world/china/)[Spain and France align on welcoming UK back to EU, strengthening China trade defences](https://www.reuters.com/world/china/spain-france-align-welcoming-uk-back-eu-strengthening-china-trade-defences-2026-09-30/)
-    
-    7:17 AM PDT
+    2:34 PM UTC
     
 - [
     
-    ](https://www.reuters.com/world/europe/paris-court-convicts-six-men-manslaughter-over-migrants-disaster-channel-2026-09-30/)
+    ](https://www.reuters.com/legal/transactional/jpmorgan-dealmaker-hernan-cristerna-retire-end-of-2026-2026-10-01/)
     
-    [Europecategory](https://www.reuters.com/world/europe/)[Paris court convicts six men of manslaughter over migrants disaster in Channel](https://www.reuters.com/world/europe/paris-court-convicts-six-men-manslaughter-over-migrants-disaster-channel-2026-09-30/)
+    [Legalcategory](https://www.reuters.com/legal/)[JPMorgan dealmaker Hernan Cristerna to retire at end of 2026](https://www.reuters.com/legal/transactional/jpmorgan-dealmaker-hernan-cristerna-retire-end-of-2026-2026-10-01/)
     
-    6:57 AM PDT
+    2:26 PM UTC
+    
+- [
+    
+    ](https://www.reuters.com/world/africa/us-waives-rights-conditions-320-million-military-aid-egypt-letter-shows-2026-10-01/)
+    
+    [Worldcategory](https://www.reuters.com/world/)[US waives rights conditions for $320 million in military aid to Egypt, letter shows](https://www.reuters.com/world/africa/us-waives-rights-conditions-320-million-military-aid-egypt-letter-shows-2026-10-01/)
+    
+    2:25 PM UTC
+    
+- [
+    
+    ](https://www.reuters.com/business/energy/eu-governments-spent-18-billion-in-2026-cushion-energy-price-jump-2026-10-01/)
+    
+    [Energycategory](https://www.reuters.com/business/energy/)[EU governments spent €18 billion in 2026 to cushion energy price jump](https://www.reuters.com/business/energy/eu-governments-spent-18-billion-in-2026-cushion-energy-price-jump-2026-10-01/)
+    
+    2:20 PM UTC
     
 
 ### Site Index

@@ -1,7 +1,7 @@
 
 # Overview
 Patrick Boyle: https://youtu.be/T3QF_BYoTYQ?si=CIdaJq2-yh0hdBrt
-## Quick Fact
+## Quick Debunks
 - **7-Eleven**: sponsors roughly 100+ H-1B visas a year with a median salary of over $117,000 per year. They are not using these to hire store clerks
 ## How it Works
 ### Requirements

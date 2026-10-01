@@ -154,12 +154,16 @@ In August 2026, the State Department paused immigrant visa appointments for appl
 
 ## 100,000 H-1B visa fee
 - EO: Trump later extended the order to impose the $100,000 H-1B fee [for another year](https://www.reuters.com/world/us/trump-extends-restrictions-h-1b-non-immigrant-visa-program-by-another-year-2026-09-18/) (into 2027).
-- Lawsuit: 
-	- Case: 
-	- Federal Judge:
-	- Timeline:
-		- [July 24](https://www.reuters.com/world/appeals-court-rejects-trump-bid-halt-100000-h-1b-visa-fee-ruling-2026-07-24/): ​Boston-based 1st U.S. Circuit Court of Appeals declined to put ​on hold judge ??? ruling
-	- Result:
+### Lawsuits
+#### Boston Case
+- Case: 
+- Federal Judge:
+- Timeline:
+	- [July 24](https://www.reuters.com/world/appeals-court-rejects-trump-bid-halt-100000-h-1b-visa-fee-ruling-2026-07-24/): ​Boston-based 1st U.S. Circuit Court of Appeals declined to put ​on hold judge ??? ruling
+#### California Case
+- Judge: US ‌District Judge Haywood Gilliam in Oakland, California, Obama appointee
+- Timeline
+	-[ September 20, 2026](https://www.reuters.com/legal/government/second-judge-blocks-trumps-100000-fee-new-h-1b-worker-visas-2026-10-01/): second judge (Judge Gilliam) blocks Trump's $100,000 H-1B fee, saying USCIS and the State Department failed to follow necessary rule-making processes before implementing the fee.
 
 ## Revoking Visas
 - Total revoked: [175,000](https://www.reuters.com/legal/government/trump-administration-has-revoked-more-than-175000-visas-state-department-says-2026-08-10/) visas during second term as of August 2026
@@ -174,6 +178,8 @@ In August 2026, the State Department paused immigrant visa appointments for appl
 
 # Deportations
 ## Third Country Deportations
+The administration has carried ​out third-country deportations to politically unstable South Sudan, which the US State Department urges Americans to avoid due to the risks of crime, kidnapping and armed conflict, as well as [Uganda](https://www.reuters.com/world/africa/twelve-deportees-us-arrive-uganda-law-society-says-2026-04-02/), [Equatorial Guinea](https://www.reuters.com/legal/government/egyptian-deported-by-us-equatorial-guinea-held-incommunicado-week-lawyer-says-2026-09-18/), [Liberia](https://www.reuters.com/world/africa/venezuelans-cubans-among-deportees-liberia-under-trump-deal-official-says-2026-08-20/), the [Central African Republic](https://www.reuters.com/world/africa/central-african-republic-accept-third-country-deportees-us-sources-say-2026-06-07/), and other nations.
+### Court Battle
 - On [March 28, 2025](https://www.reuters.com/world/us/us-judge-blocks-trump-administration-fast-tracking-deportations-2025-03-28/), US District Judge Brian Murphy in Boston issued a nationwide TRO designed to protect migrants subject to final orders of removal from being swiftly deported to countries other than those that had already been identified during immigration proceedings. The National Immigration Litigation Alliance brought the case against Trump after ICE began using a fast-tracked deportation system. Murphy said that under the Convention Against Torture, migrants had protections against being removed to countries where they face a likelihood of torture.
 - On [April 7](https://www.reuters.com/legal/us-appeals-court-rejects-trump-bid-fast-track-migrant-deportations-2025-04-07/), an appeals court rejected Trump's bid to have Murphy's TRO lifted, saying that such an order generally cannot be appealed, unlike longer-term preliminary injunctions.   
 - On [April 18](https://www.reuters.com/world/us/new-trump-policy-speed-deportations-cannot-be-implemented-us-judge-rules-2025-04-18/), Murphy issued a preliminary injunction, barring Trump from conducting final order deportations without giving the deportees asylum hearings to ensure they would not be tortured or killed.
@@ -189,6 +195,7 @@ In August 2026, the State Department paused immigrant visa appointments for appl
 - [February 13, 2026](https://www.reuters.com/legal/government/democrats-say-trumps-foreign-deportation-deals-cost-taxpayers-millions-2026-02-13/): Senate Foreign Relations Democrats issue <a href="https://www.foreign.senate.gov/press/dem/release/ranking-member-shaheen-major-new-report-on-true-cost-of-trump-administrations-third-country-deportation-deals">report</a> finding that Trump spent at least over $32 million for third-country deportations to five countries (Equatorial Guinea, Rwanda, El Salvador, Eswatini and Palau), at times more than $1 million per person shipped out of the country while producing little benefit. As of January 2026, the five countries received only about 300 third-country nationals - 250 of them Venezuelans sent to El Salvador - from the United States, the majority of whom have already been returned or are set to return to their home country.
 - [February 25](https://www.reuters.com/world/us-judge-rejects-trump-policy-allowing-swift-deportations-alternate-countries-2026-02-25/): District Judge Brian Murphy in Boston issues final ruling declaring DHS third country deportation policy invalid. Murphy said the policy failed to protect the due process rights of migrants who without notice could be swiftly deported to "an unfamiliar and potentially dangerous country." Murphy disagreed with the admin that it would be "fine" for immigration officers to quickly deport people to so-called third countries they did not come from as long as DHS does not know someone is waiting to kill them upon their arrival. However, Murphy paused the ruling for 15 days in observance that the case will likely go to the Supreme Court.
 - [September 18](https://www.reuters.com/world/us-appeals-court-rejects-trump-policy-allowing-fast-thirdcountry-deportations-2026-09-18/):  Boston-based 1st US Circuit Court of Appeals largely upholds Murphy's order declaring the DHS policy unlawful. However, the 1st Circuit overturned one part of Murphy's ruling on procedural grounds concerning whether the government must first try ​to deport migrants to countries they have ties to before sending them to third countries. Administration sent more than 25,000 migrants to at least 29 third countries, watchdog project says ( Third Country Deportation Watch, a project run by Refugees International and Human Rights First).
+- [September 29](https://www.reuters.com/world/supreme-court-lets-trump-resume-third-country-deportations-2026-09-29/): Supreme Court (6-3 ruling) puts Murphy's ruling on hold while they decide on the case, allowing Trump to continue third-country deportations for now.
 
 
 ## Imran Ahmed
@@ -241,6 +248,7 @@ January 13: Four senior DOJ civil rights [lawyers resign](https://www.reuters.co
 ## Venezuelan Man Shot
 - In January 2026, ICE [shoots and wounds Venezuelan man](https://www.reuters.com/legal/government/trump-threatens-funding-states-over-sanctuary-cities-clashes-intensify-2026-01-14/) fleeing a traffic stop in Minneapolis, with DHS saying the shooting came after two people attacked the federal officer with a broomstick and snow shovel as he wrestled with the Venezuelan. Following the shooting, protesters hurled rocks, ice and fireworks at law enforcement agents who fired tear gas late into the night. The latest shooting unfolded when the Venezuelan targeted by federal law enforcement officers in the traffic stop tried to get away and crashed his vehicle into a parked car, before fleeing on foot. After officers caught him, two people emerged from a nearby apartment and attacked the officer with a snow shovel and broom handle.
 - **Charges Dropped Against Sosa-Celis:** In February DOJ moves to [drop charges](https://www.reuters.com/legal/government/doj-moves-drop-charges-against-men-arrested-after-minneapolis-ice-shooting-2026-02-13/) against two men charged with assaulting ICE agents in Minneapolis, saying "newly discovered evidence in this matter is materially inconsistent with the allegations." DHS in January said officers were conducting a targeted traffic stop on Venezuelan man Julio Cesar Sosa-Celis when he sped away, crashed his car and fled on foot and that two other men hit an ICE officer who pursued him with a snow shovel and broom handle, prompting ICE to shoot Sosa-Celis. But court documents unsealed later told a different story: that ICE officers had scanned a license plate registered to a different person suspected of an immigration violation, leading them to chase the wrong person. Another man was actually driving the car and was the sole occupant - not Sosa-Celis, and the car's actual driver - another Venezuelan immigrant - crashed and fled to an apartment building where Sosa-Celis was present. At the building, an ICE officer trying to detain the driver was struck by him and Sosa-Celis with a broom, while a third man used a shovel - before the officer fired. Later, ICE said it appears the two officers in the Sosa-Celis shooting [lied under oath](https://www.reuters.com/legal/government/federal-officers-appear-have-lied-about-lead-up-immigrant-shooting-ice-director-2026-02-13/). The ICE director said both officers have been placed on administrative leave and the U.S. Attorney's office is investigating the false statements.
+
 ### Christian Castro Legal Battle
 - **Charged** (May 18): Minnesota prosecutors charge ICE agent, [Christian Castro](https://www.reuters.com/legal/government/minnesota-officials-charge-ice-agent-shooting-venezuelan-immigrant-2026-05-18/), with assault in connection with the shooting of Venezuelan immigrant Julio Cesar Sosa-Celis. 
 - **Arrested** (May 29): ICE agent [Christian Castro is arrested in Texas](https://www.reuters.com/legal/government/us-immigration-agent-arrested-texas-minneapolis-shooting-2026-05-29/) and is awaiting a transfer to Minnesota. 
@@ -493,6 +501,6 @@ January 24: 8th U.S. Circuit Court of Appeals rejects DOJ bid to charge five mor
 
 # ICE Shootings
 ## Austin Shooting
-- September 2026: ICE shoots man, Wilber Rafael Garces Perez, in torso, seriously wounding him. Law enforcement said Perez is ​an undocumented immigrant from Venezuela. Perez was detained in an ICE facility following the shooting with a [bullet still in his back](https://www.reuters.com/world/man-shot-by-ice-agents-texas-says-he-is-detention-with-bullet-back-2026-09-22/). 
+- September 2026: ICE shoots man, Wilber Rafael Garces Perez, in torso, seriously wounding him. Law enforcement said Perez is ​an undocumented immigrant from Venezuela. Perez was detained in an ICE facility following the shooting with a [bullet still in his back](https://www.reuters.com/world/man-shot-by-ice-agents-texas-says-he-is-detention-with-bullet-back-2026-09-22/). The DOJ later [charged Perez](https://www.reuters.com/legal/government/justice-department-charges-venezuelan-man-shot-by-ice-officer-austin-2026-09-29/) with assaulting, resisting, interfering, and impeding a federal officer.
 # End
 
