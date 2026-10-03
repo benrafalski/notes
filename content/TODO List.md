@@ -1,16 +1,45 @@
 # Reading
 - [ ] JFK
-- [ ] Intel Early Era MPUs (Pre-Pentium)
+	- [ ] Peace Corps
+	- [ ] Nuclear Test Ban Treaty
+	- [ ] Vietnam Ken Burns Documentary
+	- [ ] BOP Crisis
+	- [ ] Assassination Deep Dive
+- [ ] Intel
+	- [ ] 8088, 80286, 80386, 80486
+	- [ ] Pentium, II & III, 4, D
+	- [ ] Core 2
+	- [ ] Core Gen 1-5
+	- [ ] Core Gen 6-10
+	- [ ] Core Gen 11-14
+	- [ ] Core Ultra 1-3
 - [ ] NodeJS
+	- [ ] G4G Roadmap
+	- [ ] React
 - [ ] K8s
+- [ ] January 6
+	- [ ] The Preceding Months
+		- [ ] "Big Lie" and Stop the Steal movement
+		- [ ] 60 lawsuits filed by Trump
+		- [ ] Pressure on election officials (e.g. Raffensperger)
+		- [ ] "Fake Electors" scheme
+	- [ ] Events of January 6
+		- [ ] "Save America" Rally
+		- [ ] Electoral College certification (Electoral Count Act of 1887)
+		- [ ] Capitol breach timeline
+		- [ ] Extremist groups (Proud Boys, Oath Keepers, and Three Percenters)
+	- [ ] Aftermath
+		- [ ] January 6th House Committee
+		- [ ] Trump second impeachment
+		- [ ] Criminal prosecutions
+		- [ ] Jack Smith criminal indictments
 - [ ] Windows
 - [ ] George Washington
 - [ ] Syria
 	- [ ] Obama Policy
-- [ ] Arizona
-	- [ ] [Why 5 Million People Live in America’s Hottest City](https://www.youtube.com/watch?v=AjQuZfkU1jI&list=WL&index=16&t=1s)
+- [ ] 
 - [ ] Oregon
-- [ ] January 6
+- [ ]
 - [ ] Malaysia
 	- [ ] MH370
 		- [ ] [The Search for Flight 370 | MH370 Disappearance: Minute by Minute | FULL DOCUMENTARY](https://www.youtube.com/watch?v=z2gUtfWMZzE&list=WL&index=18)
