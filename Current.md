@@ -24,211 +24,135 @@
 
 [My News](https://www.reuters.com/my-news/feed/)
 
-[](https://www.reuters.com/account/sign-in/?website=reuters&redirect=https%3A%2F%2Fwww.reuters.com%2Fworld%2Fus%2Fwatchdog-finds-deficiencies-no-fed-misconduct-powell-era-renovation-project-2026-09-30%2F)[](https://www.reuters.com/account/subscribe/offer/?website=reuters&redirect=https%3A%2F%2Fwww.reuters.com%2Fworld%2Fus%2Fwatchdog-finds-deficiencies-no-fed-misconduct-powell-era-renovation-project-2026-09-30%2F&referrer=subscription_button&journeyStart=navigation)
+[](https://www.reuters.com/account/sign-in/?website=reuters&redirect=https%3A%2F%2Fwww.reuters.com%2Fbusiness%2Fhealthcare-pharmaceuticals%2Fpennsylvania-measles-cases-near-1000-outbreak-spreads-2026-10-02%2F)[](https://www.reuters.com/account/subscribe/offer/?website=reuters&redirect=https%3A%2F%2Fwww.reuters.com%2Fbusiness%2Fhealthcare-pharmaceuticals%2Fpennsylvania-measles-cases-near-1000-outbreak-spreads-2026-10-02%2F&referrer=subscription_button&journeyStart=navigation)
 
-# Watchdog finds no Fed misconduct in renovation; Trump calls for Powell's resignation
+# Pennsylvania measles cases near 1,000 as outbreak spreads
 
-By [Howard Schneider](https://www.reuters.com/authors/howard-schneider/), [Michael S. Derby](https://www.reuters.com/authors/michael-s-derby/) and [Ann Saphir](https://www.reuters.com/authors/ann-saphir/)
+By Reuters
 
-September 30, 202610:01 AM PDTUpdated September 30, 2026
+October 2, 202611:17 AM PDTUpdated October 2, 2026
 
-Item 1 of 3 The Federal Reserve headquarters, where construction continues, is reflected in a mirror in Washington, D.C., U.S., August 6, 2026. REUTERS/Kevin Lamarque
+![US CDC reports five-fold increase in weekly measles cases as Texas outbreak grows](https://www.reuters.com/resizer/v2/LSEHACZMZ5MMPO7YQW4WQ5EPBE.jpg?auth=512b3f5fda65fa9871832980cf4c549440ad300ed5dfb3822afb2b9d82b0b3c8&width=1920&quality=80)
 
-**[1/3]**The Federal Reserve headquarters, where construction continues, is reflected in a mirror in Washington, D.C., U.S., August 6, 2026. REUTERS/Kevin Lamarque [Purchase Licensing Rights, opens new tab](https://www.reutersconnect.com/item/the-federal-reserve-building-under-construction-in-washington/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1JDMjNUTUFJWENNSg%3D%3D/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead)
+A sign reading "measles testing" is seen in Seminole, Texas, U.S., February 25, 2025. REUTERS/Sebastian Rocandio/File Photo [Purchase Licensing Rights, opens new tab](https://www.reutersconnect.com/item/us-cdc-reports-five-fold-increase-in-weekly-measles-cases-as-texas-outbreak-grows/dGFnOnJldXRlcnMuY29tLDIwMjU6bmV3c21sX1JDMlYxREFISkNaRA%3D%3D/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead)
 
-- Summary
+Oct 2 (Reuters) - Pennsylvania's health department reported 977 measles cases as of Friday, according ​to its website, as the ‌state continues to battle a fast-growing outbreak of the disease.
 
-- Trump criticized Powell over the estimated $2.4 billion project in Washington
-- Fed's watchdog says better oversight could have mitigated some cost overruns
-- Findings do not point to criminal or administrative misconduct
-- Powell should be forced to resign, or should be sued, Trump says
+Here are more details:
 
-WASHINGTON, Sept 30 (Reuters) - The Federal Reserve's Inspector General on Wednesday said it found no grounds for a criminal referral or evidence of administrative misconduct tied to cost overruns in a US central bank renovation ​project.
+Keep up with the latest medical breakthroughs and healthcare trends with the award-winning Reuters Health Rounds newsletter. Sign up [here.](https://www.reuters.com/newsletters/reuters-health-rounds/?location=article-paragraph&redirectUrl=%2Fbusiness%2Fhealthcare-pharmaceuticals%2Fpennsylvania-measles-cases-near-1000-outbreak-spreads-2026-10-02%2F)
 
-However, its conclusion there was lax oversight drew a fresh call from President [Donald Trump](https://www.reuters.com/world/us/donald-trump/) for former Federal Reserve chief Jerome Powell's resignation.
+- The new ​figures follow the state's report ​on Wednesday of a [fifth measles-associated death](https://www.reuters.com/business/healthcare-pharmaceuticals/pennsylvania-reports-fifth-measles-linked-death-cases-rise-2026-09-30/), ⁠involving an unvaccinated Lancaster County resident.
+    
+- All ​five people who have died from ​the disease in Pennsylvania this year were unvaccinated.
+    
+- The US Centers for Disease Control and Prevention ​has [confirmed only two](https://www.reuters.com/business/healthcare-pharmaceuticals/us-cdc-confirms-two-measles-related-deaths-2026-2026-09-29/) measles-related deaths ​nationwide this year, without naming the states.
+    
+- The US ‌has ⁠recorded 3,887 measles cases this year as of October 1, according to CDC data.
+    
+- The CDC has said it ​is working ​with state ⁠epidemiologists on a standard definition for measles-related deaths.
+    
+- Pennsylvania remains ​the center of the nation's ​measles ⁠surge.
+    
+- Measles is a highly contagious viral disease but preventable with the measles, ⁠mumps ​and rubella vaccine, which ​is 97% effective after two doses.
+    
 
-The Misinformation Monitor newsletter rounds up international misinformation narratives, with a "Real or Fake?" quiz in every edition. Sign up [here.](https://www.reuters.com/newsletters/misinformation-monitor/?location=article-paragraph&redirectUrl=%2Fworld%2Fus%2Fwatchdog-finds-deficiencies-no-fed-misconduct-powell-era-renovation-project-2026-09-30%2F)
-
-The Fed watchdog's report highlighted extensive problems with project oversight that contributed to a roughly $1 billion ‌cost overrun for the renovation of the central bank's two historic buildings on the National Mall in Washington.
-
-Trump had [latched onto](https://www.reuters.com/world/us/feds-building-renovations-trumps-push-oust-powell-2026-09-30/) the cost overrun on the project, which now has a price tag of about $2.4 billion, in his effort to engineer Powell's ouster and gain influence over the direction of monetary policy. Trump also is trying to sack Fed Governor [Lisa Cook](https://www.reuters.com/legal/government/lawyer-feds-cook-targeted-by-trump-says-there-is-no-grounds-dismissal-2026-08-26/) over alleged wrongdoing in an unrelated matter.
-
-The IG's report noted that "at no point during our evaluation did we find reasonable grounds to believe that a violation of federal criminal law had occurred requiring a referral to the US attorney general."
-
-"Further, while our report outlines deficiencies in the ​management of the renovation project, resulting in our recommendation of corrective actions in accordance with the Inspector General Act, we did not identify administrative misconduct during our evaluation," it added.
-
-Powell declined to comment on the report, the latest chapter in ​an ongoing feud with Trump that goes back to 2018, when the president first criticized the Fed chief for not cutting interest rates. Trump had nominated Powell for the top Fed job in late ⁠2017.
-
-"At a minimum, 'Too Late' Powell should be forced to resign from the Board. He can’t manage a Building, and he certainly shouldn’t be allowed to manage his High Interest Rate Policy (only on “TRUMP!”)," the president wrote on Truth Social. "If he doesn’t resign, he should be sued, ​at the highest level, by the United States Government, for either corruption or incompetence, both of which are completely unacceptable."
-
-Trump said he had directed Attorney General Todd Blanche "to study the report, and make a determination as to what to do."
-
-Besides Powell, who led the Fed through ​most of the project, Fed Vice Chair Philip Jefferson heads the central bank's Committee on Board Affairs and serves as the "administrative governor" most directly involved in project oversight.
-
-Jefferson did not have any immediate comment on the report.
-
-Fed Chairman Kevin Warsh, who took over from Powell in May, said he would follow the report's recommendations on project management and hire an independent auditor to "verify accuracy and compliance" of all awarded costs to date.
-
-Cost overruns on government projects are common. Trump's own budget for [White House ballroom renovations](https://www.reuters.com/world/supreme-court-lets-trump-continue-work-white-house-ballroom-now-2026-08-21/), now underway, doubled from initial estimates to at least $400 million.
-
-Reaction from US lawmakers split along party lines.
-
-"Inflation does not change ​the Fed's responsibility to manage its resources prudently and be accountable to Congress," said Republican Senator Tim Scott, who chairs the Senate Banking Committee, calling the cost overruns "egregious" and promising "rigorous oversight" of the Fed.
-
-Senator Elizabeth Warren, the committee's top Democrat, said the report's findings showed "no ​basis to restart the president's witch hunt" against Powell.
-
-Congress oversees the Fed, though the central bank sets its own budget and is not subject to the political appropriations process.
-
-## WHITE HOUSE PRESSURE CAMPAIGN
-
-Trump had for years chafed at Powell's leadership of the Fed, publicly and incessantly berating him for not lowering ‌interest rates. The ⁠spiraling cost of the Fed renovation project arose early in the president's second term as a fresh focal point for the White House's attacks on Powell.
-
-Key members of the Trump administration and their allies in Congress suggested wasteful spending on luxury upgrades had ballooned the project's budget to hundreds of millions of dollars more than earlier estimated.
-
-Powell countered that the extra costs reflected unexpected challenges, such as asbestos abatement and higher-than-estimated prices for materials and labor as the construction went deep underground.
-
-He also asked the Fed's IG to take a fresh look at the project and its costs. The report on Wednesday said design elements like marble, water features and a garden terrace cited by critics in the White House "did not materially contribute" to the cost overruns.
-
-The 120-page document did, however, outline extensive management shortfalls, including a failure by the ​Fed to follow through on what it intended to be a "guaranteed ​maximum price" contract that would make the contractor responsible for ⁠cost overruns. The maximum price, in effect, was never actually established, with Fed project managers awarding subcontracts that continued to escalate the price and timeline of the project.
-
-The central bank, for example, ultimately paid $346 million for plumbing and air conditioning on the project, triple the initial estimate.
-
-As controversy over the renovations escalated, Trump, accompanied by Scott, [visited the renovation site](https://www.reuters.com/world/us/trump-presses-powell-cut-rates-during-tense-visit-fed-2025-07-24/) in July 2025 to press his criticisms. The visit led ​to a memorable on-camera incident in which Powell appeared to fact-check the president's stated cost-overrun number.
-
-Tensions rose sharply in January 2026, when US Attorney for the District of Columbia [Jeanine Pirro](https://www.reuters.com/business/finance/trump-team-ramps-up-attack-feds-powell-with-criminal-indictment-threat-2026-01-12/) issued subpoenas ​to the Fed Board seeking information ⁠about the cost overruns and Powell's testimony to Congress about them.
-
-Powell disclosed the Department of Justice's threat to criminally indict him in an unusual [Sunday night video, opens new tab](https://www.federalreserve.gov/newsevents/speech/files/powell20260111a.pdf) statement, calling it an attempt to intimidate an institution that sets interest rates based on what is best for the country rather than according to the president's preferences.
-
-The revelation of the DOJ probe [prompted an outcry](https://www.reuters.com/business/finance/trump-team-ramps-up-attack-feds-powell-with-criminal-indictment-threat-2026-01-12/) against political interference in the central bank, not only from Powell's global peers and economists but also, closer to home, from lawmakers, including some of Trump's fellow Republicans.
-
-A federal judge quashed the DOJ's subpoenas in March, agreeing ⁠with Powell that ​they were a pretext for pressuring the Fed chief into lowering rates, as Trump wished, or resigning. Pirro's subsequent decision to close her investigation and refer the ​matter to the Fed IG convinced Republican Senator Thom Tillis to allow Trump's nomination of Warsh as Powell's successor to proceed.
-
-Powell, however, has stayed on at the Fed as a governor.
-
-"I have said that I will not leave the Board until this investigation is well and truly over, with transparency and finality, and I stand by that," ​Powell said at his final press conference as Fed chief in April.
-
-Pirro's office said on Wednesday that it had received the report and was reviewing it.
-
-Reporting by Howard Schneider, Michael S. Derby, Bo Erickson and Ann Saphir; Additional reporting by Dan Rosenzweig-Ziff; Editing by Paul Simao
+Reporting by Kamal ​Choudhury in Bengaluru; Editing by Shailesh Kuber
 
 Our Standards: [The Thomson Reuters Trust Principles., opens new tab](https://www.thomsonreuters.com/en/about-us/trust-principles.html)
 
 - Suggested Topics:
-- [](https://www.reuters.com/world/us/)
+- [](https://www.reuters.com/business/healthcare-pharmaceuticals/)
+- [](https://www.reuters.com/sustainability/regulatory-oversight/)
+- [](https://www.reuters.com/business/healthcare-pharmaceuticals/regulatory/)
+- [](https://www.reuters.com/business/healthcare-pharmaceuticals/public-health/)
 
 [](https://www.reutersagency.com/en/licensereuterscontent/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead)
-
-[
-
-](https://www.reuters.com/authors/howard-schneider/)
-
-[Howard Schneider](https://www.reuters.com/authors/howard-schneider/)
-
-Thomson Reuters
-
-Covers the U.S. Federal Reserve, monetary policy and the economy, a graduate of the University of Maryland and Johns Hopkins University with previous experience as a foreign correspondent, economics reporter and on the local staff of the Washington Post.
-
-- [](mailto:Howard.Schneider@thomsonreuters.com)
-- [](https://x.com/hpschneider)
-
-[
-
-](https://www.reuters.com/authors/ann-saphir/)
-
-[Ann Saphir](https://www.reuters.com/authors/ann-saphir/)
-
-Thomson Reuters
-
-Reports on the Federal Reserve and the U.S. economy. Stories can be found at reuters.com.
-
-- [](mailto:ann.saphir@thomsonreuters.com)
-- [](https://x.com/annsaphir)
-- [](https://www.linkedin.com/in/annsaphir/)
 
 ## Read Next
 
 - [Legalcategory](https://www.reuters.com/legal/)
     
-    [Women declare #IamJaneDoe in solidarity with accuser](https://www.reuters.com/legal/government/women-declare-iamjanedoe-solidarity-with-cornell-university-rape-accuser-2026-10-03/)
+    [Novartis strikes up to $7.8 billion mRNA deal with China's Abogen](https://www.reuters.com/legal/litigation/novartis-strikes-about-78-billion-mrna-deal-with-chinas-abogen-2026-10-02/)
     
     [
     
-    ](https://www.reuters.com/legal/government/women-declare-iamjanedoe-solidarity-with-cornell-university-rape-accuser-2026-10-03/)
+    ](https://www.reuters.com/legal/litigation/novartis-strikes-about-78-billion-mrna-deal-with-chinas-abogen-2026-10-02/)
     
 - [Legalcategory](https://www.reuters.com/legal/)
     
-    [Trump digs in on voluntary AI safeguards as public fears grow](https://www.reuters.com/legal/litigation/public-fears-ai-grow-trump-digs-voluntary-safeguards-2026-10-03/)
+    [AbbVie joins US government pilot to test drug discount rebates](https://www.reuters.com/legal/litigation/abbvie-joins-us-government-pilot-test-drug-discount-rebates-2026-10-02/)
     
     [
     
-    ](https://www.reuters.com/legal/litigation/public-fears-ai-grow-trump-digs-voluntary-safeguards-2026-10-03/)
+    ](https://www.reuters.com/legal/litigation/abbvie-joins-us-government-pilot-test-drug-discount-rebates-2026-10-02/)
     
-- [United Statescategory](https://www.reuters.com/world/us/)
+- [Healthcare & Pharmaceuticalscategory](https://www.reuters.com/business/healthcare-pharmaceuticals/)
     
-    [Trump to speak at Ohio rally as Republicans defend Senate seat](https://www.reuters.com/world/us/trump-speak-ohio-rally-republicans-defend-senate-seat-close-race-2026-10-03/)
+    [Mexico says FDA lettuce probe did not conclusively identify contamination source](https://www.reuters.com/business/healthcare-pharmaceuticals/mexico-says-fda-lettuce-probe-did-not-conclusively-identify-contamination-source-2026-10-03/)
     
     [
     
-    ](https://www.reuters.com/world/us/trump-speak-ohio-rally-republicans-defend-senate-seat-close-race-2026-10-03/)
-    
-- [
-    
-    ](https://www.reuters.com/legal/government/tennessee-execution-survivor-christa-pike-ventilator-attorneys-say-2026-10-02/)
-    
-- [
-    
-    ](https://www.reuters.com/world/middle-east/aboard-uss-george-washington-young-sailors-adjust-war-with-iran-2026-10-03/)
-    
-- [
-    
-    ](https://www.reuters.com/world/us/us-coast-guard-searching-missing-jet-carrying-6-people-bound-boston-2026-10-03/)
-    
-
-[](https://www.lseg.com/en/data-analytics/products/workspace?utm_source=reuters.com&utm_medium=articlebanner&utm_campaign=Reuters_ProductPage_Links)
-
-## [World](https://www.reuters.com/world/)
-
-- [
-    
-    ](https://www.reuters.com/world/middle-east/key-shinyhunters-hacker-detained-jordan-is-cooperating-sources-say-2026-10-03/)
-    
-    ### [Key ShinyHunters hacker detained in Jordan, is cooperating, sources say](https://www.reuters.com/world/middle-east/key-shinyhunters-hacker-detained-jordan-is-cooperating-sources-say-2026-10-03/)
-    
-    [Middle Eastcategory](https://www.reuters.com/world/middle-east/) · October 3, 2026 · 8:17 AM PDT · 15 mins ago
-    
-    A key member of ‌the ShinyHunters hacking squad whose brazen intrusion into the FBI ​has shaken the bureau ​was taken into custody earlier ⁠this week in Jordan, three ​people familiar with the ​matter told Reuters. Two of the sources said he was cooperating with ​the FBI to identify ​his fellow hackers.
-    
-- [
-    
-    ](https://www.reuters.com/world/americas/lulas-lead-over-bolsonaro-narrows-ahead-brazil-vote-cntmda-poll-shows-2026-10-03/)
-    
-    [Americascategory](https://www.reuters.com/world/americas/)[Lula's lead over Bolsonaro narrows ahead of Brazil vote, CNT/MDA poll shows](https://www.reuters.com/world/americas/lulas-lead-over-bolsonaro-narrows-ahead-brazil-vote-cntmda-poll-shows-2026-10-03/)
-    
-    7:21 AM PDT
-    
-- [
-    
-    ](https://www.reuters.com/lifestyle/exiled-russian-filmmaker-zvyagintsev-takes-aim-putins-war-oscar-bid-2026-10-03/)
-    
-    [Lifestylecategory](https://www.reuters.com/lifestyle/)[Exiled Russian filmmaker Zvyagintsev takes aim at Putin's war in Oscar bid](https://www.reuters.com/lifestyle/exiled-russian-filmmaker-zvyagintsev-takes-aim-putins-war-oscar-bid-2026-10-03/)
-    
-    6:53 AM PDT
+    ](https://www.reuters.com/business/healthcare-pharmaceuticals/mexico-says-fda-lettuce-probe-did-not-conclusively-identify-contamination-source-2026-10-03/)
     
 - [
     
     ](https://www.reuters.com/business/healthcare-pharmaceuticals/france-step-up-ebola-funding-congo-amid-resurgence-fears-minister-says-2026-10-03/)
     
-    [category](https://www.reuters.com/business/)[France to step up Ebola funding in Congo amid resurgence fears, minister says](https://www.reuters.com/business/healthcare-pharmaceuticals/france-step-up-ebola-funding-congo-amid-resurgence-fears-minister-says-2026-10-03/)
+- [
     
-    6:45 AM PDT
+    ](https://www.reuters.com/legal/litigation/us-fda-extends-review-novo-nordisks-hemophilia-drug-over-facility-issues-2026-10-02/)
     
 - [
     
-    ](https://www.reuters.com/world/russia-pledges-continue-massive-strikes-kyiv-urges-foreign-diplomats-leave-city-2026-10-03/)
+    ](https://www.reuters.com/business/healthcare-pharmaceuticals/biogens-experimental-lupus-drug-shows-benefit-against-skin-symptoms-2026-10-02/)
     
-    [Worldcategory](https://www.reuters.com/world/)[Russia pledges more strikes on Kyiv, urges foreign diplomats to leave city](https://www.reuters.com/world/russia-pledges-continue-massive-strikes-kyiv-urges-foreign-diplomats-leave-city-2026-10-03/)
+
+[](https://www.lseg.com/en/data-analytics/products/workspace?utm_source=reuters.com&utm_medium=articlebanner&utm_campaign=Reuters_ProductPage_Links)
+
+## [Business](https://www.reuters.com/business/)
+
+- [
     
-    6:29 AM PDT
+    ](https://www.reuters.com/business/energy/opec-agrees-principle-keep-november-oil-output-targets-steady-sources-say-2026-10-04/)
+    
+    ### [OPEC+ agrees to keep November oil output targets steady](https://www.reuters.com/business/energy/opec-agrees-principle-keep-november-oil-output-targets-steady-sources-say-2026-10-04/)
+    
+    [Energycategory](https://www.reuters.com/business/energy/) · October 4, 2026 · 3:25 AM PDT · 6 hours ago
+    
+    OPEC+ agreed to keep oil production ‌targets steady for November at a meeting on Sunday, the producer group said, in line with expectations that further output policy adjustments are unlikely until next year.
+    
+- [
+    
+    ](https://www.reuters.com/legal/government/us-supreme-court-kick-off-term-with-bid-by-big-oil-toss-climate-suits-2026-10-04/)
+    
+    [Legalcategory](https://www.reuters.com/legal/)[Supreme Court to begin new term with Big Oil's bid to toss climate suits](https://www.reuters.com/legal/government/us-supreme-court-kick-off-term-with-bid-by-big-oil-toss-climate-suits-2026-10-04/)
+    
+    3:05 AM PDT
+    
+- [
+    
+    ](https://www.reuters.com/business/finance/revoluts-rise-become-europes-115-billion-big-bank-rival-2026-10-04/)
+    
+    [Financecategory](https://www.reuters.com/business/finance/)[Revolut's rise to become Europe's $115 billion big bank rival](https://www.reuters.com/business/finance/revoluts-rise-become-europes-115-billion-big-bank-rival-2026-10-04/)
+    
+    12:03 AM PDT
+    
+- [
+    
+    ](https://www.reuters.com/legal/litigation/openai-safety-employee-quits-says-time-trial-error-is-over-2026-10-03/)
+    
+    [Legalcategory](https://www.reuters.com/legal/)[OpenAI safety employee quits, says 'time for trial and error is over'](https://www.reuters.com/legal/litigation/openai-safety-employee-quits-says-time-trial-error-is-over-2026-10-03/)
+    
+    October 3, 2026
+    
+- [
+    
+    ](https://www.reuters.com/business/finance/italys-intesa-raises-mps-takeover-offer-price-warns-it-could-drop-bid-2026-10-03/)
+    
+    [Financecategory](https://www.reuters.com/business/finance/)[Italy's Intesa raises MPS takeover offer price and warns it could drop bid](https://www.reuters.com/business/finance/italys-intesa-raises-mps-takeover-offer-price-warns-it-could-drop-bid-2026-10-03/)
+    
+    October 3, 2026
     
 
 ### Site Index
@@ -323,7 +247,6 @@ Reuters, the news and media division of Thomson Reuters, is the world’s larges
 - [Corrections](https://www.reuters.com/info-pages/contact-us/)
 - [Data Disclosure and Sources, opens new tab](https://www.reuters.com/info-pages/data-disclosure-and-sources/)
 - [Site Feedback, opens new tab](https://trdigital.iad1.qualtrics.com/jfe/form/SV_8kte8gArGyCGVhz)
-- Manage Cookies & Your Privacy Choices
 
 All quotes delayed a minimum of 15 minutes. [See here for a list of exchanges and delays.](https://www.reuters.com/info-pages/disclaimer/)
 

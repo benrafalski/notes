@@ -177,7 +177,7 @@ On March 9, 2025, Columbia grad student and Palestinian refugee with permanent U
 
 ## Fed Chair Powell
 ### Fed Renovations
-- Inspector General Report: In September 2026, the Fed's IG found no grounds for a criminal referral or evidence of administrative misconduct tied to cost overruns in the Fed's renovation ​project. However, the watchdog did say better oversight could have mitigated some cost overruns in the estimated $2.4 billion project, drawing a fresh call from Trump for Powell's resignation. The report also said design elements like marble, water features and a garden terrace cited by White House critics "did not materially contribute" to the cost overruns.
+- **Inspector General Report**: In September 2026, the Fed's IG found [no grounds for a criminal referral](https://www.reuters.com/world/us/watchdog-finds-deficiencies-no-fed-misconduct-powell-era-renovation-project-2026-09-30/) or evidence of administrative misconduct tied to cost overruns in the Fed's renovation ​project. However, the watchdog did say better oversight could have mitigated some cost overruns in the estimated $2.4 billion project, drawing a fresh call from Trump for Powell's resignation. The report also said design elements like marble, water features and a garden terrace cited by White House critics "did not materially contribute" to the cost overruns.
 
 # National Guard Deployments
 ## Washington D.C.

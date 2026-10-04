@@ -33,6 +33,5 @@
 - [September 26](https://www.reuters.com/world/middle-east/iran-awaits-us-move-after-wsj-report-says-trump-rejects-peace-plan-2026-09-26/): Trump says he has rejected Iranian proposal to end the war that would reopen strait, end fighting in 7 days, saying Iran wanted urgently to reopen strait due to economic woes.
 - September 29: US withdraws from Iraq, boosting allies of Iran. The withdrawal was agreed in 2024 under Biden.
 
-
-
-
+## October
+- [October 4](https://www.reuters.com/world/asia-pacific/head-yemens-presidential-council-announces-military-operations-retake-territory-2026-10-04/): Saudi backed Yemeni government forces launch counteroffensive on Houthis.

@@ -5,6 +5,8 @@
 	- [ ] Vietnam Ken Burns Documentary
 	- [ ] BOP Crisis
 	- [ ] Assassination Deep Dive
+	- [ ] Videos
+		- [ ] CIA Vid: https://youtu.be/CFr5-otIKNY?si=GBO1o-6qlQcivyj-
 - [ ] Intel
 	- [ ] 8088, 80286, 80386, 80486
 	- [ ] Pentium, II & III, 4, D
