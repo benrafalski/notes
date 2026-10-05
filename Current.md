@@ -24,136 +24,154 @@
 
 [My News](https://www.reuters.com/my-news/feed/)
 
-[](https://www.reuters.com/account/sign-in/?website=reuters&redirect=https%3A%2F%2Fwww.reuters.com%2Fbusiness%2Fhealthcare-pharmaceuticals%2Fpennsylvania-measles-cases-near-1000-outbreak-spreads-2026-10-02%2F)[](https://www.reuters.com/account/subscribe/offer/?website=reuters&redirect=https%3A%2F%2Fwww.reuters.com%2Fbusiness%2Fhealthcare-pharmaceuticals%2Fpennsylvania-measles-cases-near-1000-outbreak-spreads-2026-10-02%2F&referrer=subscription_button&journeyStart=navigation)
+[](https://www.reuters.com/account/sign-in/?website=reuters&redirect=https%3A%2F%2Fwww.reuters.com%2Flegal%2Fgovernment%2Fus-judge-dismisses-doj-lawsuit-that-used-abortion-clinic-access-law-against-2026-10-03%2F)[](https://www.reuters.com/account/subscribe/offer/?website=reuters&redirect=https%3A%2F%2Fwww.reuters.com%2Flegal%2Fgovernment%2Fus-judge-dismisses-doj-lawsuit-that-used-abortion-clinic-access-law-against-2026-10-03%2F&referrer=subscription_button&journeyStart=navigation)
 
-# Pennsylvania measles cases near 1,000 as outbreak spreads
+# US judge dismisses DOJ lawsuit that used abortion clinic access law against protesters
 
-By Reuters
+By [Kanishka Singh](https://www.reuters.com/authors/kanishka-singh/)
 
-October 2, 202611:17 AM PDTUpdated October 2, 2026
+October 2, 20268:56 PM PDTUpdated 4 hours ago
 
-![US CDC reports five-fold increase in weekly measles cases as Texas outbreak grows](https://www.reuters.com/resizer/v2/LSEHACZMZ5MMPO7YQW4WQ5EPBE.jpg?auth=512b3f5fda65fa9871832980cf4c549440ad300ed5dfb3822afb2b9d82b0b3c8&width=1920&quality=80)
+![Illustration shows U.S. flag and Judge gavel](https://www.reuters.com/resizer/v2/4UG7W45M5FKJLHYVNTFV5ADECM.jpg?auth=13aa1f93e561010b808cff4afcb7464eac9f2e7f98134dcdcee11252db8184ba&width=1920&quality=80)
 
-A sign reading "measles testing" is seen in Seminole, Texas, U.S., February 25, 2025. REUTERS/Sebastian Rocandio/File Photo [Purchase Licensing Rights, opens new tab](https://www.reutersconnect.com/item/us-cdc-reports-five-fold-increase-in-weekly-measles-cases-as-texas-outbreak-grows/dGFnOnJldXRlcnMuY29tLDIwMjU6bmV3c21sX1JDMlYxREFISkNaRA%3D%3D/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead)
+U.S. flag and Judge gavel are seen in this illustration taken, August 6, 2024. REUTERS/Dado Ruvic/Illustration [Purchase Licensing Rights, opens new tab](https://www.reutersconnect.com/item/illustration-shows-us-flag-and-judge-gavel/dGFnOnJldXRlcnMuY29tLDIwMjQ6bmV3c21sX1JDMklBOUFDMUZQSA%3D%3D/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead)
 
-Oct 2 (Reuters) - Pennsylvania's health department reported 977 measles cases as of Friday, according ​to its website, as the ‌state continues to battle a fast-growing outbreak of the disease.
+- Summary
 
-Here are more details:
+- DOJ filed lawsuit in September 2025
+- Judge says government can file amended complaint within 30 days
+- Case was brought under Freedom of Access to Clinic Entrances Act
 
-Keep up with the latest medical breakthroughs and healthcare trends with the award-winning Reuters Health Rounds newsletter. Sign up [here.](https://www.reuters.com/newsletters/reuters-health-rounds/?location=article-paragraph&redirectUrl=%2Fbusiness%2Fhealthcare-pharmaceuticals%2Fpennsylvania-measles-cases-near-1000-outbreak-spreads-2026-10-02%2F)
+WASHINGTON, Oct 2 (Reuters) - A US judge ​dismissed a [lawsuit](https://www.reuters.com/legal/government/doj-sues-over-pro-palestinian-protest-using-law-abortion-clinic-access-2025-09-29/) against pro-Palestinian organizations and protesters that President [Donald Trump's](https://www.reuters.com/world/us/donald-trump/) administration brought last year ‌under a law traditionally used against people blocking access to abortion clinics.
 
-- The new ​figures follow the state's report ​on Wednesday of a [fifth measles-associated death](https://www.reuters.com/business/healthcare-pharmaceuticals/pennsylvania-reports-fifth-measles-linked-death-cases-rise-2026-09-30/), ⁠involving an unvaccinated Lancaster County resident.
-    
-- All ​five people who have died from ​the disease in Pennsylvania this year were unvaccinated.
-    
-- The US Centers for Disease Control and Prevention ​has [confirmed only two](https://www.reuters.com/business/healthcare-pharmaceuticals/us-cdc-confirms-two-measles-related-deaths-2026-2026-09-29/) measles-related deaths ​nationwide this year, without naming the states.
-    
-- The US ‌has ⁠recorded 3,887 measles cases this year as of October 1, according to CDC data.
-    
-- The CDC has said it ​is working ​with state ⁠epidemiologists on a standard definition for measles-related deaths.
-    
-- Pennsylvania remains ​the center of the nation's ​measles ⁠surge.
-    
-- Measles is a highly contagious viral disease but preventable with the measles, ⁠mumps ​and rubella vaccine, which ​is 97% effective after two doses.
-    
+US District Judge Katharine Hayden in New Jersey said the government's complaint did not adequately plead violations of the statute. She dismissed the claims without prejudice, ​saying the government can file an amended complaint within 30 days.
 
-Reporting by Kamal ​Choudhury in Bengaluru; Editing by Shailesh Kuber
+Jumpstart your morning with the latest legal news delivered straight to your inbox from The Daily Docket newsletter. Sign up [here.](https://www.reuters.com/newsletters/daily-docket/?location=article-paragraph&redirectUrl=%2Flegal%2Fgovernment%2Fus-judge-dismisses-doj-lawsuit-that-used-abortion-clinic-access-law-against-2026-10-03%2F)
+
+The case was brought ​under the Freedom of Access to Clinic Entrances Act, or FACE Act, a ⁠1994 law that prohibits the use of force and physical obstruction to interfere with people ​at reproductive health centers or houses of worship.
+
+In September 2025, the Justice Department sued pro-Palestinian activists that ​it accused of intimidating attendees during a November 2024 protest against an event at a synagogue in New Jersey.
+
+The event was billed by organizers as a spiritual service and real estate fair. It promoted the sale of ​property in Israeli settlements in the Israeli-occupied West Bank.
+
+The lawsuit said the protest escalated into violence, ​alleging the demonstrators physically assaulted some worshippers and chanted and used vuvuzelas - plastic trumpets sometimes used by soccer ‌fans - to ⁠disrupt the event.
+
+The Justice Department has brought several cases against protesters who have obstructed abortion clinics, but the case appeared to be the first time the law was used to allege interference with religious worship, according to Harmeet Dhillon, the head of the Justice Department's Civil Rights Division.
+
+The ​Justice Department under Trump has ​curtailed the use ⁠of the FACE Act in abortion-related cases, alleging that past criminal prosecutions represented an improper politicized use of law enforcement. Dhillon said those restrictions do ​not apply to cases related to houses of worship. Last year, Trump ​pardoned several ⁠people prosecuted under the law.
+
+Trump has [attempted to deport](https://www.reuters.com/legal/government/pro-palestinian-foreigners-us-arrested-by-trump-administration-ordered-be-2025-06-20/) foreign pro-Palestinian protesters, threatened [funding freezes](https://www.reuters.com/world/us/columbia-university-pay-over-200-million-resolve-trump-probes-2025-07-23/) for universities where protests were held, expanded [social media screening](https://www.reuters.com/world/us/us-screen-social-media-immigrants-rights-advocates-raise-concerns-2025-04-09/) of immigrants and imposed [sanctions on some of Israel's critics](https://www.reuters.com/world/middle-east/us-sanctions-un-expert-critical-israels-war-gaza-2025-07-09/).
+
+His administration says pro-Palestinian ⁠protesters ​are antisemitic and support extremists. Demonstrators say their criticism of [Israeli ​attacks on Gaza](https://www.reuters.com/business/aerospace-defense/un-rights-office-condemns-us-designation-palestine-action-terrorist-group-2026-08-27/) and of Israel's occupation of Palestinian territories does not amount to antisemitism, and their advocacy for Palestinian ​rights should not be equated with supporting extremism.
+
+(This Oct 2 story has been repeated to add a picture and additional codes, with no changes to text.)
+
+Reporting by Kanishka Singh in Washington; Editing by Jacqueline Wong
 
 Our Standards: [The Thomson Reuters Trust Principles., opens new tab](https://www.thomsonreuters.com/en/about-us/trust-principles.html)
 
 - Suggested Topics:
-- [](https://www.reuters.com/business/healthcare-pharmaceuticals/)
-- [](https://www.reuters.com/sustainability/regulatory-oversight/)
-- [](https://www.reuters.com/business/healthcare-pharmaceuticals/regulatory/)
-- [](https://www.reuters.com/business/healthcare-pharmaceuticals/public-health/)
+- [](https://www.reuters.com/legal/litigation/)
+- [](https://www.reuters.com/legal/constitutional-law/)
+- [](https://www.reuters.com/sustainability/human-rights/)
+- [](https://www.reuters.com/legal/health/)
+- [](https://www.reuters.com/legal/civil-rights/)
 
 [](https://www.reutersagency.com/en/licensereuterscontent/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead)
 
-## Read Next
+[
 
-- [Legalcategory](https://www.reuters.com/legal/)
+](https://www.reuters.com/authors/kanishka-singh/)
+
+[Kanishka Singh](https://www.reuters.com/authors/kanishka-singh/)
+
+Thomson Reuters
+
+Kanishka Singh is a breaking news reporter for Reuters in Washington DC, who primarily covers US politics and national affairs in his current role. His past breaking news coverage has spanned across a range of topics like the Black Lives Matter movement; the US elections; the 2021 Capitol riots and their follow up probes; the Brexit deal; US-China trade tensions; the NATO withdrawal from Afghanistan; the COVID-19 pandemic; and a 2019 Supreme Court verdict on a religious dispute site in his native India.
+
+- [](mailto:Kanishka.Singh@thomsonreuters.com)
+- [](https://x.com/kanishka183)
+
+## Read Next / Editor's Picks
+
+- [Litigationcategory](https://www.reuters.com/legal/litigation/)
     
-    [Novartis strikes up to $7.8 billion mRNA deal with China's Abogen](https://www.reuters.com/legal/litigation/novartis-strikes-about-78-billion-mrna-deal-with-chinas-abogen-2026-10-02/)
-    
-    [
-    
-    ](https://www.reuters.com/legal/litigation/novartis-strikes-about-78-billion-mrna-deal-with-chinas-abogen-2026-10-02/)
-    
-- [Legalcategory](https://www.reuters.com/legal/)
-    
-    [AbbVie joins US government pilot to test drug discount rebates](https://www.reuters.com/legal/litigation/abbvie-joins-us-government-pilot-test-drug-discount-rebates-2026-10-02/)
-    
-    [
-    
-    ](https://www.reuters.com/legal/litigation/abbvie-joins-us-government-pilot-test-drug-discount-rebates-2026-10-02/)
-    
-- [Healthcare & Pharmaceuticalscategory](https://www.reuters.com/business/healthcare-pharmaceuticals/)
-    
-    [Mexico says FDA lettuce probe did not conclusively identify contamination source](https://www.reuters.com/business/healthcare-pharmaceuticals/mexico-says-fda-lettuce-probe-did-not-conclusively-identify-contamination-source-2026-10-03/)
+    [Democratic lawmakers urge FAA not to drop rule requiring epinephrine on all flights](https://www.reuters.com/legal/litigation/democratic-lawmakers-urge-faa-not-drop-rule-requiring-epinephrine-all-flights-2026-10-05/)
     
     [
     
-    ](https://www.reuters.com/business/healthcare-pharmaceuticals/mexico-says-fda-lettuce-probe-did-not-conclusively-identify-contamination-source-2026-10-03/)
+    ](https://www.reuters.com/legal/litigation/democratic-lawmakers-urge-faa-not-drop-rule-requiring-epinephrine-all-flights-2026-10-05/)
+    
+- [Businesscategory](https://www.reuters.com/business/)
+    
+    [US Supreme Court rejects Nexstar bid to avoid DirecTV lawsuit over fees](https://www.reuters.com/business/us-supreme-court-rejects-nexstar-bid-avoid-directv-lawsuit-over-fees-2026-10-05/)
+    
+    [
+    
+    ](https://www.reuters.com/business/us-supreme-court-rejects-nexstar-bid-avoid-directv-lawsuit-over-fees-2026-10-05/)
+    
+- [Businesscategory](https://www.reuters.com/business/)
+    
+    [US Supreme Court won't hear Zillow's bid to escape investor class action](https://www.reuters.com/business/us-supreme-court-wont-hear-zillows-bid-escape-investor-class-action-2026-10-05/)
+    
+    [
+    
+    ](https://www.reuters.com/business/us-supreme-court-wont-hear-zillows-bid-escape-investor-class-action-2026-10-05/)
     
 - [
     
-    ](https://www.reuters.com/business/healthcare-pharmaceuticals/france-step-up-ebola-funding-congo-amid-resurgence-fears-minister-says-2026-10-03/)
+    ](https://www.reuters.com/legal/litigation/chevron-names-jeff-gustavson-next-cfo-2026-10-05/)
     
 - [
     
-    ](https://www.reuters.com/legal/litigation/us-fda-extends-review-novo-nordisks-hemophilia-drug-over-facility-issues-2026-10-02/)
+    ](https://www.reuters.com/legal/transactional/ge-healthcare-buy-sofie-biosciences-945-million-strengthen-radiopharma-business-2026-10-05/)
     
 - [
     
-    ](https://www.reuters.com/business/healthcare-pharmaceuticals/biogens-experimental-lupus-drug-shows-benefit-against-skin-symptoms-2026-10-02/)
+    ](https://www.reuters.com/legal/litigation/gate-bioscience-expands-lilly-drug-discovery-deal-worth-more-than-870-million-2026-10-05/)
+    
+- [
+    
+    ](https://www.reuters.com/legal/litigation/alector-soars-roche-licenses-parkinsons-therapy-up-127-billion-2026-10-05/)
+    
+- [
+    
+    ](https://www.reuters.com/legal/litigation/polish-regulator-suspects-google-abused-dominant-position-publisher-payment-2026-10-05/)
+    
+- [
+    
+    ](https://www.reuters.com/world/india-markets-regulator-partly-reverse-derivative-settlement-rules-after-2026-10-05/)
+    
+- [
+    
+    ](https://www.reuters.com/sustainability/cop/us-supreme-court-weighs-bid-by-oil-companies-avoid-climate-lawsuit-2026-10-05/)
+    
+- [
+    
+    ](https://www.reuters.com/legal/government/us-appeals-court-weighs-trumps-block-harvard-research-funding-2026-10-05/)
+    
+- [
+    
+    ](https://www.reuters.com/legal/government/trumps-deportation-push-forces-dozens-lgbt-migrants-onto-hostile-terrain-2026-10-05/)
+    
+- [
+    
+    ](https://www.reuters.com/business/media-telecom/qualcomm-arm-head-trial-again-potential-huge-damages-focus-2026-10-05/)
+    
+- [
+    
+    ](https://www.reuters.com/legal/litigation/huawei-agrees-multi-year-patent-licensing-deal-with-qualcomm-2026-10-05/)
+    
+- [
+    
+    ](https://www.reuters.com/legal/government/okx-joint-venture-files-with-sec-launch-tokenized-trading-platform-2026-10-05/)
+    
+- [
+    
+    ](https://www.reuters.com/legal/litigation/us-accuses-california-woman-spying-china-surveilling-taiwan-leaders-son-2026-10-05/)
     
 
 [](https://www.lseg.com/en/data-analytics/products/workspace?utm_source=reuters.com&utm_medium=articlebanner&utm_campaign=Reuters_ProductPage_Links)
-
-## [Business](https://www.reuters.com/business/)
-
-- [
-    
-    ](https://www.reuters.com/business/energy/opec-agrees-principle-keep-november-oil-output-targets-steady-sources-say-2026-10-04/)
-    
-    ### [OPEC+ agrees to keep November oil output targets steady](https://www.reuters.com/business/energy/opec-agrees-principle-keep-november-oil-output-targets-steady-sources-say-2026-10-04/)
-    
-    [Energycategory](https://www.reuters.com/business/energy/) · October 4, 2026 · 3:25 AM PDT · 6 hours ago
-    
-    OPEC+ agreed to keep oil production ‌targets steady for November at a meeting on Sunday, the producer group said, in line with expectations that further output policy adjustments are unlikely until next year.
-    
-- [
-    
-    ](https://www.reuters.com/legal/government/us-supreme-court-kick-off-term-with-bid-by-big-oil-toss-climate-suits-2026-10-04/)
-    
-    [Legalcategory](https://www.reuters.com/legal/)[Supreme Court to begin new term with Big Oil's bid to toss climate suits](https://www.reuters.com/legal/government/us-supreme-court-kick-off-term-with-bid-by-big-oil-toss-climate-suits-2026-10-04/)
-    
-    3:05 AM PDT
-    
-- [
-    
-    ](https://www.reuters.com/business/finance/revoluts-rise-become-europes-115-billion-big-bank-rival-2026-10-04/)
-    
-    [Financecategory](https://www.reuters.com/business/finance/)[Revolut's rise to become Europe's $115 billion big bank rival](https://www.reuters.com/business/finance/revoluts-rise-become-europes-115-billion-big-bank-rival-2026-10-04/)
-    
-    12:03 AM PDT
-    
-- [
-    
-    ](https://www.reuters.com/legal/litigation/openai-safety-employee-quits-says-time-trial-error-is-over-2026-10-03/)
-    
-    [Legalcategory](https://www.reuters.com/legal/)[OpenAI safety employee quits, says 'time for trial and error is over'](https://www.reuters.com/legal/litigation/openai-safety-employee-quits-says-time-trial-error-is-over-2026-10-03/)
-    
-    October 3, 2026
-    
-- [
-    
-    ](https://www.reuters.com/business/finance/italys-intesa-raises-mps-takeover-offer-price-warns-it-could-drop-bid-2026-10-03/)
-    
-    [Financecategory](https://www.reuters.com/business/finance/)[Italy's Intesa raises MPS takeover offer price and warns it could drop bid](https://www.reuters.com/business/finance/italys-intesa-raises-mps-takeover-offer-price-warns-it-could-drop-bid-2026-10-03/)
-    
-    October 3, 2026
-    
 
 ### Site Index
 
@@ -247,6 +265,7 @@ Reuters, the news and media division of Thomson Reuters, is the world’s larges
 - [Corrections](https://www.reuters.com/info-pages/contact-us/)
 - [Data Disclosure and Sources, opens new tab](https://www.reuters.com/info-pages/data-disclosure-and-sources/)
 - [Site Feedback, opens new tab](https://trdigital.iad1.qualtrics.com/jfe/form/SV_8kte8gArGyCGVhz)
+- Manage Cookies & Your Privacy Choices
 
 All quotes delayed a minimum of 15 minutes. [See here for a list of exchanges and delays.](https://www.reuters.com/info-pages/disclaimer/)
 
