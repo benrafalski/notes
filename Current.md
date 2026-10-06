@@ -24,131 +24,115 @@
 
 [My News](https://www.reuters.com/my-news/feed/)
 
-[](https://www.reuters.com/account/sign-in/?website=reuters&redirect=https%3A%2F%2Fwww.reuters.com%2Flegal%2Fgovernment%2Fus-judge-dismisses-doj-lawsuit-that-used-abortion-clinic-access-law-against-2026-10-03%2F)[](https://www.reuters.com/account/subscribe/offer/?website=reuters&redirect=https%3A%2F%2Fwww.reuters.com%2Flegal%2Fgovernment%2Fus-judge-dismisses-doj-lawsuit-that-used-abortion-clinic-access-law-against-2026-10-03%2F&referrer=subscription_button&journeyStart=navigation)
+[](https://www.reuters.com/account/sign-in/?website=reuters&redirect=https%3A%2F%2Fwww.reuters.com%2Flegal%2Fgovernment%2Fus-judge-blocks-trump-policy-fining-migrants-up-18-million-2026-10-06%2F)[](https://www.reuters.com/account/subscribe/offer/?website=reuters&redirect=https%3A%2F%2Fwww.reuters.com%2Flegal%2Fgovernment%2Fus-judge-blocks-trump-policy-fining-migrants-up-18-million-2026-10-06%2F&referrer=subscription_button&journeyStart=navigation)
 
-# US judge dismisses DOJ lawsuit that used abortion clinic access law against protesters
+# US judge blocks Trump policy of fining migrants up to $1.8 million
 
-By [Kanishka Singh](https://www.reuters.com/authors/kanishka-singh/)
+By [Nate Raymond](https://www.reuters.com/authors/nate-raymond/)
 
-October 2, 20268:56 PM PDTUpdated 4 hours ago
+October 5, 20265:59 PM PDTUpdated 20 hours ago
 
-![Illustration shows U.S. flag and Judge gavel](https://www.reuters.com/resizer/v2/4UG7W45M5FKJLHYVNTFV5ADECM.jpg?auth=13aa1f93e561010b808cff4afcb7464eac9f2e7f98134dcdcee11252db8184ba&width=1920&quality=80)
+![Mexican border shelters empty as Trump crackdown deters migrants heading north](https://www.reuters.com/resizer/v2/XDVEPXLZUJO5PEHXRS7SKKJVVM.jpg?auth=7352ce7842006eeee8537cabf8506a2b4b54d5c111d2a28808111c5823f93bde&width=1920&quality=80)
 
-U.S. flag and Judge gavel are seen in this illustration taken, August 6, 2024. REUTERS/Dado Ruvic/Illustration [Purchase Licensing Rights, opens new tab](https://www.reutersconnect.com/item/illustration-shows-us-flag-and-judge-gavel/dGFnOnJldXRlcnMuY29tLDIwMjQ6bmV3c21sX1JDMklBOUFDMUZQSA%3D%3D/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead)
+A general view of the exterior of the El Buen Samaritano migrant shelter, as migrant shelters along Mexico's northern border are emptying amid a decline in migrant arrivals following U.S. President Donald Trump's immigration crackdown and mass deportation campaign, in Ciudad Juarez, Mexico, September 4, 2026. REUTERS/Jose Luis... [Purchase Licensing Rights, opens new tab](https://www.reutersconnect.com/item/mexican-border-shelters-empty-as-trump-crackdown-deters-migrants-heading-north/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1JDMkNDTkE3TEtaNA%3D%3D/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead) Read more
 
-- Summary
+Oct 5 (Reuters) - A federal judge on Monday blocked efforts by the Trump administration to impose fines of up to $1.8 million on migrants who fail to leave the US ​after receiving final deportation orders.
 
-- DOJ filed lawsuit in September 2025
-- Judge says government can file amended complaint within 30 days
-- Case was brought under Freedom of Access to Clinic Entrances Act
+US District Judge George O'Toole in Boston issued the [ruling, opens new tab](https://fingfx.thomsonreuters.com/gfx/legaldocs/xmvjwbkwlpr/10052026fines.pdf) ‌in a class-action lawsuit filed last year by two of the thousands of migrants who have been assessed civil penalties by the Department of Homeland Security.
 
-WASHINGTON, Oct 2 (Reuters) - A US judge ​dismissed a [lawsuit](https://www.reuters.com/legal/government/doj-sues-over-pro-palestinian-protest-using-law-abortion-clinic-access-2025-09-29/) against pro-Palestinian organizations and protesters that President [Donald Trump's](https://www.reuters.com/world/us/donald-trump/) administration brought last year ‌under a law traditionally used against people blocking access to abortion clinics.
+Jumpstart your morning with the latest legal news delivered straight to your inbox from The Daily Docket newsletter. Sign up [here.](https://www.reuters.com/newsletters/daily-docket/?location=article-paragraph&redirectUrl=%2Flegal%2Fgovernment%2Fus-judge-blocks-trump-policy-fining-migrants-up-18-million-2026-10-06%2F)
 
-US District Judge Katharine Hayden in New Jersey said the government's complaint did not adequately plead violations of the statute. She dismissed the claims without prejudice, ​saying the government can file an amended complaint within 30 days.
+He said the administration imposed the fines unlawfully. Halting the ​penalty-related policies was necessary, O'Toole said, because collecting the fines would likely drive the ​plaintiffs into insolvency.
 
-Jumpstart your morning with the latest legal news delivered straight to your inbox from The Daily Docket newsletter. Sign up [here.](https://www.reuters.com/newsletters/daily-docket/?location=article-paragraph&redirectUrl=%2Flegal%2Fgovernment%2Fus-judge-dismisses-doj-lawsuit-that-used-abortion-clinic-access-law-against-2026-10-03%2F)
+"The plaintiffs live in an economically precarious position even without ⁠the imposition of the government’s exorbitant fines," he wrote.
 
-The case was brought ​under the Freedom of Access to Clinic Entrances Act, or FACE Act, a ⁠1994 law that prohibits the use of force and physical obstruction to interfere with people ​at reproductive health centers or houses of worship.
+DHS had no immediate comment.
 
-In September 2025, the Justice Department sued pro-Palestinian activists that ​it accused of intimidating attendees during a November 2024 protest against an event at a synagogue in New Jersey.
+As recently as ​July, the department said it had issued more than 103,000 fines to migrants amounting to ​about $84 billion in total since President Donald Trump returned to the White House last year.
 
-The event was billed by organizers as a spiritual service and real estate fair. It promoted the sale of ​property in Israeli settlements in the Israeli-occupied West Bank.
+While Congress authorized civil penalties under the Illegal Immigration Reform and Immigrant Responsibility Act of 1996, no administration sought to impose them ​until Trump's first term.
 
-The lawsuit said the protest escalated into violence, ​alleging the demonstrators physically assaulted some worshippers and chanted and used vuvuzelas - plastic trumpets sometimes used by soccer ‌fans - to ⁠disrupt the event.
+Starting last year, Trump's second administration [began levying fines](https://www.reuters.com/world/us/low-income-migrants-fined-up-18-million-by-trump-administration-2025-05-20/) of $998 per day for ​migrants who failed to leave the US after a deportation order. Those fines have been imposed retroactively ‌for up ⁠to five years, for a maximum penalty of $1.8 million.
 
-The Justice Department has brought several cases against protesters who have obstructed abortion clinics, but the case appeared to be the first time the law was used to allege interference with religious worship, according to Harmeet Dhillon, the head of the Justice Department's Civil Rights Division.
+In July 2025, DHS and the US Department of Justice implemented a new process they said would streamline the assessment of fines by eliminating a 30-day notice period and shortening the process for challenging penalties.
 
-The ​Justice Department under Trump has ​curtailed the use ⁠of the FACE Act in abortion-related cases, alleging that past criminal prosecutions represented an improper politicized use of law enforcement. Dhillon said those restrictions do ​not apply to cases related to houses of worship. Last year, Trump ​pardoned several ⁠people prosecuted under the law.
+The plaintiffs, who also ​included the Immigrant Legal ​Resource Center, challenged ⁠that policy as well as what they described as a practice by US Immigration and Customs Enforcement, a DHS agency, of issuing fines ​using boilerplate forms without independently assessing whether someone's failure to depart was "willful" ​or "voluntary."
 
-Trump has [attempted to deport](https://www.reuters.com/legal/government/pro-palestinian-foreigners-us-arrested-by-trump-administration-ordered-be-2025-06-20/) foreign pro-Palestinian protesters, threatened [funding freezes](https://www.reuters.com/world/us/columbia-university-pay-over-200-million-resolve-trump-probes-2025-07-23/) for universities where protests were held, expanded [social media screening](https://www.reuters.com/world/us/us-screen-social-media-immigrants-rights-advocates-raise-concerns-2025-04-09/) of immigrants and imposed [sanctions on some of Israel's critics](https://www.reuters.com/world/middle-east/us-sanctions-un-expert-critical-israels-war-gaza-2025-07-09/).
+O'Toole, an ⁠appointee of Democratic President Bill Clinton, sided with the plaintiffs, holding that the fines were unlawful and violated the Administrative Procedure Act because the forms lacked specific allegations explaining why an individual's ⁠conduct warranted ​a penalty.
 
-His administration says pro-Palestinian ⁠protesters ​are antisemitic and support extremists. Demonstrators say their criticism of [Israeli ​attacks on Gaza](https://www.reuters.com/business/aerospace-defense/un-rights-office-condemns-us-designation-palestine-action-terrorist-group-2026-08-27/) and of Israel's occupation of Palestinian territories does not amount to antisemitism, and their advocacy for Palestinian ​rights should not be equated with supporting extremism.
+He also found the administration had failed to ​comply with rulemaking processes in adopting its streamlined fine-imposition process because it did not provide the public a chance ​to comment on the policy change first.
 
-(This Oct 2 story has been repeated to add a picture and additional codes, with no changes to text.)
-
-Reporting by Kanishka Singh in Washington; Editing by Jacqueline Wong
+Reporting by Nate Raymond in Boston; Editing by Thomas Derpinghaus
 
 Our Standards: [The Thomson Reuters Trust Principles., opens new tab](https://www.thomsonreuters.com/en/about-us/trust-principles.html)
 
 - Suggested Topics:
-- [](https://www.reuters.com/legal/litigation/)
+- [](https://www.reuters.com/legal/government/)
 - [](https://www.reuters.com/legal/constitutional-law/)
-- [](https://www.reuters.com/sustainability/human-rights/)
-- [](https://www.reuters.com/legal/health/)
+- [](https://www.reuters.com/legal/consumer-protection/)
 - [](https://www.reuters.com/legal/civil-rights/)
+- [](https://www.reuters.com/legal/public-policy/)
 
 [](https://www.reutersagency.com/en/licensereuterscontent/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead)
 
 [
 
-](https://www.reuters.com/authors/kanishka-singh/)
+![Nate Raymond](https://www.reuters.com/resizer/v2/https%3A%2F%2Fs3.amazonaws.com%2Farc-authors%2Freuters%2F12ff96eb-dca5-42fb-a5a9-f690563e55b7.png?auth=e963065eb6e70d9d4ec5a8922a8be6461342a1b98e0c38850733a3ff239b9276&height=120&width=120&quality=80&smart=true)
 
-[Kanishka Singh](https://www.reuters.com/authors/kanishka-singh/)
+
+
+](https://www.reuters.com/authors/nate-raymond/)
+
+[Nate Raymond](https://www.reuters.com/authors/nate-raymond/)
 
 Thomson Reuters
 
-Kanishka Singh is a breaking news reporter for Reuters in Washington DC, who primarily covers US politics and national affairs in his current role. His past breaking news coverage has spanned across a range of topics like the Black Lives Matter movement; the US elections; the 2021 Capitol riots and their follow up probes; the Brexit deal; US-China trade tensions; the NATO withdrawal from Afghanistan; the COVID-19 pandemic; and a 2019 Supreme Court verdict on a religious dispute site in his native India.
+Nate Raymond reports on the federal judiciary and litigation. He can be reached at nate.raymond@thomsonreuters.com.
 
-- [](mailto:Kanishka.Singh@thomsonreuters.com)
-- [](https://x.com/kanishka183)
+- [](mailto:nate.raymond@thomsonreuters.com)
+- [](https://x.com/nateraymond)
 
 ## Read Next / Editor's Picks
 
-- [Litigationcategory](https://www.reuters.com/legal/litigation/)
+- [Worldcategory](https://www.reuters.com/world/)
     
-    [Democratic lawmakers urge FAA not to drop rule requiring epinephrine on all flights](https://www.reuters.com/legal/litigation/democratic-lawmakers-urge-faa-not-drop-rule-requiring-epinephrine-all-flights-2026-10-05/)
-    
-    [
-    
-    ](https://www.reuters.com/legal/litigation/democratic-lawmakers-urge-faa-not-drop-rule-requiring-epinephrine-all-flights-2026-10-05/)
-    
-- [Businesscategory](https://www.reuters.com/business/)
-    
-    [US Supreme Court rejects Nexstar bid to avoid DirecTV lawsuit over fees](https://www.reuters.com/business/us-supreme-court-rejects-nexstar-bid-avoid-directv-lawsuit-over-fees-2026-10-05/)
+    [Trump's sweeping makeover of the White House and Washington](https://www.reuters.com/world/us/trump-undertakes-sweeping-makeover-white-house-washington-2026-10-06/)
     
     [
     
-    ](https://www.reuters.com/business/us-supreme-court-rejects-nexstar-bid-avoid-directv-lawsuit-over-fees-2026-10-05/)
+    ](https://www.reuters.com/world/us/trump-undertakes-sweeping-makeover-white-house-washington-2026-10-06/)
     
-- [Businesscategory](https://www.reuters.com/business/)
+- [Worldcategory](https://www.reuters.com/world/)
     
-    [US Supreme Court won't hear Zillow's bid to escape investor class action](https://www.reuters.com/business/us-supreme-court-wont-hear-zillows-bid-escape-investor-class-action-2026-10-05/)
+    [Trump orders firing squad for gunman who killed 13 people at Fort Hood, Texas](https://www.reuters.com/world/us/trump-orders-firing-squad-gunman-who-killed-13-people-fort-hood-texas-2026-10-06/)
     
     [
     
-    ](https://www.reuters.com/business/us-supreme-court-wont-hear-zillows-bid-escape-investor-class-action-2026-10-05/)
+    ](https://www.reuters.com/world/us/trump-orders-firing-squad-gunman-who-killed-13-people-fort-hood-texas-2026-10-06/)
+    
+- [Worldcategory](https://www.reuters.com/world/)
+    
+    [US Senator Warren presses federal housing director to cooperate with probe](https://www.reuters.com/world/us/us-senator-warren-presses-federal-housing-director-cooperate-with-probe-2026-10-06/)
+    
+    [
+    
+    ](https://www.reuters.com/world/us/us-senator-warren-presses-federal-housing-director-cooperate-with-probe-2026-10-06/)
     
 - [
     
-    ](https://www.reuters.com/legal/litigation/chevron-names-jeff-gustavson-next-cfo-2026-10-05/)
+    ](https://www.reuters.com/legal/litigation/texas-ag-paxton-probes-fruit-loom-hanes-over-potential-toxic-chemicals-childrens-2026-10-06/)
     
 - [
     
-    ](https://www.reuters.com/legal/transactional/ge-healthcare-buy-sofie-biosciences-945-million-strengthen-radiopharma-business-2026-10-05/)
+    ](https://www.reuters.com/world/ftc-says-it-urged-us-hospitals-provide-prompt-accurate-pricing-information-2026-10-05/)
     
 - [
     
-    ](https://www.reuters.com/legal/litigation/gate-bioscience-expands-lilly-drug-discovery-deal-worth-more-than-870-million-2026-10-05/)
+    ](https://www.reuters.com/legal/litigation/us-justice-dept-tells-staff-call-ai-super-intelligence-under-trump-order-2026-10-06/)
     
 - [
     
-    ](https://www.reuters.com/legal/litigation/alector-soars-roche-licenses-parkinsons-therapy-up-127-billion-2026-10-05/)
-    
-- [
-    
-    ](https://www.reuters.com/legal/litigation/polish-regulator-suspects-google-abused-dominant-position-publisher-payment-2026-10-05/)
-    
-- [
-    
-    ](https://www.reuters.com/world/india-markets-regulator-partly-reverse-derivative-settlement-rules-after-2026-10-05/)
-    
-- [
-    
-    ](https://www.reuters.com/sustainability/cop/us-supreme-court-weighs-bid-by-oil-companies-avoid-climate-lawsuit-2026-10-05/)
-    
-- [
-    
-    ](https://www.reuters.com/legal/government/us-appeals-court-weighs-trumps-block-harvard-research-funding-2026-10-05/)
+    ](https://www.reuters.com/world/us-closes-2024-privacy-review-into-us-airlines-without-seeking-penalties-2026-10-05/)
     
 - [
     
@@ -156,19 +140,35 @@ Kanishka Singh is a breaking news reporter for Reuters in Washington DC, who pri
     
 - [
     
-    ](https://www.reuters.com/business/media-telecom/qualcomm-arm-head-trial-again-potential-huge-damages-focus-2026-10-05/)
+    ](https://www.reuters.com/legal/government/us-judge-dismisses-doj-lawsuit-that-used-abortion-clinic-access-law-against-2026-10-03/)
     
 - [
     
-    ](https://www.reuters.com/legal/litigation/huawei-agrees-multi-year-patent-licensing-deal-with-qualcomm-2026-10-05/)
+    ](https://www.reuters.com/legal/government/catholic-diocese-sues-us-government-seeking-clergy-access-detainees-2026-10-05/)
     
 - [
     
-    ](https://www.reuters.com/legal/government/okx-joint-venture-files-with-sec-launch-tokenized-trading-platform-2026-10-05/)
+    ](https://www.reuters.com/world/judge-sets-us-trial-lockerbie-bombing-case-january-2027-2026-10-05/)
     
 - [
     
-    ](https://www.reuters.com/legal/litigation/us-accuses-california-woman-spying-china-surveilling-taiwan-leaders-son-2026-10-05/)
+    ](https://www.reuters.com/world/blanche-says-doj-is-not-reopening-criminal-probe-into-feds-powell-bloomberg-news-2026-10-02/)
+    
+- [
+    
+    ](https://www.reuters.com/legal/government/ny-governor-attacks-law-enforcements-handling-2024-cornell-rape-investigation-2026-10-02/)
+    
+- [
+    
+    ](https://www.reuters.com/legal/litigation/nyc-sues-manhattan-law-firm-alleging-bogus-injury-suits-2026-10-06/)
+    
+- [
+    
+    ](https://www.reuters.com/business/finance/imf-says-hedge-funds-market-footprint-growing-merits-closer-scrutiny-2026-10-06/)
+    
+- [
+    
+    ](https://www.reuters.com/business/retail-consumer/uk-online-retailer-asos-shares-drop-hack-reports-2026-10-06/)
     
 
 [](https://www.lseg.com/en/data-analytics/products/workspace?utm_source=reuters.com&utm_medium=articlebanner&utm_campaign=Reuters_ProductPage_Links)
