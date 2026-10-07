@@ -49,8 +49,8 @@ Served as ​the U.S. attorney for the Southern District of New York during Trum
 ## Senate
 ## House
 
-# Post-presidency
-- N/A since he was assassinated during mid-term
+# Post-presidency and Legacy
+- De-Trumpanization: started ahead of the 2026 midterms, Republican candidates in 41 of 62 competitive congressional races [distanced themselves from Trump](https://www.reuters.com/world/us/most-republicans-tight-midterm-distance-themselves-trump-reuters-review-finds-2026-10-07/) due to his massive unpopularity from the Iran conflict. This included a dozen candidates removing his name, image or endorsements from campaign websites, most after securing their party's nomination.
 
 
 

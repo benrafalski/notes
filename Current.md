@@ -24,154 +24,167 @@
 
 [My News](https://www.reuters.com/my-news/feed/)
 
-[](https://www.reuters.com/account/sign-in/?website=reuters&redirect=https%3A%2F%2Fwww.reuters.com%2Flegal%2Fgovernment%2Fus-judge-blocks-trump-policy-fining-migrants-up-18-million-2026-10-06%2F)[](https://www.reuters.com/account/subscribe/offer/?website=reuters&redirect=https%3A%2F%2Fwww.reuters.com%2Flegal%2Fgovernment%2Fus-judge-blocks-trump-policy-fining-migrants-up-18-million-2026-10-06%2F&referrer=subscription_button&journeyStart=navigation)
+[](https://www.reuters.com/account/sign-in/?website=reuters&redirect=https%3A%2F%2Fwww.reuters.com%2Fworld%2Fmiddle-east%2Fisraelis-mark-three-years-since-hamas-attack-that-set-off-gaza-assault-2026-10-07%2F)[](https://www.reuters.com/account/subscribe/offer/?website=reuters&redirect=https%3A%2F%2Fwww.reuters.com%2Fworld%2Fmiddle-east%2Fisraelis-mark-three-years-since-hamas-attack-that-set-off-gaza-assault-2026-10-07%2F&referrer=subscription_button&journeyStart=navigation)
 
-# US judge blocks Trump policy of fining migrants up to $1.8 million
+# Israelis mark three years since October 7 as Palestinians mourn Gaza's destruction
 
-By [Nate Raymond](https://www.reuters.com/authors/nate-raymond/)
+By [Rami Amichay](https://www.reuters.com/authors/rami-amichay/) and [Mahmoud Issa](https://www.reuters.com/authors/mahmoud-issa/)
 
-October 5, 20265:59 PM PDTUpdated 20 hours ago
+October 6, 202610:03 PM PDTUpdated 5 hours ago
 
-![Mexican border shelters empty as Trump crackdown deters migrants heading north](https://www.reuters.com/resizer/v2/XDVEPXLZUJO5PEHXRS7SKKJVVM.jpg?auth=7352ce7842006eeee8537cabf8506a2b4b54d5c111d2a28808111c5823f93bde&width=1920&quality=80)
+![Israel marks three years since Hamas attacked Israel](https://ajo.prod.reuters.tv/api/v2/img/6ac678c7e4b03d5adffaf42e-1791393034696?width=1080&quality=80)
 
-A general view of the exterior of the El Buen Samaritano migrant shelter, as migrant shelters along Mexico's northern border are emptying amid a decline in migrant arrivals following U.S. President Donald Trump's immigration crackdown and mass deportation campaign, in Ciudad Juarez, Mexico, September 4, 2026. REUTERS/Jose Luis... [Purchase Licensing Rights, opens new tab](https://www.reutersconnect.com/item/mexican-border-shelters-empty-as-trump-crackdown-deters-migrants-heading-north/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1JDMkNDTkE3TEtaNA%3D%3D/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead) Read more
+- Summary
 
-Oct 5 (Reuters) - A federal judge on Monday blocked efforts by the Trump administration to impose fines of up to $1.8 million on migrants who fail to leave the US ​after receiving final deportation orders.
+- Militant attacks of October 7, 2023, were deadliest day in Israel's history
+- Attacks set off Israeli military assault in Gaza
+- Anniversary comes 20 days ahead of Israeli election
+- Gaza's conditions remain dire despite year-old ceasefire
 
-US District Judge George O'Toole in Boston issued the [ruling, opens new tab](https://fingfx.thomsonreuters.com/gfx/legaldocs/xmvjwbkwlpr/10052026fines.pdf) ‌in a class-action lawsuit filed last year by two of the thousands of migrants who have been assessed civil penalties by the Department of Homeland Security.
+KFAR AZA, Israel/GAZA, Oct 7 (Reuters) - Israelis gathered in silence on Wednesday in a kibbutz near the [Gaza](https://www.reuters.com/world/israel-hama-at-war/) border ​that was overrun by Hamas militants on October 7 three years ago, mourning victims of attacks that set off Israel's assault in Gaza and plunged the ‌Middle East into war.
 
-Jumpstart your morning with the latest legal news delivered straight to your inbox from The Daily Docket newsletter. Sign up [here.](https://www.reuters.com/newsletters/daily-docket/?location=article-paragraph&redirectUrl=%2Flegal%2Fgovernment%2Fus-judge-blocks-trump-policy-fining-migrants-up-18-million-2026-10-06%2F)
+In the Gaza Strip, devastated by three years of Israeli bombardment, Palestinians sheltering among the ruins of destroyed cities recalled life before a war that [displaced nearly the entire population](https://www.reuters.com/world/middle-east/haunted-by-grief-gazas-displaced-still-wait-overseas-return-2026-10-04/) and tore apart families.
 
-He said the administration imposed the fines unlawfully. Halting the ​penalty-related policies was necessary, O'Toole said, because collecting the fines would likely drive the ​plaintiffs into insolvency.
+The Reuters Iran Briefing newsletter keeps you informed with the latest developments and analysis of the Iran war. Sign up [here.](https://www.reuters.com/newsletters/reuters-iran-briefing/?location=article-paragraph&redirectUrl=%2Fworld%2Fmiddle-east%2Fisraelis-mark-three-years-since-hamas-attack-that-set-off-gaza-assault-2026-10-07%2F)
 
-"The plaintiffs live in an economically precarious position even without ⁠the imposition of the government’s exorbitant fines," he wrote.
+The attacks of October 7, 2023, were the deadliest day in Israel's history. Militants led by Hamas killed 1,200 people and [took 251 hostages](https://www.reuters.com/business/media-telecom/freed-israeli-hostages-every-moment-is-now-precious-2026-10-05/), a cross-border incursion that traumatised Israelis who have demanded government accountability.
 
-DHS had no immediate comment.
+Israel's subsequent bombardment and ground operations in Gaza ​have killed more than 74,000 people, including at least 1,400 killed in the past year since a US-brokered [ceasefire](https://www.reuters.com/world/middle-east/one-year-trumps-gaza-plan-has-not-stopped-israeli-fire-or-disarmed-hamas-2026-10-06/), which halted major fighting but has failed to stop Israeli attacks or ​secure the disarmament of Hamas.
 
-As recently as ​July, the department said it had issued more than 103,000 fines to migrants amounting to ​about $84 billion in total since President Donald Trump returned to the White House last year.
+## 'A VERY DIFFICULT DAY'
 
-While Congress authorized civil penalties under the Illegal Immigration Reform and Immigrant Responsibility Act of 1996, no administration sought to impose them ​until Trump's first term.
+In Kfar Aza, where Hamas militants killed dozens of Israelis before taking 19 hostages back into Gaza, ⁠residents held a vigil for those killed, standing in silence as a trumpet played a solemn bugle call. A resident read out a roll call of the dead.
 
-Starting last year, Trump's second administration [began levying fines](https://www.reuters.com/world/us/low-income-migrants-fined-up-18-million-by-trump-administration-2025-05-20/) of $998 per day for ​migrants who failed to leave the US after a deportation order. Those fines have been imposed retroactively ‌for up ⁠to five years, for a maximum penalty of $1.8 million.
+Zion Regev, a community leader ​in the kibbutz, said most residents remain displaced and have yet to return, the trauma of October 7 continuing to shape their lives.
 
-In July 2025, DHS and the US Department of Justice implemented a new process they said would streamline the assessment of fines by eliminating a 30-day notice period and shortening the process for challenging penalties.
+"This is the first time we are doing all the things ​here in the kibbutz," Regev said of the vigil. "It's a very emotional day, it's a very difficult day for our community, three years after October 7th."
 
-The plaintiffs, who also ​included the Immigrant Legal ​Resource Center, challenged ⁠that policy as well as what they described as a practice by US Immigration and Customs Enforcement, a DHS agency, of issuing fines ​using boilerplate forms without independently assessing whether someone's failure to depart was "willful" ​or "voluntary."
+Elsewhere in Israel, protesters against what they view as a lack of accountability for the security failure gathered outside parliament in Jerusalem, blaming Prime Minister Benjamin Netanyahu for refusing an independent inquiry into the attack.
 
-O'Toole, an ⁠appointee of Democratic President Bill Clinton, sided with the plaintiffs, holding that the fines were unlawful and violated the Administrative Procedure Act because the forms lacked specific allegations explaining why an individual's ⁠conduct warranted ​a penalty.
+Some protesters held signs reading: "The people will remember October 7 on October 27," a reference to ​an Israeli general election 20 days away that is being viewed as a referendum on Netanyahu's long tenure in power.
 
-He also found the administration had failed to ​comply with rulemaking processes in adopting its streamlined fine-imposition process because it did not provide the public a chance ​to comment on the policy change first.
+"We need the change and we need hope and we need to know ​that we have a government that cares about the public and doesn't work also only for themselves," said protester Shaked Arrad.
 
-Reporting by Nate Raymond in Boston; Editing by Thomas Derpinghaus
+Item 1 of 7 A woman visits the site of the Nova music festival, where partygoers were killed and kidnapped during the deadly Hamas-led October 7, 2023 attack, on the third anniversary of the attack, near Reim, southern Israel, October 7, 2026. REUTERS/Ronen Zvulun
+
+**[1/7]**A woman visits the site of the Nova music festival, where partygoers were killed and kidnapped during the deadly Hamas-led October 7, 2023 attack, on the third anniversary of the attack, near Reim, southern Israel, October 7, 2026. REUTERS/Ronen Zvulun [Purchase Licensing Rights, opens new tab](https://www.reutersconnect.com/item/israel-marks-third-anniversary-of-october-7-attack/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1JDMjRZTkEzMFpFRg%3D%3D/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead)
+
+Netanyahu has rejected blame for the security breach and resisted calls for an independent investigation. That ‌has frustrated many ⁠in Israel, including families of those killed in the attacks, some of whom have [joined the election race](https://www.reuters.com/world/middle-east/october-7-families-join-election-race-with-hope-healing-israel-2026-10-05/).
+
+In a statement released by his office, Netanyahu said: "The nation unites on this day in the longing for our dear ones."
+
+Referring to his country's ongoing attacks in Gaza, he added: "We will complete the mission: we have settled the score and will continue settling the score with all the murderers."
+
+[Election polls](https://www.reuters.com/graphics/ISRAEL-ELECTION/POLLS/lgvdbwrakvo/) show neither Netanyahu nor his main competitors would muster enough seats in parliament to form a coalition if a vote were held today.
+
+## DISPLACED GAZANS RECALL LIFE BEFORE ISRAELI ASSAULT
+
+The anniversary is the ​first since the October 10, 2025, ceasefire deal, ​which has left Israel in control of around ⁠two-thirds of Gaza, where it has demolished remaining buildings and ordered residents out.
+
+Hamas controls the remaining third of the territory, a narrow strip on the coast where the [2 million population](https://www.reuters.com/world/middle-east/haunted-by-grief-gazas-displaced-still-wait-overseas-return-2026-10-04/) mostly [live in makeshift tents](https://www.reuters.com/world/middle-east/evacuated-an-incubator-now-back-gaza-getting-know-mama-2026-10-02/) and bombed-out buildings.
+
+In the latest violence, Gaza medics said on Wednesday Israel's military had carried ​out air strikes in Beit Lahia in northern Gaza and in Khan Younis in the south, killing at least two Palestinians and wounding ​others. The Israeli military said ⁠it struck and killed two people it described as militants with Hamas, which did not immediately provide comment. The military did not provide comment on the strike in Khan Younis.
+
+Umm Mohammad, a mother of five displaced from Gaza City and now living with her husband and children in a tent encampment in Deir Al-Balah, said the war had ripped her family apart.
+
+"We were one happy family. The war displaced us. My ⁠son left Gaza, ​the other went to a separate tent, my daughters left with their husbands to other parts of the Strip ​and we rarely meet," she said.
+
+On this day, she said, "we recall how happy, despite all problems, we were before the war broke out, destroying everything we loved."
+
+Reporting by Rami Amichay, Miro Maman and Avi Ohayon in Kfar Aza, Mahmoud Issa in ​Gaza, Steven Scheer, Dedi Hayun and Eli Berlzon in Jerusalem, Emily Rose in Tel Aviv and Nidal al-Muhgrabi in Cairo; Writing by Rami Ayyub; Editing by Alison Williams, Peter Graff and Toby Chopra
 
 Our Standards: [The Thomson Reuters Trust Principles., opens new tab](https://www.thomsonreuters.com/en/about-us/trust-principles.html)
 
 - Suggested Topics:
-- [](https://www.reuters.com/legal/government/)
-- [](https://www.reuters.com/legal/constitutional-law/)
-- [](https://www.reuters.com/legal/consumer-protection/)
-- [](https://www.reuters.com/legal/civil-rights/)
-- [](https://www.reuters.com/legal/public-policy/)
+- [](https://www.reuters.com/world/middle-east/)
 
 [](https://www.reutersagency.com/en/licensereuterscontent/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead)
 
-[
+## Read Next
 
-![Nate Raymond](https://www.reuters.com/resizer/v2/https%3A%2F%2Fs3.amazonaws.com%2Farc-authors%2Freuters%2F12ff96eb-dca5-42fb-a5a9-f690563e55b7.png?auth=e963065eb6e70d9d4ec5a8922a8be6461342a1b98e0c38850733a3ff239b9276&height=120&width=120&quality=80&smart=true)
-
-
-
-](https://www.reuters.com/authors/nate-raymond/)
-
-[Nate Raymond](https://www.reuters.com/authors/nate-raymond/)
-
-Thomson Reuters
-
-Nate Raymond reports on the federal judiciary and litigation. He can be reached at nate.raymond@thomsonreuters.com.
-
-- [](mailto:nate.raymond@thomsonreuters.com)
-- [](https://x.com/nateraymond)
-
-## Read Next / Editor's Picks
-
-- [Worldcategory](https://www.reuters.com/world/)
+- [Middle Eastcategory](https://www.reuters.com/world/middle-east/)
     
-    [Trump's sweeping makeover of the White House and Washington](https://www.reuters.com/world/us/trump-undertakes-sweeping-makeover-white-house-washington-2026-10-06/)
+    [Attacks on Saudi airports kill three people, as fighting escalates in Yemen](https://www.reuters.com/world/middle-east/houthis-launch-missiles-yemens-aden-airport-fighting-intensifies-2026-10-07/)
     
     [
     
-    ](https://www.reuters.com/world/us/trump-undertakes-sweeping-makeover-white-house-washington-2026-10-06/)
+    ](https://www.reuters.com/world/middle-east/houthis-launch-missiles-yemens-aden-airport-fighting-intensifies-2026-10-07/)
     
-- [Worldcategory](https://www.reuters.com/world/)
+- [Middle Eastcategory](https://www.reuters.com/world/middle-east/)
     
-    [Trump orders firing squad for gunman who killed 13 people at Fort Hood, Texas](https://www.reuters.com/world/us/trump-orders-firing-squad-gunman-who-killed-13-people-fort-hood-texas-2026-10-06/)
+    EXCLUSIVE
     
-    [
-    
-    ](https://www.reuters.com/world/us/trump-orders-firing-squad-gunman-who-killed-13-people-fort-hood-texas-2026-10-06/)
-    
-- [Worldcategory](https://www.reuters.com/world/)
-    
-    [US Senator Warren presses federal housing director to cooperate with probe](https://www.reuters.com/world/us/us-senator-warren-presses-federal-housing-director-cooperate-with-probe-2026-10-06/)
+    [Saudi Arabia launches air safety probe into flydubai incident, sources say](https://www.reuters.com/world/middle-east/saudi-arabia-launches-air-safety-probe-into-flydubai-incident-sources-say-2026-10-07/)
     
     [
     
-    ](https://www.reuters.com/world/us/us-senator-warren-presses-federal-housing-director-cooperate-with-probe-2026-10-06/)
+    ](https://www.reuters.com/world/middle-east/saudi-arabia-launches-air-safety-probe-into-flydubai-incident-sources-say-2026-10-07/)
+    
+- [Worldcategory](https://www.reuters.com/world/)
+    
+    EXCLUSIVE
+    
+    [US Vice President Vance says Iran must cut enrichment to end war](https://www.reuters.com/world/interview-us-vice-president-vance-says-iran-must-cut-enrichment-end-war-2026-10-06/)
+    
+    [
+    
+    ](https://www.reuters.com/world/interview-us-vice-president-vance-says-iran-must-cut-enrichment-end-war-2026-10-06/)
     
 - [
     
-    ](https://www.reuters.com/legal/litigation/texas-ag-paxton-probes-fruit-loom-hanes-over-potential-toxic-chemicals-childrens-2026-10-06/)
+    ](https://www.reuters.com/world/middle-east/status-irans-uranium-enrichment-programme-2026-10-07/)
     
 - [
     
-    ](https://www.reuters.com/world/ftc-says-it-urged-us-hospitals-provide-prompt-accurate-pricing-information-2026-10-05/)
-    
-- [
-    
-    ](https://www.reuters.com/legal/litigation/us-justice-dept-tells-staff-call-ai-super-intelligence-under-trump-order-2026-10-06/)
-    
-- [
-    
-    ](https://www.reuters.com/world/us-closes-2024-privacy-review-into-us-airlines-without-seeking-penalties-2026-10-05/)
-    
-- [
-    
-    ](https://www.reuters.com/legal/government/trumps-deportation-push-forces-dozens-lgbt-migrants-onto-hostile-terrain-2026-10-05/)
-    
-- [
-    
-    ](https://www.reuters.com/legal/government/us-judge-dismisses-doj-lawsuit-that-used-abortion-clinic-access-law-against-2026-10-03/)
-    
-- [
-    
-    ](https://www.reuters.com/legal/government/catholic-diocese-sues-us-government-seeking-clergy-access-detainees-2026-10-05/)
-    
-- [
-    
-    ](https://www.reuters.com/world/judge-sets-us-trial-lockerbie-bombing-case-january-2027-2026-10-05/)
-    
-- [
-    
-    ](https://www.reuters.com/world/blanche-says-doj-is-not-reopening-criminal-probe-into-feds-powell-bloomberg-news-2026-10-02/)
-    
-- [
-    
-    ](https://www.reuters.com/legal/government/ny-governor-attacks-law-enforcements-handling-2024-cornell-rape-investigation-2026-10-02/)
-    
-- [
-    
-    ](https://www.reuters.com/legal/litigation/nyc-sues-manhattan-law-firm-alleging-bogus-injury-suits-2026-10-06/)
-    
-- [
-    
-    ](https://www.reuters.com/business/finance/imf-says-hedge-funds-market-footprint-growing-merits-closer-scrutiny-2026-10-06/)
-    
-- [
-    
-    ](https://www.reuters.com/business/retail-consumer/uk-online-retailer-asos-shares-drop-hack-reports-2026-10-06/)
+    ](https://www.reuters.com/world/middle-east/syria-weighs-military-aid-saudi-arabia-amid-yemen-war-sources-say-2026-10-07/)
     
 
 [](https://www.lseg.com/en/data-analytics/products/workspace?utm_source=reuters.com&utm_medium=articlebanner&utm_campaign=Reuters_ProductPage_Links)
+
+## [World](https://www.reuters.com/world/)
+
+- [
+    
+    ](https://www.reuters.com/world/hegseth-praises-sailors-resilience-after-record-breaking-carrier-deployment-2026-10-07/)
+    
+    ### [Hegseth praises sailors' resilience after record-breaking carrier deployment](https://www.reuters.com/world/hegseth-praises-sailors-resilience-after-record-breaking-carrier-deployment-2026-10-07/)
+    
+    [Worldcategory](https://www.reuters.com/world/) · October 7, 2026 · 3:04 PM PDT · 30 mins ago
+    
+    US Defense Secretary Pete Hegseth flew to the ​flight deck of the aircraft carrier USS Abraham Lincoln on Wednesday and praised the resilience of sailors who endured an extended, ‌wartime deployment that drew scrutiny over suicide attempts on board.
+    
+- [
+    
+    ](https://www.reuters.com/world/us/trump-floats-turning-his-florida-golf-course-into-presidential-retreat-2026-10-07/)
+    
+    [United Statescategory](https://www.reuters.com/world/us/)[Trump floats turning his Florida golf course into presidential retreat](https://www.reuters.com/world/us/trump-floats-turning-his-florida-golf-course-into-presidential-retreat-2026-10-07/)
+    
+    3:01 PM PDT
+    
+- [
+    
+    ](https://www.reuters.com/legal/government/fbi-arrests-man-plotting-mass-shooting-mall-america-2026-10-07/)
+    
+    [Legalcategory](https://www.reuters.com/legal/)[FBI arrests man for plotting mass shooting at Mall of America](https://www.reuters.com/legal/government/fbi-arrests-man-plotting-mass-shooting-mall-america-2026-10-07/)
+    
+    2:53 PM PDT
+    
+- [
+    
+    ](https://www.reuters.com/legal/government/democrats-sue-trump-halt-taxpayer-funded-tv-ads-that-praised-him-2026-10-07/)
+    
+    [Legalcategory](https://www.reuters.com/legal/)[Democrats sue Trump to halt taxpayer-funded TV ads that praised him](https://www.reuters.com/legal/government/democrats-sue-trump-halt-taxpayer-funded-tv-ads-that-praised-him-2026-10-07/)
+    
+    2:14 PM PDT
+    
+- [
+    
+    ](https://www.reuters.com/world/french-mayor-caught-viral-video-clash-says-student-protesters-could-be-my-2026-10-07/)
+    
+    [Worldcategory](https://www.reuters.com/world/)[French mayor caught in viral video clash says student protesters 'could be my children'](https://www.reuters.com/world/french-mayor-caught-viral-video-clash-says-student-protesters-could-be-my-2026-10-07/)
+    
+    2:04 PM PDT
+    
 
 ### Site Index
 
