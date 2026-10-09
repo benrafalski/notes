@@ -24,119 +24,73 @@
 
 [My News](https://www.reuters.com/my-news/feed/)
 
-[](https://www.reuters.com/account/sign-in/?website=reuters&redirect=https%3A%2F%2Fwww.reuters.com%2Fworld%2Fmiddle-east%2Fisraelis-mark-three-years-since-hamas-attack-that-set-off-gaza-assault-2026-10-07%2F)[](https://www.reuters.com/account/subscribe/offer/?website=reuters&redirect=https%3A%2F%2Fwww.reuters.com%2Fworld%2Fmiddle-east%2Fisraelis-mark-three-years-since-hamas-attack-that-set-off-gaza-assault-2026-10-07%2F&referrer=subscription_button&journeyStart=navigation)
+[](https://www.reuters.com/account/sign-in/?website=reuters&redirect=https%3A%2F%2Fwww.reuters.com%2Fworld%2Fus%2Ftrump-launches-committee-probe-feds-lisa-cook-white-house-statement-2026-10-09%2F)[](https://www.reuters.com/account/subscribe/offer/?website=reuters&redirect=https%3A%2F%2Fwww.reuters.com%2Fworld%2Fus%2Ftrump-launches-committee-probe-feds-lisa-cook-white-house-statement-2026-10-09%2F&referrer=subscription_button&journeyStart=navigation)
 
-# Israelis mark three years since October 7 as Palestinians mourn Gaza's destruction
+# Trump launches committee to probe Fed's Lisa Cook, White House says
 
-By [Rami Amichay](https://www.reuters.com/authors/rami-amichay/) and [Mahmoud Issa](https://www.reuters.com/authors/mahmoud-issa/)
+By Reuters
 
-October 6, 202610:03 PM PDTUpdated 5 hours ago
+October 9, 20267:04 AM PDTUpdated 1 min ago
 
-![Israel marks three years since Hamas attacked Israel](https://ajo.prod.reuters.tv/api/v2/img/6ac678c7e4b03d5adffaf42e-1791393034696?width=1080&quality=80)
+![U.S. Supreme Court hear U.S. President Trump's bid to fire Fed Governor Cook](https://www.reuters.com/resizer/v2/HDINHALG6ZOGFCLTS7KUOT3JZ4.jpg?auth=eddbb46971a562da6c7f74a4b76cb1db524353c2a7a04bc43f7300af04a9bf23&width=1920&quality=80)
 
-- Summary
+Federal Reserve Governor Lisa Cook walks outside the U.S. Supreme Court, as Supreme Court justices consider U.S. President Donald Trump's effort to fire her, in Washington, D.C., U.S., January 21, 2026. REUTERS/Nathan Howard [Purchase Licensing Rights, opens new tab](https://www.reutersconnect.com/item/us-supreme-court-hear-us-president-trumps-bid-to-fire-fed-governor-cook/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1JDMlQ1SkFKRURUVg%3D%3D/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead)
 
-- Militant attacks of October 7, 2023, were deadliest day in Israel's history
-- Attacks set off Israeli military assault in Gaza
-- Anniversary comes 20 days ahead of Israeli election
-- Gaza's conditions remain dire despite year-old ceasefire
+WASHINGTON, Oct 9 (Reuters) - US President [Donald Trump](https://www.reuters.com/world/us/donald-trump/) has formed a committee to investigate Fed ​Governor Lisa Cook over allegations she made false ‌statements in connection with mortgages, according to a notice on the White House website on Friday.
 
-KFAR AZA, Israel/GAZA, Oct 7 (Reuters) - Israelis gathered in silence on Wednesday in a kibbutz near the [Gaza](https://www.reuters.com/world/israel-hama-at-war/) border ​that was overrun by Hamas militants on October 7 three years ago, mourning victims of attacks that set off Israel's assault in Gaza and plunged the ‌Middle East into war.
+"To assist me in carrying ​out that responsibility, the Committee shall investigate ​the allegations against Governor Cook and report to ⁠me whether there is 'cause' for Governor Cook’s removal," according ​to the notice, dated October 7.
 
-In the Gaza Strip, devastated by three years of Israeli bombardment, Palestinians sheltering among the ruins of destroyed cities recalled life before a war that [displaced nearly the entire population](https://www.reuters.com/world/middle-east/haunted-by-grief-gazas-displaced-still-wait-overseas-return-2026-10-04/) and tore apart families.
+The Misinformation Monitor newsletter rounds up international misinformation narratives, with a "Real or Fake?" quiz in every edition. Sign up [here.](https://www.reuters.com/newsletters/misinformation-monitor/?location=article-paragraph&redirectUrl=%2Fworld%2Fus%2Ftrump-launches-committee-probe-feds-lisa-cook-white-house-statement-2026-10-09%2F)
 
-The Reuters Iran Briefing newsletter keeps you informed with the latest developments and analysis of the Iran war. Sign up [here.](https://www.reuters.com/newsletters/reuters-iran-briefing/?location=article-paragraph&redirectUrl=%2Fworld%2Fmiddle-east%2Fisraelis-mark-three-years-since-hamas-attack-that-set-off-gaza-assault-2026-10-07%2F)
+The committee will hold ​an in-person hearing at the White House "to consider the evidence and allegations against Governor Cook," the presidential memorandum said. It ​said the hearing would last no longer than four ​hours.
 
-The attacks of October 7, 2023, were the deadliest day in Israel's history. Militants led by Hamas killed 1,200 people and [took 251 hostages](https://www.reuters.com/business/media-telecom/freed-israeli-hostages-every-moment-is-now-precious-2026-10-05/), a cross-border incursion that traumatised Israelis who have demanded government accountability.
+Trump tried to fire Cook, the first Black woman to serve ‌on ⁠the central bank's board, a year ago. The case led to the US Supreme Court [ruling](https://www.reuters.com/world/us-supreme-court-rejects-trumps-unprecedented-bid-fire-feds-cook-2026-06-29/) that the president could not remove a Fed governor without adequate ​cause and needed ​to follow ⁠a clear process to lay out the reasons and provide evidence. The ruling ​left Cook in her position but kicked ​the ⁠case against her back to a federal district court.
 
-Israel's subsequent bombardment and ground operations in Gaza ​have killed more than 74,000 people, including at least 1,400 killed in the past year since a US-brokered [ceasefire](https://www.reuters.com/world/middle-east/one-year-trumps-gaza-plan-has-not-stopped-israeli-fire-or-disarmed-hamas-2026-10-06/), which halted major fighting but has failed to stop Israeli attacks or ​secure the disarmament of Hamas.
+Cook was appointed to the Fed board in 2022 by former ⁠President ​Joe Biden, a Democrat, and ​was reappointed in 2023 to a term that lasts until 2038.
 
-## 'A VERY DIFFICULT DAY'
-
-In Kfar Aza, where Hamas militants killed dozens of Israelis before taking 19 hostages back into Gaza, ⁠residents held a vigil for those killed, standing in silence as a trumpet played a solemn bugle call. A resident read out a roll call of the dead.
-
-Zion Regev, a community leader ​in the kibbutz, said most residents remain displaced and have yet to return, the trauma of October 7 continuing to shape their lives.
-
-"This is the first time we are doing all the things ​here in the kibbutz," Regev said of the vigil. "It's a very emotional day, it's a very difficult day for our community, three years after October 7th."
-
-Elsewhere in Israel, protesters against what they view as a lack of accountability for the security failure gathered outside parliament in Jerusalem, blaming Prime Minister Benjamin Netanyahu for refusing an independent inquiry into the attack.
-
-Some protesters held signs reading: "The people will remember October 7 on October 27," a reference to ​an Israeli general election 20 days away that is being viewed as a referendum on Netanyahu's long tenure in power.
-
-"We need the change and we need hope and we need to know ​that we have a government that cares about the public and doesn't work also only for themselves," said protester Shaked Arrad.
-
-Item 1 of 7 A woman visits the site of the Nova music festival, where partygoers were killed and kidnapped during the deadly Hamas-led October 7, 2023 attack, on the third anniversary of the attack, near Reim, southern Israel, October 7, 2026. REUTERS/Ronen Zvulun
-
-**[1/7]**A woman visits the site of the Nova music festival, where partygoers were killed and kidnapped during the deadly Hamas-led October 7, 2023 attack, on the third anniversary of the attack, near Reim, southern Israel, October 7, 2026. REUTERS/Ronen Zvulun [Purchase Licensing Rights, opens new tab](https://www.reutersconnect.com/item/israel-marks-third-anniversary-of-october-7-attack/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1JDMjRZTkEzMFpFRg%3D%3D/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead)
-
-Netanyahu has rejected blame for the security breach and resisted calls for an independent investigation. That ‌has frustrated many ⁠in Israel, including families of those killed in the attacks, some of whom have [joined the election race](https://www.reuters.com/world/middle-east/october-7-families-join-election-race-with-hope-healing-israel-2026-10-05/).
-
-In a statement released by his office, Netanyahu said: "The nation unites on this day in the longing for our dear ones."
-
-Referring to his country's ongoing attacks in Gaza, he added: "We will complete the mission: we have settled the score and will continue settling the score with all the murderers."
-
-[Election polls](https://www.reuters.com/graphics/ISRAEL-ELECTION/POLLS/lgvdbwrakvo/) show neither Netanyahu nor his main competitors would muster enough seats in parliament to form a coalition if a vote were held today.
-
-## DISPLACED GAZANS RECALL LIFE BEFORE ISRAELI ASSAULT
-
-The anniversary is the ​first since the October 10, 2025, ceasefire deal, ​which has left Israel in control of around ⁠two-thirds of Gaza, where it has demolished remaining buildings and ordered residents out.
-
-Hamas controls the remaining third of the territory, a narrow strip on the coast where the [2 million population](https://www.reuters.com/world/middle-east/haunted-by-grief-gazas-displaced-still-wait-overseas-return-2026-10-04/) mostly [live in makeshift tents](https://www.reuters.com/world/middle-east/evacuated-an-incubator-now-back-gaza-getting-know-mama-2026-10-02/) and bombed-out buildings.
-
-In the latest violence, Gaza medics said on Wednesday Israel's military had carried ​out air strikes in Beit Lahia in northern Gaza and in Khan Younis in the south, killing at least two Palestinians and wounding ​others. The Israeli military said ⁠it struck and killed two people it described as militants with Hamas, which did not immediately provide comment. The military did not provide comment on the strike in Khan Younis.
-
-Umm Mohammad, a mother of five displaced from Gaza City and now living with her husband and children in a tent encampment in Deir Al-Balah, said the war had ripped her family apart.
-
-"We were one happy family. The war displaced us. My ⁠son left Gaza, ​the other went to a separate tent, my daughters left with their husbands to other parts of the Strip ​and we rarely meet," she said.
-
-On this day, she said, "we recall how happy, despite all problems, we were before the war broke out, destroying everything we loved."
-
-Reporting by Rami Amichay, Miro Maman and Avi Ohayon in Kfar Aza, Mahmoud Issa in ​Gaza, Steven Scheer, Dedi Hayun and Eli Berlzon in Jerusalem, Emily Rose in Tel Aviv and Nidal al-Muhgrabi in Cairo; Writing by Rami Ayyub; Editing by Alison Williams, Peter Graff and Toby Chopra
+Reporting by ​Doina Chiacu and Susan Heavey; Editing by Rod Nickel
 
 Our Standards: [The Thomson Reuters Trust Principles., opens new tab](https://www.thomsonreuters.com/en/about-us/trust-principles.html)
 
 - Suggested Topics:
-- [](https://www.reuters.com/world/middle-east/)
+- [](https://www.reuters.com/world/us/)
+- [](https://www.reuters.com/legal/public-policy/)
 
 [](https://www.reutersagency.com/en/licensereuterscontent/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead)
 
 ## Read Next
 
-- [Middle Eastcategory](https://www.reuters.com/world/middle-east/)
-    
-    [Attacks on Saudi airports kill three people, as fighting escalates in Yemen](https://www.reuters.com/world/middle-east/houthis-launch-missiles-yemens-aden-airport-fighting-intensifies-2026-10-07/)
-    
-    [
-    
-    ](https://www.reuters.com/world/middle-east/houthis-launch-missiles-yemens-aden-airport-fighting-intensifies-2026-10-07/)
-    
-- [Middle Eastcategory](https://www.reuters.com/world/middle-east/)
-    
-    EXCLUSIVE
-    
-    [Saudi Arabia launches air safety probe into flydubai incident, sources say](https://www.reuters.com/world/middle-east/saudi-arabia-launches-air-safety-probe-into-flydubai-incident-sources-say-2026-10-07/)
-    
-    [
-    
-    ](https://www.reuters.com/world/middle-east/saudi-arabia-launches-air-safety-probe-into-flydubai-incident-sources-say-2026-10-07/)
-    
 - [Worldcategory](https://www.reuters.com/world/)
     
     EXCLUSIVE
     
-    [US Vice President Vance says Iran must cut enrichment to end war](https://www.reuters.com/world/interview-us-vice-president-vance-says-iran-must-cut-enrichment-end-war-2026-10-06/)
+    [US imposes sanctions on ICC hours after former judge wins Nobel Peace Prize](https://www.reuters.com/world/us-imposes-sanctions-international-criminal-court-hours-after-former-judge-wins-2026-10-09/)
     
     [
     
-    ](https://www.reuters.com/world/interview-us-vice-president-vance-says-iran-must-cut-enrichment-end-war-2026-10-06/)
+    ](https://www.reuters.com/world/us-imposes-sanctions-international-criminal-court-hours-after-former-judge-wins-2026-10-09/)
+    
+- [Hurricane Isaias strengthens as US Gulf Coast prepares for landfall](https://www.reuters.com/business/environment/hurricane-isaias-strengthens-us-gulf-coast-prepares-landfall-2026-10-08/)
+    
+    [
+    
+    ](https://www.reuters.com/business/environment/hurricane-isaias-strengthens-us-gulf-coast-prepares-landfall-2026-10-08/)
+    
+- [Legalcategory](https://www.reuters.com/legal/)
+    
+    [ICE officials defend shooting of New York man, attack 'sanctuary' policies](https://www.reuters.com/legal/government/ice-officials-defend-shooting-new-york-man-attack-sanctuary-policies-2026-10-09/)
+    
+    [
+    
+    ](https://www.reuters.com/legal/government/ice-officials-defend-shooting-new-york-man-attack-sanctuary-policies-2026-10-09/)
     
 - [
     
-    ](https://www.reuters.com/world/middle-east/status-irans-uranium-enrichment-programme-2026-10-07/)
+    ](https://www.reuters.com/business/media-telecom/how-us-plan-to-livestream-an-execution-compares-with-global-practice-2026-10-09/)
     
 - [
     
-    ](https://www.reuters.com/world/middle-east/syria-weighs-military-aid-saudi-arabia-amid-yemen-war-sources-say-2026-10-07/)
+    ](https://www.reuters.com/world/us/bipartisan-majority-americans-blame-trump-policies-rising-costs-reutersipsos-2026-10-09/)
     
 
 [](https://www.lseg.com/en/data-analytics/products/workspace?utm_source=reuters.com&utm_medium=articlebanner&utm_campaign=Reuters_ProductPage_Links)
@@ -145,45 +99,45 @@ Our Standards: [The Thomson Reuters Trust Principles., opens new tab](https://ww
 
 - [
     
-    ](https://www.reuters.com/world/hegseth-praises-sailors-resilience-after-record-breaking-carrier-deployment-2026-10-07/)
+    ](https://www.reuters.com/world/icc-urges-members-make-sure-it-can-continue-despite-us-sanctions-2026-10-09/)
     
-    ### [Hegseth praises sailors' resilience after record-breaking carrier deployment](https://www.reuters.com/world/hegseth-praises-sailors-resilience-after-record-breaking-carrier-deployment-2026-10-07/)
+    ### [ICC urges members to make sure it can continue despite US sanctions](https://www.reuters.com/world/icc-urges-members-make-sure-it-can-continue-despite-us-sanctions-2026-10-09/)
     
-    [Worldcategory](https://www.reuters.com/world/) · October 7, 2026 · 3:04 PM PDT · 30 mins ago
+    [Worldcategory](https://www.reuters.com/world/) · October 9, 2026 · 8:03 AM PDT · 16 mins ago
     
-    US Defense Secretary Pete Hegseth flew to the ​flight deck of the aircraft carrier USS Abraham Lincoln on Wednesday and praised the resilience of sailors who endured an extended, ‌wartime deployment that drew scrutiny over suicide attempts on board.
-    
-- [
-    
-    ](https://www.reuters.com/world/us/trump-floats-turning-his-florida-golf-course-into-presidential-retreat-2026-10-07/)
-    
-    [United Statescategory](https://www.reuters.com/world/us/)[Trump floats turning his Florida golf course into presidential retreat](https://www.reuters.com/world/us/trump-floats-turning-his-florida-golf-course-into-presidential-retreat-2026-10-07/)
-    
-    3:01 PM PDT
+    The International Criminal Court on Friday strongly rejected ​the sanctions imposed on it by the US government ‌and called on its member states to make sure it can continue to function.
     
 - [
     
-    ](https://www.reuters.com/legal/government/fbi-arrests-man-plotting-mass-shooting-mall-america-2026-10-07/)
+    ](https://www.reuters.com/world/us/fbi-director-patel-says-bureau-has-arrested-another-person-tied-shinyhunters-2026-10-09/)
     
-    [Legalcategory](https://www.reuters.com/legal/)[FBI arrests man for plotting mass shooting at Mall of America](https://www.reuters.com/legal/government/fbi-arrests-man-plotting-mass-shooting-mall-america-2026-10-07/)
+    [United Statescategory](https://www.reuters.com/world/us/)[Patel says FBI has arrested another person tied to ShinyHunters hackers](https://www.reuters.com/world/us/fbi-director-patel-says-bureau-has-arrested-another-person-tied-shinyhunters-2026-10-09/)
     
-    2:53 PM PDT
-    
-- [
-    
-    ](https://www.reuters.com/legal/government/democrats-sue-trump-halt-taxpayer-funded-tv-ads-that-praised-him-2026-10-07/)
-    
-    [Legalcategory](https://www.reuters.com/legal/)[Democrats sue Trump to halt taxpayer-funded TV ads that praised him](https://www.reuters.com/legal/government/democrats-sue-trump-halt-taxpayer-funded-tv-ads-that-praised-him-2026-10-07/)
-    
-    2:14 PM PDT
+    7:45 AM PDT
     
 - [
     
-    ](https://www.reuters.com/world/french-mayor-caught-viral-video-clash-says-student-protesters-could-be-my-2026-10-07/)
+    ](https://www.reuters.com/business/media-telecom/how-us-plan-to-livestream-an-execution-compares-with-global-practice-2026-10-09/)
     
-    [Worldcategory](https://www.reuters.com/world/)[French mayor caught in viral video clash says student protesters 'could be my children'](https://www.reuters.com/world/french-mayor-caught-viral-video-clash-says-student-protesters-could-be-my-2026-10-07/)
+    Explainer[Explainer: How the US plan to livestream an execution compares with global practice](https://www.reuters.com/business/media-telecom/how-us-plan-to-livestream-an-execution-compares-with-global-practice-2026-10-09/)
     
-    2:04 PM PDT
+    7:31 AM PDT
+    
+- [
+    
+    ](https://www.reuters.com/world/four-ukrainians-arrested-vienna-suspicion-spying-2026-10-09/)
+    
+    [Worldcategory](https://www.reuters.com/world/)[Four Ukrainians arrested in Vienna on suspicion of spying](https://www.reuters.com/world/four-ukrainians-arrested-vienna-suspicion-spying-2026-10-09/)
+    
+    7:29 AM PDT
+    
+- [
+    
+    ](https://www.reuters.com/world/icc-prosecutor-condemns-us-sanctions-says-work-will-continue-2026-10-09/)
+    
+    [Worldcategory](https://www.reuters.com/world/)[ICC prosecutor condemns US sanctions, says work will continue](https://www.reuters.com/world/icc-prosecutor-condemns-us-sanctions-says-work-will-continue-2026-10-09/)
+    
+    7:09 AM PDT
     
 
 ### Site Index

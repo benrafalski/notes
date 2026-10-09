@@ -35,3 +35,4 @@
 
 ## October
 - [October 4](https://www.reuters.com/world/asia-pacific/head-yemens-presidential-council-announces-military-operations-retake-territory-2026-10-04/): Saudi backed Yemeni government forces launch counteroffensive on Houthis.
+- [October 9](https://www.reuters.com/world/middle-east/houthi-strikes-riyadh-airport-killed-three-saudis-war-escalates-2026-10-09/): Houthis Riyadh airport, marking significant escalation in the war.

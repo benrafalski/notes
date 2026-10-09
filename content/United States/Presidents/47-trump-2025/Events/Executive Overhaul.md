@@ -175,6 +175,7 @@ On March 9, 2025, Columbia grad student and Palestinian refugee with permanent U
 # Federal Reserve
 ## Lisa Cook
 - **August 7, 2026**: Trump [renews effort to fire Lisa Cook](https://www.reuters.com/world/us/trump-moving-forward-with-attempt-fire-lisa-cook-after-supreme-court-ruling-abc-2026-08-07/), keeping alive his assault on the central ​bank's independence even after the U.S. Supreme Court ruling. The White House told Cook in a letter that the president was "considering" removing her from her role and demanded she respond to unproven mortgage fraud allegations within three weeks.
+- **October 9, 2026**: Trump forms [new committee to investigate Lisa Cook](https://www.reuters.com/world/us/trump-launches-committee-probe-feds-lisa-cook-white-house-statement-2026-10-09/) over the mortgage fraud allegations.
 
 ## Fed Chair Powell
 ### Fed Renovations
