@@ -6,6 +6,10 @@
 - Iran, for ​its part, is determined to emerge from the war stronger than before, with sanctions lifted, blocked funds released, and a newfound grip over the strait letting it collect fees from ships that normally carry a fifth of global oil.
 ## Strait of Hormuz
 - International ⁠Maritime Organization has ​[reported](https://www.reuters.com/world/middle-east/qatar-pm-visit-tehran-pursue-mediation-efforts-2026-08-26/) 70 incidents in the Strait of Hormuz since February 28 that have killed 19 seafarers.
+### Diesel Price Stability Efforts
+- Pressuring [G7 to release 100 million](https://www.reuters.com/business/energy/europe-discussing-plan-diesel-stock-releases-after-us-pressure-source-says-2026-10-02/) barrels of diesel and crude oil from their emergency ​reserves.
+- Signing an executive order to allow [red-dyed diesel](https://www.federalregister.gov/documents/2026/10/09/2026-20855/emergency-tax-relief-on-diesel-fuel) ‌on public ⁠roads through year-end 2026 (the fuel is chemically identical to what trucks normally burn but is tinted to show it is exempt from the 24.4-cent-per-gallon federal highway tax). 
+- Agreeing to take [[Russia Ukraine#Diesel|300,000 tons]] of diesel from Russia
 # Iran War
 ## July 
 - [July 25](https://www.reuters.com/world/middle-east/trump-vows-punish-iran-houthis-attacks-red-sea-2026-07-24/):  Houthis fire on Saudi oil installations and US halts strikes in Iran for first night in two ‌weeks after Trump was advised that the campaign ran its course.

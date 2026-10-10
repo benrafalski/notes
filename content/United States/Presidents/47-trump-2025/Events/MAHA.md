@@ -23,6 +23,8 @@ title: MAHA
 Refusals in US hospitals of vital newborn vitamin rose 57% from January-June [Reuters review](https://www.reuters.com/world/us-refusals-crucial-newborn-vitamin-spike-raising-risk-dangerous-bleeding-2026-09-01/) finds. Babies are born with very low levels of vitamin K, which helps blood to clot, and are unprotected up until about six months of age. They are 81 times more likely in those first six months to have life-threatening bleeding in the brain or gut.
 ![[Pasted image 20260901074607.png]]
 
+## Vaccine Injury Program
+In October 2026, NIH opened a [clinic](https://www.reuters.com/legal/litigation/us-health-secretary-kennedy-launches-new-push-vaccine-injuries-2026-10-08/) to treat and study patients reporting health problems after receiving vaccines. Other Kennedy measures include a proposal by ‌the CMS to reimburse physicians for reporting suspected injuries to VAERS; a CDC effort to update VAERS; and HHS requiring electronic health records to capture vaccine-related adverse events.
 # Disease Outbreaks
 ## Measles
 ### Measles Cases + Outbreaks

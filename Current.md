@@ -24,121 +24,151 @@
 
 [My News](https://www.reuters.com/my-news/feed/)
 
-[](https://www.reuters.com/account/sign-in/?website=reuters&redirect=https%3A%2F%2Fwww.reuters.com%2Fworld%2Fus%2Ftrump-launches-committee-probe-feds-lisa-cook-white-house-statement-2026-10-09%2F)[](https://www.reuters.com/account/subscribe/offer/?website=reuters&redirect=https%3A%2F%2Fwww.reuters.com%2Fworld%2Fus%2Ftrump-launches-committee-probe-feds-lisa-cook-white-house-statement-2026-10-09%2F&referrer=subscription_button&journeyStart=navigation)
+[](https://www.reuters.com/account/sign-in/?website=reuters&redirect=https%3A%2F%2Fwww.reuters.com%2Flegal%2Flitigation%2Fus-health-secretary-kennedy-launches-new-push-vaccine-injuries-2026-10-08%2F)[](https://www.reuters.com/account/subscribe/offer/?website=reuters&redirect=https%3A%2F%2Fwww.reuters.com%2Flegal%2Flitigation%2Fus-health-secretary-kennedy-launches-new-push-vaccine-injuries-2026-10-08%2F&referrer=subscription_button&journeyStart=navigation)
 
-# Trump launches committee to probe Fed's Lisa Cook, White House says
+# US health secretary Kennedy launches new push on vaccine injuries
 
-By Reuters
+By [Ahmed Aboulenein](https://www.reuters.com/authors/ahmed-aboulenein/)
 
-October 9, 20267:04 AM PDTUpdated 1 min ago
+October 8, 20262:58 PM PDTUpdated October 8, 2026
 
-![U.S. Supreme Court hear U.S. President Trump's bid to fire Fed Governor Cook](https://www.reuters.com/resizer/v2/HDINHALG6ZOGFCLTS7KUOT3JZ4.jpg?auth=eddbb46971a562da6c7f74a4b76cb1db524353c2a7a04bc43f7300af04a9bf23&width=1920&quality=80)
+![U.S. President Donald Trump makes an announcement at the White House, in Washington, D.C.](https://www.reuters.com/resizer/v2/65TCYEPSD5LU5MKYEQ3ZJJ2PSQ.jpg?auth=8f83c17406b6169ba05315a4836301ad65e76d33d76cf5af049555d6eab0e15b&width=1920&quality=80)
 
-Federal Reserve Governor Lisa Cook walks outside the U.S. Supreme Court, as Supreme Court justices consider U.S. President Donald Trump's effort to fire her, in Washington, D.C., U.S., January 21, 2026. REUTERS/Nathan Howard [Purchase Licensing Rights, opens new tab](https://www.reutersconnect.com/item/us-supreme-court-hear-us-president-trumps-bid-to-fire-fed-governor-cook/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1JDMlQ1SkFKRURUVg%3D%3D/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead)
+U.S. Secretary of Health and Human Services Robert F. Kennedy Jr. speaks while U.S. President Donald Trump listens during a press conference at the White House in Washington, D.C., U.S., September 22, 2025. REUTERS/Kevin Lamarque/File Photo [Purchase Licensing Rights, opens new tab](https://www.reutersconnect.com/item/us-president-donald-trump-makes-an-announcement-at-the-white-house-in-washington-dc/dGFnOnJldXRlcnMuY29tLDIwMjU6bmV3c21sX1JDMjlYR0FUT1NNMQ%3D%3D/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead)
 
-WASHINGTON, Oct 9 (Reuters) - US President [Donald Trump](https://www.reuters.com/world/us/donald-trump/) has formed a committee to investigate Fed ​Governor Lisa Cook over allegations she made false ‌statements in connection with mortgages, according to a notice on the White House website on Friday.
+- Summary
 
-"To assist me in carrying ​out that responsibility, the Committee shall investigate ​the allegations against Governor Cook and report to ⁠me whether there is 'cause' for Governor Cook’s removal," according ​to the notice, dated October 7.
+- New NIH clinic will study and treat vaccine-related health issues
+- CMS to incentivize doctors who report vaccine injuries
+- CDC to update its Vaccine Adverse Event Reporting System
+- Electronic health records required to list vaccine-related issues
 
-The Misinformation Monitor newsletter rounds up international misinformation narratives, with a "Real or Fake?" quiz in every edition. Sign up [here.](https://www.reuters.com/newsletters/misinformation-monitor/?location=article-paragraph&redirectUrl=%2Fworld%2Fus%2Ftrump-launches-committee-probe-feds-lisa-cook-white-house-statement-2026-10-09%2F)
+WASHINGTON, Oct 8 (Reuters) - US ​Health Secretary Robert F. Kennedy Jr. this week launched an agency-wide effort to study and document ‌any health problems reported after vaccination, the Department of Health and Human Services said on Thursday.
 
-The committee will hold ​an in-person hearing at the White House "to consider the evidence and allegations against Governor Cook," the presidential memorandum said. It ​said the hearing would last no longer than four ​hours.
+The initiative is the latest step by Kennedy, who spent years questioning vaccine safety and founded an anti-vaccine group before taking office, to reshape federal immunization policy.
 
-Trump tried to fire Cook, the first Black woman to serve ‌on ⁠the central bank's board, a year ago. The case led to the US Supreme Court [ruling](https://www.reuters.com/world/us-supreme-court-rejects-trumps-unprecedented-bid-fire-feds-cook-2026-06-29/) that the president could not remove a Fed governor without adequate ​cause and needed ​to follow ⁠a clear process to lay out the reasons and provide evidence. The ruling ​left Cook in her position but kicked ​the ⁠case against her back to a federal district court.
+Jumpstart your morning with the latest legal news delivered straight to your inbox from The Daily Docket newsletter. Sign up [here.](https://www.reuters.com/newsletters/daily-docket/?location=article-paragraph&redirectUrl=%2Flegal%2Flitigation%2Fus-health-secretary-kennedy-launches-new-push-vaccine-injuries-2026-10-08%2F)
 
-Cook was appointed to the Fed board in 2022 by former ⁠President ​Joe Biden, a Democrat, and ​was reappointed in 2023 to a term that lasts until 2038.
+The American Academy ​of Pediatrics says childhood vaccines are studied in placebo-controlled and comparison-group trials and monitored for safety ​after approval.
 
-Reporting by ​Doina Chiacu and Susan Heavey; Editing by Rod Nickel
+The federal Vaccine Injury Table lists 14 compensable injuries across 16 vaccine types under ⁠the Vaccine Injury Compensation Program, a no-fault system in which claimants file against the government, not vaccine makers. ​Since 1988, it has awarded roughly $5 billion across about 12,300 injury and death claims.
+
+The new moves, which appear to be ​part of Kennedy's decades-long efforts to sow skepticism about vaccines, come as he faces legal challenges to his attempts to alter US childhood vaccination schedules and growing concern among public health experts about falling immunization rates, particularly against measles, which has seen a ​resurgence in the US since last year.
+
+The effort centers on a National Institutes of Health clinic opened on Monday ​to treat and study patients reporting health problems after receiving vaccines, HHS said in a statement.
+
+Other measures include a proposal by ‌the Centers ⁠for Medicare & Medicaid Services to reimburse physicians for reporting suspected injuries to the Centers for Disease Control and Prevention's Vaccine Adverse Event Reporting System, or VAERS; a CDC effort to update VAERS; and HHS requiring electronic health records to capture vaccine-related adverse events.
+
+Kennedy has said US children receive too many vaccines, falsely claiming repeatedly that kids get ​up to 90 doses before ​age 18, which has ⁠been echoed by President [Donald Trump](https://www.reuters.com/world/us/donald-trump/). Kennedy has long argued that chemicals in vaccines are dangerous, though experts say there is no evidence of harm.
+
+In his first year heading ​HHS, he [fired all 17 independent expert members](https://www.reuters.com/business/healthcare-pharmaceuticals/all-members-vaccine-advisory-panel-will-be-retired-us-health-secretary-kennedy-2025-06-09/) of the CDC's vaccine advisory committee and ​selected new panelists, ⁠many of whom shared his anti-vaccine views.
+
+In January, the CDC announced a revamped childhood vaccine schedule that reduced recommended vaccines, dropping universal recommendations for flu, rotavirus, hepatitis A, hepatitis B at birth, some forms of meningitis and respiratory syncytial virus.
+
+A ⁠federal court ​issued [a preliminary injunction](https://www.reuters.com/world/us-judge-blocks-efforts-reshape-childhood-vaccine-policy-2026-03-16/) in March blocking key parts of the proposed ​changes, finding that Kennedy and HHS had violated federal law in reshaping the CDC's Advisory Committee on Immunization Practices. The injunction has prevented ACIP ​from holding meetings to make recommendations on immunizations often needed for insurance coverage.
+
+Reporting by Ahmed Aboulenein Editing by Bill Berkrot
 
 Our Standards: [The Thomson Reuters Trust Principles., opens new tab](https://www.thomsonreuters.com/en/about-us/trust-principles.html)
 
 - Suggested Topics:
-- [](https://www.reuters.com/world/us/)
+- [](https://www.reuters.com/business/healthcare-pharmaceuticals/)
+- [](https://www.reuters.com/legal/health/)
+- [](https://www.reuters.com/business/healthcare-pharmaceuticals/public-health/)
 - [](https://www.reuters.com/legal/public-policy/)
 
 [](https://www.reutersagency.com/en/licensereuterscontent/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead)
 
-## Read Next
+[
 
-- [Worldcategory](https://www.reuters.com/world/)
-    
-    EXCLUSIVE
-    
-    [US imposes sanctions on ICC hours after former judge wins Nobel Peace Prize](https://www.reuters.com/world/us-imposes-sanctions-international-criminal-court-hours-after-former-judge-wins-2026-10-09/)
-    
-    [
-    
-    ](https://www.reuters.com/world/us-imposes-sanctions-international-criminal-court-hours-after-former-judge-wins-2026-10-09/)
-    
-- [Hurricane Isaias strengthens as US Gulf Coast prepares for landfall](https://www.reuters.com/business/environment/hurricane-isaias-strengthens-us-gulf-coast-prepares-landfall-2026-10-08/)
-    
-    [
-    
-    ](https://www.reuters.com/business/environment/hurricane-isaias-strengthens-us-gulf-coast-prepares-landfall-2026-10-08/)
-    
+](https://www.reuters.com/authors/ahmed-aboulenein/)
+
+[Ahmed Aboulenein](https://www.reuters.com/authors/ahmed-aboulenein/)
+
+Thomson Reuters
+
+Ahmed Aboulenein is a reporter on the Reuters U.S. health team, where he covers health and pharma policy. He reports on the Department of Health and Human Services and its divisions, including the CDC, FDA, NIH, and CMS, as well as Congress when it takes up health issues. He closely covers the Trump administration’s overhaul of U.S. health agencies under Health Secretary Robert F. Kennedy Jr. and what it means for their staff and the public. Aboulenein joined Reuters in 2014 and has covered health from Washington since 2021. He previously reported from Iraq and Egypt.
+
+- [](mailto:ahmed.aboulenein@thomsonreuters.com)
+- [](https://x.com/aaboulenein)
+- [](https://www.linkedin.com/in/www.linkedin.com/in/aaboulenein)
+
+## Read Next / Editor's Picks
+
 - [Legalcategory](https://www.reuters.com/legal/)
     
-    [ICE officials defend shooting of New York man, attack 'sanctuary' policies](https://www.reuters.com/legal/government/ice-officials-defend-shooting-new-york-man-attack-sanctuary-policies-2026-10-09/)
+    [Philips wins Dutch court battle with shareholders over recall](https://www.reuters.com/legal/litigation/philips-wins-dutch-court-battle-with-shareholders-over-recall-2026-10-10/)
     
     [
     
-    ](https://www.reuters.com/legal/government/ice-officials-defend-shooting-new-york-man-attack-sanctuary-policies-2026-10-09/)
+    ](https://www.reuters.com/legal/litigation/philips-wins-dutch-court-battle-with-shareholders-over-recall-2026-10-10/)
+    
+- [Healthcare & Pharmaceuticalscategory](https://www.reuters.com/business/healthcare-pharmaceuticals/)
+    
+    [Pennsylvania says GSK to invest more than $800 million in biopharma hub, create 300 jobs](https://www.reuters.com/business/healthcare-pharmaceuticals/pennsylvania-says-gsk-invest-more-than-800-million-biopharma-hub-create-300-jobs-2026-10-09/)
+    
+    [
+    
+    ](https://www.reuters.com/business/healthcare-pharmaceuticals/pennsylvania-says-gsk-invest-more-than-800-million-biopharma-hub-create-300-jobs-2026-10-09/)
+    
+- [Healthcare & Pharmaceuticalscategory](https://www.reuters.com/business/healthcare-pharmaceuticals/)
+    
+    [US FDA approves Asahi Kasei's drug for persistent herpes infections](https://www.reuters.com/business/healthcare-pharmaceuticals/us-fda-approves-asahi-kaseis-drug-persistent-herpes-infections-2026-10-09/)
+    
+    [
+    
+    ](https://www.reuters.com/business/healthcare-pharmaceuticals/us-fda-approves-asahi-kaseis-drug-persistent-herpes-infections-2026-10-09/)
     
 - [
     
-    ](https://www.reuters.com/business/media-telecom/how-us-plan-to-livestream-an-execution-compares-with-global-practice-2026-10-09/)
+    ](https://www.reuters.com/legal/litigation/us-measles-cases-rise-4080-cdc-says-2026-10-09/)
     
 - [
     
-    ](https://www.reuters.com/world/us/bipartisan-majority-americans-blame-trump-policies-rising-costs-reutersipsos-2026-10-09/)
+    ](https://www.reuters.com/business/healthcare-pharmaceuticals/blindness-treatment-based-nobel-winning-research-shows-promise-2026-10-09/)
+    
+- [
+    
+    ](https://www.reuters.com/legal/litigation/teva-wins-fda-approval-monthly-schizophrenia-injection-weltruza-2026-10-09/)
+    
+- [
+    
+    ](https://www.reuters.com/legal/transactional/city-therapeutics-eyes-valuation-up-9563-million-us-ipo-amid-biotech-listing-2026-10-09/)
+    
+- [
+    
+    ](https://www.reuters.com/legal/litigation/humana-surges-after-emerging-top-beneficiary-2027-medicare-star-ratings-2026-10-09/)
+    
+- [
+    
+    ](https://www.reuters.com/legal/government/us-states-label-abortion-drugs-public-nuisance-bid-curb-access-2026-10-08/)
+    
+- [
+    
+    ](https://www.reuters.com/business/healthcare-pharmaceuticals/russia-says-reports-second-case-linked-siberian-plague-lab-are-false-2026-10-08/)
+    
+- [
+    
+    ](https://www.reuters.com/legal/litigation/kennedy-offers-federal-support-new-york-over-measles-outbreak-2026-10-07/)
+    
+- [
+    
+    ](https://www.reuters.com/business/healthcare-pharmaceuticals/kenya-says-tests-suspected-ebola-case-come-back-negative-2026-10-08/)
+    
+- [
+    
+    ](https://www.reuters.com/business/healthcare-pharmaceuticals/what-do-we-know-about-plague-institute-lab-workers-death-russia-2026-10-06/)
+    
+- [
+    
+    ](https://www.reuters.com/business/healthcare-pharmaceuticals/cms-says-71-medicare-advantage-prescription-drug-enrollees-4-star-or-higher-2026-10-08/)
+    
+- [
+    
+    ](https://www.reuters.com/legal/government/abortion-drug-safety-review-will-be-completed-by-march-us-fda-says-2026-10-08/)
     
 
 [](https://www.lseg.com/en/data-analytics/products/workspace?utm_source=reuters.com&utm_medium=articlebanner&utm_campaign=Reuters_ProductPage_Links)
-
-## [World](https://www.reuters.com/world/)
-
-- [
-    
-    ](https://www.reuters.com/world/icc-urges-members-make-sure-it-can-continue-despite-us-sanctions-2026-10-09/)
-    
-    ### [ICC urges members to make sure it can continue despite US sanctions](https://www.reuters.com/world/icc-urges-members-make-sure-it-can-continue-despite-us-sanctions-2026-10-09/)
-    
-    [Worldcategory](https://www.reuters.com/world/) · October 9, 2026 · 8:03 AM PDT · 16 mins ago
-    
-    The International Criminal Court on Friday strongly rejected ​the sanctions imposed on it by the US government ‌and called on its member states to make sure it can continue to function.
-    
-- [
-    
-    ](https://www.reuters.com/world/us/fbi-director-patel-says-bureau-has-arrested-another-person-tied-shinyhunters-2026-10-09/)
-    
-    [United Statescategory](https://www.reuters.com/world/us/)[Patel says FBI has arrested another person tied to ShinyHunters hackers](https://www.reuters.com/world/us/fbi-director-patel-says-bureau-has-arrested-another-person-tied-shinyhunters-2026-10-09/)
-    
-    7:45 AM PDT
-    
-- [
-    
-    ](https://www.reuters.com/business/media-telecom/how-us-plan-to-livestream-an-execution-compares-with-global-practice-2026-10-09/)
-    
-    Explainer[Explainer: How the US plan to livestream an execution compares with global practice](https://www.reuters.com/business/media-telecom/how-us-plan-to-livestream-an-execution-compares-with-global-practice-2026-10-09/)
-    
-    7:31 AM PDT
-    
-- [
-    
-    ](https://www.reuters.com/world/four-ukrainians-arrested-vienna-suspicion-spying-2026-10-09/)
-    
-    [Worldcategory](https://www.reuters.com/world/)[Four Ukrainians arrested in Vienna on suspicion of spying](https://www.reuters.com/world/four-ukrainians-arrested-vienna-suspicion-spying-2026-10-09/)
-    
-    7:29 AM PDT
-    
-- [
-    
-    ](https://www.reuters.com/world/icc-prosecutor-condemns-us-sanctions-says-work-will-continue-2026-10-09/)
-    
-    [Worldcategory](https://www.reuters.com/world/)[ICC prosecutor condemns US sanctions, says work will continue](https://www.reuters.com/world/icc-prosecutor-condemns-us-sanctions-says-work-will-continue-2026-10-09/)
-    
-    7:09 AM PDT
-    
 
 ### Site Index
 
@@ -232,7 +262,6 @@ Reuters, the news and media division of Thomson Reuters, is the world’s larges
 - [Corrections](https://www.reuters.com/info-pages/contact-us/)
 - [Data Disclosure and Sources, opens new tab](https://www.reuters.com/info-pages/data-disclosure-and-sources/)
 - [Site Feedback, opens new tab](https://trdigital.iad1.qualtrics.com/jfe/form/SV_8kte8gArGyCGVhz)
-- Manage Cookies & Your Privacy Choices
 
 All quotes delayed a minimum of 15 minutes. [See here for a list of exchanges and delays.](https://www.reuters.com/info-pages/disclaimer/)
 

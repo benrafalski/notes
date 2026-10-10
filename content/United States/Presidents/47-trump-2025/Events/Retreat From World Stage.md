@@ -7,7 +7,7 @@
 - **US Debt**: In August 2026, the Trump admin informed Congress of its intention to [pay $725 ​million to UN](https://www.reuters.com/world/us-plans-725-million-payment-towards-its-large-un-debt-2026-08-21/), covering less than 20% of the $4 billion the US owes. 
 ## ICC
 ### Nobel Prize Sanctions
-In October 2026, the US sanctioned the ICC, hours after one of its former judges won the [Nobel Peace Prize](https://www.reuters.com/world/us-imposes-sanctions-international-criminal-court-hours-after-former-judge-wins-2026-10-09/). Navi Pillay, the South African jurist who won the Nobel  Prize, had served as a judge on the ICC's Appeals Chamber from 2003-2008. The prize committee ​said in naming her it had sought to "issue a reminder" at a time when "judges and institutions of international law are under political attack".
+In October 2026, the US sanctioned the ICC, hours after one of its former judges won the [Nobel Peace Prize](https://www.reuters.com/world/us-imposes-sanctions-international-criminal-court-hours-after-former-judge-wins-2026-10-09/). Navi Pillay, the South African jurist who won the Nobel  Prize, had served as a judge on the ICC's Appeals Chamber from 2003-2008. The prize committee ​said in naming her it had sought to "issue a reminder" at a time when "judges and institutions of international law are under political attack". [Trump responded saying](https://www.reuters.com/world/europe/trump-says-norway-has-indelible-stain-not-awarding-him-nobel-peace-prize-2026-10-10/) "This is an indelible stain on the ‌country ⁠of Norway and those people that made such a disgraceful and embarrassing decision."
 
 
 # Antagonizing Allies
