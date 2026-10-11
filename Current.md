@@ -24,151 +24,149 @@
 
 [My News](https://www.reuters.com/my-news/feed/)
 
-[](https://www.reuters.com/account/sign-in/?website=reuters&redirect=https%3A%2F%2Fwww.reuters.com%2Flegal%2Flitigation%2Fus-health-secretary-kennedy-launches-new-push-vaccine-injuries-2026-10-08%2F)[](https://www.reuters.com/account/subscribe/offer/?website=reuters&redirect=https%3A%2F%2Fwww.reuters.com%2Flegal%2Flitigation%2Fus-health-secretary-kennedy-launches-new-push-vaccine-injuries-2026-10-08%2F&referrer=subscription_button&journeyStart=navigation)
+[](https://www.reuters.com/account/sign-in/?website=reuters&redirect=https%3A%2F%2Fwww.reuters.com%2Fworld%2Fmiddle-east%2Fuae-says-omani-flydubai-co-pilot-planned-suicide-attack-tel-aviv-flight-2026-10-09%2F)[](https://www.reuters.com/account/subscribe/offer/?website=reuters&redirect=https%3A%2F%2Fwww.reuters.com%2Fworld%2Fmiddle-east%2Fuae-says-omani-flydubai-co-pilot-planned-suicide-attack-tel-aviv-flight-2026-10-09%2F&referrer=subscription_button&journeyStart=navigation)
 
-# US health secretary Kennedy launches new push on vaccine injuries
+# UAE says Omani flydubai co-pilot planned suicide attack on Tel Aviv flight
 
-By [Ahmed Aboulenein](https://www.reuters.com/authors/ahmed-aboulenein/)
+By [Yasmine Ghania](https://www.reuters.com/authors/yasmine-ghania/), [Enas Alashray](https://www.reuters.com/authors/enas-alashray/) and [Federico Maccioni](https://www.reuters.com/authors/federico-maccioni/)
 
-October 8, 20262:58 PM PDTUpdated October 8, 2026
+October 9, 20269:35 AM PDTUpdated October 9, 2026
 
-![U.S. President Donald Trump makes an announcement at the White House, in Washington, D.C.](https://www.reuters.com/resizer/v2/65TCYEPSD5LU5MKYEQ3ZJJ2PSQ.jpg?auth=8f83c17406b6169ba05315a4836301ad65e76d33d76cf5af049555d6eab0e15b&width=1920&quality=80)
+Item 1 of 3 A plane, carrying passengers who were on the FlyDubai aircraft bound for Israel from the United Arab Emirates, which was diverted to Saudi Arabia following an emergency signal, on the tarmac as it arrives at the Ben Gurion International Airport, in Lod, near Tel Aviv, Israel, September 30, 2026. REUTERS/Ammar Awad/File Photo
 
-U.S. Secretary of Health and Human Services Robert F. Kennedy Jr. speaks while U.S. President Donald Trump listens during a press conference at the White House in Washington, D.C., U.S., September 22, 2025. REUTERS/Kevin Lamarque/File Photo [Purchase Licensing Rights, opens new tab](https://www.reutersconnect.com/item/us-president-donald-trump-makes-an-announcement-at-the-white-house-in-washington-dc/dGFnOnJldXRlcnMuY29tLDIwMjU6bmV3c21sX1JDMjlYR0FUT1NNMQ%3D%3D/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead)
+**[1/3]**A plane, carrying passengers who were on the FlyDubai aircraft bound for Israel from the United Arab Emirates, which was diverted to Saudi Arabia following an emergency signal, on the tarmac as it arrives at the Ben Gurion International Airport, in Lod, near Tel Aviv, Israel, September 30, 2026.... [Purchase Licensing Rights, opens new tab](https://www.reutersconnect.com/item/passengers-from-a-flydubai-flight-to-israel-from-united-arab-emirates-that-was-diverted-to-saudi-arabia-after-an-emergency-signal-arrive-at-ben-gurion-international-airport/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1JDMlJUTkFITlhOWQ%3D%3D/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead) Read more
 
 - Summary
+- Companies
 
-- New NIH clinic will study and treat vaccine-related health issues
-- CMS to incentivize doctors who report vaccine injuries
-- CDC to update its Vaccine Adverse Event Reporting System
-- Electronic health records required to list vaccine-related issues
+- Flight plunged 16,000 feet in 30 seconds during September 30 incident
+- Investigators say co-pilot modelled plot on September 11 attacks
+- UAE attorney general says vetting found no warning signs
 
-WASHINGTON, Oct 8 (Reuters) - US ​Health Secretary Robert F. Kennedy Jr. this week launched an agency-wide effort to study and document ‌any health problems reported after vaccination, the Department of Health and Human Services said on Thursday.
+DUBAI/CAIRO, Oct 9 (Reuters) - An Omani flydubai co-pilot had intended ‌to [seize a Dubai-Tel Aviv flight](https://www.reuters.com/world/middle-east/diverted-flydubai-flight-israel-was-not-hijacking-incident-israeli-prime-2026-09-30/) and crash it into a terminal at Israel's Ben Gurion Airport on September 30 in a suicide attack before he was thwarted by the captain, the UAE attorney general said on Friday.
 
-The initiative is the latest step by Kennedy, who spent years questioning vaccine safety and founded an anti-vaccine group before taking office, to reshape federal immunization policy.
+Attorney General Hamad Saif al Shamsi's statement did not ​appear to implicate flydubai in any wrongdoing, and contained the most detailed account yet from prosecutors ​about what they believe to have happened. Flydubai was not immediately available for comment.
 
-Jumpstart your morning with the latest legal news delivered straight to your inbox from The Daily Docket newsletter. Sign up [here.](https://www.reuters.com/newsletters/daily-docket/?location=article-paragraph&redirectUrl=%2Flegal%2Flitigation%2Fus-health-secretary-kennedy-launches-new-push-vaccine-injuries-2026-10-08%2F)
+The Reuters Iran Briefing newsletter keeps you informed with the latest developments and analysis of the Iran war. Sign up [here.](https://www.reuters.com/newsletters/reuters-iran-briefing/?location=article-paragraph&redirectUrl=%2Fworld%2Fmiddle-east%2Fuae-says-omani-flydubai-co-pilot-planned-suicide-attack-tel-aviv-flight-2026-10-09%2F)
 
-The American Academy ​of Pediatrics says childhood vaccines are studied in placebo-controlled and comparison-group trials and monitored for safety ​after approval.
+The plan was ⁠inspired by the September 11, 2001, attacks on the US, UAE public prosecutors think, as a result of ​their criminal investigation launched on October 1.
 
-The federal Vaccine Injury Table lists 14 compensable injuries across 16 vaccine types under ⁠the Vaccine Injury Compensation Program, a no-fault system in which claimants file against the government, not vaccine makers. ​Since 1988, it has awarded roughly $5 billion across about 12,300 injury and death claims.
+It found the suspect had used two previous flights to Tel Aviv ​to "familiarise himself with the flight route and the airport", the state news agency WAM reported. It is the first public confirmation of the co-pilot's 9/11 inspiration.
 
-The new moves, which appear to be ​part of Kennedy's decades-long efforts to sow skepticism about vaccines, come as he faces legal challenges to his attempts to alter US childhood vaccination schedules and growing concern among public health experts about falling immunization rates, particularly against measles, which has seen a ​resurgence in the US since last year.
+The aircraft was in Saudi airspace when the co-pilot attacked the captain with a crash axe, typically kept ​in the cockpit for use during emergencies.
 
-The effort centers on a National Institutes of Health clinic opened on Monday ​to treat and study patients reporting health problems after receiving vaccines, HHS said in a statement.
+The incident caused the airliner to [plunge](https://www.reuters.com/business/aerospace-defense/like-vertical-roller-coaster-simulating-flight-fz1073s-sudden-plunge-2026-10-04/) 16,000 feet (4,900 meters) in 30 seconds before the attacker ​was overwhelmed and two other pilots who were on board landed the aircraft safely in Saudi Arabia. The suspect was transferred ‌to the ⁠UAE, flydubai's home country.
 
-Other measures include a proposal by ‌the Centers ⁠for Medicare & Medicaid Services to reimburse physicians for reporting suspected injuries to the Centers for Disease Control and Prevention's Vaccine Adverse Event Reporting System, or VAERS; a CDC effort to update VAERS; and HHS requiring electronic health records to capture vaccine-related adverse events.
+## SUSPECT MET PROFESSIONAL AND SECURITY REQUIREMENTS
 
-Kennedy has said US children receive too many vaccines, falsely claiming repeatedly that kids get ​up to 90 doses before ​age 18, which has ⁠been echoed by President [Donald Trump](https://www.reuters.com/world/us/donald-trump/). Kennedy has long argued that chemicals in vaccines are dangerous, though experts say there is no evidence of harm.
+Investigators examined flydubai's recruiting procedures and found the suspect had met all professional and security requirements, including holding a pilot's licence and providing a certificate of good conduct.
 
-In his first year heading ​HHS, he [fired all 17 independent expert members](https://www.reuters.com/business/healthcare-pharmaceuticals/all-members-vaccine-advisory-panel-will-be-retired-us-health-secretary-kennedy-2025-06-09/) of the CDC's vaccine advisory committee and ​selected new panelists, ⁠many of whom shared his anti-vaccine views.
+"However, none of the procedures revealed any indications of his extremist views or his intention to carry out a terrorist ​plot," Al Shamsi added.
 
-In January, the CDC announced a revamped childhood vaccine schedule that reduced recommended vaccines, dropping universal recommendations for flu, rotavirus, hepatitis A, hepatitis B at birth, some forms of meningitis and respiratory syncytial virus.
+He said the 29-year-old ​had worked for airlines ⁠in different countries including Oman Air before joining flydubai in January 2026. The investigation found there were signs of the suspect drifting towards "extremism and terrorism" as early as 2017, ​while he was studying in Australia.
 
-A ⁠federal court ​issued [a preliminary injunction](https://www.reuters.com/world/us-judge-blocks-efforts-reshape-childhood-vaccine-policy-2026-03-16/) in March blocking key parts of the proposed ​changes, finding that Kennedy and HHS had violated federal law in reshaping the CDC's Advisory Committee on Immunization Practices. The injunction has prevented ACIP ​from holding meetings to make recommendations on immunizations often needed for insurance coverage.
+Royal Air Maroc has said that he underwent ​three months of training ⁠there in 2025, but that his application to work for the airline afterwards was rejected.
 
-Reporting by Ahmed Aboulenein Editing by Bill Berkrot
+UAE officials have not identified the suspect; however, a person with direct knowledge of the matter told Reuters he had been identified as [Hammam al-Hammami](https://www.reuters.com/business/aerospace-defense/flydubai-co-pilot-attacked-pilot-with-axe-attempted-terrorist-attack-uae-says-2026-10-03/), an ⁠Omani ​national.
+
+Al Shamsi said the suspect had told investigators he had prepared ​psychologically and physically for the attack by viewing material promoting terrorism and taking boxing lessons.
+
+Saudi Arabia has launched a [separate safety investigation](https://www.reuters.com/world/middle-east/saudi-arabia-launches-air-safety-probe-into-flydubai-incident-sources-say-2026-10-07/) into flight ​FZ1073, sources told Reuters.
+
+Reporting by Enas Alashray, Yasmine Ghania, Federico Maccioni; Writing by Rod Nickel; Editing by Kevin Liffey
 
 Our Standards: [The Thomson Reuters Trust Principles., opens new tab](https://www.thomsonreuters.com/en/about-us/trust-principles.html)
 
 - Suggested Topics:
-- [](https://www.reuters.com/business/healthcare-pharmaceuticals/)
-- [](https://www.reuters.com/legal/health/)
-- [](https://www.reuters.com/business/healthcare-pharmaceuticals/public-health/)
-- [](https://www.reuters.com/legal/public-policy/)
+- [](https://www.reuters.com/world/middle-east/)
 
 [](https://www.reutersagency.com/en/licensereuterscontent/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead)
 
-[
+## Read Next
 
-](https://www.reuters.com/authors/ahmed-aboulenein/)
-
-[Ahmed Aboulenein](https://www.reuters.com/authors/ahmed-aboulenein/)
-
-Thomson Reuters
-
-Ahmed Aboulenein is a reporter on the Reuters U.S. health team, where he covers health and pharma policy. He reports on the Department of Health and Human Services and its divisions, including the CDC, FDA, NIH, and CMS, as well as Congress when it takes up health issues. He closely covers the Trump administration’s overhaul of U.S. health agencies under Health Secretary Robert F. Kennedy Jr. and what it means for their staff and the public. Aboulenein joined Reuters in 2014 and has covered health from Washington since 2021. He previously reported from Iraq and Egypt.
-
-- [](mailto:ahmed.aboulenein@thomsonreuters.com)
-- [](https://x.com/aaboulenein)
-- [](https://www.linkedin.com/in/www.linkedin.com/in/aaboulenein)
-
-## Read Next / Editor's Picks
-
-- [Legalcategory](https://www.reuters.com/legal/)
+- [Africacategory](https://www.reuters.com/world/africa/)
     
-    [Philips wins Dutch court battle with shareholders over recall](https://www.reuters.com/legal/litigation/philips-wins-dutch-court-battle-with-shareholders-over-recall-2026-10-10/)
+    [More than 100 migrants, including 15 children, die after boat from Djibouti to Yemen capsizes](https://www.reuters.com/world/africa/109-migrants-including-15-children-dead-after-boat-djibouti-yemen-capsizes-un-2026-10-11/)
     
     [
     
-    ](https://www.reuters.com/legal/litigation/philips-wins-dutch-court-battle-with-shareholders-over-recall-2026-10-10/)
+    ](https://www.reuters.com/world/africa/109-migrants-including-15-children-dead-after-boat-djibouti-yemen-capsizes-un-2026-10-11/)
     
-- [Healthcare & Pharmaceuticalscategory](https://www.reuters.com/business/healthcare-pharmaceuticals/)
+- [Middle Eastcategory](https://www.reuters.com/world/middle-east/)
     
-    [Pennsylvania says GSK to invest more than $800 million in biopharma hub, create 300 jobs](https://www.reuters.com/business/healthcare-pharmaceuticals/pennsylvania-says-gsk-invest-more-than-800-million-biopharma-hub-create-300-jobs-2026-10-09/)
-    
-    [
-    
-    ](https://www.reuters.com/business/healthcare-pharmaceuticals/pennsylvania-says-gsk-invest-more-than-800-million-biopharma-hub-create-300-jobs-2026-10-09/)
-    
-- [Healthcare & Pharmaceuticalscategory](https://www.reuters.com/business/healthcare-pharmaceuticals/)
-    
-    [US FDA approves Asahi Kasei's drug for persistent herpes infections](https://www.reuters.com/business/healthcare-pharmaceuticals/us-fda-approves-asahi-kaseis-drug-persistent-herpes-infections-2026-10-09/)
+    [New attack at Riyadh airport causes fire, Saudi-led coalition says](https://www.reuters.com/world/middle-east/yemens-houthis-renew-warning-over-saudi-airports-after-deadly-riyadh-attack-2026-10-11/)
     
     [
     
-    ](https://www.reuters.com/business/healthcare-pharmaceuticals/us-fda-approves-asahi-kaseis-drug-persistent-herpes-infections-2026-10-09/)
+    ](https://www.reuters.com/world/middle-east/yemens-houthis-renew-warning-over-saudi-airports-after-deadly-riyadh-attack-2026-10-11/)
+    
+- [Middle Eastcategory](https://www.reuters.com/world/middle-east/)
+    
+    [Yemen's Houthis renew warning to airlines, travellers against using Saudi airports](https://www.reuters.com/world/middle-east/yemens-houthis-renew-warning-airlines-travellers-against-using-saudi-airports-2026-10-11/)
+    
+    [
+    
+    ](https://www.reuters.com/world/middle-east/yemens-houthis-renew-warning-airlines-travellers-against-using-saudi-airports-2026-10-11/)
     
 - [
     
-    ](https://www.reuters.com/legal/litigation/us-measles-cases-rise-4080-cdc-says-2026-10-09/)
+    ](https://www.reuters.com/world/middle-east/loud-blast-heard-riyadh-airport-airlines-cancel-more-flights-2026-10-10/)
     
 - [
     
-    ](https://www.reuters.com/business/healthcare-pharmaceuticals/blindness-treatment-based-nobel-winning-research-shows-promise-2026-10-09/)
+    ](https://www.reuters.com/world/middle-east/saudi-stocks-slide-after-attack-riyadh-airport-2026-10-11/)
     
 - [
     
-    ](https://www.reuters.com/legal/litigation/teva-wins-fda-approval-monthly-schizophrenia-injection-weltruza-2026-10-09/)
-    
-- [
-    
-    ](https://www.reuters.com/legal/transactional/city-therapeutics-eyes-valuation-up-9563-million-us-ipo-amid-biotech-listing-2026-10-09/)
-    
-- [
-    
-    ](https://www.reuters.com/legal/litigation/humana-surges-after-emerging-top-beneficiary-2027-medicare-star-ratings-2026-10-09/)
-    
-- [
-    
-    ](https://www.reuters.com/legal/government/us-states-label-abortion-drugs-public-nuisance-bid-curb-access-2026-10-08/)
-    
-- [
-    
-    ](https://www.reuters.com/business/healthcare-pharmaceuticals/russia-says-reports-second-case-linked-siberian-plague-lab-are-false-2026-10-08/)
-    
-- [
-    
-    ](https://www.reuters.com/legal/litigation/kennedy-offers-federal-support-new-york-over-measles-outbreak-2026-10-07/)
-    
-- [
-    
-    ](https://www.reuters.com/business/healthcare-pharmaceuticals/kenya-says-tests-suspected-ebola-case-come-back-negative-2026-10-08/)
-    
-- [
-    
-    ](https://www.reuters.com/business/healthcare-pharmaceuticals/what-do-we-know-about-plague-institute-lab-workers-death-russia-2026-10-06/)
-    
-- [
-    
-    ](https://www.reuters.com/business/healthcare-pharmaceuticals/cms-says-71-medicare-advantage-prescription-drug-enrollees-4-star-or-higher-2026-10-08/)
-    
-- [
-    
-    ](https://www.reuters.com/legal/government/abortion-drug-safety-review-will-be-completed-by-march-us-fda-says-2026-10-08/)
+    ](https://www.reuters.com/business/energy/major-saudi-conferences-proceed-organisers-say-despite-deadly-airport-attack-2026-10-10/)
     
 
 [](https://www.lseg.com/en/data-analytics/products/workspace?utm_source=reuters.com&utm_medium=articlebanner&utm_campaign=Reuters_ProductPage_Links)
+
+## [World](https://www.reuters.com/world/)
+
+- [
+    
+    ](https://www.reuters.com/business/finance/monte-dei-paschi-hold-board-meeting-ma-situation-monday-2026-10-11/)
+    
+    ### [Monte dei Paschi to hold board meeting on M&A situation on Monday](https://www.reuters.com/business/finance/monte-dei-paschi-hold-board-meeting-ma-situation-monday-2026-10-11/)
+    
+    [Businesscategory](https://www.reuters.com/business/) · October 11, 2026 · 8:32 AM PDT · 17 mins ago
+    
+    Italy's Banca Monte dei Paschi di Siena will hold ​a board meeting late on Monday ‌to take stock of the situation after suitor Intesa Sanpaolo pledged to hike its takeover bid and ​gained the support of some key MPS ​investors, three people close to the matter ⁠said on Sunday.
+    
+- [
+    
+    ](https://www.reuters.com/world/europe/trump-says-russia-ukraine-reached-energy-ceasefire-2026-10-11/)
+    
+    [Europecategory](https://www.reuters.com/world/europe/)[Trump says Russia and Ukraine reached 'energy ceasefire'](https://www.reuters.com/world/europe/trump-says-russia-ukraine-reached-energy-ceasefire-2026-10-11/)
+    
+    7:30 AM PDT
+    
+- [
+    
+    ](https://www.reuters.com/world/europe/ukraines-zelenskiy-tells-abc-he-will-organize-elections-if-russia-agrees-60-day-2026-10-11/)
+    
+    [Europecategory](https://www.reuters.com/world/europe/)[Ukraine's Zelenskiy tells ABC he will organize elections if Russia agrees to 60-day ceasefire](https://www.reuters.com/world/europe/ukraines-zelenskiy-tells-abc-he-will-organize-elections-if-russia-agrees-60-day-2026-10-11/)
+    
+    6:58 AM PDT
+    
+- [
+    
+    ](https://www.reuters.com/sports/formula1/red-bulls-verstappen-wins-singapore-grand-prix-2026-10-11/)
+    
+    [Sportscategory](https://www.reuters.com/sports/)[Verstappen cruises to first Singapore GP win as Antonelli closes on crown](https://www.reuters.com/sports/formula1/red-bulls-verstappen-wins-singapore-grand-prix-2026-10-11/)
+    
+    6:54 AM PDT
+    
+- [
+    
+    ](https://www.reuters.com/business/autos-transportation/volkswagen-ceo-says-transformation-is-shared-responsibility-appeal-eu-2026-10-11/)
+    
+    [Businesscategory](https://www.reuters.com/business/)[Volkswagen's transformation is shared responsibility, CEO tells EU](https://www.reuters.com/business/autos-transportation/volkswagen-ceo-says-transformation-is-shared-responsibility-appeal-eu-2026-10-11/)
+    
+    6:54 AM PDT
+    
 
 ### Site Index
 
