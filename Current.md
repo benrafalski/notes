@@ -24,149 +24,203 @@
 
 [My News](https://www.reuters.com/my-news/feed/)
 
-[](https://www.reuters.com/account/sign-in/?website=reuters&redirect=https%3A%2F%2Fwww.reuters.com%2Fworld%2Fmiddle-east%2Fuae-says-omani-flydubai-co-pilot-planned-suicide-attack-tel-aviv-flight-2026-10-09%2F)[](https://www.reuters.com/account/subscribe/offer/?website=reuters&redirect=https%3A%2F%2Fwww.reuters.com%2Fworld%2Fmiddle-east%2Fuae-says-omani-flydubai-co-pilot-planned-suicide-attack-tel-aviv-flight-2026-10-09%2F&referrer=subscription_button&journeyStart=navigation)
+[](https://www.reuters.com/account/sign-in/?website=reuters&redirect=https%3A%2F%2Fwww.reuters.com%2Flegal%2Fgovernment%2Fus-launches-immigration-raid-democratic-congresswoman-ilhan-omars-home-fox-news-2026-10-12%2F)[](https://www.reuters.com/account/subscribe/offer/?website=reuters&redirect=https%3A%2F%2Fwww.reuters.com%2Flegal%2Fgovernment%2Fus-launches-immigration-raid-democratic-congresswoman-ilhan-omars-home-fox-news-2026-10-12%2F&referrer=subscription_button&journeyStart=navigation)
 
-# UAE says Omani flydubai co-pilot planned suicide attack on Tel Aviv flight
+[Midterms](https://www.reuters.com/world/us/elections/)
 
-By [Yasmine Ghania](https://www.reuters.com/authors/yasmine-ghania/), [Enas Alashray](https://www.reuters.com/authors/enas-alashray/) and [Federico Maccioni](https://www.reuters.com/authors/federico-maccioni/)
+- [Reuters/Ipsos Polling](https://www.reuters.com/reuters-ipsos-polls/)
+- [House races to watch](https://www.reuters.com/legal/government/us-house-races-watch-2026-elections-2026-10-12/)
+- [Senate races to watch](https://www.reuters.com/legal/government/races-that-will-decide-control-us-senate-2026-10-12/)
 
-October 9, 20269:35 AM PDTUpdated October 9, 2026
+# US immigration authorities raid Democratic congresswoman Ilhan Omar's home
 
-Item 1 of 3 A plane, carrying passengers who were on the FlyDubai aircraft bound for Israel from the United Arab Emirates, which was diverted to Saudi Arabia following an emergency signal, on the tarmac as it arrives at the Ben Gurion International Airport, in Lod, near Tel Aviv, Israel, September 30, 2026. REUTERS/Ammar Awad/File Photo
+By [Nolan D. McCaskill](https://www.reuters.com/authors/nolan-d-mccaskill/), [Andrew Goudsward](https://www.reuters.com/authors/andrew-goudsward/) and [Doina Chiacu](https://www.reuters.com/authors/doina-chiacu/)
 
-**[1/3]**A plane, carrying passengers who were on the FlyDubai aircraft bound for Israel from the United Arab Emirates, which was diverted to Saudi Arabia following an emergency signal, on the tarmac as it arrives at the Ben Gurion International Airport, in Lod, near Tel Aviv, Israel, September 30, 2026.... [Purchase Licensing Rights, opens new tab](https://www.reutersconnect.com/item/passengers-from-a-flydubai-flight-to-israel-from-united-arab-emirates-that-was-diverted-to-saudi-arabia-after-an-emergency-signal-arrive-at-ben-gurion-international-airport/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1JDMlJUTkFITlhOWQ%3D%3D/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead) Read more
+October 12, 20265:29 AM PDTUpdated 40 mins ago
+
+!['This is crazy,' says witness in DC after Ilhan Omar raid](https://ajo.prod.reuters.tv/api/v2/img/6acd1895e4b0bd3536cbb5dc?width=1080&quality=80)
 
 - Summary
-- Companies
 
-- Flight plunged 16,000 feet in 30 seconds during September 30 incident
-- Investigators say co-pilot modelled plot on September 11 attacks
-- UAE attorney general says vetting found no warning signs
+- Somali-born Omar is an outspoken critic of President Trump
+- Omar accuses Trump of "campaign of political intimidation"
+- Raid of Omar's home part of criminal fraud probe
+- It involves childhood immigration paperwork, source says
+- Raid comes ahead of November 3 US midterm elections
 
-DUBAI/CAIRO, Oct 9 (Reuters) - An Omani flydubai co-pilot had intended ‌to [seize a Dubai-Tel Aviv flight](https://www.reuters.com/world/middle-east/diverted-flydubai-flight-israel-was-not-hijacking-incident-israeli-prime-2026-09-30/) and crash it into a terminal at Israel's Ben Gurion Airport on September 30 in a suicide attack before he was thwarted by the captain, the UAE attorney general said on Friday.
+WASHINGTON, Oct 12 (Reuters) - US authorities conducted a predawn raid on Monday on the Washington-area home of ​Democratic US Representative Ilhan Omar of Minnesota, an outspoken critic of [Donald Trump](https://www.reuters.com/topic/person/donald-trump/) who has been the target of political insults by the Republican president, as part of an ongoing investigation, ‌the Justice Department said.
 
-Attorney General Hamad Saif al Shamsi's statement did not ​appear to implicate flydubai in any wrongdoing, and contained the most detailed account yet from prosecutors ​about what they believe to have happened. Flydubai was not immediately available for comment.
+A person familiar with the investigation said it is related to alleged immigration fraud, and part of the probe concerns the Somali-born lawmaker's immigration paperwork, which was filled out by her late father when she was a child.
 
-The Reuters Iran Briefing newsletter keeps you informed with the latest developments and analysis of the Iran war. Sign up [here.](https://www.reuters.com/newsletters/reuters-iran-briefing/?location=article-paragraph&redirectUrl=%2Fworld%2Fmiddle-east%2Fuae-says-omani-flydubai-co-pilot-planned-suicide-attack-tel-aviv-flight-2026-10-09%2F)
+Jumpstart your morning with the latest legal news delivered straight to your inbox from The Daily Docket newsletter. Sign up [here.](https://www.reuters.com/newsletters/daily-docket/?location=article-paragraph&redirectUrl=%2Flegal%2Fgovernment%2Fus-launches-immigration-raid-democratic-congresswoman-ilhan-omars-home-fox-news-2026-10-12%2F)
 
-The plan was ⁠inspired by the September 11, 2001, attacks on the US, UAE public prosecutors think, as a result of ​their criminal investigation launched on October 1.
+Omar wrote in a social media post that the US government is being weaponized to target a political enemy of the president.
 
-It found the suspect had used two previous flights to Tel Aviv ​to "familiarise himself with the flight route and the airport", the state news agency WAM reported. It is the first public confirmation of the co-pilot's 9/11 inspiration.
+"For ten years, Trump has targeted me with baseless lies and smear campaigns," Omar said. "This is just the latest escalation in his campaign of political intimidation. ​I will not be silenced."
 
-The aircraft was in Saudi airspace when the co-pilot attacked the captain with a crash axe, typically kept ​in the cockpit for use during emergencies.
+Other Democrats accused Trump and his administration of abuse of power. Omar, 44, is seeking a fifth two-year term in the US House of Representatives in the midterm elections ​on November 3.
 
-The incident caused the airliner to [plunge](https://www.reuters.com/business/aerospace-defense/like-vertical-roller-coaster-simulating-flight-fz1073s-sudden-plunge-2026-10-04/) 16,000 feet (4,900 meters) in 30 seconds before the attacker ​was overwhelmed and two other pilots who were on board landed the aircraft safely in Saudi Arabia. The suspect was transferred ‌to the ⁠UAE, flydubai's home country.
+In announcing the raid, a Justice Department spokesperson said: "Today in the Washington, DC area, Homeland Security Investigations executed a judicially authorized search warrant secured by the ⁠Department of Justice. This enforcement action is part of an ongoing federal investigation."
 
-## SUSPECT MET PROFESSIONAL AND SECURITY REQUIREMENTS
+Homeland Security Investigations is part of US Immigration and Customs Enforcement, or ICE.
 
-Investigators examined flydubai's recruiting procedures and found the suspect had met all professional and security requirements, including holding a pilot's licence and providing a certificate of good conduct.
+Tom Homan, the Trump administration's border czar, told Fox Business Network that ​the Justice Department is leading the investigation with the Department of Homeland Security. Homan declined to get into the specifics of an ongoing criminal investigation.
 
-"However, none of the procedures revealed any indications of his extremist views or his intention to carry out a terrorist ​plot," Al Shamsi added.
+Homeland Security Secretary Markwayne Mullin, a Trump appointee, said last month that "something's gonna happen" ​in the investigation into Omar's family's entry into the United States.
 
-He said the 29-year-old ​had worked for airlines ⁠in different countries including Oman Air before joining flydubai in January 2026. The investigation found there were signs of the suspect drifting towards "extremism and terrorism" as early as 2017, ​while he was studying in Australia.
+"If we can prove that you shouldn't have been here in the first place, we'll deport you," Mullin told conservative podcaster Benny Johnson at the time.
 
-Royal Air Maroc has said that he underwent ​three months of training ⁠there in 2025, but that his application to work for the airline afterwards was rejected.
+Monday's raid was carried out a little more than three weeks before the midterms, with Trump's party seeking to retain control of Congress. Omar, a prominent progressive, represents a safe Democratic district. She won reelection in 2024 by a margin of 50 percentage points.
 
-UAE officials have not identified the suspect; however, a person with direct knowledge of the matter told Reuters he had been identified as [Hammam al-Hammami](https://www.reuters.com/business/aerospace-defense/flydubai-co-pilot-attacked-pilot-with-axe-attempted-terrorist-attack-uae-says-2026-10-03/), an ⁠Omani ​national.
+## DEMOCRATS CONDEMN RAID
 
-Al Shamsi said the suspect had told investigators he had prepared ​psychologically and physically for the attack by viewing material promoting terrorism and taking boxing lessons.
+In a joint statement, US ​House Democratic Leader Hakeem Jeffries and other members of the party's leadership in the chamber said the raid was "deeply disturbing and raises serious questions about the" weaponization of the federal government against Trump's enemies.
 
-Saudi Arabia has launched a [separate safety investigation](https://www.reuters.com/world/middle-east/saudi-arabia-launches-air-safety-probe-into-flydubai-incident-sources-say-2026-10-07/) into flight ​FZ1073, sources told Reuters.
+Republicans have "relentlessly targeted" Omar, ​said Jeffries, joined by Representatives Katherine Clark and Pete Aguilar. Trump's "mass deportation machine has descended upon the home of a duly elected Member of Congress and her family," they added, and they vowed to "deliver full accountability" for what they called a "rogue ‌abuse of power."
 
-Reporting by Enas Alashray, Yasmine Ghania, Federico Maccioni; Writing by Rod Nickel; Editing by Kevin Liffey
+Item 1 of 6 Agents of the Homeland Security Investigations (HSI) work at the entrance of the residence of US Rep. Ilhan Omar (D-MN), after US authorities conducted a raid as part of an ongoing investigation by the Justice Department, in Washington, DC, US, October 12, 2026. REUTERS/Annabelle Gordon
+
+**[1/6]**Agents of the Homeland Security Investigations (HSI) work at the entrance of the residence of US Rep. Ilhan Omar (D-MN), after US authorities conducted a raid as part of an ongoing investigation by the Justice Department, in Washington, DC, US, October 12, 2026. REUTERS/Annabelle Gordon [Purchase Licensing Rights, opens new tab](https://www.reutersconnect.com/item/us-launches-immigration-raid-of-democratic-congresswoman-ilhan-omars-home/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1JDMlIxT0E3SDNTNA%3D%3D/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead)
+
+Minnesota ⁠Democrats also condemned the raid.
+
+"Americans see this for what it is," Minnesota Governor Tim Walz, a Democrat, wrote on social media. "President Trump is abusing his power to go after political opponents weeks before an election."
+
+Justice Department policy bars federal prosecutors and agents from timing any action to affect the outcome of any election or benefiting a candidate or political party. The department has historically avoided taking investigative steps against political candidates within about 60 days of an election.
+
+## INVESTIGATIONS OF TRUMP CRITICS
+
+The Justice Department during Trump's second term in office has investigated and brought charges against a range of Trump's perceived political enemies.
+
+It has charged former FBI Director James Comey, New York state Attorney General ​Letitia James and Trump's former national security adviser turned ​critic John Bolton. It also has investigated Democratic ⁠lawmakers who urged the US military not to follow illegal orders, Democratic Senator Adam Schiff and Federal Reserve officials Jerome Powell and Lisa Cook.
+
+The case against James and one of two brought against Comey were thrown out by a federal judge. Bolton pleaded guilty and is scheduled to be sentenced later this month. Grand juries and ​federal judges have stymied several other probes.
+
+## 'CREEPY OBSESSION'
+
+Omar has faced political insults from Trump, who has [cast](https://www.reuters.com/legal/government/trump-online-burst-anti-somali-anti-muslim-rhetoric-2026-10-09/) the Somali American community as a threat to Minnesota in ​a burst of anti-Somali and anti-Muslim ⁠rhetoric. Omar has called Trump's focus on her an "unhealthy and creepy obsession."
+
+Last week, Trump called Michigan's Democratic nominee for US Senate — Abdul El-Sayed, who is Muslim — a "RADICAL Extremist" and "Terrorist Sympathizer" while offering support for El-Sayed's Republican opponent, Mike Rogers.
+
+Civil rights advocates have criticized Trump's rhetoric toward minorities and immigrants, including when he previously called Somalis "garbage."
+
+Trump in February said that Omar and Democratic Representative Rashida Tlaib of Michigan, who is also Muslim, should be "institutionalized" and sent back to "where they came ⁠from." Both lawmakers ​had criticized Trump during his State of the Union address as he touted his administration's hard-line immigration crackdown and its immigration enforcement ​actions.
+
+Omar has said she and her family have faced death threats, which she attributes to "hateful political rhetoric," especially from Trump.
+
+Last month, a Minnesota man who squirted vinegar on Omar [was sentenced](https://www.reuters.com/legal/government/man-who-assaulted-us-lawmaker-ilhan-omar-sentenced-14-months-prison-2026-09-18/) to one year and two months in prison after pleading guilty to assaulting a federal official. ​Anthony James Kazmierczak admitted to attacking Omar because he disagreed with her progressive political views.
+
+Adds Omar response, homeland secretary and Democratic leaders in paragraphs 5-6, 8-9 and 12-13
+
+Reporting by Nolan D. McCaskill, Andrew Goudsward and Doina Chiacu; Additional reporting by Ismail Shakil; Editing by Scott Malone, Michael Learmonth and Will Dunham
 
 Our Standards: [The Thomson Reuters Trust Principles., opens new tab](https://www.thomsonreuters.com/en/about-us/trust-principles.html)
 
 - Suggested Topics:
-- [](https://www.reuters.com/world/middle-east/)
+- [](https://www.reuters.com/legal/government/)
+- [](https://www.reuters.com/legal/public-policy/)
+- [](https://www.reuters.com/world/us/election-security/)
+- [](https://www.reuters.com/legal/civil-rights/)
+- [](https://www.reuters.com/legal/immigration/)
 
 [](https://www.reutersagency.com/en/licensereuterscontent/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead)
 
-## Read Next
+[
 
-- [Africacategory](https://www.reuters.com/world/africa/)
+](https://www.reuters.com/authors/nolan-d-mccaskill/)
+
+[Nolan D. McCaskill](https://www.reuters.com/authors/nolan-d-mccaskill/)
+
+Thomson Reuters
+
+Nolan D. McCaskill reports on American politics, including the U.S. Congress. He previously covered Texas politics at The Dallas Morning News and national politics at Politico and the Los Angeles Times. He is a graduate of Florida A&M University and a member of the National Association of Black Journalists. Reach him at nolan.mccaskill@thomsonreuters.com.
+
+- [](mailto:Nolan.McCaskill@thomsonreuters.com)
+- [](https://x.com/NolanDMcCaskill)
+- [](https://www.linkedin.com/in/linkedin.com/in/nolandmccaskill)
+
+## Read Next / Editor's Picks
+
+- [Worldcategory](https://www.reuters.com/world/)
     
-    [More than 100 migrants, including 15 children, die after boat from Djibouti to Yemen capsizes](https://www.reuters.com/world/africa/109-migrants-including-15-children-dead-after-boat-djibouti-yemen-capsizes-un-2026-10-11/)
+    EXCLUSIVE
+    
+    [US imposes sanctions on ICC hours after former judge wins Nobel Peace Prize](https://www.reuters.com/world/us-imposes-sanctions-international-criminal-court-hours-after-former-judge-wins-2026-10-09/)
     
     [
     
-    ](https://www.reuters.com/world/africa/109-migrants-including-15-children-dead-after-boat-djibouti-yemen-capsizes-un-2026-10-11/)
+    ](https://www.reuters.com/world/us-imposes-sanctions-international-criminal-court-hours-after-former-judge-wins-2026-10-09/)
     
-- [Middle Eastcategory](https://www.reuters.com/world/middle-east/)
+- [Worldcategory](https://www.reuters.com/world/)
     
-    [New attack at Riyadh airport causes fire, Saudi-led coalition says](https://www.reuters.com/world/middle-east/yemens-houthis-renew-warning-over-saudi-airports-after-deadly-riyadh-attack-2026-10-11/)
-    
-    [
-    
-    ](https://www.reuters.com/world/middle-east/yemens-houthis-renew-warning-over-saudi-airports-after-deadly-riyadh-attack-2026-10-11/)
-    
-- [Middle Eastcategory](https://www.reuters.com/world/middle-east/)
-    
-    [Yemen's Houthis renew warning to airlines, travellers against using Saudi airports](https://www.reuters.com/world/middle-east/yemens-houthis-renew-warning-airlines-travellers-against-using-saudi-airports-2026-10-11/)
+    [The tech green-card program under attack from Trump](https://www.reuters.com/world/skilled-foreign-tech-workers-green-card-program-under-attack-trump-2026-10-08/)
     
     [
     
-    ](https://www.reuters.com/world/middle-east/yemens-houthis-renew-warning-airlines-travellers-against-using-saudi-airports-2026-10-11/)
+    ](https://www.reuters.com/world/skilled-foreign-tech-workers-green-card-program-under-attack-trump-2026-10-08/)
+    
+- [Worldcategory](https://www.reuters.com/world/)
+    
+    [Virginia county board sues to block Trump's proposed triumphal arch](https://www.reuters.com/world/virginia-county-board-sues-block-proposed-trump-triumphal-arch-2026-10-09/)
+    
+    [
+    
+    ](https://www.reuters.com/world/virginia-county-board-sues-block-proposed-trump-triumphal-arch-2026-10-09/)
     
 - [
     
-    ](https://www.reuters.com/world/middle-east/loud-blast-heard-riyadh-airport-airlines-cancel-more-flights-2026-10-10/)
+    ](https://www.reuters.com/business/us-suspending-permanent-residency-program-for-microsoft-vance-says-2026-10-08/)
     
 - [
     
-    ](https://www.reuters.com/world/middle-east/saudi-stocks-slide-after-attack-riyadh-airport-2026-10-11/)
+    ](https://www.reuters.com/legal/government/feds-cook-lawyers-say-hearing-will-show-no-mortgage-fraud-case-2026-10-09/)
     
 - [
     
-    ](https://www.reuters.com/business/energy/major-saudi-conferences-proceed-organisers-say-despite-deadly-airport-attack-2026-10-10/)
+    ](https://www.reuters.com/legal/government/trump-administration-plans-charge-international-students-70000-work-2026-10-07/)
+    
+- [
+    
+    ](https://www.reuters.com/legal/litigation/pharmaceutical-trade-group-sues-trump-administration-2026-10-07/)
+    
+- [
+    
+    ](https://www.reuters.com/world/us/trump-undertakes-sweeping-makeover-white-house-washington-2026-10-06/)
+    
+- [
+    
+    ](https://www.reuters.com/world/us/trump-orders-firing-squad-gunman-who-killed-13-people-fort-hood-texas-2026-10-06/)
+    
+- [
+    
+    ](https://www.reuters.com/world/us/us-senator-warren-presses-federal-housing-director-cooperate-with-probe-2026-10-06/)
+    
+- [
+    
+    ](https://www.reuters.com/legal/litigation/texas-ag-paxton-probes-fruit-loom-hanes-over-potential-toxic-chemicals-childrens-2026-10-06/)
+    
+- [
+    
+    ](https://www.reuters.com/world/ftc-says-it-urged-us-hospitals-provide-prompt-accurate-pricing-information-2026-10-05/)
+    
+- [
+    
+    ](https://www.reuters.com/legal/litigation/drugmaker-corcept-seeks-bar-ex-judges-views-teva-antitrust-case-2026-10-12/)
+    
+- [
+    
+    ](https://www.reuters.com/business/energy/prominent-republican-senator-says-trumps-russian-diesel-deal-may-be-illegal-2026-10-11/)
+    
+- [
+    
+    ](https://www.reuters.com/legal/litigation/judge-blasts-trumps-doj-over-inexcusable-tree-removal-dc-golf-course-2026-10-12/)
+    
+- [
+    
+    ](https://www.reuters.com/sustainability/cop/eu-eyes-cop31-climate-deal-accelerate-co2-cuts-document-shows-2026-10-12/)
     
 
 [](https://www.lseg.com/en/data-analytics/products/workspace?utm_source=reuters.com&utm_medium=articlebanner&utm_campaign=Reuters_ProductPage_Links)
-
-## [World](https://www.reuters.com/world/)
-
-- [
-    
-    ](https://www.reuters.com/business/finance/monte-dei-paschi-hold-board-meeting-ma-situation-monday-2026-10-11/)
-    
-    ### [Monte dei Paschi to hold board meeting on M&A situation on Monday](https://www.reuters.com/business/finance/monte-dei-paschi-hold-board-meeting-ma-situation-monday-2026-10-11/)
-    
-    [Businesscategory](https://www.reuters.com/business/) · October 11, 2026 · 8:32 AM PDT · 17 mins ago
-    
-    Italy's Banca Monte dei Paschi di Siena will hold ​a board meeting late on Monday ‌to take stock of the situation after suitor Intesa Sanpaolo pledged to hike its takeover bid and ​gained the support of some key MPS ​investors, three people close to the matter ⁠said on Sunday.
-    
-- [
-    
-    ](https://www.reuters.com/world/europe/trump-says-russia-ukraine-reached-energy-ceasefire-2026-10-11/)
-    
-    [Europecategory](https://www.reuters.com/world/europe/)[Trump says Russia and Ukraine reached 'energy ceasefire'](https://www.reuters.com/world/europe/trump-says-russia-ukraine-reached-energy-ceasefire-2026-10-11/)
-    
-    7:30 AM PDT
-    
-- [
-    
-    ](https://www.reuters.com/world/europe/ukraines-zelenskiy-tells-abc-he-will-organize-elections-if-russia-agrees-60-day-2026-10-11/)
-    
-    [Europecategory](https://www.reuters.com/world/europe/)[Ukraine's Zelenskiy tells ABC he will organize elections if Russia agrees to 60-day ceasefire](https://www.reuters.com/world/europe/ukraines-zelenskiy-tells-abc-he-will-organize-elections-if-russia-agrees-60-day-2026-10-11/)
-    
-    6:58 AM PDT
-    
-- [
-    
-    ](https://www.reuters.com/sports/formula1/red-bulls-verstappen-wins-singapore-grand-prix-2026-10-11/)
-    
-    [Sportscategory](https://www.reuters.com/sports/)[Verstappen cruises to first Singapore GP win as Antonelli closes on crown](https://www.reuters.com/sports/formula1/red-bulls-verstappen-wins-singapore-grand-prix-2026-10-11/)
-    
-    6:54 AM PDT
-    
-- [
-    
-    ](https://www.reuters.com/business/autos-transportation/volkswagen-ceo-says-transformation-is-shared-responsibility-appeal-eu-2026-10-11/)
-    
-    [Businesscategory](https://www.reuters.com/business/)[Volkswagen's transformation is shared responsibility, CEO tells EU](https://www.reuters.com/business/autos-transportation/volkswagen-ceo-says-transformation-is-shared-responsibility-appeal-eu-2026-10-11/)
-    
-    6:54 AM PDT
-    
 
 ### Site Index
 
