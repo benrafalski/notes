@@ -24,165 +24,145 @@
 
 [My News](https://www.reuters.com/my-news/feed/)
 
-[](https://www.reuters.com/account/sign-in/?website=reuters&redirect=https%3A%2F%2Fwww.reuters.com%2Fworld%2Fus%2Frubio-says-trump-take-up-60-days-weigh-russia-sanctions-2026-10-18%2F)[](https://www.reuters.com/account/subscribe/offer/?website=reuters&redirect=https%3A%2F%2Fwww.reuters.com%2Fworld%2Fus%2Frubio-says-trump-take-up-60-days-weigh-russia-sanctions-2026-10-18%2F&referrer=subscription_button&journeyStart=navigation)
+[](https://www.reuters.com/account/sign-in/?website=reuters&redirect=https%3A%2F%2Fwww.reuters.com%2Flegal%2Fgovernment%2Ftrump-says-washington-golf-course-renovation-start-november-despite-judges-order-2026-10-18%2F)[](https://www.reuters.com/account/subscribe/offer/?website=reuters&redirect=https%3A%2F%2Fwww.reuters.com%2Flegal%2Fgovernment%2Ftrump-says-washington-golf-course-renovation-start-november-despite-judges-order-2026-10-18%2F&referrer=subscription_button&journeyStart=navigation)
 
-# Rubio says Trump to take up to 60 days to weigh Russia sanctions
+# Trump says Washington golf course project to start immediately, despite judge's order
 
-By [Nandita Bose](https://www.reuters.com/authors/nandita-bose/) and [Gram Slattery](https://www.reuters.com/authors/gram-slattery/)
+By Reuters
 
-October 17, 20268:38 PM PDTUpdated 2 hours ago
+October 18, 202610:49 AM PDTUpdated 3 hours ago
 
-![US President Trump meets with Russian President Putin in Alaska](https://www.reuters.com/resizer/v2/LCSMUPWGOJPT5M4BXWOMIHM73U.jpg?auth=8eadbe1b0f886d85dc1072838fb4788342e18ea51841d32c91c0af9c4d922e5f&width=1920&quality=80)
+Item 1 of 2 A golfer passes a felled tree after the US President Donald Trump's administration cut down more than 400 trees at the historic East Potomac Golf Links last weekend, in Washington, DC, US, October 14, 2026. REUTERS/Kevin Lamarque
 
-US President Donald Trump speaks with Russian President Vladimir Putin, as they meet to negotiate for an end to the war in Ukraine, at Joint Base Elmendorf-Richardson in Anchorage, Alaska, US, August 15, 2025. REUTERS/Kevin Lamarque/File Photo [Purchase Licensing Rights, opens new tab](https://www.reutersconnect.com/item/us-president-trump-meets-with-russian-president-putin-in-alaska/dGFnOnJldXRlcnMuY29tLDIwMjU6bmV3c21sX1JDMlI3R0FDTktEOA%3D%3D/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead)
+**[1/2]**A golfer passes a felled tree after the US President Donald Trump's administration cut down more than 400 trees at the historic East Potomac Golf Links last weekend, in Washington, DC, US, October 14, 2026. REUTERS/Kevin Lamarque [Purchase Licensing Rights, opens new tab](https://www.reutersconnect.com/item/golfer-passes-a-felled-tree-at-east-potomac-golf-links-in-washington/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1JDMjYzT0ExWVM4UA%3D%3D/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead)
 
 - Summary
 
-- Rubio says Trump will use up to 60 days to assess impact of waiving Graham Act sanctions
-- Law calls for tariffs on Russian goods and penalties on buyers of Russian oil and gas
-- Trump says Russia will initially supply more than 300,000 metric tons of diesel to the ​United States
+- Trump says administration has right to overhaul golf course
+- US gov't, under Trump, seeks to remove federal judge in case
+- Preservationists: renovation would harm environment, destroy US history
 
-Oct 17 (Reuters) - The day after waiving sanctions and tariffs related to Russian exports, US President ‌Donald Trump said on Saturday he has yet to announce a final decision on the matter as Secretary of State Marco Rubio said officials want more time to evaluate the situation.
+WASHINGTON, Oct 18 - US President Donald ​Trump said on Monday that his administration would begin renovation work immediately on a historic Washington golf course ‌that a federal judge had ordered could not proceed without prior court notification.
 
-Rubio said on Saturday that the president will use up to 60 days to assess the economic impact of Russia-related sanctions and tariffs that he ​waived a day earlier.
+The renovation work, which Trump a day earlier said would start [next month](https://www.reuters.com/legal/government/trump-says-washington-golf-course-renovation-start-november-despite-judges-order-2026-10-18/), has become the subject of a lawsuit over environmental and historic preservation concerns.
 
-The Misinformation Monitor newsletter rounds up international misinformation narratives, with a "Real or Fake?" quiz in every edition. Sign up [here.](https://www.reuters.com/newsletters/misinformation-monitor/?location=article-paragraph&redirectUrl=%2Fworld%2Fus%2Frubio-says-trump-take-up-60-days-weigh-russia-sanctions-2026-10-18%2F)
+Jumpstart your morning with the latest legal news delivered straight to your inbox from The Daily Docket newsletter. Sign up [here.](https://www.reuters.com/newsletters/daily-docket/?location=article-paragraph&redirectUrl=%2Flegal%2Fgovernment%2Ftrump-says-washington-golf-course-renovation-start-november-despite-judges-order-2026-10-18%2F)
 
-"A lot of you don't know what my decision is yet, but we'll figure it out, and you'll ​figure it out," Trump told reporters at his Mar-a-Lago club in Palm Beach, Florida.
+Trump in a Monday morning post on Truth Social blasted the judge as "a ​crazed lunatic," called the court case "ridiculous," and declared that his administration had "an absolute right" to proceed.
 
-The waiver comes just weeks ⁠before November's [midterm elections](https://reuters.com/world/us/elections/), with Trump under pressure over high energy prices as war with Iran disrupts global oil supplies.
+"The experts at 'Interior' ​are allowed to do this First Class renovation 'as of right.' They do not need an approval. Work ⁠is scheduled to begin IMMEDIATELY!" he wrote.
 
-Trump signed an executive ​order on Friday waiving key sanctions and tariffs under the law known as the Graham Act, which he signed last month at the urging of ​lawmakers who want to pressure Moscow over its war in Ukraine.
+It was unclear how the judge would respond.
 
-The measures, including tariffs on Russian goods and penalties on countries buying Russian oil and gas, were due to take effect next week. Friday's order did not specify how long the waiver would last, but Rubio said Trump opted for a 60-day review.
+The renovation is among [multiple projects](https://www.reuters.com/world/us/trump-undertakes-sweeping-makeover-white-house-washington-2026-10-06/) Trump is ​pursuing to reshape the White House and other Washington landmarks.
 
-"I think the ​president wants to take the 60-day period of time to sort of analyze what imposing both sanctions and tariffs will mean to the ​global economy and even to the US economy," Rubio told reporters before boarding a plane for a trip to Uzbekistan.
+US District Judge Ana Reyes ruled earlier this year that the government ​must give notice before any substantive construction work on the golf course could proceed, and last week [issued an order](https://www.reuters.com/legal/litigation/judge-blasts-trumps-doj-over-inexcusable-tree-removal-dc-golf-course-2026-10-12/) halting the removal of trees at the site, which she called "inexcusable."
 
-Complicating matters is the Graham Act's call not ‌only for ⁠sanctions on Russia but also for tariffs on goods from countries that import Russian energy supplies. Rubio pointed to India, an important US partner that has diversified its energy supplies but remains heavily dependent on Russian oil.
+In a post on Sunday, Trump said that work on the East Potomac Golf Links would begin on November 15 ​and that the course would reopen in about 15 months.
 
-Friday's executive order [drew criticism](https://www.reuters.com/world/europe/trump-waives-many-russia-related-sanctions-tariffs-before-they-were-take-effect-2026-10-17/) from Ukrainian President Volodymyr Zelenskiy, who warned it would embolden Russian President Vladimir Putin and prolong the war.
+Earlier this year, he said it would begin [in September](https://www.reuters.com/world/us/trump-says-reflecting-pool-full-use-public-golf-course-building-will-begin-2026-06-28/).
 
-Senator Darline Graham, a South Carolina Republican whose late brother Lindsey Graham championed the legislation ​that bears his name, said she ​disagreed with Trump's decision and ⁠planned to discuss it with him when he campaigns for her next week.
+Reyes, later on Sunday, ​ordered the Trump administration to explain whether it maintained its position argued last week that there is "no final agency action" regarding the course, ‌and that ⁠at most, "the President has given preliminary thought" to the renovations.
 
-"Personally, I would choose to keep the pressure on Russia," she told reporters on Saturday. "Because I don't trust Putin and I don't trust Russia."
+Responding to the judge's order, Associate Attorney General Stanley Woodward wrote in [a filing, opens new tab](https://www.courtlistener.com/docket/72278895/94/dc-preservation-league-v-department-of-interior/) that any redesign of the golf course is not an "agency action."
 
-## DIESEL ​SUPPLIES
+"Just as a decision to redesign all the art exhibits in a Smithsonian Museum would not be agency action, neither would a decision to redesign a golf course, or to trim trees, ​replace fences, expand the fairways, ​or mow the lawn," Woodward ⁠wrote.
 
-Rubio also defended a separate US agreement with Russia to increase diesel supplies to global markets, aimed at ​easing fuel prices ⁠that have climbed amid the war with Iran and disruptions to energy supplies.
+The DC Preservation League brought a lawsuit in February to halt the administration's takeover of the golf course, alleging that it would violate environmental laws and "irreparably destroy a priceless piece of American ​history."
 
-Under the agreement, Trump said Russia initially would supply more than 300,000 metric tons of diesel to the United States, followed by shipments in November and beyond.
+In an October 9 court filing, the Trump administration had asked Reyes to dismiss the ​litigation, saying it ⁠was premature because the "proposed project remains at an early and conceptual stage."
 
-"That diesel is going to be sold one way or the other," Rubio ⁠said. "The only ​difference is how much of it the United States was going to get."
+The next day, however, the government removed about 500 trees from the site, saying it would improve safety at the park, restore its original design and was part of a 2019 plan that predates ⁠Trump's ambitions ​for the course. Reyes ordered a halt to the removals.
 
-Rubio said ​the diesel deal and sanctions waiver reflected the challenge of managing conflicts in the Middle East and Ukraine that have disrupted global energy supplies.
+On Friday, the ​government filed a motion to disqualify Reyes and move the case to another district judge, saying her actions had shown "deep-seated and unequivocal antipathy toward the Trump ​Administration," according to court records.
 
-"These conflicts around the world are starting ​to crash into each other," he said.
-
-Reporting by Nandita Bose in Kentucky and Gram Slattery in Washington; Editing by Sergio Non and Christopher Cushing
+Reporting by Julia Harte, AJ Vicens and Susan Heavey; Editing by Sergio Non, Edmund Klamann and Lincon Feast
 
 Our Standards: [The Thomson Reuters Trust Principles., opens new tab](https://www.thomsonreuters.com/en/about-us/trust-principles.html)
 
 - Suggested Topics:
 - [](https://www.reuters.com/world/us/)
+- [](https://www.reuters.com/legal/constitutional-law/)
+- [](https://www.reuters.com/legal/public-policy/)
 
 [](https://www.reutersagency.com/en/licensereuterscontent/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead)
 
-[
+## Read Next / Editor's Picks
 
-](https://www.reuters.com/authors/gram-slattery/)
-
-[Gram Slattery](https://www.reuters.com/authors/gram-slattery/)
-
-Thomson Reuters
-
-Gram Slattery is a White House correspondent in Washington, focusing on national security, intelligence and foreign affairs. His work covers how key U.S. foreign policy decisions are debated, shaped and executed. He was previously a national political correspondent, covering the 2024 presidential campaign. From 2015 to 2022, he held postings in Rio de Janeiro, Sao Paulo and Santiago, Chile, and he has reported extensively throughout Latin America.
-
-- [](mailto:Gram.Slattery@thomsonreuters.com)
-- [](https://x.com/G_Slattery)
-- [](https://www.instagram.com/gramongram1/)
-- [](https://www.linkedin.com/in/gram-slattery-47017aa5/)
-
-## Read Next
-
-- [Legalcategory](https://www.reuters.com/legal/)
+- [United Statescategory](https://www.reuters.com/world/us/)
     
-    [US resumes intelligence-sharing with Ukraine after pause, Zelenskiy says](https://www.reuters.com/legal/government/us-resumes-intelligence-sharing-with-ukraine-after-pause-zelenskiy-says-2026-10-18/)
+    [A city divided: What redistricting means for Tennessee voters](https://www.reuters.com/world/us/city-divided-what-redistricting-means-tennessee-voters-2026-10-19/)
     
     [
     
-    ](https://www.reuters.com/legal/government/us-resumes-intelligence-sharing-with-ukraine-after-pause-zelenskiy-says-2026-10-18/)
+    ](https://www.reuters.com/world/us/city-divided-what-redistricting-means-tennessee-voters-2026-10-19/)
     
-- [Legalcategory](https://www.reuters.com/legal/)
+- [Worldcategory](https://www.reuters.com/world/)
     
-    [Roy Cooper's North Carolina playbook is working. Can other Democrats copy it?](https://www.reuters.com/legal/litigation/roy-coopers-north-carolina-playbook-is-working-can-other-democrats-copy-it-2026-10-18/)
+    [Supreme Court won't review Trump's firing of labor board member](https://www.reuters.com/world/us-supreme-court-wont-review-trumps-firing-labor-board-member-2026-10-19/)
     
     [
     
-    ](https://www.reuters.com/legal/litigation/roy-coopers-north-carolina-playbook-is-working-can-other-democrats-copy-it-2026-10-18/)
+    ](https://www.reuters.com/world/us-supreme-court-wont-review-trumps-firing-labor-board-member-2026-10-19/)
     
 - [Sportscategory](https://www.reuters.com/sports/)
     
-    [Two killed, including 6-year-old, when truck drives through Kansas youth soccer game, police say](https://www.reuters.com/sports/vehicle-drives-through-kansas-soccer-game-killing-two-including-child-police-say-2026-10-17/)
+    [Nassar judge says gymnastics still failing athletes despite reforms](https://www.reuters.com/sports/nassar-judge-says-gymnastics-still-failing-athletes-despite-reforms-2026-10-19/)
     
     [
     
-    ](https://www.reuters.com/sports/vehicle-drives-through-kansas-soccer-game-killing-two-including-child-police-say-2026-10-17/)
+    ](https://www.reuters.com/sports/nassar-judge-says-gymnastics-still-failing-athletes-despite-reforms-2026-10-19/)
     
 - [
     
-    ](https://www.reuters.com/world/us/trump-faults-aides-republican-midterm-prospects-dim-2026-10-17/)
+    ](https://www.reuters.com/legal/government/midterm-election-outcomes-that-could-shape-trumps-final-two-years-2026-10-19/)
     
 - [
     
-    ](https://www.reuters.com/world/trump-says-zacharia-should-reconsider-white-house-spokeswoman-role-2026-10-16/)
+    ](https://www.reuters.com/world/us/senator-urges-fcc-reject-conservative-groups-bid-use-political-ai-generated-2026-10-19/)
+    
+- [
+    
+    ](https://www.reuters.com/world/us-supreme-court-snubs-bid-revive-plea-deal-accused-911-mastermind-2026-10-19/)
+    
+- [
+    
+    ](https://www.reuters.com/legal/litigation/trump-create-new-nih-division-task-force-womens-health-2026-10-19/)
+    
+- [
+    
+    ](https://www.reuters.com/world/us-supreme-court-hear-maryland-case-involving-race-school-admissions-2026-10-19/)
+    
+- [
+    
+    ](https://www.reuters.com/legal/government/under-trump-deficits-remain-high-while-borrowing-costs-escalate-2026-10-19/)
+    
+- [
+    
+    ](https://www.reuters.com/legal/litigation/roy-coopers-north-carolina-playbook-is-working-can-other-democrats-copy-it-2026-10-18/)
+    
+- [
+    
+    ](https://www.reuters.com/world/us/what-you-need-know-about-2026-us-midterm-elections-2026-10-19/)
+    
+- [
+    
+    ](https://www.reuters.com/world/asia-pacific/rubio-seeks-expand-central-asia-ties-with-pomp-filled-uzbekistan-visit-2026-10-19/)
+    
+- [
+    
+    ](https://www.reuters.com/world/us/driver-released-after-pickup-truck-kills-2-injures-10-kansas-youth-soccer-game-2026-10-18/)
+    
+- [
+    
+    ](https://www.reuters.com/world/us-supreme-court-review-1868-federal-ban-home-distilling-liquor-2026-10-19/)
+    
+- [
+    
+    ](https://www.reuters.com/legal/litigation/trump-geothermal-lease-sale-collides-with-planned-nevada-solar-farms-2026-10-19/)
     
 
 [](https://www.lseg.com/en/data-analytics/products/workspace?utm_source=reuters.com&utm_medium=articlebanner&utm_campaign=Reuters_ProductPage_Links)
-
-## [World](https://www.reuters.com/world/)
-
-- [
-    
-    ](https://www.reuters.com/world/americas/fire-canadian-military-base-kills-seven-cbc-reports-2026-10-18/)
-    
-    ### [Fire at Canadian military base kills seven, CBC reports](https://www.reuters.com/world/americas/fire-canadian-military-base-kills-seven-cbc-reports-2026-10-18/)
-    
-    [Americascategory](https://www.reuters.com/world/americas/) · October 18, 2026 · 9:13 AM PDT · 3 mins ago
-    
-    At least seven people died in a major fire this weekend at a Canadian military base in Alberta, ​CBC News reported on Sunday.
-    
-- [
-    
-    ](https://www.reuters.com/world/woman-dies-after-being-swept-away-by-river-torrential-rains-batter-spain-2026-10-18/)
-    
-    [Worldcategory](https://www.reuters.com/world/)[Woman dies after being swept away by river as torrential rains batter Spain](https://www.reuters.com/world/woman-dies-after-being-swept-away-by-river-torrential-rains-batter-spain-2026-10-18/)
-    
-    8:43 AM PDT
-    
-- [
-    
-    ](https://www.reuters.com/world/middle-east/us-officials-visit-palestinian-village-after-settler-attacks-diplomats-2026-10-18/)
-    
-    [Middle Eastcategory](https://www.reuters.com/world/middle-east/)[US officials visit Palestinian village after settler attacks on diplomats](https://www.reuters.com/world/middle-east/us-officials-visit-palestinian-village-after-settler-attacks-diplomats-2026-10-18/)
-    
-    8:40 AM PDT
-    
-- [
-    
-    ](https://www.reuters.com/business/media-telecom/zelenskiy-says-he-spoke-us-envoys-witkoff-kushner-2026-10-18/)
-    
-    [category](https://www.reuters.com/business/)[Zelenskiy says he spoke to US envoys Witkoff, Kushner](https://www.reuters.com/business/media-telecom/zelenskiy-says-he-spoke-us-envoys-witkoff-kushner-2026-10-18/)
-    
-    8:23 AM PDT
-    
-- [
-    
-    ](https://www.reuters.com/world/middle-east/trump-endorses-netanyahu-israeli-election-2026-10-18/)
-    
-    [Middle Eastcategory](https://www.reuters.com/world/middle-east/)[Trump endorses Netanyahu in Israeli election](https://www.reuters.com/world/middle-east/trump-endorses-netanyahu-israeli-election-2026-10-18/)
-    
-    8:12 AM PDT
-    
 
 ### Site Index
 

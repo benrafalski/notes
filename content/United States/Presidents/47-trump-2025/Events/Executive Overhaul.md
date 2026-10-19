@@ -32,6 +32,10 @@
 	- [Appeal](https://www.reuters.com/world/us-appeals-court-blocks-trumps-400-million-white-house-ballroom-project-2026-08-07/) (August 7, 2026): Washington-based U.S. Court of Appeals for the District of Columbia Circuit rules 2-1 to uphold Judge Leon's injunction.
 	- [Supreme Court Intervention](https://www.reuters.com/world/supreme-court-lets-trumps-white-house-ballroom-construction-continue-now-2026-08-31/) (August 31, 2026): Supreme Court rules 5-4 to lift Leon's injunction, with Roberts dissenting saying the ballroom construction was "likely unlawful," noting that Congress has "plenary constitutional authority over the ⁠District of Columbia and federal property" and that it has prohibited structures from being built on federal government grounds in Washington, D.C., without its authorization.
 
+## Washington Golf Course
+### Lawsuit
+- Timeline:
+	- [October 18](https://www.reuters.com/legal/government/trump-says-washington-golf-course-renovation-start-november-despite-judges-order-2026-10-18/): Trump says he would begin renovation on Washington's historic golf course despite Judge Reyes's order. Trump's comments came a day after the ​government filed a motion to disqualify Reyes and move the case to another district judge, saying her actions had shown "deep-seated and unequivocal antipathy toward the Trump ​Administration."
 # Renaming Things
 ## Lake Ontario
 In August 2026, amid a trade and tariff spat with Canada, Trump signed an order renaming Lake Ontario to 'Lake America.' Soon after,  Google and Apple maps changed the name of Lake Ontario to "Lake America," illustrating how [U.S. tech companies](https://www.reuters.com/world/us/apple-maps-changes-name-lake-ontario-lake-america-2026-09-01/) are being pulled into geopolitical disputes as Trump pressures them to comply with executive orders that allies and international bodies ​have rejected. 
