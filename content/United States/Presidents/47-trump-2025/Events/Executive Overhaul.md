@@ -47,6 +47,7 @@ In August 2026, amid a trade and tariff spat with Canada, Trump signed an order 
 ## Targeting Schools
 - **Admissions Practives**: In August 2026 the Trump admin claimed their [probe into admissions practices](https://www.reuters.com/legal/government/us-scrutinizes-more-schools-over-admissions-practices-diversity-pro-palestinian-2026-08-06/) and DEI at Duke were biased in favor of Black and Hispanic applicants.
 - **Antisemitism**: Former DOJ attorney Haley Van Erem says Trump admin probes of ​U.S. universities over accusations of antisemitism [lacked evidence and had predetermined outcomes](https://www.reuters.com/legal/government/trump-administration-antisemitism-probes-into-universities-lacked-evidence-ex-2026-08-19/).
+- **University of North Carolina**: In October 2026 North Carolina [reached a settlement](https://www.reuters.com/legal/government/university-north-carolina-settles-federal-probes-by-trump-administration-2026-10-19/) with the Trump administration to close 18 federal probes over alleged race discrimination and antisemitism at the university. The settlement does not require a monetary settlement payment and UNC did not admit any wrongdoing or liability in the deal and maintained its eligibility for federal funding. Under the deal, UNC will appoint an internal administrator and establish a coordinator position in its compliance office to address discrimination including antisemitism and the school also said they would provide a mandatory antisemitism training to students faculty and staff. The agreement also prohibits face masks or coverings concealing individuals identity during protests.
 ### Harvard
 In April 2025, the Trump admin [set conditions](https://www.reuters.com/world/us/us-plans-freeze-510-million-grants-brown-university-official-says-2025-04-03/) for Harvard to not lose funding, including banning masks and ending DEI.
 #### Funding Cuts
@@ -236,5 +237,8 @@ In October 2025, U.S. District Judge J. Michael Seabright ruled that acting US A
 ## U.S. Attorney for Seattle
 In July 2026, Chief Judge Stanley Bastian of the federal court in Yakima, Washington, ​ruled preliminarily for [Roger Rogoff](https://www.reuters.com/world/us-judge-restores-court-appointed-top-federal-prosecutor-trump-fired-seattle-2026-10-01/) in a lawsuit he filed in July after his ouster as ​the court-appointed US attorney for the Western District of Washington. The administration has ousted court-appointed US attorneys it ​did not favor in New York, New Jersey and Virginia, but Rogoff was the first to sue.
 
+
+# Installing Loyalists and Purging ​Career Officials
+-  **National Labor ‌Relations Board member Gwynne Wilcox**: In October 2025 the [Supreme Court denied to hear](https://www.reuters.com/world/us-supreme-court-wont-review-trumps-firing-labor-board-member-2026-10-19/) Wilcox's bid to appeal her ruling after the court previously reversed 1935 Humphrey's Executor precedent in June.
 # End
 

@@ -24,142 +24,172 @@
 
 [My News](https://www.reuters.com/my-news/feed/)
 
-[](https://www.reuters.com/account/sign-in/?website=reuters&redirect=https%3A%2F%2Fwww.reuters.com%2Flegal%2Fgovernment%2Ftrump-says-washington-golf-course-renovation-start-november-despite-judges-order-2026-10-18%2F)[](https://www.reuters.com/account/subscribe/offer/?website=reuters&redirect=https%3A%2F%2Fwww.reuters.com%2Flegal%2Fgovernment%2Ftrump-says-washington-golf-course-renovation-start-november-despite-judges-order-2026-10-18%2F&referrer=subscription_button&journeyStart=navigation)
+[](https://www.reuters.com/account/sign-in/?website=reuters&redirect=https%3A%2F%2Fwww.reuters.com%2Flegal%2Flitigation%2Ftrump-create-new-nih-division-task-force-womens-health-2026-10-19%2F)[](https://www.reuters.com/account/subscribe/offer/?website=reuters&redirect=https%3A%2F%2Fwww.reuters.com%2Flegal%2Flitigation%2Ftrump-create-new-nih-division-task-force-womens-health-2026-10-19%2F&referrer=subscription_button&journeyStart=navigation)
 
-# Trump says Washington golf course project to start immediately, despite judge's order
+# Trump signs order creating NIH division, task force for women's health
 
-By Reuters
+By [Trevor Hunnicutt](https://www.reuters.com/authors/trevor-hunnicutt/) and [Ahmed Aboulenein](https://www.reuters.com/authors/ahmed-aboulenein/)
 
-October 18, 202610:49 AM PDTUpdated 3 hours ago
+October 19, 20266:29 AM PDTUpdated 19 hours ago
 
-Item 1 of 2 A golfer passes a felled tree after the US President Donald Trump's administration cut down more than 400 trees at the historic East Potomac Golf Links last weekend, in Washington, DC, US, October 14, 2026. REUTERS/Kevin Lamarque
+![US President Donald Trump and China's President Xi Jinping tour the National Archives in Washington](https://www.reuters.com/resizer/v2/BYDXH4TYTBIINDH7PH32U7GJDI.jpg?auth=c597d7230a1c2e3ed669db89ab2439ab5b52adce979497022c58a3f5b41ff708&width=1920&quality=80)
 
-**[1/2]**A golfer passes a felled tree after the US President Donald Trump's administration cut down more than 400 trees at the historic East Potomac Golf Links last weekend, in Washington, DC, US, October 14, 2026. REUTERS/Kevin Lamarque [Purchase Licensing Rights, opens new tab](https://www.reutersconnect.com/item/golfer-passes-a-felled-tree-at-east-potomac-golf-links-in-washington/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1JDMjYzT0ExWVM4UA%3D%3D/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead)
+US President Donald Trump waves as he walks with first lady Melania Trump after touring the National Archives Museum with Chinese President Xi Jinping and his wife Peng Liyuan, in Washington, D.C., US, September 25, 2026. REUTERS/Kylie Cooper [Purchase Licensing Rights, opens new tab](https://www.reutersconnect.com/item/us-president-donald-trump-and-chinas-president-xi-jinping-tour-the-national-archives-in-washington/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1JDMkdRTkE5TllFSw%3D%3D/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead)
 
-- Summary
+WASHINGTON, Oct 19 (Reuters) - US President [Donald Trump](https://www.reuters.com/world/us/donald-trump/) signed an executive order alongside first lady Melania Trump on Monday creating a White House task force and a National Institutes of Health division focused on women's health.
 
-- Trump says administration has right to overhaul golf course
-- US gov't, under Trump, seeks to remove federal judge in case
-- Preservationists: renovation would harm environment, destroy US history
+The task force will be led ​by White House chief of staff Susie Wiles, who recently announced that she is [cancer-free](https://www.reuters.com/world/us/white-houses-wiles-says-she-is-free-cancer-2026-09-16/), and Health Secretary Robert F. Kennedy Jr., Trump ‌said at a White House event.
 
-WASHINGTON, Oct 18 - US President Donald ​Trump said on Monday that his administration would begin renovation work immediately on a historic Washington golf course ‌that a federal judge had ordered could not proceed without prior court notification.
+Jumpstart your morning with the latest legal news delivered straight to your inbox from The Daily Docket newsletter. Sign up [here.](https://www.reuters.com/newsletters/daily-docket/?location=article-paragraph&redirectUrl=%2Flegal%2Flitigation%2Ftrump-create-new-nih-division-task-force-womens-health-2026-10-19%2F)
 
-The renovation work, which Trump a day earlier said would start [next month](https://www.reuters.com/legal/government/trump-says-washington-golf-course-renovation-start-november-despite-judges-order-2026-10-18/), has become the subject of a lawsuit over environmental and historic preservation concerns.
+It directs the federal government to pursue a comprehensive approach to women's health across all life stages, strengthening research to speed up prevention, diagnosis, and treatment and translating those findings into clinical practice and policy, according to a White House fact sheet.
 
-Jumpstart your morning with the latest legal news delivered straight to your inbox from The Daily Docket newsletter. Sign up [here.](https://www.reuters.com/newsletters/daily-docket/?location=article-paragraph&redirectUrl=%2Flegal%2Fgovernment%2Ftrump-says-washington-golf-course-renovation-start-november-despite-judges-order-2026-10-18%2F)
+The task force will hold its first meeting on Monday, Trump said, during what ​he noted was Breast Cancer Awareness Month. Wiles recently finished treatment for breast cancer.
 
-Trump in a Monday morning post on Truth Social blasted the judge as "a ​crazed lunatic," called the court case "ridiculous," and declared that his administration had "an absolute right" to proceed.
+"The executive order I'll sign in just a moment will ​direct the Department of Health and Human Services to establish a new women's health division within the National Institute of ⁠Health," Trump said at the event.
 
-"The experts at 'Interior' ​are allowed to do this First Class renovation 'as of right.' They do not need an approval. Work ⁠is scheduled to begin IMMEDIATELY!" he wrote.
+"That's a big deal. They've been after it for a long time," he said. "Who the hell wouldn't have a woman's ​health division? Melania said they don't have it."
 
-It was unclear how the judge would respond.
+The NIH has an Office of Research on Women's Health, established in 1990.
 
-The renovation is among [multiple projects](https://www.reuters.com/world/us/trump-undertakes-sweeping-makeover-white-house-washington-2026-10-06/) Trump is ​pursuing to reshape the White House and other Washington landmarks.
+The new division will operate in coordination ​with that office rather than replace it, and must be established within an appropriate NIH institute or center within 90 days, according to the order. The White House said the move is meant to broaden the government's focus beyond research and prioritize translating discoveries into clinical care for women and girls.
 
-US District Judge Ana Reyes ruled earlier this year that the government ​must give notice before any substantive construction work on the golf course could proceed, and last week [issued an order](https://www.reuters.com/legal/litigation/judge-blasts-trumps-doj-over-inexcusable-tree-removal-dc-golf-course-2026-10-12/) halting the removal of trees at the site, which she called "inexcusable."
+It will focus on speeding up diagnosis and improving treatment ​of women's health conditions that remain understudied, boosting the inclusion of women and girls in clinical trials, and holding grant recipients accountable for considering sex ​as a biological variable.
 
-In a post on Sunday, Trump said that work on the East Potomac Golf Links would begin on November 15 ​and that the course would reopen in about 15 months.
+## CONDITIONS AFFECTING WOMEN DISPROPORTIONATELY
 
-Earlier this year, he said it would begin [in September](https://www.reuters.com/world/us/trump-says-reflecting-pool-full-use-public-golf-course-building-will-begin-2026-06-28/).
+The division will study conditions that uniquely or disproportionately affect women, including cardiovascular disease, cancer, autoimmune and inflammatory conditions, chronic pain, endometriosis, fibroids, ‌polyendocrine metabolic ⁠ovary syndrome, infertility, menopause, Alzheimer's disease and osteoporosis, the Department of Health and Human Services said in a statement.
 
-Reyes, later on Sunday, ​ordered the Trump administration to explain whether it maintained its position argued last week that there is "no final agency action" regarding the course, ‌and that ⁠at most, "the President has given preliminary thought" to the renovations.
+The order was first reported by USA Today.
 
-Responding to the judge's order, Associate Attorney General Stanley Woodward wrote in [a filing, opens new tab](https://www.courtlistener.com/docket/72278895/94/dc-preservation-league-v-department-of-interior/) that any redesign of the golf course is not an "agency action."
+Melania Trump, whom Trump credited with conceiving the initiative, said the effort should "ensure that medical breakthroughs are accessible and affordable to women, regardless of their financial circumstances" and "replace generations of silence with open conversation, education and compassion."
 
-"Just as a decision to redesign all the art exhibits in a Smithsonian Museum would not be agency action, neither would a decision to redesign a golf course, or to trim trees, ​replace fences, expand the fairways, ​or mow the lawn," Woodward ⁠wrote.
+Trump and his administration have pushed for healthcare cuts, including at [NIH](https://www.reuters.com/world/trump-administration-cannot-slash-nih-research-funding-court-rules-2026-01-05/), and last year moved to downsize the federal ​healthcare workforce.
 
-The DC Preservation League brought a lawsuit in February to halt the administration's takeover of the golf course, alleging that it would violate environmental laws and "irreparably destroy a priceless piece of American ​history."
+During Trump's second term, his administration ​sought to cut NIH grants ⁠for [research on diversity-related](https://www.reuters.com/business/healthcare-pharmaceuticals/federal-judge-says-trump-cuts-nih-grants-are-illegal-politico-reports-2025-06-16/) topics and reportedly is moving to allow [political appointees](https://www.reuters.com/business/healthcare-pharmaceuticals/trump-seeks-bring-health-research-funding-under-his-control-politico-reports-2026-09-20/) to control health-research funding.
 
-In an October 9 court filing, the Trump administration had asked Reyes to dismiss the ​litigation, saying it ⁠was premature because the "proposed project remains at an early and conceptual stage."
+The order revokes former President Joe Biden's March 2024 executive order on advancing women's health research, which was championed by then-first lady Jill Biden, as ​well as a November 2023 memorandum that created a White House initiative on the issue.
 
-The next day, however, the government removed about 500 trees from the site, saying it would improve safety at the park, restore its original design and was part of a 2019 plan that predates ⁠Trump's ambitions ​for the course. Reyes ordered a halt to the removals.
+The Trump administration has also launched ​a [safety review](https://www.reuters.com/world/fda-launches-study-abortion-pill-safety-wsj-reports-2026-06-05/) of the ⁠abortion pill, mifepristone, that could pave the way for restrictions. Major medical groups have criticized the move as politically motivated while anti-abortion groups argue the review is moving too slowly. Earlier this month, US officials told a court the review would be completed by [March](https://www.reuters.com/legal/government/abortion-drug-safety-review-will-be-completed-by-march-us-fda-says-2026-10-08/).
 
-On Friday, the ​government filed a motion to disqualify Reyes and move the case to another district judge, saying her actions had shown "deep-seated and unequivocal antipathy toward the Trump ​Administration," according to court records.
+US health officials also [removed a longstanding safety warning](https://www.reuters.com/business/healthcare-pharmaceuticals/us-fda-chief-makary-asks-drugmakers-remove-warnings-hormone-therapy-2025-11-10/) from many hormone replacement ⁠therapy products, [tightening ​supplies](https://www.reuters.com/business/healthcare-pharmaceuticals/us-progesterone-supplies-tighten-menopause-treatment-demand-grows-2026-06-17/) and leading to [shortages](https://www.reuters.com/legal/litigation/us-house-democratic-womens-caucus-press-health-secretary-estrogen-patch-2026-09-29/), and have urged more manufacturers to study [testosterone therapies for women](https://www.reuters.com/business/healthcare-pharmaceuticals/us-regulators-examine-testosterone-therapy-use-by-menopausal-women-rises-2026-09-17/) that ​could support future approvals of female-specific products.
 
-Reporting by Julia Harte, AJ Vicens and Susan Heavey; Editing by Sergio Non, Edmund Klamann and Lincon Feast
+HHS has also targeted family planning funds, [announcing earlier this year, opens new tab](https://files.simpler.grants.gov/opportunities/770eae58-b245-4431-a4b8-7b1aca9e917f/attachments/5e3ac609-8998-466a-a8b6-c3d7d49a2e6c/2027_Title_X_Services_NOFO_PA-FPH-27-001_PDF.pdf) that for the first time it would require applicants for Title X funding to align their programs ​with Trump's political priorities, prompting [legal action](https://www.reuters.com/legal/litigation/us-states-sue-block-new-conditions-family-planning-grants-2026-08-27/).
+
+Reporting by Trevor Hunnicutt and Ahmed Aboulenein; Additional reporting by Susan Heavey; Editing by Chizu Nomiyama, Bill Berkrot and Deepa Babington
 
 Our Standards: [The Thomson Reuters Trust Principles., opens new tab](https://www.thomsonreuters.com/en/about-us/trust-principles.html)
 
 - Suggested Topics:
-- [](https://www.reuters.com/world/us/)
-- [](https://www.reuters.com/legal/constitutional-law/)
+- [](https://www.reuters.com/business/healthcare-pharmaceuticals/)
+- [](https://www.reuters.com/legal/health/)
+- [](https://www.reuters.com/sustainability/regulatory-oversight/)
+- [](https://www.reuters.com/business/healthcare-pharmaceuticals/regulatory/)
 - [](https://www.reuters.com/legal/public-policy/)
 
 [](https://www.reutersagency.com/en/licensereuterscontent/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead)
 
+[
+
+](https://www.reuters.com/authors/trevor-hunnicutt/)
+
+[Trevor Hunnicutt](https://www.reuters.com/authors/trevor-hunnicutt/)
+
+Thomson Reuters
+
+Trevor Hunnicutt is White House Correspondent at Reuters News. He writes about U.S. foreign and domestic policy and regularly travels with the President of the United States. Prior to joining the White House team in 2021, he covered presidential campaigns, economics, finance and investing for many years. He has also served on the board of the White House Correspondents' Association. Hunnicutt holds a bachelor's degree from Pomona College and a master's from the London School of Economics.
+
+- [](mailto:trevor.hunnicutt@thomsonreuters.com)
+- [](https://x.com/trevornews)
+- [](https://www.linkedin.com/in/thunnicutt/)
+
+[
+
+](https://www.reuters.com/authors/ahmed-aboulenein/)
+
+[Ahmed Aboulenein](https://www.reuters.com/authors/ahmed-aboulenein/)
+
+Thomson Reuters
+
+Ahmed Aboulenein is a reporter on the Reuters U.S. health team, where he covers health and pharma policy. He reports on the Department of Health and Human Services and its divisions, including the CDC, FDA, NIH, and CMS, as well as Congress when it takes up health issues. He closely covers the Trump administration’s overhaul of U.S. health agencies under Health Secretary Robert F. Kennedy Jr. and what it means for their staff and the public. Aboulenein joined Reuters in 2014 and has covered health from Washington since 2021. He previously reported from Iraq and Egypt.
+
+- [](mailto:ahmed.aboulenein@thomsonreuters.com)
+- [](https://x.com/aaboulenein)
+- [](https://www.linkedin.com/in/www.linkedin.com/in/aaboulenein)
+
 ## Read Next / Editor's Picks
 
-- [United Statescategory](https://www.reuters.com/world/us/)
+- [Healthcare & Pharmaceuticalscategory](https://www.reuters.com/business/healthcare-pharmaceuticals/)
     
-    [A city divided: What redistricting means for Tennessee voters](https://www.reuters.com/world/us/city-divided-what-redistricting-means-tennessee-voters-2026-10-19/)
-    
-    [
-    
-    ](https://www.reuters.com/world/us/city-divided-what-redistricting-means-tennessee-voters-2026-10-19/)
-    
-- [Worldcategory](https://www.reuters.com/world/)
-    
-    [Supreme Court won't review Trump's firing of labor board member](https://www.reuters.com/world/us-supreme-court-wont-review-trumps-firing-labor-board-member-2026-10-19/)
+    [Early US flu season, current strain may signal risk for younger people; doctors urge shots](https://www.reuters.com/business/healthcare-pharmaceuticals/early-us-flu-season-current-strain-may-signal-risk-younger-people-doctors-urge-2026-10-20/)
     
     [
     
-    ](https://www.reuters.com/world/us-supreme-court-wont-review-trumps-firing-labor-board-member-2026-10-19/)
+    ](https://www.reuters.com/business/healthcare-pharmaceuticals/early-us-flu-season-current-strain-may-signal-risk-younger-people-doctors-urge-2026-10-20/)
     
-- [Sportscategory](https://www.reuters.com/sports/)
+- [Healthcare & Pharmaceuticalscategory](https://www.reuters.com/business/healthcare-pharmaceuticals/)
     
-    [Nassar judge says gymnastics still failing athletes despite reforms](https://www.reuters.com/sports/nassar-judge-says-gymnastics-still-failing-athletes-despite-reforms-2026-10-19/)
+    [US health agency confirms third measles-related death this year](https://www.reuters.com/business/healthcare-pharmaceuticals/us-cdc-confirms-third-measles-related-deaths-2026-2026-10-20/)
     
     [
     
-    ](https://www.reuters.com/sports/nassar-judge-says-gymnastics-still-failing-athletes-despite-reforms-2026-10-19/)
+    ](https://www.reuters.com/business/healthcare-pharmaceuticals/us-cdc-confirms-third-measles-related-deaths-2026-2026-10-20/)
+    
+- [Legalcategory](https://www.reuters.com/legal/)
+    
+    [Weight-loss drug users turn to supplements, raising concern among regulators](https://www.reuters.com/legal/litigation/weight-loss-drug-users-turn-dietary-supplements-doctors-regulators-raise-flags-2026-10-20/)
+    
+    [
+    
+    ](https://www.reuters.com/legal/litigation/weight-loss-drug-users-turn-dietary-supplements-doctors-regulators-raise-flags-2026-10-20/)
     
 - [
     
-    ](https://www.reuters.com/legal/government/midterm-election-outcomes-that-could-shape-trumps-final-two-years-2026-10-19/)
+    ](https://www.reuters.com/legal/litigation/astrazeneca-partners-with-oracle-ai-driven-clinical-trials-2026-10-20/)
     
 - [
     
-    ](https://www.reuters.com/world/us/senator-urges-fcc-reject-conservative-groups-bid-use-political-ai-generated-2026-10-19/)
+    ](https://www.reuters.com/legal/litigation/us-fda-issues-guidance-apps-used-with-prescription-drugs-2026-10-20/)
     
 - [
     
-    ](https://www.reuters.com/world/us-supreme-court-snubs-bid-revive-plea-deal-accused-911-mastermind-2026-10-19/)
+    ](https://www.reuters.com/business/healthcare-pharmaceuticals/brazils-newcastle-poultry-outbreak-unlikely-have-major-long-term-impact-analysts-2026-10-20/)
     
 - [
     
-    ](https://www.reuters.com/legal/litigation/trump-create-new-nih-division-task-force-womens-health-2026-10-19/)
+    ](https://www.reuters.com/legal/litigation/novos-cagrisema-helped-women-lose-25-weight-average-analysis-shows-2026-10-20/)
     
 - [
     
-    ](https://www.reuters.com/world/us-supreme-court-hear-maryland-case-involving-race-school-admissions-2026-10-19/)
+    ](https://www.reuters.com/business/healthcare-pharmaceuticals/astrazeneca-amgen-asthma-drug-hits-69-remission-esophageal-disease-trial-2026-10-20/)
     
 - [
     
-    ](https://www.reuters.com/legal/government/under-trump-deficits-remain-high-while-borrowing-costs-escalate-2026-10-19/)
+    ](https://www.reuters.com/legal/litigation/hims-hers-health-launches-online-weight-management-service-men-germany-2026-10-20/)
     
 - [
     
-    ](https://www.reuters.com/legal/litigation/roy-coopers-north-carolina-playbook-is-working-can-other-democrats-copy-it-2026-10-18/)
+    ](https://www.reuters.com/business/healthcare-pharmaceuticals/mexico-suspends-brazil-poultry-imports-after-newcastle-disease-outbreak-2026-10-20/)
     
 - [
     
-    ](https://www.reuters.com/world/us/what-you-need-know-about-2026-us-midterm-elections-2026-10-19/)
+    ](https://www.reuters.com/business/retail-consumer/cherry-or-tabasco-perfumers-test-weight-loss-drug-users-appetite-food-inspired-2026-10-19/)
     
 - [
     
-    ](https://www.reuters.com/world/asia-pacific/rubio-seeks-expand-central-asia-ties-with-pomp-filled-uzbekistan-visit-2026-10-19/)
+    ](https://www.reuters.com/legal/litigation/haemonetics-says-fda-clears-vascular-closure-device-2026-10-19/)
     
 - [
     
-    ](https://www.reuters.com/world/us/driver-released-after-pickup-truck-kills-2-injures-10-kansas-youth-soccer-game-2026-10-18/)
+    ](https://www.reuters.com/business/healthcare-pharmaceuticals/russia-five-patients-test-positive-mpox-ria-cites-hospital-2026-10-19/)
     
 - [
     
-    ](https://www.reuters.com/world/us-supreme-court-review-1868-federal-ban-home-distilling-liquor-2026-10-19/)
+    ](https://www.reuters.com/legal/litigation/germanys-merck-buys-silence-therapeutics-13-billion-2026-10-19/)
     
 - [
     
-    ](https://www.reuters.com/legal/litigation/trump-geothermal-lease-sale-collides-with-planned-nevada-solar-farms-2026-10-19/)
+    ](https://www.reuters.com/business/healthcare-pharmaceuticals/metis-techbio-inks-up-11-billion-deal-with-eli-lilly-drug-delivery-tech-2026-10-19/)
     
 
 [](https://www.lseg.com/en/data-analytics/products/workspace?utm_source=reuters.com&utm_medium=articlebanner&utm_campaign=Reuters_ProductPage_Links)
