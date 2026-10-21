@@ -24,67 +24,55 @@
 
 [My News](https://www.reuters.com/my-news/feed/)
 
-[](https://www.reuters.com/account/sign-in/?website=reuters&redirect=https%3A%2F%2Fwww.reuters.com%2Flegal%2Flitigation%2Ftrump-create-new-nih-division-task-force-womens-health-2026-10-19%2F)[](https://www.reuters.com/account/subscribe/offer/?website=reuters&redirect=https%3A%2F%2Fwww.reuters.com%2Flegal%2Flitigation%2Ftrump-create-new-nih-division-task-force-womens-health-2026-10-19%2F&referrer=subscription_button&journeyStart=navigation)
+[](https://www.reuters.com/account/sign-in/?website=reuters&redirect=https%3A%2F%2Fwww.reuters.com%2Flegal%2Fgovernment%2Ftrump-promises-cash-fraud-tips-he-awards-right-wing-youtuber-2026-10-20%2F)[](https://www.reuters.com/account/subscribe/offer/?website=reuters&redirect=https%3A%2F%2Fwww.reuters.com%2Flegal%2Fgovernment%2Ftrump-promises-cash-fraud-tips-he-awards-right-wing-youtuber-2026-10-20%2F&referrer=subscription_button&journeyStart=navigation)
 
-# Trump signs order creating NIH division, task force for women's health
+# Trump promises cash for fraud tips as he awards right-wing YouTuber
 
-By [Trevor Hunnicutt](https://www.reuters.com/authors/trevor-hunnicutt/) and [Ahmed Aboulenein](https://www.reuters.com/authors/ahmed-aboulenein/)
+By [Trevor Hunnicutt](https://www.reuters.com/authors/trevor-hunnicutt/)
 
-October 19, 20266:29 AM PDTUpdated 19 hours ago
+October 20, 20263:50 PM PDTUpdated 15 hours ago
 
-![US President Donald Trump and China's President Xi Jinping tour the National Archives in Washington](https://www.reuters.com/resizer/v2/BYDXH4TYTBIINDH7PH32U7GJDI.jpg?auth=c597d7230a1c2e3ed669db89ab2439ab5b52adce979497022c58a3f5b41ff708&width=1920&quality=80)
+Item 1 of 3 Conservative online influencer Nick Shirley, flanked by Administrator for the Centers for Medicare and Medicaid Services Dr. Mehmet Oz, shakes hands with US President Donald Trump, during a joint announcement by Trump and Vice President JD Vance (not pictured) in the Oval Office on a whistleblower program encouraging the public to report alleged fraud, at the White House in Washington, DC, US, October 20, 2026. REUTERS/Kevin Lamarque
 
-US President Donald Trump waves as he walks with first lady Melania Trump after touring the National Archives Museum with Chinese President Xi Jinping and his wife Peng Liyuan, in Washington, D.C., US, September 25, 2026. REUTERS/Kylie Cooper [Purchase Licensing Rights, opens new tab](https://www.reutersconnect.com/item/us-president-donald-trump-and-chinas-president-xi-jinping-tour-the-national-archives-in-washington/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1JDMkdRTkE5TllFSw%3D%3D/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead)
+**[1/3]**Conservative online influencer Nick Shirley, flanked by Administrator for the Centers for Medicare and Medicaid Services Dr. Mehmet Oz, shakes hands with US President Donald Trump, during a joint announcement by Trump and Vice President JD Vance (not pictured) in the Oval Office on a... [Purchase Licensing Rights, opens new tab](https://www.reutersconnect.com/item/us-president-donald-trump-and-vice-president-jd-vance-make-an-announcement-in-the-oval-office-of-the-white-house-in-washington/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1JDMjY3T0FDNDRDSQ%3D%3D/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead) Read more
 
-WASHINGTON, Oct 19 (Reuters) - US President [Donald Trump](https://www.reuters.com/world/us/donald-trump/) signed an executive order alongside first lady Melania Trump on Monday creating a White House task force and a National Institutes of Health division focused on women's health.
+- Summary
 
-The task force will be led ​by White House chief of staff Susie Wiles, who recently announced that she is [cancer-free](https://www.reuters.com/world/us/white-houses-wiles-says-she-is-free-cancer-2026-09-16/), and Health Secretary Robert F. Kennedy Jr., Trump ‌said at a White House event.
+- Trump administration awards pro-Trump YouTuber for fraud probe
+- President announces $25 million whistleblower program
 
-Jumpstart your morning with the latest legal news delivered straight to your inbox from The Daily Docket newsletter. Sign up [here.](https://www.reuters.com/newsletters/daily-docket/?location=article-paragraph&redirectUrl=%2Flegal%2Flitigation%2Ftrump-create-new-nih-division-task-force-womens-health-2026-10-19%2F)
+WASHINGTON, Oct 20 (Reuters) - President [Donald Trump](https://www.reuters.com/world/us/donald-trump/) said on Tuesday he would reward tipsters who uncover fraud in US government ​programs, launching the initiative by announcing a cash prize for a conservative online ‌influencer.
 
-It directs the federal government to pursue a comprehensive approach to women's health across all life stages, strengthening research to speed up prevention, diagnosis, and treatment and translating those findings into clinical practice and policy, according to a White House fact sheet.
+Speaking from the White House Oval Office, Trump said a new Fraud Whistleblower Incentive Program would award people an unlimited 1% commission on the fraud reported.
 
-The task force will hold its first meeting on Monday, Trump said, during what ​he noted was Breast Cancer Awareness Month. Wiles recently finished treatment for breast cancer.
+Jumpstart your morning with the latest legal news delivered straight to your inbox from The Daily Docket newsletter. Sign up [here.](https://www.reuters.com/newsletters/daily-docket/?location=article-paragraph&redirectUrl=%2Flegal%2Fgovernment%2Ftrump-promises-cash-fraud-tips-he-awards-right-wing-youtuber-2026-10-20%2F)
 
-"The executive order I'll sign in just a moment will ​direct the Department of Health and Human Services to establish a new women's health division within the National Institute of ⁠Health," Trump said at the event.
+The Justice Department described the program differently, saying it would ​award $10,000 to $30,000 for tips that lead to criminal charges. It said the Treasury Department ​is committing $25 million toward the program and that the Justice Department would ⁠issue the awards in its "sole discretion."
 
-"That's a big deal. They've been after it for a long time," he said. "Who the hell wouldn't have a woman's ​health division? Melania said they don't have it."
+The first recipient was [Nick Shirley](https://www.reuters.com/legal/litigation/trump-administration-sued-by-rights-groups-over-attempted-childcare-funding-cuts-2026-07-21/). Senior administration officials have amplified ​and credited the 24-year-old pro-Trump YouTuber's viral video alleging some childcare centers in Minnesota were fraudulent ​as the basis for plans to cut some federal funding to the state.
 
-The NIH has an Office of Research on Women's Health, established in 1990.
+The Minnesota Department of Children, Youth, and Families disputed some of those claims as misleading and exaggerated. But one Minneapolis woman whose childcare center ​Shirley profiled later pleaded guilty to fraud charges.
 
-The new division will operate in coordination ​with that office rather than replace it, and must be established within an appropriate NIH institute or center within 90 days, according to the order. The White House said the move is meant to broaden the government's focus beyond research and prioritize translating discoveries into clinical care for women and girls.
+"There's never been an incentive for anyone to ​ever expose fraud," Shirley said at the White House. "When you expose fraud, you help save America."
 
-It will focus on speeding up diagnosis and improving treatment ​of women's health conditions that remain understudied, boosting the inclusion of women and girls in clinical trials, and holding grant recipients accountable for considering sex ​as a biological variable.
+Vice President JD ‌Vance, ⁠who leads the president's anti-fraud task force, said Shirley had "done more than anybody that I've met recently as a citizen journalist to uncover the fraud" and that "Nick is going to get a financial reward for doing so."
 
-## CONDITIONS AFFECTING WOMEN DISPROPORTIONATELY
+A White House official told media outlets that Shirley would get $10,000.
 
-The division will study conditions that uniquely or disproportionately affect women, including cardiovascular disease, cancer, autoimmune and inflammatory conditions, chronic pain, endometriosis, fibroids, ‌polyendocrine metabolic ⁠ovary syndrome, infertility, menopause, Alzheimer's disease and osteoporosis, the Department of Health and Human Services said in a statement.
+It ​was not immediately clear ​how Shirley was ⁠selected for the prize. The White House, Justice Department and Treasury Department did not immediately respond to an emailed request for comment, and Shirley ​could not immediately be reached.
 
-The order was first reported by USA Today.
+"I will be the arbitrator of all ​of these ⁠decisions," Trump said about who would be paid under the program. "I will be very generous, believe me. We're not looking to save on that."
 
-Melania Trump, whom Trump credited with conceiving the initiative, said the effort should "ensure that medical breakthroughs are accessible and affordable to women, regardless of their financial circumstances" and "replace generations of silence with open conversation, education and compassion."
+The Republican US president has made allegations of fraud in ⁠Democratic-led ​states a focus of his term in office and ​has pledged to clean up corruption. He has focused especially on [Somali immigrants](https://www.reuters.com/legal/government/trump-online-burst-anti-somali-anti-muslim-rhetoric-2026-10-09/) in Minnesota, whom he has called "garbage."
 
-Trump and his administration have pushed for healthcare cuts, including at [NIH](https://www.reuters.com/world/trump-administration-cannot-slash-nih-research-funding-court-rules-2026-01-05/), and last year moved to downsize the federal ​healthcare workforce.
-
-During Trump's second term, his administration ​sought to cut NIH grants ⁠for [research on diversity-related](https://www.reuters.com/business/healthcare-pharmaceuticals/federal-judge-says-trump-cuts-nih-grants-are-illegal-politico-reports-2025-06-16/) topics and reportedly is moving to allow [political appointees](https://www.reuters.com/business/healthcare-pharmaceuticals/trump-seeks-bring-health-research-funding-under-his-control-politico-reports-2026-09-20/) to control health-research funding.
-
-The order revokes former President Joe Biden's March 2024 executive order on advancing women's health research, which was championed by then-first lady Jill Biden, as ​well as a November 2023 memorandum that created a White House initiative on the issue.
-
-The Trump administration has also launched ​a [safety review](https://www.reuters.com/world/fda-launches-study-abortion-pill-safety-wsj-reports-2026-06-05/) of the ⁠abortion pill, mifepristone, that could pave the way for restrictions. Major medical groups have criticized the move as politically motivated while anti-abortion groups argue the review is moving too slowly. Earlier this month, US officials told a court the review would be completed by [March](https://www.reuters.com/legal/government/abortion-drug-safety-review-will-be-completed-by-march-us-fda-says-2026-10-08/).
-
-US health officials also [removed a longstanding safety warning](https://www.reuters.com/business/healthcare-pharmaceuticals/us-fda-chief-makary-asks-drugmakers-remove-warnings-hormone-therapy-2025-11-10/) from many hormone replacement ⁠therapy products, [tightening ​supplies](https://www.reuters.com/business/healthcare-pharmaceuticals/us-progesterone-supplies-tighten-menopause-treatment-demand-grows-2026-06-17/) and leading to [shortages](https://www.reuters.com/legal/litigation/us-house-democratic-womens-caucus-press-health-secretary-estrogen-patch-2026-09-29/), and have urged more manufacturers to study [testosterone therapies for women](https://www.reuters.com/business/healthcare-pharmaceuticals/us-regulators-examine-testosterone-therapy-use-by-menopausal-women-rises-2026-09-17/) that ​could support future approvals of female-specific products.
-
-HHS has also targeted family planning funds, [announcing earlier this year, opens new tab](https://files.simpler.grants.gov/opportunities/770eae58-b245-4431-a4b8-7b1aca9e917f/attachments/5e3ac609-8998-466a-a8b6-c3d7d49a2e6c/2027_Title_X_Services_NOFO_PA-FPH-27-001_PDF.pdf) that for the first time it would require applicants for Title X funding to align their programs ​with Trump's political priorities, prompting [legal action](https://www.reuters.com/legal/litigation/us-states-sue-block-new-conditions-family-planning-grants-2026-08-27/).
-
-Reporting by Trevor Hunnicutt and Ahmed Aboulenein; Additional reporting by Susan Heavey; Editing by Chizu Nomiyama, Bill Berkrot and Deepa Babington
+Reporting by Trevor ​Hunnicutt; Additional reporting by Daphne Psaledakis and Andrew Goudsward; Editing by Colleen Jenkins and Sanjeev Miglani
 
 Our Standards: [The Thomson Reuters Trust Principles., opens new tab](https://www.thomsonreuters.com/en/about-us/trust-principles.html)
 
 - Suggested Topics:
-- [](https://www.reuters.com/business/healthcare-pharmaceuticals/)
-- [](https://www.reuters.com/legal/health/)
-- [](https://www.reuters.com/sustainability/regulatory-oversight/)
-- [](https://www.reuters.com/business/healthcare-pharmaceuticals/regulatory/)
+- [](https://www.reuters.com/world/us/)
+- [](https://www.reuters.com/legal/white-collar-crime/)
+- [](https://www.reuters.com/legal/securities-enforcement/)
 - [](https://www.reuters.com/legal/public-policy/)
 
 [](https://www.reutersagency.com/en/licensereuterscontent/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead)
@@ -103,93 +91,83 @@ Trevor Hunnicutt is White House Correspondent at Reuters News. He writes about U
 - [](https://x.com/trevornews)
 - [](https://www.linkedin.com/in/thunnicutt/)
 
-[
-
-](https://www.reuters.com/authors/ahmed-aboulenein/)
-
-[Ahmed Aboulenein](https://www.reuters.com/authors/ahmed-aboulenein/)
-
-Thomson Reuters
-
-Ahmed Aboulenein is a reporter on the Reuters U.S. health team, where he covers health and pharma policy. He reports on the Department of Health and Human Services and its divisions, including the CDC, FDA, NIH, and CMS, as well as Congress when it takes up health issues. He closely covers the Trump administration’s overhaul of U.S. health agencies under Health Secretary Robert F. Kennedy Jr. and what it means for their staff and the public. Aboulenein joined Reuters in 2014 and has covered health from Washington since 2021. He previously reported from Iraq and Egypt.
-
-- [](mailto:ahmed.aboulenein@thomsonreuters.com)
-- [](https://x.com/aaboulenein)
-- [](https://www.linkedin.com/in/www.linkedin.com/in/aaboulenein)
-
 ## Read Next / Editor's Picks
 
-- [Healthcare & Pharmaceuticalscategory](https://www.reuters.com/business/healthcare-pharmaceuticals/)
+- [United Statescategory](https://www.reuters.com/world/us/)
     
-    [Early US flu season, current strain may signal risk for younger people; doctors urge shots](https://www.reuters.com/business/healthcare-pharmaceuticals/early-us-flu-season-current-strain-may-signal-risk-younger-people-doctors-urge-2026-10-20/)
-    
-    [
-    
-    ](https://www.reuters.com/business/healthcare-pharmaceuticals/early-us-flu-season-current-strain-may-signal-risk-younger-people-doctors-urge-2026-10-20/)
-    
-- [Healthcare & Pharmaceuticalscategory](https://www.reuters.com/business/healthcare-pharmaceuticals/)
-    
-    [US health agency confirms third measles-related death this year](https://www.reuters.com/business/healthcare-pharmaceuticals/us-cdc-confirms-third-measles-related-deaths-2026-2026-10-20/)
+    [How the Republican redistricting gambit faltered under Trump slump](https://www.reuters.com/world/us/how-republican-redistricting-gambit-faltered-under-trump-slump-2026-10-21/)
     
     [
     
-    ](https://www.reuters.com/business/healthcare-pharmaceuticals/us-cdc-confirms-third-measles-related-deaths-2026-2026-10-20/)
+    ](https://www.reuters.com/world/us/how-republican-redistricting-gambit-faltered-under-trump-slump-2026-10-21/)
     
-- [Legalcategory](https://www.reuters.com/legal/)
+- [United Statescategory](https://www.reuters.com/world/us/)
     
-    [Weight-loss drug users turn to supplements, raising concern among regulators](https://www.reuters.com/legal/litigation/weight-loss-drug-users-turn-dietary-supplements-doctors-regulators-raise-flags-2026-10-20/)
+    [Trump to rally for Graham in tight South Carolina Senate race amid Russia rift](https://www.reuters.com/world/us/trump-rally-graham-tight-south-carolina-senate-race-amid-russia-rift-2026-10-21/)
     
     [
     
-    ](https://www.reuters.com/legal/litigation/weight-loss-drug-users-turn-dietary-supplements-doctors-regulators-raise-flags-2026-10-20/)
+    ](https://www.reuters.com/world/us/trump-rally-graham-tight-south-carolina-senate-race-amid-russia-rift-2026-10-21/)
+    
+- [Worldcategory](https://www.reuters.com/world/)
+    
+    [Who is Stephen Hubbard, the US citizen released by Russia?](https://www.reuters.com/world/who-is-stephen-hubbard-us-citizen-released-by-russia-2026-10-21/)
+    
+    [
+    
+    ](https://www.reuters.com/world/who-is-stephen-hubbard-us-citizen-released-by-russia-2026-10-21/)
     
 - [
     
-    ](https://www.reuters.com/legal/litigation/astrazeneca-partners-with-oracle-ai-driven-clinical-trials-2026-10-20/)
+    ](https://www.reuters.com/legal/government/monitoring-monitors-us-states-prepare-surge-justice-dept-election-watchers-2026-10-21/)
     
 - [
     
-    ](https://www.reuters.com/legal/litigation/us-fda-issues-guidance-apps-used-with-prescription-drugs-2026-10-20/)
+    ](https://www.reuters.com/world/us/republicans-bet-musks-millions-can-rescue-texas-paxton-us-senate-race-2026-10-21/)
     
 - [
     
-    ](https://www.reuters.com/business/healthcare-pharmaceuticals/brazils-newcastle-poultry-outbreak-unlikely-have-major-long-term-impact-analysts-2026-10-20/)
+    ](https://www.reuters.com/business/energy/us-aims-loan-about-third-heating-oil-reserve-bid-tame-prices-2026-10-21/)
     
 - [
     
-    ](https://www.reuters.com/legal/litigation/novos-cagrisema-helped-women-lose-25-weight-average-analysis-shows-2026-10-20/)
+    ](https://www.reuters.com/world/us/us-democratic-congressional-nominee-lander-detained-by-israeli-authorities-west-2026-10-21/)
     
 - [
     
-    ](https://www.reuters.com/business/healthcare-pharmaceuticals/astrazeneca-amgen-asthma-drug-hits-69-remission-esophageal-disease-trial-2026-10-20/)
+    ](https://www.reuters.com/legal/government/trump-tout-crackdown-overseas-crypto-scams-2026-10-21/)
     
 - [
     
-    ](https://www.reuters.com/legal/litigation/hims-hers-health-launches-online-weight-management-service-men-germany-2026-10-20/)
+    ](https://www.reuters.com/legal/government/trump-administration-says-it-has-revoked-over-300000-visas-2026-10-20/)
     
 - [
     
-    ](https://www.reuters.com/business/healthcare-pharmaceuticals/mexico-suspends-brazil-poultry-imports-after-newcastle-disease-outbreak-2026-10-20/)
+    ](https://www.reuters.com/world/us/trump-north-carolina-says-republicans-will-defy-midterm-odds-2026-10-21/)
     
 - [
     
-    ](https://www.reuters.com/business/retail-consumer/cherry-or-tabasco-perfumers-test-weight-loss-drug-users-appetite-food-inspired-2026-10-19/)
+    ](https://www.reuters.com/legal/government/us-agents-investigate-report-incendiary-device-thrown-ice-office-atlanta-2026-10-21/)
     
 - [
     
-    ](https://www.reuters.com/legal/litigation/haemonetics-says-fda-clears-vascular-closure-device-2026-10-19/)
+    ](https://www.reuters.com/world/us/us-single-family-housing-starts-building-permits-tumble-september-2026-10-20/)
     
 - [
     
-    ](https://www.reuters.com/business/healthcare-pharmaceuticals/russia-five-patients-test-positive-mpox-ria-cites-hospital-2026-10-19/)
+    ](https://www.reuters.com/world/us/after-generations-central-park-horse-drawn-carriages-face-ban-2026-10-21/)
     
 - [
     
-    ](https://www.reuters.com/legal/litigation/germanys-merck-buys-silence-therapeutics-13-billion-2026-10-19/)
+    ](https://www.reuters.com/business/retail-consumer/trump-says-companies-should-pay-dividend-communities-make-data-centers-popular-2026-10-21/)
     
 - [
     
-    ](https://www.reuters.com/business/healthcare-pharmaceuticals/metis-techbio-inks-up-11-billion-deal-with-eli-lilly-drug-delivery-tech-2026-10-19/)
+    ](https://www.reuters.com/world/us/could-disillusioned-kansas-voters-send-their-first-democrat-us-senate-94-years-2026-10-20/)
+    
+- [
+    
+    ](https://www.reuters.com/world/us/us-high-court-rulings-have-been-destructive-democracy-justice-kagan-says-2026-10-21/)
     
 
 [](https://www.lseg.com/en/data-analytics/products/workspace?utm_source=reuters.com&utm_medium=articlebanner&utm_campaign=Reuters_ProductPage_Links)

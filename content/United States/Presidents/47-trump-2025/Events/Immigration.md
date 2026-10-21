@@ -166,7 +166,7 @@ In August 2026, the State Department paused immigrant visa appointments for appl
 	-[ September 20, 2026](https://www.reuters.com/legal/government/second-judge-blocks-trumps-100000-fee-new-h-1b-worker-visas-2026-10-01/): second judge (Judge Gilliam) blocks Trump's $100,000 H-1B fee, saying USCIS and the State Department failed to follow necessary rule-making processes before implementing the fee.
 
 ## Revoking Visas
-- Total revoked: [175,000](https://www.reuters.com/legal/government/trump-administration-has-revoked-more-than-175000-visas-state-department-says-2026-08-10/) visas during second term as of August 2026
+- Total revoked: [175,000](https://www.reuters.com/legal/government/trump-administration-has-revoked-more-than-175000-visas-state-department-says-2026-08-10/) visas during second term as of August 2026 and [300,000](https://www.reuters.com/legal/government/trump-administration-says-it-has-revoked-over-300000-visas-2026-10-20/) as of October 2026
 - [Non-immigrant visas](https://www.reuters.com/world/us-plans-revoke-up-200000-tourism-business-visas-ap-reports-2026-08-24/): In August 2026 the State Department said they planned to mass revoke non-immigrant visas of foreigners who have applied for or are currently seeking asylum status in the U.S. (~200,000 visas, largest mass revocation in history).
 
 ## Student + Journalist Visas Rule
@@ -524,5 +524,11 @@ January 24: 8th U.S. Circuit Court of Appeals rejects DOJ bid to charge five mor
 - September 2026: ICE shoots man, Wilber Rafael Garces Perez, in torso, seriously wounding him. Law enforcement said Perez is ​an undocumented immigrant from Venezuela. Perez was detained in an ICE facility following the shooting with a [bullet still in his back](https://www.reuters.com/world/man-shot-by-ice-agents-texas-says-he-is-detention-with-bullet-back-2026-09-22/). The DOJ later [charged Perez](https://www.reuters.com/legal/government/justice-department-charges-venezuelan-man-shot-by-ice-officer-austin-2026-09-29/) with assaulting, resisting, interfering, and impeding a federal officer.
 ## New York Shooting
 - October 2026: ICE agents shoot Dominican man, Oscar Belgal, in New York, while his child was in the car. DHS head Markwayne Mullin later [defended the shooting](https://www.reuters.com/legal/government/ice-officials-defend-shooting-new-york-man-attack-sanctuary-policies-2026-10-09/) saying the man refused to exit his car when approached by ICE. ICE also said Belgal accelerated his car and struck two ICE vehicles and appeared ​to be "going towards officers" when they began shooting. Belgal is a Dominican who is in the country illegally and had previously evaded an effort by ICE agents to apprehend him in September, according to US officials. He pleaded guilty last year to fourth-degree grand larceny for stealing something from another person, leading ​to a sentence of five years on ​probation.
+
+# Fraud Obsession
+## Social Security
+- In October 2026 the Social Security Administration said it corrected [15% of all active Social Security numbers](https://www.reuters.com/world/us/us-social-security-agency-corrects-nearly-15-records-database-cleanup-2026-10-20/) saying it added 17 million dates of death and also updated 25 million records that previously had missing citizenship information using data from the SAVE immigration DHS database.
+## Fraud Whistleblower Incentive Program
+In October 2026 the Trump administration announced $25 million whistleblower program to reward tipsters who under uncover fraud in US government programs. The DOJ said it would award 10,000 to $30,000 for tips leading to criminal charges. At the announcement ceremony, Trump gave Youtuber [Nick Shirley](https://www.reuters.com/legal/government/trump-promises-cash-fraud-tips-he-awards-right-wing-youtuber-2026-10-20/) the first cash prize of $10,000.
 # End
 
