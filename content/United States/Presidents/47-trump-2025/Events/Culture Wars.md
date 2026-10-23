@@ -1,3 +1,5 @@
 # Trans Issues
 ## Trans Minors
 - **Federal Healthcare**: In August 2026, Trump admin [new rule](https://www.reuters.com/legal/litigation/us-bars-federal-funding-gender-affirming-care-low-income-minors-2026-08-12/) bars Medicaid and CHIP from funding puberty blockers, hormone therapy and surgeries to treat gender dysphoria ​in minors.
+## Trans prisoners
+- In October 2026 the [Supreme Court rejected](https://www.reuters.com/world/supreme-court-wont-allow-trump-administration-restrictions-transgender-inmates-2026-10-21/) a bid by Trump to immediately enforce One of his policies issued in February that prohibits medical and surgical treatments as well as any "social accommodations" such as clothing and hair removal devices that could be used to alter a person's appearance to align with their gender identity. Washington, DC based US District Judge Royce Lamberth previously blocked Trump's restrictions on federal prisoners in June, concluding that the policy was likely "arbitrary and capricious" in violation of the APA. In September, the US Court of Appeals for the District of Columbia also refuse to lift Lamberth's ruling.
