@@ -24,153 +24,164 @@
 
 [My News](https://www.reuters.com/my-news/feed/)
 
-[](https://www.reuters.com/account/sign-in/?website=reuters&redirect=https%3A%2F%2Fwww.reuters.com%2Flegal%2Fgovernment%2Ftrump-promises-cash-fraud-tips-he-awards-right-wing-youtuber-2026-10-20%2F)[](https://www.reuters.com/account/subscribe/offer/?website=reuters&redirect=https%3A%2F%2Fwww.reuters.com%2Flegal%2Fgovernment%2Ftrump-promises-cash-fraud-tips-he-awards-right-wing-youtuber-2026-10-20%2F&referrer=subscription_button&journeyStart=navigation)
+[](https://www.reuters.com/account/sign-in/?website=reuters&redirect=https%3A%2F%2Fwww.reuters.com%2Fworld%2Frubio-says-witkoff-zelenskiy-meeting-positive-ideas-be-discussed-with-russia-2026-10-21%2F)[](https://www.reuters.com/account/subscribe/offer/?website=reuters&redirect=https%3A%2F%2Fwww.reuters.com%2Fworld%2Frubio-says-witkoff-zelenskiy-meeting-positive-ideas-be-discussed-with-russia-2026-10-21%2F&referrer=subscription_button&journeyStart=navigation)
 
-# Trump promises cash for fraud tips as he awards right-wing YouTuber
+# Starlink access in Ukraine a decision for Musk, not White House, Rubio says
 
-By [Trevor Hunnicutt](https://www.reuters.com/authors/trevor-hunnicutt/)
+By [Gram Slattery](https://www.reuters.com/authors/gram-slattery/)
 
-October 20, 20263:50 PM PDTUpdated 15 hours ago
+October 20, 202610:54 PM PDTUpdated 6 hours ago
 
-Item 1 of 3 Conservative online influencer Nick Shirley, flanked by Administrator for the Centers for Medicare and Medicaid Services Dr. Mehmet Oz, shakes hands with US President Donald Trump, during a joint announcement by Trump and Vice President JD Vance (not pictured) in the Oval Office on a whistleblower program encouraging the public to report alleged fraud, at the White House in Washington, DC, US, October 20, 2026. REUTERS/Kevin Lamarque
+Item 1 of 2 An artilleryman of the Special Rifle Police Battalion of Zaporizhzhia region sets up Starlink satellite internet system, at a position, amid Russia's attack on Ukraine, near the frontline in Donetsk region, Ukraine, October 16, 2026. REUTERS/Stringer/File Photo
 
-**[1/3]**Conservative online influencer Nick Shirley, flanked by Administrator for the Centers for Medicare and Medicaid Services Dr. Mehmet Oz, shakes hands with US President Donald Trump, during a joint announcement by Trump and Vice President JD Vance (not pictured) in the Oval Office on a... [Purchase Licensing Rights, opens new tab](https://www.reutersconnect.com/item/us-president-donald-trump-and-vice-president-jd-vance-make-an-announcement-in-the-oval-office-of-the-white-house-in-washington/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1JDMjY3T0FDNDRDSQ%3D%3D/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead) Read more
+**[1/2]**An artilleryman of the Special Rifle Police Battalion of Zaporizhzhia region sets up Starlink satellite internet system, at a position, amid Russia's attack on Ukraine, near the frontline in Donetsk region, Ukraine, October 16, 2026. REUTERS/Stringer/File Photo [Purchase Licensing Rights, opens new tab](https://www.reutersconnect.com/item/an-artilleryman-of-the-special-rifle-police-battalion-sets-up-starlink-satellite-internet-system-near-the-frontline-in-donetsk-region/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1JDMkE0T0FTT1BHNQ%3D%3D/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead)
 
 - Summary
+- Companies
 
-- Trump administration awards pro-Trump YouTuber for fraud probe
-- President announces $25 million whistleblower program
+- Rubio says that SpaceX, Musk set Ukraine's access to Starlink, not administration
+- Rubio says unaware of conversations between White House, Musk before order, but adds that any talks would be "irrelevant"
+- Comments could intensify concerns about Musk's sway over foreign policy
 
-WASHINGTON, Oct 20 (Reuters) - President [Donald Trump](https://www.reuters.com/world/us/donald-trump/) said on Tuesday he would reward tipsters who uncover fraud in US government ​programs, launching the initiative by announcing a cash prize for a conservative online ‌influencer.
+MUMBAI, Oct 21 (Reuters) - US Secretary ‌of State Marco Rubio said on Wednesday that decisions regarding Ukraine's access to Starlink were up to SpaceX and Elon Musk, not the White House, comments that suggested Musk may have restricted Kyiv's access to the service.
 
-Speaking from the White House Oval Office, Trump said a new Fraud Whistleblower Incentive Program would award people an unlimited 1% commission on the fraud reported.
+The Wall Street Journal reported on Tuesday that [Musk had ordered the slowdown](https://www.reuters.com/business/media-telecom/musk-ordered-starlink-slowdown-that-blindsided-ukraine-wsj-reports-2026-10-20/) ​of a military-grade version of Starlink that Ukraine [relies on to defend itself](https://www.reuters.com/business/aerospace-defense/starlink-disruptions-are-being-felt-front-lines-ukraine-2026-10-16/) against missile attacks from Russia.
 
-Jumpstart your morning with the latest legal news delivered straight to your inbox from The Daily Docket newsletter. Sign up [here.](https://www.reuters.com/newsletters/daily-docket/?location=article-paragraph&redirectUrl=%2Flegal%2Fgovernment%2Ftrump-promises-cash-fraud-tips-he-awards-right-wing-youtuber-2026-10-20%2F)
+The Misinformation Monitor newsletter rounds up international misinformation narratives, with a "Real or Fake?" quiz in every edition. Sign up [here.](https://www.reuters.com/newsletters/misinformation-monitor/?location=article-paragraph&redirectUrl=%2Fworld%2Frubio-says-witkoff-zelenskiy-meeting-positive-ideas-be-discussed-with-russia-2026-10-21%2F)
 
-The Justice Department described the program differently, saying it would ​award $10,000 to $30,000 for tips that lead to criminal charges. It said the Treasury Department ​is committing $25 million toward the program and that the Justice Department would ⁠issue the awards in its "sole discretion."
+The Journal ​cited one source saying that Musk, President Donald Trump and White House officials discussed the matter ⁠beforehand, and two sources saying that Musk and the president discussed the matter in the days after the slowdown.
 
-The first recipient was [Nick Shirley](https://www.reuters.com/legal/litigation/trump-administration-sued-by-rights-groups-over-attempted-childcare-funding-cuts-2026-07-21/). Senior administration officials have amplified ​and credited the 24-year-old pro-Trump YouTuber's viral video alleging some childcare centers in Minnesota were fraudulent ​as the basis for plans to cut some federal funding to the state.
+"I'm not ​aware that we knew about this decision beforehand. But that's irrelevant," Rubio told reporters during a trip to India.
 
-The Minnesota Department of Children, Youth, and Families disputed some of those claims as misleading and exaggerated. But one Minneapolis woman whose childcare center ​Shirley profiled later pleaded guilty to fraud charges.
+"The bottom ​line is that that is governed by a private commercial contract as to how their stuff can be used and what speeds they'll allow it to be used at." Musk and SpaceX did not respond to Reuters requests for comment.
 
-"There's never been an incentive for anyone to ​ever expose fraud," Shirley said at the White House. "When you expose fraud, you help save America."
+Reuters has cited two US officials and a Western ​official briefed on the matter saying [the decision ultimately came from the White House](https://www.reuters.com/world/europe/order-limit-starshield-ukraine-came-inside-white-house-sources-say-2026-10-15/). This version was also asserted by Ukrainian ​President Volodymyr Zelenskiy, but denied by the administration.
 
-Vice President JD ‌Vance, ⁠who leads the president's anti-fraud task force, said Shirley had "done more than anybody that I've met recently as a citizen journalist to uncover the fraud" and that "Nick is going to get a financial reward for doing so."
+Rubio's comments are likely to intensify concerns in Washington regarding Musk's singular ability to influence US ‌foreign ⁠policy. They also represent an apparent shift in position for the administration.
 
-A White House official told media outlets that Shirley would get $10,000.
+Trump has publicly said he believed [neither he nor Musk was behind the slowdown](https://www.reuters.com/world/europe/trump-says-neither-he-nor-musk-responsible-ukraine-starlink-access-2026-10-16/). Departing for a trip to Uzbekistan and India on Saturday, Rubio had said no one ordered the slowdown, an assertion that drew criticism from lawmakers in both parties.
 
-It ​was not immediately clear ​how Shirley was ⁠selected for the prize. The White House, Justice Department and Treasury Department did not immediately respond to an emailed request for comment, and Shirley ​could not immediately be reached.
+"I'm not sure Zelenskyy knows what he's talking about, but it wasn't ​deliberate," Rubio said at the ​time.
 
-"I will be the arbitrator of all ​of these ⁠decisions," Trump said about who would be paid under the program. "I will be very generous, believe me. We're not looking to save on that."
+"We have nothing to ⁠do with that. I don't – the United States, nobody ordered that Starlink speed to be slowed down. It sort of happened, but my understanding is it's been restored," Rubio said.
 
-The Republican US president has made allegations of fraud in ⁠Democratic-led ​states a focus of his term in office and ​has pledged to clean up corruption. He has focused especially on [Somali immigrants](https://www.reuters.com/legal/government/trump-online-burst-anti-somali-anti-muslim-rhetoric-2026-10-09/) in Minnesota, whom he has called "garbage."
+Speaking to reporters ​on Tuesday, Pentagon chief Pete Hegseth also portrayed the Starlink cutoff as a commercial matter. No ​US official has ⁠publicly said, however, that they have pushed SpaceX to reverse any cutoffs.
 
-Reporting by Trevor ​Hunnicutt; Additional reporting by Daphne Psaledakis and Andrew Goudsward; Editing by Colleen Jenkins and Sanjeev Miglani
+"There are terms of service that ultimately need to be complied to, and that's where Starlink has the option to make those decisions," Hegseth said.
+
+One significant point of confusion relates to the ⁠difference between ​SpaceX's Starshield and Starlink products. Starshield is essentially a military-grade version of ​Starlink developed for the Pentagon.
+
+Rubio suggested on Saturday that Ukraine never had access to Starshield in the first place, while Zelenskiy has said that [both Starlink and ​Starshield in Ukraine have been disrupted](https://www.reuters.com/world/europe/order-limit-starshield-ukraine-came-inside-white-house-sources-say-2026-10-15/).
+
+Reporting by Gram Slattery; Writing by Sakshi Dayal; Editing by Christian Schmollinger, Stephen Coates, Philippa Fletcher
 
 Our Standards: [The Thomson Reuters Trust Principles., opens new tab](https://www.thomsonreuters.com/en/about-us/trust-principles.html)
 
 - Suggested Topics:
-- [](https://www.reuters.com/world/us/)
-- [](https://www.reuters.com/legal/white-collar-crime/)
-- [](https://www.reuters.com/legal/securities-enforcement/)
-- [](https://www.reuters.com/legal/public-policy/)
+- [](https://www.reuters.com/world/)
 
 [](https://www.reutersagency.com/en/licensereuterscontent/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead)
 
 [
 
-](https://www.reuters.com/authors/trevor-hunnicutt/)
+](https://www.reuters.com/authors/gram-slattery/)
 
-[Trevor Hunnicutt](https://www.reuters.com/authors/trevor-hunnicutt/)
+[Gram Slattery](https://www.reuters.com/authors/gram-slattery/)
 
 Thomson Reuters
 
-Trevor Hunnicutt is White House Correspondent at Reuters News. He writes about U.S. foreign and domestic policy and regularly travels with the President of the United States. Prior to joining the White House team in 2021, he covered presidential campaigns, economics, finance and investing for many years. He has also served on the board of the White House Correspondents' Association. Hunnicutt holds a bachelor's degree from Pomona College and a master's from the London School of Economics.
+Gram Slattery is a White House correspondent in Washington, focusing on national security, intelligence and foreign affairs. His work covers how key U.S. foreign policy decisions are debated, shaped and executed. He was previously a national political correspondent, covering the 2024 presidential campaign. From 2015 to 2022, he held postings in Rio de Janeiro, Sao Paulo and Santiago, Chile, and he has reported extensively throughout Latin America.
 
-- [](mailto:trevor.hunnicutt@thomsonreuters.com)
-- [](https://x.com/trevornews)
-- [](https://www.linkedin.com/in/thunnicutt/)
+- [](mailto:Gram.Slattery@thomsonreuters.com)
+- [](https://x.com/G_Slattery)
+- [](https://www.instagram.com/gramongram1/)
+- [](https://www.linkedin.com/in/gram-slattery-47017aa5/)
 
-## Read Next / Editor's Picks
+## Read Next
 
-- [United Statescategory](https://www.reuters.com/world/us/)
+- [Europecategory](https://www.reuters.com/world/europe/)
     
-    [How the Republican redistricting gambit faltered under Trump slump](https://www.reuters.com/world/us/how-republican-redistricting-gambit-faltered-under-trump-slump-2026-10-21/)
+    [Trump envoy asks Putin to resume Ukraine peace talks, secures release of US citizen](https://www.reuters.com/world/europe/putin-hosts-trump-envoy-new-ukraine-peace-talks-frees-us-citizen-held-russia-2026-10-21/)
     
     [
     
-    ](https://www.reuters.com/world/us/how-republican-redistricting-gambit-faltered-under-trump-slump-2026-10-21/)
+    ](https://www.reuters.com/world/europe/putin-hosts-trump-envoy-new-ukraine-peace-talks-frees-us-citizen-held-russia-2026-10-21/)
     
-- [United Statescategory](https://www.reuters.com/world/us/)
+- [Europecategory](https://www.reuters.com/world/europe/)
     
-    [Trump to rally for Graham in tight South Carolina Senate race amid Russia rift](https://www.reuters.com/world/us/trump-rally-graham-tight-south-carolina-senate-race-amid-russia-rift-2026-10-21/)
-    
-    [
-    
-    ](https://www.reuters.com/world/us/trump-rally-graham-tight-south-carolina-senate-race-amid-russia-rift-2026-10-21/)
-    
-- [Worldcategory](https://www.reuters.com/world/)
-    
-    [Who is Stephen Hubbard, the US citizen released by Russia?](https://www.reuters.com/world/who-is-stephen-hubbard-us-citizen-released-by-russia-2026-10-21/)
+    [France's Macron vows order, calls foreign criticism of unrest 'stupid'](https://www.reuters.com/world/europe/french-government-faces-fresh-test-yellow-vests-mobilise-2026-10-21/)
     
     [
     
-    ](https://www.reuters.com/world/who-is-stephen-hubbard-us-citizen-released-by-russia-2026-10-21/)
+    ](https://www.reuters.com/world/europe/french-government-faces-fresh-test-yellow-vests-mobilise-2026-10-21/)
+    
+- [Asia Pacificcategory](https://www.reuters.com/world/asia-pacific/)
+    
+    [Government websites go dark as software flaw sparks security scramble](https://www.reuters.com/world/asia-pacific/eu-agency-warns-websites-may-need-be-taken-offline-php-prepares-patches-2026-10-21/)
+    
+    [
+    
+    ](https://www.reuters.com/world/asia-pacific/eu-agency-warns-websites-may-need-be-taken-offline-php-prepares-patches-2026-10-21/)
     
 - [
     
-    ](https://www.reuters.com/legal/government/monitoring-monitors-us-states-prepare-surge-justice-dept-election-watchers-2026-10-21/)
+    ](https://www.reuters.com/world/americas/us-invokes-rarely-used-torture-law-revamped-case-against-maduro-2026-10-21/)
     
 - [
     
-    ](https://www.reuters.com/world/us/republicans-bet-musks-millions-can-rescue-texas-paxton-us-senate-race-2026-10-21/)
+    ](https://www.reuters.com/world/russia-is-willing-principle-join-new-ukraine-peace-talks-november-kremlin-says-2026-10-21/)
     
 - [
     
-    ](https://www.reuters.com/business/energy/us-aims-loan-about-third-heating-oil-reserve-bid-tame-prices-2026-10-21/)
-    
-- [
-    
-    ](https://www.reuters.com/world/us/us-democratic-congressional-nominee-lander-detained-by-israeli-authorities-west-2026-10-21/)
-    
-- [
-    
-    ](https://www.reuters.com/legal/government/trump-tout-crackdown-overseas-crypto-scams-2026-10-21/)
-    
-- [
-    
-    ](https://www.reuters.com/legal/government/trump-administration-says-it-has-revoked-over-300000-visas-2026-10-20/)
-    
-- [
-    
-    ](https://www.reuters.com/world/us/trump-north-carolina-says-republicans-will-defy-midterm-odds-2026-10-21/)
-    
-- [
-    
-    ](https://www.reuters.com/legal/government/us-agents-investigate-report-incendiary-device-thrown-ice-office-atlanta-2026-10-21/)
-    
-- [
-    
-    ](https://www.reuters.com/world/us/us-single-family-housing-starts-building-permits-tumble-september-2026-10-20/)
-    
-- [
-    
-    ](https://www.reuters.com/world/us/after-generations-central-park-horse-drawn-carriages-face-ban-2026-10-21/)
-    
-- [
-    
-    ](https://www.reuters.com/business/retail-consumer/trump-says-companies-should-pay-dividend-communities-make-data-centers-popular-2026-10-21/)
-    
-- [
-    
-    ](https://www.reuters.com/world/us/could-disillusioned-kansas-voters-send-their-first-democrat-us-senate-94-years-2026-10-20/)
-    
-- [
-    
-    ](https://www.reuters.com/world/us/us-high-court-rulings-have-been-destructive-democracy-justice-kagan-says-2026-10-21/)
+    ](https://www.reuters.com/business/php-programming-language-developers-issue-new-version-fixing-critical-2026-10-21/)
     
 
 [](https://www.lseg.com/en/data-analytics/products/workspace?utm_source=reuters.com&utm_medium=articlebanner&utm_campaign=Reuters_ProductPage_Links)
+
+## [World](https://www.reuters.com/world/)
+
+- [
+    
+    ](https://www.reuters.com/world/india/indian-court-orders-release-cockroach-movement-leaders-media-say-2026-10-21/)
+    
+    ### [Indian court orders release of 'Cockroach' movement leaders, media say](https://www.reuters.com/world/india/indian-court-orders-release-cockroach-movement-leaders-media-say-2026-10-21/)
+    
+    [Indiacategory](https://www.reuters.com/world/india/) · October 21, 2026 · 7:05 AM PDT · 41 mins ago
+    
+    An Indian court on Wednesday ordered the release of two cockroach movement leaders, local media reported, after ​they were detained last week for demonstrating at a ‌historic protest venue in violation of a ban.
+    
+- [
+    
+    ](https://www.reuters.com/world/uk/woman-tells-uk-court-that-comedian-brand-treated-her-like-an-animal-2026-10-21/)
+    
+    [United Kingdomcategory](https://www.reuters.com/world/uk/)[Woman tells UK court that comedian Brand treated her like an animal](https://www.reuters.com/world/uk/woman-tells-uk-court-that-comedian-brand-treated-her-like-an-animal-2026-10-21/)
+    
+    7:04 AM PDT
+    
+- [
+    
+    ](https://www.reuters.com/business/retail-consumer/apple-will-have-limited-iphone-duo-units-available-stores-friday-2026-10-21/)
+    
+    [Businesscategory](https://www.reuters.com/business/)[Apple will have 'limited' iPhone Duo units available in stores on Friday](https://www.reuters.com/business/retail-consumer/apple-will-have-limited-iphone-duo-units-available-stores-friday-2026-10-21/)
+    
+    7:03 AM PDT
+    
+- [
+    
+    ](https://www.reuters.com/business/php-programming-language-developers-issue-new-version-fixing-critical-2026-10-21/)
+    
+    [Businesscategory](https://www.reuters.com/business/)[PHP programming language developers issue new version fixing critical vulnerabilities](https://www.reuters.com/business/php-programming-language-developers-issue-new-version-fixing-critical-2026-10-21/)
+    
+    7:01 AM PDT
+    
+- [
+    
+    ](https://www.reuters.com/world/explosion-injures-four-greek-capital-2026-10-21/)
+    
+    [Worldcategory](https://www.reuters.com/world/)[Explosion injures four in Greek capital](https://www.reuters.com/world/explosion-injures-four-greek-capital-2026-10-21/)
+    
+    6:59 AM PDT
+    
 
 ### Site Index
 
