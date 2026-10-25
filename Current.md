@@ -24,164 +24,145 @@
 
 [My News](https://www.reuters.com/my-news/feed/)
 
-[](https://www.reuters.com/account/sign-in/?website=reuters&redirect=https%3A%2F%2Fwww.reuters.com%2Fworld%2Frubio-says-witkoff-zelenskiy-meeting-positive-ideas-be-discussed-with-russia-2026-10-21%2F)[](https://www.reuters.com/account/subscribe/offer/?website=reuters&redirect=https%3A%2F%2Fwww.reuters.com%2Fworld%2Frubio-says-witkoff-zelenskiy-meeting-positive-ideas-be-discussed-with-russia-2026-10-21%2F&referrer=subscription_button&journeyStart=navigation)
+[](https://www.reuters.com/account/sign-in/?website=reuters&redirect=https%3A%2F%2Fwww.reuters.com%2Flegal%2Fgovernment%2Ftrump-ally-lewandowski-faces-criminal-investigation-over-dhs-tenure-sources-say-2026-10-23%2F)[](https://www.reuters.com/account/subscribe/offer/?website=reuters&redirect=https%3A%2F%2Fwww.reuters.com%2Flegal%2Fgovernment%2Ftrump-ally-lewandowski-faces-criminal-investigation-over-dhs-tenure-sources-say-2026-10-23%2F&referrer=subscription_button&journeyStart=navigation)
 
-# Starlink access in Ukraine a decision for Musk, not White House, Rubio says
+[US Midterms](https://www.reuters.com/world/us/elections/)
 
-By [Gram Slattery](https://www.reuters.com/authors/gram-slattery/)
+- [What to know](https://www.reuters.com/world/us/what-you-need-know-about-2026-us-midterm-elections-2026-10-19/)
+- [Senate races](https://www.reuters.com/legal/government/races-that-will-decide-control-us-senate-2026-10-12/)
+- [House races](https://www.reuters.com/legal/government/us-house-races-watch-2026-elections-2026-10-12/)
+- [Polling](https://www.reuters.com/reuters-ipsos-polls/)
+- [Key issues](https://www.reuters.com/world/us/three-issues-defining-2026-us-midterm-elections-2026-10-20/)
 
-October 20, 202610:54 PM PDTUpdated 6 hours ago
+# Trump ally Lewandowski faces criminal investigation over DHS tenure, sources say
 
-Item 1 of 2 An artilleryman of the Special Rifle Police Battalion of Zaporizhzhia region sets up Starlink satellite internet system, at a position, amid Russia's attack on Ukraine, near the frontline in Donetsk region, Ukraine, October 16, 2026. REUTERS/Stringer/File Photo
+By [Jana Winter](https://www.reuters.com/authors/jana-winter/) and [Andrew Goudsward](https://www.reuters.com/authors/andrew-goudsward/)
 
-**[1/2]**An artilleryman of the Special Rifle Police Battalion of Zaporizhzhia region sets up Starlink satellite internet system, at a position, amid Russia's attack on Ukraine, near the frontline in Donetsk region, Ukraine, October 16, 2026. REUTERS/Stringer/File Photo [Purchase Licensing Rights, opens new tab](https://www.reutersconnect.com/item/an-artilleryman-of-the-special-rifle-police-battalion-sets-up-starlink-satellite-internet-system-near-the-frontline-in-donetsk-region/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1JDMkE0T0FTT1BHNQ%3D%3D/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead)
+October 22, 20265:28 PM PDTUpdated October 22, 2026
+
+![Corey Lewandowski testifies before the House Judiciary Committee](https://www.reuters.com/resizer/v2/J55U7PC5HJLNDLXH34CE47FKJU.jpg?auth=db968e0e82b2f1ddb45e2c32174d95e3726cca7e143ff950ea0a899dc7ac3310&width=1920&quality=80)
+
+Former Trump campaign manager Corey Lewandowski is seen on Capitol Hill in Washington, U.S., September 17, 2019. REUTERS/Sarah Silbiger/File Photo [Purchase Licensing Rights, opens new tab](https://www.reutersconnect.com/item/corey-lewandowski-testifies-before-the-house-judiciary-committee/dGFnOnJldXRlcnMuY29tLDIwMTk6bmV3c21sX1JDMTg0ODE1RUY4MA%3D%3D/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead)
 
 - Summary
-- Companies
 
-- Rubio says that SpaceX, Musk set Ukraine's access to Starlink, not administration
-- Rubio says unaware of conversations between White House, Musk before order, but adds that any talks would be "irrelevant"
-- Comments could intensify concerns about Musk's sway over foreign policy
+- DHS inspector general refers allegations to Justice Department, people familiar say
+- Probe examines Lewandowski's role in handling certain government contracts, DHS official says
+- Lewandowski served as top aide at Department of Homeland Security
 
-MUMBAI, Oct 21 (Reuters) - US Secretary ‌of State Marco Rubio said on Wednesday that decisions regarding Ukraine's access to Starlink were up to SpaceX and Elon Musk, not the White House, comments that suggested Musk may have restricted Kyiv's access to the service.
+WASHINGTON, Oct 22 (Reuters) - Corey Lewandowski, a former political adviser to President Donald Trump and top aide at ‌the Department of Homeland Security, is under criminal investigation over allegations he profited off his role in the US government, three US officials and a fourth person familiar with the matter told Reuters on Thursday.
 
-The Wall Street Journal reported on Tuesday that [Musk had ordered the slowdown](https://www.reuters.com/business/media-telecom/musk-ordered-starlink-slowdown-that-blindsided-ukraine-wsj-reports-2026-10-20/) ​of a military-grade version of Starlink that Ukraine [relies on to defend itself](https://www.reuters.com/business/aerospace-defense/starlink-disruptions-are-being-felt-front-lines-ukraine-2026-10-16/) against missile attacks from Russia.
+The probe began with a criminal referral to the ​Justice Department from the internal watchdog at DHS, according to the four people. The DHS Inspector General's ​Office has been investigating Lewandowski's involvement in the handling of certain government contracts, according to ⁠one of the people, a DHS official.
 
-The Misinformation Monitor newsletter rounds up international misinformation narratives, with a "Real or Fake?" quiz in every edition. Sign up [here.](https://www.reuters.com/newsletters/misinformation-monitor/?location=article-paragraph&redirectUrl=%2Fworld%2Frubio-says-witkoff-zelenskiy-meeting-positive-ideas-be-discussed-with-russia-2026-10-21%2F)
+Jumpstart your morning with the latest legal news delivered straight to your inbox from The Daily Docket newsletter. Sign up [here.](https://www.reuters.com/newsletters/daily-docket/?location=article-paragraph&redirectUrl=%2Flegal%2Fgovernment%2Ftrump-ally-lewandowski-faces-criminal-investigation-over-dhs-tenure-sources-say-2026-10-23%2F)
 
-The Journal ​cited one source saying that Musk, President Donald Trump and White House officials discussed the matter ⁠beforehand, and two sources saying that Musk and the president discussed the matter in the days after the slowdown.
+A lawyer for Lewandowski, Adam Trigg, did not immediately respond to a ​request for comment. The investigation was first reported in the Wall Street Journal, which quoted Lewandowski's lawyer as saying ​that his client denies all allegations of wrongdoing.
 
-"I'm not ​aware that we knew about this decision beforehand. But that's irrelevant," Rubio told reporters during a trip to India.
+DOJ has not yet issued subpoenas or other legal demands in the criminal investigation, according to one of the people. All four of the people spoke on the condition of anonymity.
 
-"The bottom ​line is that that is governed by a private commercial contract as to how their stuff can be used and what speeds they'll allow it to be used at." Musk and SpaceX did not respond to Reuters requests for comment.
+The Justice Department under Trump has ​investigated several prominent critics of the president, including former FBI Director James Comey and New York Attorney General ​Letitia James, but investigations of people close to Trump have been rare. The department has also moved to dismiss several existing ‌cases involving ⁠Trump allies, including supporters charged in connection with the January 6, 2021, attack on the Capitol.
 
-Reuters has cited two US officials and a Western ​official briefed on the matter saying [the decision ultimately came from the White House](https://www.reuters.com/world/europe/order-limit-starshield-ukraine-came-inside-white-house-sources-say-2026-10-15/). This version was also asserted by Ukrainian ​President Volodymyr Zelenskiy, but denied by the administration.
+Asked about media reports on the investigation, Trump told reporters that he did not know the specifics of the investigation, but said, "I want my people to be honest."
 
-Rubio's comments are likely to intensify concerns in Washington regarding Musk's singular ability to influence US ‌foreign ⁠policy. They also represent an apparent shift in position for the administration.
+"And if they're not honest, I'll have my DOJ go and do whatever they have ​to do," Trump added.
 
-Trump has publicly said he believed [neither he nor Musk was behind the slowdown](https://www.reuters.com/world/europe/trump-says-neither-he-nor-musk-responsible-ukraine-starlink-access-2026-10-16/). Departing for a trip to Uzbekistan and India on Saturday, Rubio had said no one ordered the slowdown, an assertion that drew criticism from lawmakers in both parties.
+Lewandowski ​served as a top aide ⁠to former Homeland Security Secretary Kristi Noem during her tenure leading DHS. Trump fired Noem in March after months of controversy, including the fatal shootings of two US ​citizens by federal officers in Minneapolis and lawmakers' questions over a $220 million advertising ​contract promoting Noem ⁠that was awarded without a standard bidding process.
 
-"I'm not sure Zelenskyy knows what he's talking about, but it wasn't ​deliberate," Rubio said at the ​time.
+Lewandowski had signed some DHS contracts despite having questionable legal authority as a special government employee, according to the DHS official. Certain grants and contracts, including those involving the Federal Emergency Management ⁠Agency, were ​put on hold at Lewandowski's direction, according to two of the ​people, both of whom are DHS officials.
 
-"We have nothing to ⁠do with that. I don't – the United States, nobody ordered that Starlink speed to be slowed down. It sort of happened, but my understanding is it's been restored," Rubio said.
+Lewandowski previously served as a campaign manager during Trump's first presidential run in 2016 and advised his 2024 ​campaign.
 
-Speaking to reporters ​on Tuesday, Pentagon chief Pete Hegseth also portrayed the Starlink cutoff as a commercial matter. No ​US official has ⁠publicly said, however, that they have pushed SpaceX to reverse any cutoffs.
-
-"There are terms of service that ultimately need to be complied to, and that's where Starlink has the option to make those decisions," Hegseth said.
-
-One significant point of confusion relates to the ⁠difference between ​SpaceX's Starshield and Starlink products. Starshield is essentially a military-grade version of ​Starlink developed for the Pentagon.
-
-Rubio suggested on Saturday that Ukraine never had access to Starshield in the first place, while Zelenskiy has said that [both Starlink and ​Starshield in Ukraine have been disrupted](https://www.reuters.com/world/europe/order-limit-starshield-ukraine-came-inside-white-house-sources-say-2026-10-15/).
-
-Reporting by Gram Slattery; Writing by Sakshi Dayal; Editing by Christian Schmollinger, Stephen Coates, Philippa Fletcher
+Reporting by Jana Winter and Andrew Goudsward; Additional reporting by Ismail Shakil; Editing by Michael Learmonth and Edmund Klamann
 
 Our Standards: [The Thomson Reuters Trust Principles., opens new tab](https://www.thomsonreuters.com/en/about-us/trust-principles.html)
 
 - Suggested Topics:
-- [](https://www.reuters.com/world/)
+- [](https://www.reuters.com/world/us/)
+- [](https://www.reuters.com/legal/public-policy/)
+- [](https://www.reuters.com/legal/white-collar-crime/)
 
 [](https://www.reutersagency.com/en/licensereuterscontent/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead)
 
-[
+## Read Next / Editor's Picks
 
-](https://www.reuters.com/authors/gram-slattery/)
-
-[Gram Slattery](https://www.reuters.com/authors/gram-slattery/)
-
-Thomson Reuters
-
-Gram Slattery is a White House correspondent in Washington, focusing on national security, intelligence and foreign affairs. His work covers how key U.S. foreign policy decisions are debated, shaped and executed. He was previously a national political correspondent, covering the 2024 presidential campaign. From 2015 to 2022, he held postings in Rio de Janeiro, Sao Paulo and Santiago, Chile, and he has reported extensively throughout Latin America.
-
-- [](mailto:Gram.Slattery@thomsonreuters.com)
-- [](https://x.com/G_Slattery)
-- [](https://www.instagram.com/gramongram1/)
-- [](https://www.linkedin.com/in/gram-slattery-47017aa5/)
-
-## Read Next
-
-- [Europecategory](https://www.reuters.com/world/europe/)
+- [United Statescategory](https://www.reuters.com/world/us/)
     
-    [Trump envoy asks Putin to resume Ukraine peace talks, secures release of US citizen](https://www.reuters.com/world/europe/putin-hosts-trump-envoy-new-ukraine-peace-talks-frees-us-citizen-held-russia-2026-10-21/)
+    [Trump campaigns in Michigan a day after Obama rallies Democrats](https://www.reuters.com/world/us/trump-campaigns-michigan-day-after-obama-rallies-democrats-2026-10-25/)
     
     [
     
-    ](https://www.reuters.com/world/europe/putin-hosts-trump-envoy-new-ukraine-peace-talks-frees-us-citizen-held-russia-2026-10-21/)
+    ](https://www.reuters.com/world/us/trump-campaigns-michigan-day-after-obama-rallies-democrats-2026-10-25/)
     
-- [Europecategory](https://www.reuters.com/world/europe/)
+- [United Statescategory](https://www.reuters.com/world/us/)
     
-    [France's Macron vows order, calls foreign criticism of unrest 'stupid'](https://www.reuters.com/world/europe/french-government-faces-fresh-test-yellow-vests-mobilise-2026-10-21/)
-    
-    [
-    
-    ](https://www.reuters.com/world/europe/french-government-faces-fresh-test-yellow-vests-mobilise-2026-10-21/)
-    
-- [Asia Pacificcategory](https://www.reuters.com/world/asia-pacific/)
-    
-    [Government websites go dark as software flaw sparks security scramble](https://www.reuters.com/world/asia-pacific/eu-agency-warns-websites-may-need-be-taken-offline-php-prepares-patches-2026-10-21/)
+    [Eleven shot near Florida A&M university in Tallahassee](https://www.reuters.com/world/us/least-12-injured-shooting-tallahassee-florida-2026-10-25/)
     
     [
     
-    ](https://www.reuters.com/world/asia-pacific/eu-agency-warns-websites-may-need-be-taken-offline-php-prepares-patches-2026-10-21/)
+    ](https://www.reuters.com/world/us/least-12-injured-shooting-tallahassee-florida-2026-10-25/)
+    
+- [Legalcategory](https://www.reuters.com/legal/)
+    
+    [Obama unloads on Trump while stumping for Democrats](https://www.reuters.com/legal/government/obama-unloads-trump-while-stumping-democrats-ahead-midterms-2026-10-25/)
+    
+    [
+    
+    ](https://www.reuters.com/legal/government/obama-unloads-trump-while-stumping-democrats-ahead-midterms-2026-10-25/)
     
 - [
     
-    ](https://www.reuters.com/world/americas/us-invokes-rarely-used-torture-law-revamped-case-against-maduro-2026-10-21/)
+    ](https://www.reuters.com/business/autos-transportation/trump-set-announce-plan-by-audi-build-us-factory-georgia-source-says-2026-10-24/)
     
 - [
     
-    ](https://www.reuters.com/world/russia-is-willing-principle-join-new-ukraine-peace-talks-november-kremlin-says-2026-10-21/)
+    ](https://www.reuters.com/world/us/four-ways-us-foreign-policy-could-change-if-democrats-win-november-2026-10-25/)
     
 - [
     
-    ](https://www.reuters.com/business/php-programming-language-developers-issue-new-version-fixing-critical-2026-10-21/)
+    ](https://www.reuters.com/world/us/inside-trump-administration-campaign-return-brazils-bolsonaro-clan-power-2026-10-24/)
+    
+- [
+    
+    ](https://www.reuters.com/legal/government/trump-administration-demands-county-election-officials-identify-noncitizen-2026-10-24/)
+    
+- [
+    
+    ](https://www.reuters.com/world/us/five-takeaways-trumps-midterm-campaign-rallies-2026-10-24/)
+    
+- [
+    
+    ](https://www.reuters.com/business/media-telecom/trump-says-he-may-move-white-house-press-corps-2026-10-24/)
+    
+- [
+    
+    ](https://www.reuters.com/legal/government/accuser-cornell-rape-allegations-can-stay-anonymous-judge-rules-2026-10-24/)
+    
+- [
+    
+    ](https://www.reuters.com/world/us/divided-over-israel-detroit-democrats-unite-rising-costs-midterm-elections-2026-10-24/)
+    
+- [
+    
+    ](https://www.reuters.com/legal/government/winter-nears-heating-oil-emerges-hurdle-republicans-us-senate-races-2026-10-24/)
+    
+- [
+    
+    ](https://www.reuters.com/world/us/kamala-harris-returns-us-campaign-trail-with-midterms-2028-view-2026-10-24/)
+    
+- [
+    
+    ](https://www.reuters.com/world/trump-administration-sues-block-senate-race-certification-alaska-if-republican-2026-10-23/)
+    
+- [
+    
+    ](https://www.reuters.com/legal/government/abuse-survivors-approve-800-million-settlement-with-archdiocese-new-york-2026-10-24/)
+    
+- [
+    
+    ](https://www.reuters.com/world/us/trump-foreign-policy-hits-voters-pocketbook-imperiling-republicans-midterms-2026-10-24/)
     
 
 [](https://www.lseg.com/en/data-analytics/products/workspace?utm_source=reuters.com&utm_medium=articlebanner&utm_campaign=Reuters_ProductPage_Links)
-
-## [World](https://www.reuters.com/world/)
-
-- [
-    
-    ](https://www.reuters.com/world/india/indian-court-orders-release-cockroach-movement-leaders-media-say-2026-10-21/)
-    
-    ### [Indian court orders release of 'Cockroach' movement leaders, media say](https://www.reuters.com/world/india/indian-court-orders-release-cockroach-movement-leaders-media-say-2026-10-21/)
-    
-    [Indiacategory](https://www.reuters.com/world/india/) · October 21, 2026 · 7:05 AM PDT · 41 mins ago
-    
-    An Indian court on Wednesday ordered the release of two cockroach movement leaders, local media reported, after ​they were detained last week for demonstrating at a ‌historic protest venue in violation of a ban.
-    
-- [
-    
-    ](https://www.reuters.com/world/uk/woman-tells-uk-court-that-comedian-brand-treated-her-like-an-animal-2026-10-21/)
-    
-    [United Kingdomcategory](https://www.reuters.com/world/uk/)[Woman tells UK court that comedian Brand treated her like an animal](https://www.reuters.com/world/uk/woman-tells-uk-court-that-comedian-brand-treated-her-like-an-animal-2026-10-21/)
-    
-    7:04 AM PDT
-    
-- [
-    
-    ](https://www.reuters.com/business/retail-consumer/apple-will-have-limited-iphone-duo-units-available-stores-friday-2026-10-21/)
-    
-    [Businesscategory](https://www.reuters.com/business/)[Apple will have 'limited' iPhone Duo units available in stores on Friday](https://www.reuters.com/business/retail-consumer/apple-will-have-limited-iphone-duo-units-available-stores-friday-2026-10-21/)
-    
-    7:03 AM PDT
-    
-- [
-    
-    ](https://www.reuters.com/business/php-programming-language-developers-issue-new-version-fixing-critical-2026-10-21/)
-    
-    [Businesscategory](https://www.reuters.com/business/)[PHP programming language developers issue new version fixing critical vulnerabilities](https://www.reuters.com/business/php-programming-language-developers-issue-new-version-fixing-critical-2026-10-21/)
-    
-    7:01 AM PDT
-    
-- [
-    
-    ](https://www.reuters.com/world/explosion-injures-four-greek-capital-2026-10-21/)
-    
-    [Worldcategory](https://www.reuters.com/world/)[Explosion injures four in Greek capital](https://www.reuters.com/world/explosion-injures-four-greek-capital-2026-10-21/)
-    
-    6:59 AM PDT
-    
 
 ### Site Index
 
@@ -275,7 +256,6 @@ Reuters, the news and media division of Thomson Reuters, is the world’s larges
 - [Corrections](https://www.reuters.com/info-pages/contact-us/)
 - [Data Disclosure and Sources, opens new tab](https://www.reuters.com/info-pages/data-disclosure-and-sources/)
 - [Site Feedback, opens new tab](https://trdigital.iad1.qualtrics.com/jfe/form/SV_8kte8gArGyCGVhz)
-- Manage Cookies & Your Privacy Choices
 
 All quotes delayed a minimum of 15 minutes. [See here for a list of exchanges and delays.](https://www.reuters.com/info-pages/disclaimer/)
 

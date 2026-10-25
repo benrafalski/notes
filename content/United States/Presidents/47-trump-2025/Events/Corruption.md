@@ -36,9 +36,11 @@ In August 2026, U.S. ‌District Judge Nicholas Garaufis ​[dismissed criminal 
 ## Security Concerns
 - WaPo reports Trump boarded [secret Turkey flight](https://www.reuters.com/business/aerospace-defense/trump-flew-secretly-turkey-due-iranian-threat-washington-post-reports-2026-08-11/) in July 2026 via catering truck due to credible Iran assassination threat. Trump had taken a newly renovated Qatari-donated jet to Ankara for the NATO summit but unexpectedly announced he would use an older Air Force One when departing the country, ​a move that prompted questions about the newer plane's security.
 
-# Self Enrichment
+# Self + Allies Enrichment
 ## Natalie Harp
 In September 2026, financial disclosures showed executive assistant Natalie Harp, communications adviser Margo Martin, and deputy director of Oval ​Office operations Chamberlain Harris each [received $45,000 as "Cash Gift for Holidays."](https://www.reuters.com/legal/government/trump-gave-45000-cash-gifts-close-aide-natalie-harp-others-2026-09-09/) Walt Nauta, another aide who works as the director of Oval Office ​operations, received $20,000 in cash, the disclosures show. 
 
 ## Trump Jr. Russian Oligarch Wedding
 In September 2026, Trump Jr.'s new wife, Bettina, confirmed her May wedding weekend celebration (​two after-parties, not the wedding itself) was heavily funded by a "dear friend" Umar Kremlev, who has [close ties to Putin](https://apnews.com/article/donald-trump-jr-umar-kremlev-bettina-trump-wedding-russia-54b191b7d19ae09ab599ef5966523ab4). Trump responded saying Trump Jr. told him he would [pay back ‌Kremlev](https://www.reuters.com/world/us/trump-says-his-son-told-him-he-will-pay-back-russian-oligarch-wedding-2026-09-18/) for the wedding bankroll. 
+## Corey Lewandowski
+In October 2026 the DHS Inspector General referred Corey Lewandowski, a former political adviser to Trump and top aide at DHS, to the DOJ over allegations he [profited off his role](https://www.reuters.com/legal/government/trump-ally-lewandowski-faces-criminal-investigation-over-dhs-tenure-sources-say-2026-10-23/) in the US government. Lewandowski had signed some DHS contracts despite having questionable legal authority as a special government employee and certain grants and contracts, including those involving FEMA, were ​put on hold at Lewandowski's direction.
