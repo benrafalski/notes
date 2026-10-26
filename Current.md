@@ -24,7 +24,7 @@
 
 [My News](https://www.reuters.com/my-news/feed/)
 
-[](https://www.reuters.com/account/sign-in/?website=reuters&redirect=https%3A%2F%2Fwww.reuters.com%2Flegal%2Fgovernment%2Ftrump-ally-lewandowski-faces-criminal-investigation-over-dhs-tenure-sources-say-2026-10-23%2F)[](https://www.reuters.com/account/subscribe/offer/?website=reuters&redirect=https%3A%2F%2Fwww.reuters.com%2Flegal%2Fgovernment%2Ftrump-ally-lewandowski-faces-criminal-investigation-over-dhs-tenure-sources-say-2026-10-23%2F&referrer=subscription_button&journeyStart=navigation)
+[](https://www.reuters.com/account/sign-in/?website=reuters&redirect=https%3A%2F%2Fwww.reuters.com%2Fworld%2Ftrump-administration-sues-block-senate-race-certification-alaska-if-republican-2026-10-23%2F)[](https://www.reuters.com/account/subscribe/offer/?website=reuters&redirect=https%3A%2F%2Fwww.reuters.com%2Fworld%2Ftrump-administration-sues-block-senate-race-certification-alaska-if-republican-2026-10-23%2F&referrer=subscription_button&journeyStart=navigation)
 
 [US Midterms](https://www.reuters.com/world/us/elections/)
 
@@ -34,135 +34,161 @@
 - [Polling](https://www.reuters.com/reuters-ipsos-polls/)
 - [Key issues](https://www.reuters.com/world/us/three-issues-defining-2026-us-midterm-elections-2026-10-20/)
 
-# Trump ally Lewandowski faces criminal investigation over DHS tenure, sources say
+# US Justice Dept sues to block possible Alaska election of Democrat to Senate
 
-By [Jana Winter](https://www.reuters.com/authors/jana-winter/) and [Andrew Goudsward](https://www.reuters.com/authors/andrew-goudsward/)
+By [Jan Wolfe](https://www.reuters.com/authors/jan-wolfe/)
 
-October 22, 20265:28 PM PDTUpdated October 22, 2026
-
-![Corey Lewandowski testifies before the House Judiciary Committee](https://www.reuters.com/resizer/v2/J55U7PC5HJLNDLXH34CE47FKJU.jpg?auth=db968e0e82b2f1ddb45e2c32174d95e3726cca7e143ff950ea0a899dc7ac3310&width=1920&quality=80)
-
-Former Trump campaign manager Corey Lewandowski is seen on Capitol Hill in Washington, U.S., September 17, 2019. REUTERS/Sarah Silbiger/File Photo [Purchase Licensing Rights, opens new tab](https://www.reutersconnect.com/item/corey-lewandowski-testifies-before-the-house-judiciary-committee/dGFnOnJldXRlcnMuY29tLDIwMTk6bmV3c21sX1JDMTg0ODE1RUY4MA%3D%3D/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead)
+October 23, 202612:04 PM PDTUpdated October 23, 2026
 
 - Summary
 
-- DHS inspector general refers allegations to Justice Department, people familiar say
-- Probe examines Lewandowski's role in handling certain government contracts, DHS official says
-- Lewandowski served as top aide at Department of Homeland Security
+- Two Republicans on Alaska ballot have almost identical names
+- DOJ says candidate Dan J. Sullivan seeking to divert votes from Republican incumbent Dan S. Sullivan
+- Election law experts say Trump administration's lawsuit lacks merit
 
-WASHINGTON, Oct 22 (Reuters) - Corey Lewandowski, a former political adviser to President Donald Trump and top aide at ‌the Department of Homeland Security, is under criminal investigation over allegations he profited off his role in the US government, three US officials and a fourth person familiar with the matter told Reuters on Thursday.
+Oct 23 (Reuters) - The Trump administration has sued Alaska to preemptively block the state from certifying the results of its US ​Senate race if the Republican incumbent candidate loses narrowly, saying voters could be confused because two Republicans on the ballot have almost identical names.
 
-The probe began with a criminal referral to the ​Justice Department from the internal watchdog at DHS, according to the four people. The DHS Inspector General's ​Office has been investigating Lewandowski's involvement in the handling of certain government contracts, according to ⁠one of the people, a DHS official.
+The Department ‌of Justice's [lawsuit,, opens new tab](https://storage.courtlistener.com/recap/gov.uscourts.akd.80263/gov.uscourts.akd.80263.1.0.pdf) filed in federal court in Anchorage on Thursday, signals the willingness of President [Donald Trump's](https://www.reuters.com/world/us/donald-trump/) administration to contest the results of the November 3 midterm elections that will decide control of the US Congress, where his fellow Republicans narrowly control both chambers.
 
-Jumpstart your morning with the latest legal news delivered straight to your inbox from The Daily Docket newsletter. Sign up [here.](https://www.reuters.com/newsletters/daily-docket/?location=article-paragraph&redirectUrl=%2Flegal%2Fgovernment%2Ftrump-ally-lewandowski-faces-criminal-investigation-over-dhs-tenure-sources-say-2026-10-23%2F)
+The Misinformation Monitor newsletter rounds up international misinformation narratives, with a "Real or Fake?" quiz in every edition. Sign up [here.](https://www.reuters.com/newsletters/misinformation-monitor/?location=article-paragraph&redirectUrl=%2Fworld%2Ftrump-administration-sues-block-senate-race-certification-alaska-if-republican-2026-10-23%2F)
 
-A lawyer for Lewandowski, Adam Trigg, did not immediately respond to a ​request for comment. The investigation was first reported in the Wall Street Journal, which quoted Lewandowski's lawyer as saying ​that his client denies all allegations of wrongdoing.
+The administration has taken an increasingly aggressive approach to election oversight, pressing states for voter-registration data and arguing that stricter measures are needed to ensure public confidence in the ​vote. Critics, including Democratic and some Republican election officials, view the moves as federal overreach.
 
-DOJ has not yet issued subpoenas or other legal demands in the criminal investigation, according to one of the people. All four of the people spoke on the condition of anonymity.
+Control of the Senate could come down to Alaska, where incumbent Republican Dan ​S. Sullivan is running a close race against Democrat Mary Peltola.
 
-The Justice Department under Trump has ​investigated several prominent critics of the president, including former FBI Director James Comey and New York Attorney General ​Letitia James, but investigations of people close to Trump have been rare. The department has also moved to dismiss several existing ‌cases involving ⁠Trump allies, including supporters charged in connection with the January 6, 2021, attack on the Capitol.
+The suit, which names the state and local election officials as defendants, takes ⁠issue with the presence of another contender in the race, another Republican named Dan J. Sullivan Jr, alleging he is running "with the intention of misleading supporters of Senator Sullivan into ​voting for him."
 
-Asked about media reports on the investigation, Trump told reporters that he did not know the specifics of the investigation, but said, "I want my people to be honest."
+The DOJ asks a judge to block the certification of an outcome "that may be impacted by voter confusion," so that there can be "an investigation to determine whether votes cast ​for Daniel J. Sullivan were meant to be cast for Senator Sullivan."
 
-"And if they're not honest, I'll have my DOJ go and do whatever they have ​to do," Trump added.
+Trump told reporters on Friday that he supported the lawsuit, saying "I'm the one that said do it."
 
-Lewandowski ​served as a top aide ⁠to former Homeland Security Secretary Kristi Noem during her tenure leading DHS. Trump fired Noem in March after months of controversy, including the fatal shootings of two US ​citizens by federal officers in Minneapolis and lawmakers' questions over a $220 million advertising ​contract promoting Noem ⁠that was awarded without a standard bidding process.
+A DOJ spokesperson said in a statement that the agency is taking "necessary steps to ensure that this frivolous candidacy does not undermine the integrity of Alaska’s election or the will of its voters.”
 
-Lewandowski had signed some DHS contracts despite having questionable legal authority as a special government employee, according to the DHS official. Certain grants and contracts, including those involving the Federal Emergency Management ⁠Agency, were ​put on hold at Lewandowski's direction, according to two of the ​people, both of whom are DHS officials.
+Election officials around the country have told Reuters they are preparing ​for [potential federal interference](https://www.reuters.com/investigates/special-report/usa-election-midterms-scenarios/) in the elections, including legal challenges and disputes over voting that could disrupt certification of the results.
 
-Lewandowski previously served as a campaign manager during Trump's first presidential run in 2016 and advised his 2024 ​campaign.
+Trump has a long history of challenging election outcomes and encouraging ​supporters to contest results he views as unfavorable.
 
-Reporting by Jana Winter and Andrew Goudsward; Additional reporting by Ismail Shakil; Editing by Michael Learmonth and Edmund Klamann
+Item 1 of 5 Republican US Senator Dan Sullivan participates in a debate in Anchorage, Alaska, US, October 15, 2026. REUTERS/Kerry Tasker REFILE - QUALITY REPEAT
+
+**[1/5]**Republican US Senator Dan Sullivan participates in a debate in Anchorage, Alaska, US, October 15, 2026. REUTERS/Kerry Tasker REFILE - QUALITY REPEAT [Purchase Licensing Rights, opens new tab](https://www.reutersconnect.com/item/alaska-senate-candidates-debate/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1JDMjE0T0FTUzVEUw%3D%3D/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead)
+
+Alaska's other US senator, Senator Lisa Murkowski from Trump's Republican Party, said on Friday the Justice Department "should never have filed this lawsuit."
+
+Election law experts said the lawsuit ‌has no ⁠merit and seeks relief not allowed under federal law.
+
+"In short, like many Department letters over the last few years, it is designed to win the press release rather than the litigation," wrote Notre Dame law professor Derek Muller in a [blog post,, opens new tab](https://electionlawblog.org/2026/citing-preamble-to-nvra-doj-sues-to-enjoin-certification-of-alaskas-senate-race-it-wont-go-anywhere/) adding that "the legal argument is one of the worst ones I’ve ever seen."
+
+Trump's administration "has absolutely no authority to tell Alaska when or how to certify the results of its Senate election," said David Becker of the Center for Election Innovation and Research, a nonpartisan group that advises election officials, adding that "this issue has ​already been fully litigated by Alaska's courts."
+
+The ​unelected Sullivan, a former US Forest Service ⁠worker and elementary school teacher, filed to run as a candidate on May 29, seeking to unseat Dan S. Sullivan and "put Alaska first," according to his campaign website, which advertised "Dan Sullivan Challenges Dan Sullivan for US Senate Seat."
+
+Dan J. Sullivan has denied in interviews with US ​news outlets that his aim is to cause confusion or divert votes from Dan S. Sullivan.
+
+The Alaska Supreme Court in June permitted ​the challenger Sullivan to ⁠appear on the ballot. He will appear without a party designation next to his name, while the senator will be listed as the Republican incumbent.
+
+Peltola, the Democratic candidate, told MS NOW on Friday that because of how the candidates are displayed on the ballot "there just isn't much room for confusion." The lawsuit is "sending a message that Dan Sullivan does not believe that Alaskans are sophisticated ⁠enough to know ​exactly who they're voting for," she added.
+
+Trump's [approval rating](https://www.reuters.com/world/us/trump-approval-falls-record-low-31-midterms-near-reutersipsos-poll-finds-2026-10-19/) has fallen to a record low, hit by rising diesel ​and gasoline prices during the [Iran war](https://www.reuters.com/world/iran/), which has proven deeply unpopular with voters.
+
+Public opinion polls suggest Republicans may lose control of one or both chambers of Congress, which would likely limit Trump's ability to enact some of his ​policy agenda in the final two years of his presidency.
+
+Reporting by Jan Wolfe, Daphne Psaledakis, Ismail Shakil and Kanishka Singh; Editing by Nick Zieminski, David Gregorio, Daniel Wallis and William Mallard
 
 Our Standards: [The Thomson Reuters Trust Principles., opens new tab](https://www.thomsonreuters.com/en/about-us/trust-principles.html)
 
 - Suggested Topics:
 - [](https://www.reuters.com/world/us/)
 - [](https://www.reuters.com/legal/public-policy/)
-- [](https://www.reuters.com/legal/white-collar-crime/)
+- [](https://www.reuters.com/world/us/election-security/)
+- [](https://www.reuters.com/legal/voting-rights-elections/)
 
 [](https://www.reutersagency.com/en/licensereuterscontent/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead)
 
-## Read Next / Editor's Picks
+## Read Next
 
+- [Sportscategory](https://www.reuters.com/sports/)
+    
+    [US CFTC, NBA agree to cooperate over basketball and prediction markets](https://www.reuters.com/sports/us-cftc-nba-vow-protect-basketball-integrity-prediction-markets-2026-10-26/)
+    
+    [
+    
+    ](https://www.reuters.com/sports/us-cftc-nba-vow-protect-basketball-integrity-prediction-markets-2026-10-26/)
+    
+- EXCLUSIVE
+    
+    [US political candidates tailor messages for AI models used by voters](https://www.reuters.com/business/media-telecom/us-political-candidates-tailor-messages-ai-models-used-by-voters-2026-10-26/)
+    
+    [
+    
+    ](https://www.reuters.com/business/media-telecom/us-political-candidates-tailor-messages-ai-models-used-by-voters-2026-10-26/)
+    
 - [United Statescategory](https://www.reuters.com/world/us/)
     
-    [Trump campaigns in Michigan a day after Obama rallies Democrats](https://www.reuters.com/world/us/trump-campaigns-michigan-day-after-obama-rallies-democrats-2026-10-25/)
+    [Trump invokes 9/11 as he ramps up rhetoric against El-Sayed in Michigan](https://www.reuters.com/world/us/trump-campaigns-michigan-day-after-obama-rallies-democrats-2026-10-25/)
     
     [
     
     ](https://www.reuters.com/world/us/trump-campaigns-michigan-day-after-obama-rallies-democrats-2026-10-25/)
     
-- [United Statescategory](https://www.reuters.com/world/us/)
+- [
     
-    [Eleven shot near Florida A&M university in Tallahassee](https://www.reuters.com/world/us/least-12-injured-shooting-tallahassee-florida-2026-10-25/)
-    
-    [
-    
-    ](https://www.reuters.com/world/us/least-12-injured-shooting-tallahassee-florida-2026-10-25/)
-    
-- [Legalcategory](https://www.reuters.com/legal/)
-    
-    [Obama unloads on Trump while stumping for Democrats](https://www.reuters.com/legal/government/obama-unloads-trump-while-stumping-democrats-ahead-midterms-2026-10-25/)
-    
-    [
-    
-    ](https://www.reuters.com/legal/government/obama-unloads-trump-while-stumping-democrats-ahead-midterms-2026-10-25/)
+    ](https://www.reuters.com/world/us/trump-says-canada-tariff-deal-coming-soon-michigan-border-rally-2026-10-25/)
     
 - [
     
-    ](https://www.reuters.com/business/autos-transportation/trump-set-announce-plan-by-audi-build-us-factory-georgia-source-says-2026-10-24/)
+    ](https://www.reuters.com/world/us-appeals-court-appears-skeptical-trump-dojs-lawsuit-over-california-voter-2026-10-25/)
     
 - [
     
-    ](https://www.reuters.com/world/us/four-ways-us-foreign-policy-could-change-if-democrats-win-november-2026-10-25/)
-    
-- [
-    
-    ](https://www.reuters.com/world/us/inside-trump-administration-campaign-return-brazils-bolsonaro-clan-power-2026-10-24/)
-    
-- [
-    
-    ](https://www.reuters.com/legal/government/trump-administration-demands-county-election-officials-identify-noncitizen-2026-10-24/)
-    
-- [
-    
-    ](https://www.reuters.com/world/us/five-takeaways-trumps-midterm-campaign-rallies-2026-10-24/)
-    
-- [
-    
-    ](https://www.reuters.com/business/media-telecom/trump-says-he-may-move-white-house-press-corps-2026-10-24/)
-    
-- [
-    
-    ](https://www.reuters.com/legal/government/accuser-cornell-rape-allegations-can-stay-anonymous-judge-rules-2026-10-24/)
-    
-- [
-    
-    ](https://www.reuters.com/world/us/divided-over-israel-detroit-democrats-unite-rising-costs-midterm-elections-2026-10-24/)
-    
-- [
-    
-    ](https://www.reuters.com/legal/government/winter-nears-heating-oil-emerges-hurdle-republicans-us-senate-races-2026-10-24/)
-    
-- [
-    
-    ](https://www.reuters.com/world/us/kamala-harris-returns-us-campaign-trail-with-midterms-2028-view-2026-10-24/)
-    
-- [
-    
-    ](https://www.reuters.com/world/trump-administration-sues-block-senate-race-certification-alaska-if-republican-2026-10-23/)
-    
-- [
-    
-    ](https://www.reuters.com/legal/government/abuse-survivors-approve-800-million-settlement-with-archdiocese-new-york-2026-10-24/)
-    
-- [
-    
-    ](https://www.reuters.com/world/us/trump-foreign-policy-hits-voters-pocketbook-imperiling-republicans-midterms-2026-10-24/)
+    ](https://www.reuters.com/legal/government/japan-indicts-us-marine-over-okinawa-killing-media-say-2026-10-26/)
     
 
 [](https://www.lseg.com/en/data-analytics/products/workspace?utm_source=reuters.com&utm_medium=articlebanner&utm_campaign=Reuters_ProductPage_Links)
+
+## [World](https://www.reuters.com/world/)
+
+- [
+    
+    ](https://www.reuters.com/world/middle-east/hezbollah-readies-new-regional-war-with-funds-iran-sources-say-2026-10-26/)
+    
+    ### [Hezbollah readies for new regional war with funds from Iran, sources say](https://www.reuters.com/world/middle-east/hezbollah-readies-new-regional-war-with-funds-iran-sources-say-2026-10-26/)
+    
+    [Middle Eastcategory](https://www.reuters.com/world/middle-east/) · October 26, 2026 · 7:46 AM PDT · 5 mins ago
+    
+    Lebanese armed group Hezbollah has spent three months preparing for a ​possible resumption of hostilities with Israel, after receiving an infusion of cash from Iran, according to Lebanese security personnel briefed on its activities.
+    
+- [
+    
+    ](https://www.reuters.com/world/americas/head-mexicos-electoral-authority-resigns-amid-corruption-allegations-2026-10-26/)
+    
+    [Americascategory](https://www.reuters.com/world/americas/)[Head of Mexico's electoral authority resigns amid corruption allegations](https://www.reuters.com/world/americas/head-mexicos-electoral-authority-resigns-amid-corruption-allegations-2026-10-26/)
+    
+    7:44 AM PDT
+    
+- [
+    
+    ](https://www.reuters.com/world/blue-paint-meets-green-algae-lincoln-memorial-reflecting-pool-clone-2026-06-18/)
+    
+    [Worldcategory](https://www.reuters.com/world/)[Submerged Indonesian village re-emerges as drought lowers water levels](https://www.reuters.com/world/blue-paint-meets-green-algae-lincoln-memorial-reflecting-pool-clone-2026-06-18/)
+    
+    7:37 AM PDT
+    
+- [
+    
+    ](https://www.reuters.com/world/life-ukraines-front-line-worse-than-hell-russia-advances-clone-2025-12-23/)
+    
+    [Worldcategory](https://www.reuters.com/world/)[Inside El Salvador's notorious mega-prison](https://www.reuters.com/world/life-ukraines-front-line-worse-than-hell-russia-advances-clone-2025-12-23/)
+    
+    7:36 AM PDT
+    
+- [
+    
+    ](https://www.reuters.com/world/life-ukraines-front-line-worse-than-hell-russia-advances-2024-06-14/)
+    
+    [Worldcategory](https://www.reuters.com/world/)[Can Texas high school football handle the heat?](https://www.reuters.com/world/life-ukraines-front-line-worse-than-hell-russia-advances-2024-06-14/)
+    
+    7:34 AM PDT
+    
 
 ### Site Index
 
@@ -256,6 +282,7 @@ Reuters, the news and media division of Thomson Reuters, is the world’s larges
 - [Corrections](https://www.reuters.com/info-pages/contact-us/)
 - [Data Disclosure and Sources, opens new tab](https://www.reuters.com/info-pages/data-disclosure-and-sources/)
 - [Site Feedback, opens new tab](https://trdigital.iad1.qualtrics.com/jfe/form/SV_8kte8gArGyCGVhz)
+- Manage Cookies & Your Privacy Choices
 
 All quotes delayed a minimum of 15 minutes. [See here for a list of exchanges and delays.](https://www.reuters.com/info-pages/disclaimer/)
 

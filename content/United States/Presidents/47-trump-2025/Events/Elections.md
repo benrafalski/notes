@@ -46,7 +46,8 @@
 - [Paid Family Leave](https://www.reuters.com/legal/litigation/trump-administration-unveils-new-paid-family-leave-incentives-2026-08-05/): in August the Trump admin issued new guidance allowing employers to claim tax credits if they offer at least two weeks of family and medical leave worth at least 50% of an employee's wages.
 
 
-
+## Alaska Senate Race
+In October 2026, ahead of the midterms the Trump DOJ [sued](https://storage.courtlistener.com/recap/gov.uscourts.akd.80263/gov.uscourts.akd.80263.1.0.pdf) Alaska to preemptively block the state from certifying the results of its Senate race if Republican candidate Dan ​S. Sullivan loses. The DOJ says candidate Dan J. Sullivan is seeking to divert votes from Dan S. Sullivan as they have almost identical names. Trump told reporters that he supported the lawsuit, saying "[I'm the one that said do it](https://www.reuters.com/world/trump-administration-sues-block-senate-race-certification-alaska-if-republican-2026-10-23/)." The Alaska Supreme Court in June permitted ​the challenger Sullivan to ⁠appear on the ballot. He will appear without a party designation next to his name, while the senator will be listed as the Republican incumbent.
 # Affordability
 ## Healthcare
 ### Obamacare Checks
