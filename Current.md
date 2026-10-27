@@ -24,123 +24,107 @@
 
 [My News](https://www.reuters.com/my-news/feed/)
 
-[](https://www.reuters.com/account/sign-in/?website=reuters&redirect=https%3A%2F%2Fwww.reuters.com%2Fworld%2Ftrump-administration-sues-block-senate-race-certification-alaska-if-republican-2026-10-23%2F)[](https://www.reuters.com/account/subscribe/offer/?website=reuters&redirect=https%3A%2F%2Fwww.reuters.com%2Fworld%2Ftrump-administration-sues-block-senate-race-certification-alaska-if-republican-2026-10-23%2F&referrer=subscription_button&journeyStart=navigation)
+[](https://www.reuters.com/account/sign-in/?website=reuters&redirect=https%3A%2F%2Fwww.reuters.com%2Fworld%2Feurope%2Fukraine-says-starlink-starshield-operating-400-kph-after-week-throttling-2026-10-24%2F)[](https://www.reuters.com/account/subscribe/offer/?website=reuters&redirect=https%3A%2F%2Fwww.reuters.com%2Fworld%2Feurope%2Fukraine-says-starlink-starshield-operating-400-kph-after-week-throttling-2026-10-24%2F&referrer=subscription_button&journeyStart=navigation)
 
-[US Midterms](https://www.reuters.com/world/us/elections/)
+# Ukraine says Starshield back to normal, Musk says Kyiv violated terms
 
-- [What to know](https://www.reuters.com/world/us/what-you-need-know-about-2026-us-midterm-elections-2026-10-19/)
-- [Senate races](https://www.reuters.com/legal/government/races-that-will-decide-control-us-senate-2026-10-12/)
-- [House races](https://www.reuters.com/legal/government/us-house-races-watch-2026-elections-2026-10-12/)
-- [Polling](https://www.reuters.com/reuters-ipsos-polls/)
-- [Key issues](https://www.reuters.com/world/us/three-issues-defining-2026-us-midterm-elections-2026-10-20/)
+By [Yuliia Dysa](https://www.reuters.com/authors/yuliia-dysa/)
 
-# US Justice Dept sues to block possible Alaska election of Democrat to Senate
+October 24, 20262:13 AM PDTUpdated October 24, 2026
 
-By [Jan Wolfe](https://www.reuters.com/authors/jan-wolfe/)
-
-October 23, 202612:04 PM PDTUpdated October 23, 2026
+![Trump says he'll speak to Musk if Starlink problem in Ukraine isn't fixed](https://ajo.prod.reuters.tv/api/v2/img/6adb9791e4b09da2a1ed6615?width=1080&quality=80)
 
 - Summary
+- Companies
 
-- Two Republicans on Alaska ballot have almost identical names
-- DOJ says candidate Dan J. Sullivan seeking to divert votes from Republican incumbent Dan S. Sullivan
-- Election law experts say Trump administration's lawsuit lacks merit
+- Ukraine rejects Musk accusation that it violated terms of service
+- Curbs on Starlink's military version are lifted, Kyiv says
+- Limitations affected Ukraine's air defences, drone operations
 
-Oct 23 (Reuters) - The Trump administration has sued Alaska to preemptively block the state from certifying the results of its US ​Senate race if the Republican incumbent candidate loses narrowly, saying voters could be confused because two Republicans on the ballot have almost identical names.
+KYIV, Oct 24 (Reuters) - Ukraine said on Saturday that the Starlink satellite system and its military version Starshield were now fully functional after ‌over a week of restrictions that disrupted military operations and intensified tensions with the US.
 
-The Department ‌of Justice's [lawsuit,, opens new tab](https://storage.courtlistener.com/recap/gov.uscourts.akd.80263/gov.uscourts.akd.80263.1.0.pdf) filed in federal court in Anchorage on Thursday, signals the willingness of President [Donald Trump's](https://www.reuters.com/world/us/donald-trump/) administration to contest the results of the November 3 midterm elections that will decide control of the US Congress, where his fellow Republicans narrowly control both chambers.
+But hours later, SpaceX CEO Elon Musk, whose company owns Starlink, accused the Ukrainian military of violating the company's terms. Neither Musk nor the US government, which operates Starshield using Starlink technology, ​had taken responsibility for imposing the curbs.
 
-The Misinformation Monitor newsletter rounds up international misinformation narratives, with a "Real or Fake?" quiz in every edition. Sign up [here.](https://www.reuters.com/newsletters/misinformation-monitor/?location=article-paragraph&redirectUrl=%2Fworld%2Ftrump-administration-sues-block-senate-race-certification-alaska-if-republican-2026-10-23%2F)
+Get a look at the day ahead in European and global markets with the Morning Bid Europe newsletter. Sign up [here.](https://www.reuters.com/newsletters/morning-bid-europe/?location=article-paragraph&redirectUrl=%2Fworld%2Feurope%2Fukraine-says-starlink-starshield-operating-400-kph-after-week-throttling-2026-10-24%2F)
 
-The administration has taken an increasingly aggressive approach to election oversight, pressing states for voter-registration data and arguing that stricter measures are needed to ensure public confidence in the ​vote. Critics, including Democratic and some Republican election officials, view the moves as federal overreach.
+"Ukraine military violated Starlink terms of service and used it ​for offensive drone strikes to kill people. That loophole was closed last week," Musk said on ⁠X.
 
-Control of the Senate could come down to Alaska, where incumbent Republican Dan ​S. Sullivan is running a close race against Democrat Mary Peltola.
+Ukrainian presidential adviser Serhiy Beskrestnov said on the Telegram app that the country is "physically unable" to use ​Starlink for long- and medium-range attack drone operations.
 
-The suit, which names the state and local election officials as defendants, takes ⁠issue with the presence of another contender in the race, another Republican named Dan J. Sullivan Jr, alleging he is running "with the intention of misleading supporters of Senator Sullivan into ​voting for him."
+Ukraine's general staff and defence ministry did not immediately comment.
 
-The DOJ asks a judge to block the certification of an outcome "that may be impacted by voter confusion," so that there can be "an investigation to determine whether votes cast ​for Daniel J. Sullivan were meant to be cast for Senator Sullivan."
+Starshield's problems ​occurred after US President Donald Trump announced a deal to buy Russian diesel while pressing Kyiv to stop striking Russian oil refineries.
 
-Trump told reporters on Friday that he supported the lawsuit, saying "I'm the one that said do it."
+Ukrainian officials said the restrictions, which capped Starshield operations at speeds of 160 kph (100 mph), hampered the military's ability to intercept Russian attack ​drones and forced the cancellation of some operations.
 
-A DOJ spokesperson said in a statement that the agency is taking "necessary steps to ensure that this frivolous candidacy does not undermine the integrity of Alaska’s election or the will of its voters.”
+"The main thing for today is that Starlink and Starshield have ​resumed operations at their pre-restriction speeds. The speeds are now at the level we need," President Volodymyr Zelenskiy said on ‌Telegram before Musk's ⁠statement.
 
-Election officials around the country have told Reuters they are preparing ​for [potential federal interference](https://www.reuters.com/investigates/special-report/usa-election-midterms-scenarios/) in the elections, including legal challenges and disputes over voting that could disrupt certification of the results.
+Item 1 of 2 Photographers watch a SpaceX Falcon 9 rocket lift off from the Cape Canaveral Space Force Station with a payload of Starlink v2-mini satellites in Cape Canaveral, Florida, U.S., April 2, 2026. REUTERS/Steve Nesius
 
-Trump has a long history of challenging election outcomes and encouraging ​supporters to contest results he views as unfavorable.
+**[1/2]**Photographers watch a SpaceX Falcon 9 rocket lift off from the Cape Canaveral Space Force Station with a payload of Starlink v2-mini satellites in Cape Canaveral, Florida, U.S., April 2, 2026. REUTERS/Steve Nesius [Purchase Licensing Rights, opens new tab](https://www.reutersconnect.com/item/photographers-watch-a-spacex-falcon-9-rocket-lift-off-from-the-cape-canaveral-space-force-station/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1JDMlpHS0FZTFVSNQ%3D%3D/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead)
 
-Item 1 of 5 Republican US Senator Dan Sullivan participates in a debate in Anchorage, Alaska, US, October 15, 2026. REUTERS/Kerry Tasker REFILE - QUALITY REPEAT
+According to Zelenskiy, the speeds started returning to normal overnight. Ukraine's defence ministry said on Saturday the connection remained stable at over 400 kph.
 
-**[1/5]**Republican US Senator Dan Sullivan participates in a debate in Anchorage, Alaska, US, October 15, 2026. REUTERS/Kerry Tasker REFILE - QUALITY REPEAT [Purchase Licensing Rights, opens new tab](https://www.reutersconnect.com/item/alaska-senate-candidates-debate/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1JDMjE0T0FTUzVEUw%3D%3D/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead)
+Ukraine does not rely on Starlink for long-range drone operations on Russian territory, including attacks on refineries. It operates at speeds no higher than 70-90 kph, Beskrestnov said.
 
-Alaska's other US senator, Senator Lisa Murkowski from Trump's Republican Party, said on Friday the Justice Department "should never have filed this lawsuit."
+But it remains [vital](https://www.reuters.com/business/media-telecom/what-is-starshield-spacexs-military-version-starlink-2026-10-23/) for frontline communications, and ​the deployment of fast Starshield-enabled medium-range ​attack drones has helped ⁠Ukraine gain the upper hand in several areas of the battlefield this year.
 
-Election law experts said the lawsuit ‌has no ⁠merit and seeks relief not allowed under federal law.
+## LIMITATIONS ORDER
 
-"In short, like many Department letters over the last few years, it is designed to win the press release rather than the litigation," wrote Notre Dame law professor Derek Muller in a [blog post,, opens new tab](https://electionlawblog.org/2026/citing-preamble-to-nvra-doj-sues-to-enjoin-certification-of-alaskas-senate-race-it-wont-go-anywhere/) adding that "the legal argument is one of the worst ones I’ve ever seen."
+The restrictions sparked outrage in Ukraine, particularly as they coincided with disruptions to allied ​warnings about incoming Russian missile attacks. Kyiv later said it continued to receive ​US intelligence.
 
-Trump's administration "has absolutely no authority to tell Alaska when or how to certify the results of its Senate election," said David Becker of the Center for Election Innovation and Research, a nonpartisan group that advises election officials, adding that "this issue has ​already been fully litigated by Alaska's courts."
+Both Musk ⁠and US officials said publicly that any decisions on Starlink and Starshield limitations could only have been taken by the other.
 
-The ​unelected Sullivan, a former US Forest Service ⁠worker and elementary school teacher, filed to run as a candidate on May 29, seeking to unseat Dan S. Sullivan and "put Alaska first," according to his campaign website, which advertised "Dan Sullivan Challenges Dan Sullivan for US Senate Seat."
+Reuters has reported that the [order to throttle](https://www.reuters.com/world/europe/order-limit-starshield-ukraine-came-inside-white-house-sources-say-2026-10-15/) Starshield came from inside the White House. Previously, US administrations had several times [asked ⁠SpaceX](https://www.reuters.com/business/autos-transportation/us-has-years-asked-musk-alter-starlink-service-ukraine-middle-east-sources-say-2026-10-24/) to ​turn Starlink on or off in various countries, sources said.
 
-Dan J. Sullivan has denied in interviews with US ​news outlets that his aim is to cause confusion or divert votes from Dan S. Sullivan.
+On Friday, ​contradicting his previous statement that the services had been fully restored, Trump said that if problems persisted, he would "[get it straightened out](https://www.reuters.com/world/europe/trump-says-he-will-fix-any-starlink-access-problem-ukraine-2026-10-23/)".
 
-The Alaska Supreme Court in June permitted ​the challenger Sullivan to ⁠appear on the ballot. He will appear without a party designation next to his name, while the senator will be listed as the Republican incumbent.
-
-Peltola, the Democratic candidate, told MS NOW on Friday that because of how the candidates are displayed on the ballot "there just isn't much room for confusion." The lawsuit is "sending a message that Dan Sullivan does not believe that Alaskans are sophisticated ⁠enough to know ​exactly who they're voting for," she added.
-
-Trump's [approval rating](https://www.reuters.com/world/us/trump-approval-falls-record-low-31-midterms-near-reutersipsos-poll-finds-2026-10-19/) has fallen to a record low, hit by rising diesel ​and gasoline prices during the [Iran war](https://www.reuters.com/world/iran/), which has proven deeply unpopular with voters.
-
-Public opinion polls suggest Republicans may lose control of one or both chambers of Congress, which would likely limit Trump's ability to enact some of his ​policy agenda in the final two years of his presidency.
-
-Reporting by Jan Wolfe, Daphne Psaledakis, Ismail Shakil and Kanishka Singh; Editing by Nick Zieminski, David Gregorio, Daniel Wallis and William Mallard
+Reporting ​by Dan Peleschuk, Yuliia Dysa; Additional Reporting by Ananya Palyekar, Editing by Ros Russell, Rod Nickel and David Gregorio
 
 Our Standards: [The Thomson Reuters Trust Principles., opens new tab](https://www.thomsonreuters.com/en/about-us/trust-principles.html)
 
 - Suggested Topics:
-- [](https://www.reuters.com/world/us/)
-- [](https://www.reuters.com/legal/public-policy/)
-- [](https://www.reuters.com/world/us/election-security/)
-- [](https://www.reuters.com/legal/voting-rights-elections/)
+- [](https://www.reuters.com/world/europe/)
 
 [](https://www.reutersagency.com/en/licensereuterscontent/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead)
 
 ## Read Next
 
-- [Sportscategory](https://www.reuters.com/sports/)
+- [Asia Pacificcategory](https://www.reuters.com/world/asia-pacific/)
     
-    [US CFTC, NBA agree to cooperate over basketball and prediction markets](https://www.reuters.com/sports/us-cftc-nba-vow-protect-basketball-integrity-prediction-markets-2026-10-26/)
-    
-    [
-    
-    ](https://www.reuters.com/sports/us-cftc-nba-vow-protect-basketball-integrity-prediction-markets-2026-10-26/)
-    
-- EXCLUSIVE
-    
-    [US political candidates tailor messages for AI models used by voters](https://www.reuters.com/business/media-telecom/us-political-candidates-tailor-messages-ai-models-used-by-voters-2026-10-26/)
+    [Spain deports African, Asian asylum seekers to Morocco amid rights group outcry](https://www.reuters.com/world/asia-pacific/spain-deports-african-asian-asylum-seekers-morocco-amid-rights-group-outcry-2026-10-27/)
     
     [
     
-    ](https://www.reuters.com/business/media-telecom/us-political-candidates-tailor-messages-ai-models-used-by-voters-2026-10-26/)
+    ](https://www.reuters.com/world/asia-pacific/spain-deports-african-asian-asylum-seekers-morocco-amid-rights-group-outcry-2026-10-27/)
     
-- [United Statescategory](https://www.reuters.com/world/us/)
+- [United Kingdomcategory](https://www.reuters.com/world/uk/)
     
-    [Trump invokes 9/11 as he ramps up rhetoric against El-Sayed in Michigan](https://www.reuters.com/world/us/trump-campaigns-michigan-day-after-obama-rallies-democrats-2026-10-25/)
+    [Two men charged in UK with helping Iran over RAF Fairford incident](https://www.reuters.com/world/uk/uk-prosecutors-charge-two-men-with-national-security-offences-over-airbase-2026-10-27/)
     
     [
     
-    ](https://www.reuters.com/world/us/trump-campaigns-michigan-day-after-obama-rallies-democrats-2026-10-25/)
+    ](https://www.reuters.com/world/uk/uk-prosecutors-charge-two-men-with-national-security-offences-over-airbase-2026-10-27/)
+    
+- [Europecategory](https://www.reuters.com/world/europe/)
+    
+    [Critics attack 'anti-democratic' French bill making rioters pay](https://www.reuters.com/world/europe/critics-attack-anti-democratic-french-bill-making-rioters-pay-2026-10-27/)
+    
+    [
+    
+    ](https://www.reuters.com/world/europe/critics-attack-anti-democratic-french-bill-making-rioters-pay-2026-10-27/)
     
 - [
     
-    ](https://www.reuters.com/world/us/trump-says-canada-tariff-deal-coming-soon-michigan-border-rally-2026-10-25/)
+    ](https://www.reuters.com/world/middle-east/macklemore-vows-fight-until-last-breath-opening-free-palestine-tour-2026-10-27/)
     
 - [
     
-    ](https://www.reuters.com/world/us-appeals-court-appears-skeptical-trump-dojs-lawsuit-over-california-voter-2026-10-25/)
+    ](https://www.reuters.com/world/europe/french-minister-says-halloween-protests-could-turn-violent-2026-10-26/)
     
 - [
     
-    ](https://www.reuters.com/legal/government/japan-indicts-us-marine-over-okinawa-killing-media-say-2026-10-26/)
+    ](https://www.reuters.com/world/americas/pope-leo-there-was-little-choice-go-latin-america-2026-10-27/)
     
 
 [](https://www.lseg.com/en/data-analytics/products/workspace?utm_source=reuters.com&utm_medium=articlebanner&utm_campaign=Reuters_ProductPage_Links)
@@ -149,45 +133,45 @@ Our Standards: [The Thomson Reuters Trust Principles., opens new tab](https://ww
 
 - [
     
-    ](https://www.reuters.com/world/middle-east/hezbollah-readies-new-regional-war-with-funds-iran-sources-say-2026-10-26/)
+    ](https://www.reuters.com/world/europe/critics-attack-anti-democratic-french-bill-making-rioters-pay-2026-10-27/)
     
-    ### [Hezbollah readies for new regional war with funds from Iran, sources say](https://www.reuters.com/world/middle-east/hezbollah-readies-new-regional-war-with-funds-iran-sources-say-2026-10-26/)
+    ### [Critics attack 'anti-democratic' French bill making rioters pay](https://www.reuters.com/world/europe/critics-attack-anti-democratic-french-bill-making-rioters-pay-2026-10-27/)
     
-    [Middle Eastcategory](https://www.reuters.com/world/middle-east/) · October 26, 2026 · 7:46 AM PDT · 5 mins ago
+    [Europecategory](https://www.reuters.com/world/europe/) · October 27, 2026 · 7:37 AM PDT · 9 mins ago
     
-    Lebanese armed group Hezbollah has spent three months preparing for a ​possible resumption of hostilities with Israel, after receiving an infusion of cash from Iran, according to Lebanese security personnel briefed on its activities.
-    
-- [
-    
-    ](https://www.reuters.com/world/americas/head-mexicos-electoral-authority-resigns-amid-corruption-allegations-2026-10-26/)
-    
-    [Americascategory](https://www.reuters.com/world/americas/)[Head of Mexico's electoral authority resigns amid corruption allegations](https://www.reuters.com/world/americas/head-mexicos-electoral-authority-resigns-amid-corruption-allegations-2026-10-26/)
-    
-    7:44 AM PDT
+    A proposed French law making rioters liable to pay up to €10,000 ($11,150) for damage they cause faces ​a backlash from rights groups and some lawyers who say it attacks the basic democratic right to take ‌to the streets to protest.
     
 - [
     
-    ](https://www.reuters.com/world/blue-paint-meets-green-algae-lincoln-memorial-reflecting-pool-clone-2026-06-18/)
+    ](https://www.reuters.com/business/finance/italy-approve-2027-budget-wednesday-talks-progress-with-eu-deficit-2026-10-27/)
     
-    [Worldcategory](https://www.reuters.com/world/)[Submerged Indonesian village re-emerges as drought lowers water levels](https://www.reuters.com/world/blue-paint-meets-green-algae-lincoln-memorial-reflecting-pool-clone-2026-06-18/)
-    
-    7:37 AM PDT
-    
-- [
-    
-    ](https://www.reuters.com/world/life-ukraines-front-line-worse-than-hell-russia-advances-clone-2025-12-23/)
-    
-    [Worldcategory](https://www.reuters.com/world/)[Inside El Salvador's notorious mega-prison](https://www.reuters.com/world/life-ukraines-front-line-worse-than-hell-russia-advances-clone-2025-12-23/)
+    [category](https://www.reuters.com/business/)[Italy to approve 2027 budget on Wednesday as talks progress with EU on deficit](https://www.reuters.com/business/finance/italy-approve-2027-budget-wednesday-talks-progress-with-eu-deficit-2026-10-27/)
     
     7:36 AM PDT
     
 - [
     
-    ](https://www.reuters.com/world/life-ukraines-front-line-worse-than-hell-russia-advances-2024-06-14/)
+    ](https://www.reuters.com/world/americas/brazils-markets-recover-some-ground-after-selloff-minister-vows-fiscal-2026-10-27/)
     
-    [Worldcategory](https://www.reuters.com/world/)[Can Texas high school football handle the heat?](https://www.reuters.com/world/life-ukraines-front-line-worse-than-hell-russia-advances-2024-06-14/)
+    [Americascategory](https://www.reuters.com/world/americas/)[Brazil's markets recover some ground after selloff; minister vows fiscal discipline](https://www.reuters.com/world/americas/brazils-markets-recover-some-ground-after-selloff-minister-vows-fiscal-2026-10-27/)
     
-    7:34 AM PDT
+    7:35 AM PDT
+    
+- [
+    
+    ](https://www.reuters.com/world/africa/nigeria-panel-says-37-detained-miners-died-overcrowding-and-neglect-2026-10-27/)
+    
+    [Africacategory](https://www.reuters.com/world/africa/)[Nigeria panel says 37 detained miners died from overcrowding and neglect](https://www.reuters.com/world/africa/nigeria-panel-says-37-detained-miners-died-overcrowding-and-neglect-2026-10-27/)
+    
+    7:32 AM PDT
+    
+- [
+    
+    ](https://www.reuters.com/world/americas/who-could-brazils-lula-pick-finance-minister-2026-10-27/)
+    
+    [Americascategory](https://www.reuters.com/world/americas/)[Who could Brazil's Lula pick for finance minister?](https://www.reuters.com/world/americas/who-could-brazils-lula-pick-finance-minister-2026-10-27/)
+    
+    7:25 AM PDT
     
 
 ### Site Index
@@ -282,7 +266,6 @@ Reuters, the news and media division of Thomson Reuters, is the world’s larges
 - [Corrections](https://www.reuters.com/info-pages/contact-us/)
 - [Data Disclosure and Sources, opens new tab](https://www.reuters.com/info-pages/data-disclosure-and-sources/)
 - [Site Feedback, opens new tab](https://trdigital.iad1.qualtrics.com/jfe/form/SV_8kte8gArGyCGVhz)
-- Manage Cookies & Your Privacy Choices
 
 All quotes delayed a minimum of 15 minutes. [See here for a list of exchanges and delays.](https://www.reuters.com/info-pages/disclaimer/)
 

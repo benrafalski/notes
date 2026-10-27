@@ -240,6 +240,8 @@ In July 2026, New Jersey Governor Mikie Sherrill said roughly [6,600 noncitizens
 ## Immigration Courts
 - **Alien Terrorist Removal Court**: Court established ⁠by Congress in 1996 that allows the government to rely on classified evidence in deportation cases. The secretive U.S. court ​convened for the first time in [July 2026](https://www.reuters.com/legal/government/first-case-secretive-us-court-meant-deport-alleged-terrorists-2026-07-30/) to hear a case of an Afghan woman accused of supporting ISIS and helping conceal a failed Election Day 2024 mass shooting ​plot. The woman, Nazira Haji ‌Zada, [was deported from the US](https://www.reuters.com/legal/government/afghan-woman-deported-us-first-use-secretive-terrorism-court-2026-09-11/) in September 2026 after agreeing she was an "alien terrorist" subject to removal.
 ## Immigrant Bond
+- In October 2026, the 5th US Circuit Court of Appeals ruled 10-7 Trump is [not required to give immigrants bond](https://www.reuters.com/legal/government/detained-migrants-have-no-constitutional-right-bond-hearings-us-court-rules-2026-10-23/) and that the Fifth Amendment due process protections do not require that immigration detainees receive bond hearings.. The ruling applies to Texas, Louisiana, and Mississippi.
+
 
 # Data Sharing
 ## IRS Data
