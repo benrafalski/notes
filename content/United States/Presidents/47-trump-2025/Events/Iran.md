@@ -5,7 +5,7 @@
 ## Strengthening Iran
 - Iran, for ​its part, is determined to emerge from the war stronger than before, with sanctions lifted, blocked funds released, and a newfound grip over the strait letting it collect fees from ships that normally carry a fifth of global oil.
 ## Strait of Hormuz
-- International ⁠Maritime Organization has ​[reported](https://www.reuters.com/world/middle-east/qatar-pm-visit-tehran-pursue-mediation-efforts-2026-08-26/) 70 incidents in the Strait of Hormuz since February 28 that have killed 19 seafarers.
+- International ⁠Maritime Organization has ​[reported](https://www.reuters.com/world/middle-east/qatar-pm-visit-tehran-pursue-mediation-efforts-2026-08-26/) 70 incidents in the Strait of Hormuz since February 28 that have killed 19 seafarers. By October 2026, the [price of gasoline and diesel](https://www.reuters.com/legal/government/average-price-gasoline-during-trumps-term-now-exceeds-bidens-midterms-loom-2026-10-26/) under Trump's second term averaged higher than under Biden's presidency (gasoline has averaged $3.472 under Trump compared to $3.471-per-gallon under Biden)
 ### Diesel Price Stability Efforts
 - Pressuring [G7 to release 100 million](https://www.reuters.com/business/energy/europe-discussing-plan-diesel-stock-releases-after-us-pressure-source-says-2026-10-02/) barrels of diesel and crude oil from their emergency ​reserves.
 - Signing an executive order to allow [red-dyed diesel](https://www.federalregister.gov/documents/2026/10/09/2026-20855/emergency-tax-relief-on-diesel-fuel) ‌on public ⁠roads through year-end 2026 (the fuel is chemically identical to what trucks normally burn but is tinted to show it is exempt from the 24.4-cent-per-gallon federal highway tax). 
