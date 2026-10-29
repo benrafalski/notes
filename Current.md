@@ -24,161 +24,143 @@
 
 [My News](https://www.reuters.com/my-news/feed/)
 
-[](https://www.reuters.com/account/sign-in/?website=reuters&redirect=https%3A%2F%2Fwww.reuters.com%2Fworld%2Fex-fbi-director-comey-charged-again-by-us-justice-department-nbc-news-reports-2026-10-26%2F)[](https://www.reuters.com/account/subscribe/offer/?website=reuters&redirect=https%3A%2F%2Fwww.reuters.com%2Fworld%2Fex-fbi-director-comey-charged-again-by-us-justice-department-nbc-news-reports-2026-10-26%2F&referrer=subscription_button&journeyStart=navigation)
+[](https://www.reuters.com/account/sign-in/?website=reuters&redirect=https%3A%2F%2Fwww.reuters.com%2Flegal%2Fgovernment%2Fus-judge-blocks-trump-rule-cutting-time-refugees-have-contest-end-status-2026-10-27%2F)[](https://www.reuters.com/account/subscribe/offer/?website=reuters&redirect=https%3A%2F%2Fwww.reuters.com%2Flegal%2Fgovernment%2Fus-judge-blocks-trump-rule-cutting-time-refugees-have-contest-end-status-2026-10-27%2F&referrer=subscription_button&journeyStart=navigation)
 
-# Ex-FBI chief Comey faces third criminal case brought by Trump Justice Department
+# US judge blocks Trump rule cutting the time refugees have to contest end of status
 
-By [Andrew Goudsward](https://www.reuters.com/authors/andrew-goudsward/)
+By [Nate Raymond](https://www.reuters.com/authors/nate-raymond/)
 
-October 26, 20262:18 PM PDTUpdated 20 hours ago
+October 27, 202612:15 PM PDTUpdated October 27, 2026
 
-![Former FBI Director Comey testifies before a Senate Intelligence Committee hearing in Washington](https://www.reuters.com/resizer/v2/ILFPDSKSRJPNJA3SCRV6LJ2H64.jpg?auth=50263f9bdd73ae5f874d84b8ac01d428fd05f8c0524c0804b4ad4e67c1a8e2f7&width=1920&quality=80)
+![U.S. District Judge Murphy Investiture Ceremony in Boston](https://www.reuters.com/resizer/v2/W5VRRAEF7FKIHH2QLFKD6KRDEA.jpg?auth=04345835f4496b236759cde3cbbdf4e087b8ed2f582079a3a6cc5e378a528ca5&width=1920&quality=80)
 
-Former FBI Director James Comey testifies before a Senate Intelligence Committee hearing on Russia's alleged interference in the 2016 U.S. presidential election on Capitol Hill in Washington, U.S., June 8, 2017. REUTERS/Jonathan Ernst [Purchase Licensing Rights, opens new tab](https://www.reutersconnect.com/item/former-fbi-director-comey-testifies-before-a-senate-intelligence-committee-hearing-in-washington/dGFnOnJldXRlcnMuY29tLDIwMTc6bmV3c21sX0hQMUVENjgxRkVUVEM%3D/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead)
+U.S. District Court Judge Julia Kobick attends the Investiture Ceremony for U.S. District Judge Brian Murphy, at the federal courthouse in Boston, Massachusetts, U.S., September 17, 2025. REUTERS/Brian Snyder/File Photo [Purchase Licensing Rights, opens new tab](https://www.reutersconnect.com/item/us-district-judge-murphy-investiture-ceremony-in-boston/dGFnOnJldXRlcnMuY29tLDIwMjU6bmV3c21sX1JDMlZUR0FVOUNEWQ%3D%3D/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead)
 
-- Summary
+BOSTON, Oct 27 (Reuters) - A federal judge on Tuesday temporarily blocked ​US President Donald Trump's administration from implementing ‌a new rule that would cut the amount of time refugees have to contest decisions to strip them of ​their legal status to 10 days from ​30 days.
 
-- Prosecutors file criminal information on October 5 to stop 10-year statute of limitations expiring
-- Court filing accuses Comey of transmitting and conspiring to transmit national defense information
-- Grand jury must still approve indictment before Comey can face trial on charges
+Jumpstart your morning with the latest legal news delivered straight to your inbox from The Daily Docket newsletter. Sign up [here.](https://www.reuters.com/newsletters/daily-docket/?location=article-paragraph&redirectUrl=%2Flegal%2Fgovernment%2Fus-judge-blocks-trump-rule-cutting-time-refugees-have-contest-end-status-2026-10-27%2F)
 
-WASHINGTON, Oct 26 (Reuters) - The US Justice Department is attempting to prosecute former ​FBI Director James Comey for a third time, the latest case accusing him of sharing sensitive national security information in 2016, according to court documents made ‌public on Monday.
+- US District Judge Julia Kobick in ⁠Boston issued an [order, opens new tab](https://fingfx.thomsonreuters.com/gfx/legaldocs/moparzznova/10272026dhs.pdf) that through November 6 puts ​on hold the rule issued by US Citizenship and ​Immigration Services on October 14
+    
+- Refugee advocacy groups sought the order as part of a lawsuit filed on Monday challenging ​the rule and a [plan](https://www.reuters.com/world/us/trump-administration-orders-review-biden-era-refugees-memo-shows-2025-11-24/) for a broader review ​of refugees
+    
+- Kobick said the USCIS rule should be put on ‌hold ⁠to preserve the status quo until the case could be heard by a colleague
+    
+- Erez Reuveni of Democracy Forward, a lawyer for the plaintiffs, said the ​decision "provides meaningful ​protection for ⁠people who were already facing termination notices"
+    
+- USCIS spokesperson Zach Kahler in a statement ​called the lawsuit a "frivolous attempt to ​disrupt ⁠the Trump administration's commitment to enforce our country's immigration laws as intended by Congress"
+    
+- The US Department of ⁠Homeland ​Security, which oversees USCIS, had ​estimated the new rule would affect as many as 186,000 refugees
+    
 
-The case was revealed in a court document known as a "criminal information" that the Justice Department said it filed to stop the 10-year statute of limitations on the offense from expiring earlier this month.
-
-The Misinformation Monitor newsletter rounds up international misinformation narratives, with a "Real or Fake?" quiz in every edition. Sign up [here.](https://www.reuters.com/newsletters/misinformation-monitor/?location=article-paragraph&redirectUrl=%2Fworld%2Fex-fbi-director-comey-charged-again-by-us-justice-department-nbc-news-reports-2026-10-26%2F)
-
-The document filed in Washington federal court charges Comey with transmitting and conspiring to transmit national defense information. It alleges he shared classified information with a reporter from the New York Times in October 2016.
-
-Comey said in a ​video on Instagram that "they're back again" and referenced the Justice Department, but did not provide further details. "I'm still innocent," he added. Comey's lawyers have already asked a judge ​to dismiss the case, arguing it is legally improper because a grand jury indictment is needed to halt the statute of limitations.
-
-Prosecutors will still ⁠need a grand jury to approve an indictment for Comey to face trial on the charges. DOJ lawyers argued the charges were essentially a placeholder to allow prosecutors to bring an ​indictment later on.
-
-The new case adds to the [legal fights facing Comey](https://www.reuters.com/legal/government/comey-indictment-escalates-trumps-campaign-chill-opposition-2025-09-26/), whom the Justice Department [has already charged twice](https://www.reuters.com/world/us-judge-orders-doj-turn-over-comey-grand-jury-materials-citing-misconduct-2025-11-17/), accusing him of lying to Congress about media leaks and threatening President Donald ​Trump in a social media post. A judge [dismissed the false statements case](https://www.reuters.com/legal/litigation/prosecution-ex-fbi-chief-comey-over-seashell-post-is-flawed-experts-say-2026-04-30/), while the threats case remains pending.
-
-Comey has been at the forefront of the Trump DOJ's attempts to investigate and prosecute perceived political enemies of the president. Trump fired Comey as FBI director during his first term in 2017 as Comey was overseeing an investigation into potential ties between Trump's 2016 presidential campaign and Russia.
-
-Trump has long demanded Comey's prosecution, blaming him for ​an investigation that consumed much of his first term. Comey has in turn called Trump unfit to be president and alleged the cases against him are vindictive and brought at ​Trump's behest.
-
-Comey's lawyer, Patrick Fitzgerald, said in a statement that the document "purports to charge Mr. Comey with crimes that he did not commit" and vowed to vigorously fight the allegations. The criminal information was filed ‌on October ⁠5, but was unsealed on Monday at the request of Comey's lawyers.
-
-A Justice Department spokesperson described the maneuver to halt the statute of limitations as a "widely recognized practice in federal court."
-
-"This is an ongoing criminal investigation, and we will not comment further," the spokesperson said in a statement.
-
-"Unlike Joe Biden, President Trump has not weaponized the Department of Justice against his political foes. The Department is focused on restoring law and order and keeping Americans safe," a White House spokesperson said in a statement.
-
-## YEARS OF SCRUTINY
-
-Comey has faced years of scrutiny over his actions in 2016, ​when the FBI investigated both Trump's campaign and ​Democratic presidential nominee Hillary Clinton.
-
-The latest ⁠case relates to his alleged decision to authorize staff to share classified information with a reporter from the New York Times for a 2016 article about US government surveillance, according to unsealed court documents in the case. The article reported on a secret court order that required Yahoo ​to search for email messages the government believed were tied to an unnamed foreign terrorist group.
-
-US prosecutors allege that Comey wanted the ​information disclosed to correct ⁠what a court document describes as misinformation from a Reuters article the previous day that said Yahoo had [built a custom software program](https://www.reuters.com/article/technology/yahoo-secretly-scanned-customer-emails-for-us-intelligence-sources-idUSKCN1241YV/) to search all its customers' incoming emails for specific information provided by US intelligence officials.
-
-"Yahoo is a law-abiding company, and complies with the laws of the United States," the company said in a statement at the time.
-
-The issue renewed long-running debates in the United States ⁠about the balance ​between digital privacy and national security.
-
-A spokesperson for the New York Times declined to comment on sources for ​reporting, but said "prosecutions like this one are designed to discourage sources from providing journalists with the kind of valuable and illuminating information that the public needs to know.” A Reuters spokesperson declined to comment.
-
-Comey's lawyers said the episode had ​been investigated by two different teams of prosecutors during Trump's first term and no charges were brought.
-
-Reporting by Andrew Goudsward, Ismail Shakil and Costas Pitas; Editing by Sanjeev Miglani and Michael Learmonth
+Reporting ​by Nate Raymond in Boston, Editing by Rosalba O'Brien
 
 Our Standards: [The Thomson Reuters Trust Principles., opens new tab](https://www.thomsonreuters.com/en/about-us/trust-principles.html)
 
 - Suggested Topics:
 - [](https://www.reuters.com/world/us/)
+- [](https://www.reuters.com/legal/constitutional-law/)
+- [](https://www.reuters.com/legal/civil-rights/)
 - [](https://www.reuters.com/legal/public-policy/)
+- [](https://www.reuters.com/legal/immigration/)
 
 [](https://www.reutersagency.com/en/licensereuterscontent/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead)
 
-## Read Next
+[
+
+](https://www.reuters.com/authors/nate-raymond/)
+
+[Nate Raymond](https://www.reuters.com/authors/nate-raymond/)
+
+Thomson Reuters
+
+Nate Raymond reports on the federal judiciary and litigation. He can be reached at nate.raymond@thomsonreuters.com.
+
+- [](mailto:nate.raymond@thomsonreuters.com)
+- [](https://x.com/nateraymond)
+
+## Read Next / Editor's Picks
 
 - [United Statescategory](https://www.reuters.com/world/us/)
     
-    [Michigan Senate race a test of attacks on Muslim candidate, progressive agenda](https://www.reuters.com/world/us/michigan-senate-race-test-attacks-muslim-candidate-progressive-agenda-2026-10-28/)
+    [Trump confronts a new midterm battleground: South Carolina](https://www.reuters.com/world/us/trump-confronts-new-midterm-battleground-south-carolina-2026-10-29/)
     
     [
     
-    ](https://www.reuters.com/world/us/michigan-senate-race-test-attacks-muslim-candidate-progressive-agenda-2026-10-28/)
+    ](https://www.reuters.com/world/us/trump-confronts-new-midterm-battleground-south-carolina-2026-10-29/)
     
-- Insight
+- [Technologycategory](https://www.reuters.com/technology/)
     
-    [Insight: Nevada unions, politicians caught between AI job creation and destruction](https://www.reuters.com/business/world-at-work/nevada-unions-politicians-caught-between-ai-job-creation-destruction-2026-10-28/)
+    EXCLUSIVE
     
-    [
-    
-    ](https://www.reuters.com/business/world-at-work/nevada-unions-politicians-caught-between-ai-job-creation-destruction-2026-10-28/)
-    
-- [Businesscategory](https://www.reuters.com/business/)
-    
-    [Meta and Snap face major US legal test of youth social media addiction claims](https://www.reuters.com/business/meta-snap-face-major-us-legal-test-youth-social-media-addiction-claims-2026-10-28/)
+    [Pentagon treating military base freezer malfunctions as suspected cyberattack, officials say](https://www.reuters.com/technology/pentagon-treating-military-base-freezer-malfunctions-suspected-cyberattack-2026-10-29/)
     
     [
     
-    ](https://www.reuters.com/business/meta-snap-face-major-us-legal-test-youth-social-media-addiction-claims-2026-10-28/)
+    ](https://www.reuters.com/technology/pentagon-treating-military-base-freezer-malfunctions-suspected-cyberattack-2026-10-29/)
+    
+- [Legalcategory](https://www.reuters.com/legal/)
+    
+    [Trump touts projects and payouts on the campaign trail. Many are uncertain](https://www.reuters.com/legal/litigation/trump-touts-projects-payouts-campaign-trail-many-are-uncertain-2026-10-29/)
+    
+    [
+    
+    ](https://www.reuters.com/legal/litigation/trump-touts-projects-payouts-campaign-trail-many-are-uncertain-2026-10-29/)
     
 - [
     
-    ](https://www.reuters.com/legal/government/transgender-rights-billionaire-tax-key-midterm-ballot-measures-2026-10-28/)
+    ](https://www.reuters.com/world/us/us-economic-growth-accelerates-third-quarter-2026-10-29/)
     
 - [
     
-    ](https://www.reuters.com/legal/government/ohio-man-convicted-us-lying-about-role-rwandan-genocide-2026-10-28/)
+    ](https://www.reuters.com/legal/government/farmer-funded-attack-ads-targeting-republicans-air-across-rural-america-2026-10-29/)
     
 - [
     
-    ](https://www.reuters.com/technology/hacker-trying-breach-us-federal-election-commission-system-email-shows-2026-10-27/)
+    ](https://www.reuters.com/world/us/us-weekly-jobless-claims-hover-near-57-year-lows-2026-10-29/)
+    
+- [
+    
+    ](https://www.reuters.com/legal/litigation/ai-data-center-boom-faces-backlash-us-ballot-box-2026-10-29/)
+    
+- [
+    
+    ](https://www.reuters.com/world/us/us-couples-retirement-dream-ruins-after-residential-cruise-scrapped-cambodia-2026-10-29/)
+    
+- [
+    
+    ](https://www.reuters.com/world/us-justice-dept-loses-initial-bid-block-votes-alleged-noncitizens-california-2026-10-29/)
+    
+- [
+    
+    ](https://www.reuters.com/sports/brewers-beat-rays-4-1-first-world-series-title-2026-10-29/)
+    
+- [
+    
+    ](https://www.reuters.com/business/fed-highlights-economic-strength-muddies-outlook-treasuries-2026-10-29/)
+    
+- [
+    
+    ](https://www.reuters.com/legal/government/trump-obama-pound-campaign-trail-closing-week-us-midterm-election-2026-10-28/)
+    
+- [
+    
+    ](https://www.reuters.com/world/us/ai-related-investment-consumers-likely-boosted-us-economic-growth-third-quarter-2026-10-29/)
+    
+- [
+    
+    ](https://www.reuters.com/legal/government/us-justice-department-says-fbi-ice-agents-will-not-serve-poll-monitors-midterms-2026-10-29/)
+    
+- [
+    
+    ](https://www.reuters.com/business/fed-likely-go-into-wait-and-see-mode-rates-2026-10-28/)
+    
+- [
+    
+    ](https://www.reuters.com/business/finance/alvin-hellerstein-federal-judge-who-oversaw-trump-maduro-september-11-cases-dies-2026-10-28/)
     
 
 [](https://www.lseg.com/en/data-analytics/products/workspace?utm_source=reuters.com&utm_medium=articlebanner&utm_campaign=Reuters_ProductPage_Links)
-
-## [World](https://www.reuters.com/world/)
-
-- [
-    
-    ](https://www.reuters.com/world/asia-pacific/us-issues-new-north-korea-related-sanctions-2026-10-28/)
-    
-    ### [US issues new North Korea-related sanctions](https://www.reuters.com/world/asia-pacific/us-issues-new-north-korea-related-sanctions-2026-10-28/)
-    
-    [Asia Pacificcategory](https://www.reuters.com/world/asia-pacific/) · October 28, 2026 · 7:34 AM PDT · 14 mins ago
-    
-    The United States issued new North Korea-related sanctions ​on Wednesday, targeting 10 individuals and one entity, ‌according to a notice posted to the Treasury Department's website.
-    
-- [
-    
-    ](https://www.reuters.com/world/africa/putin-woos-african-leaders-showcase-summit-says-russia-is-better-partner-than-2026-10-28/)
-    
-    [Africacategory](https://www.reuters.com/world/africa/)[Putin woos African leaders at showcase summit, says Russia is better partner than 'colonial' West](https://www.reuters.com/world/africa/putin-woos-african-leaders-showcase-summit-says-russia-is-better-partner-than-2026-10-28/)
-    
-    7:32 AM PDT
-    
-- [
-    
-    ](https://www.reuters.com/world/africa/us-imposes-sanctions-rwandas-ministry-defense-2026-10-28/)
-    
-    [Africacategory](https://www.reuters.com/world/africa/)[US imposes sanctions on Rwanda's ministry of defense](https://www.reuters.com/world/africa/us-imposes-sanctions-rwandas-ministry-defense-2026-10-28/)
-    
-    7:26 AM PDT
-    
-- [
-    
-    ](https://www.reuters.com/business/media-telecom/irans-revolutionary-court-sentences-director-panahi-jail-term-travel-ban-2026-10-28/)
-    
-    [category](https://www.reuters.com/business/)[Iran's Revolutionary Court sentences director Panahi to jail term, travel ban](https://www.reuters.com/business/media-telecom/irans-revolutionary-court-sentences-director-panahi-jail-term-travel-ban-2026-10-28/)
-    
-    7:12 AM PDT
-    
-- [
-    
-    ](https://www.reuters.com/world/german-court-weighs-bulgarias-extradition-request-starlink-fire-case-2026-10-28/)
-    
-    [Worldcategory](https://www.reuters.com/world/)[German court weighs Bulgaria's extradition request in Starlink fire case](https://www.reuters.com/world/german-court-weighs-bulgarias-extradition-request-starlink-fire-case-2026-10-28/)
-    
-    7:01 AM PDT
-    
 
 ### Site Index
 
