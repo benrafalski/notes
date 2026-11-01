@@ -40,4 +40,4 @@
 ## October
 - [October 4](https://www.reuters.com/world/asia-pacific/head-yemens-presidential-council-announces-military-operations-retake-territory-2026-10-04/): Saudi backed Yemeni government forces launch counteroffensive on Houthis.
 - [October 9](https://www.reuters.com/world/middle-east/houthi-strikes-riyadh-airport-killed-three-saudis-war-escalates-2026-10-09/): Houthis Riyadh airport, marking significant escalation in the war.
-- October 12: 
+- [October 30](https://www.reuters.com/world/tanker-strait-hormuz-hit-by-limpet-mines-security-sources-say-2026-10-30/): Small boat attaches two limpet mines to the hull of tanker in Strait of Hormuz causing a fire in its engine room and temporarily disabling the vessel. This was the first successful use of explosives in the Strait of Hormuz since the war began. 
