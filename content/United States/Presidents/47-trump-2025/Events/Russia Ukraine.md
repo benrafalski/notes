@@ -3,6 +3,8 @@
 - October 18, 2026: US [resumes providing Ukraine with intelligence](https://www.reuters.com/legal/government/us-resumes-intelligence-sharing-with-ukraine-after-pause-zelenskiy-says-2026-10-18/) on missile attacks from Russia after previously pausing.
 # Striking NATO
 - August 27, 2026: [CIA Director John Ratcliffe](https://www.reuters.com/world/trump-says-putin-will-not-attack-nato-territory-downplays-ratcliffe-trip-2026-08-27/) makes unusual visit to Kremlin but Trump says he wasn't there to warn Putin against striking a NATO country despite media reports.
+# US Arms sales
+- In October 2026 the Trump admin approved the sale of [500 Patriot missiles](https://www.reuters.com/business/aerospace-defense/us-approves-21-billion-patriot-missile-sale-ukraine-2026-10-30/) to Ukraine for an estimated $2.1 billion after Ukraine had been waiting for almost a month for the US to sign off on critical missile supplies. The missiles are yet to be manufactured and are not expected until the 2030s. Patriots are the most effective weapon to counter fast moving ballistic missiles.
 # Strained Ukraine Relationship
 ## February Blowup
 ...

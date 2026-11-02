@@ -53,6 +53,11 @@
 
 ## Alaska Senate Race
 In October 2026, ahead of the midterms the Trump DOJ [sued](https://storage.courtlistener.com/recap/gov.uscourts.akd.80263/gov.uscourts.akd.80263.1.0.pdf) Alaska to preemptively block the state from certifying the results of its Senate race if Republican candidate Dan ​S. Sullivan loses. The DOJ says candidate Dan J. Sullivan is seeking to divert votes from Dan S. Sullivan as they have almost identical names. Trump told reporters that he supported the lawsuit, saying "[I'm the one that said do it](https://www.reuters.com/world/trump-administration-sues-block-senate-race-certification-alaska-if-republican-2026-10-23/)." Alaska's elections regulator earlier in the year blocked Daniel J. Sullivan from appearing on the ballot, finding that his candidacy was not filed in good faith and was instead an attempt to "confuse or mislead." However, the [Alaska Supreme Court](https://www.reuters.com/legal/government/is-it-legal-recruit-spoiler-candidates-us-elections-2026-10-30/) in June permitted ​the challenger Sullivan to ⁠appear on the ballot, ruling that there was not enough evidence that he was trying to confuse voters and that there was no requirement under Alaska law that a candidacy be in good faith. He will appear without a party designation next to his name, while the senator will be listed as the Republican incumbent. DOJ issues [40-plus subpoenas](https://www.reuters.com/world/us/trump-confronts-new-midterm-battleground-south-carolina-2026-10-29/) and document requests in its Alaska election probe. In a revised complaint, by the DOJ cited a New York Times report that Democratic operatives recruited another candidate named Sullivan ‌who could siphon votes from the incumbent. Pelota’s former campaign manager, Elisa Rios, who was fired in August, told the ​Times that Pelota was aware of the effort.
+### Lawsuit
+- **Judge**: US District Judge Sharon Gleason in Anchorage
+- **Timeline**:
+	- November 1, 2026: Judge Gleason dismisses Trump election lawsuit in Alaska. Gleason wrote that the administration's proposal to segregate ​ballots would violate the right of voters in Alaska to a secret ballot, and dismissed the case on the basis that the federal government lacked the necessary legal standing to bring it.
+	- 
 # Affordability
 ## Healthcare
 ### Medicaid cuts

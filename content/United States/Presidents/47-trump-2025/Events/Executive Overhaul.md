@@ -9,6 +9,9 @@
 
 
 
+# FHFA
+- In October 2026 the FHFA Inspector General submitted a report that alleged the agency interfered with its independence and [blocked its oversight](https://www.reuters.com/legal/government/trump-appointee-bill-pultes-housing-agency-obstructed-watchdog-report-says-2026-10-30/) of Fannie Mae and Freddie Mac culling the obstruction "unprecedented". It said the FHFA had refused to provide records and information in response to the watchdog's request during three separate allegations. 
+- Under Bill Pulte the agency took the unprecedented step in March 2025 of appointing himself chairman of both Fannie Mae and Freddie Mac and later ousted the agency's acting Inspector General And prepared the OIG employees to cut as much as 80% of staff.
 # Remaking Washington
 ## Kennedy Center
 ### Kennedy Center Overhaul
@@ -39,8 +42,10 @@
 
 ## Washington Golf Course
 ### Lawsuit
+- Judge: US District Judge Ana Reyes
 - Timeline:
 	- [October 18](https://www.reuters.com/legal/government/trump-says-washington-golf-course-renovation-start-november-despite-judges-order-2026-10-18/): Trump says he would begin renovation on Washington's historic golf course despite Judge Reyes's order. Trump's comments came a day after the ​government filed a motion to disqualify Reyes and move the case to another district judge, saying her actions had shown "deep-seated and unequivocal antipathy toward the Trump ​Administration."
+	- [October 30](https://www.reuters.com/legal/government/us-judge-orders-ethics-investigation-into-doj-lawyers-golf-course-dispute-2026-10-30/): Judge Reyes orders an investigation into if DOJ attorney's violated ethics rules over contradictory statements where Trump said the renovation would go forward on November 15 while department lawyers claimed that was not the case.
 # Renaming Things
 ## Lake Ontario
 In August 2026, amid a trade and tariff spat with Canada, Trump signed an order renaming Lake Ontario to 'Lake America.' Soon after,  Google and Apple maps changed the name of Lake Ontario to "Lake America," illustrating how [U.S. tech companies](https://www.reuters.com/world/us/apple-maps-changes-name-lake-ontario-lake-america-2026-09-01/) are being pulled into geopolitical disputes as Trump pressures them to comply with executive orders that allies and international bodies ​have rejected. 
