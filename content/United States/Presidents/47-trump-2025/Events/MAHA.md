@@ -35,6 +35,7 @@ In October 2026, NIH opened a [clinic](https://www.reuters.com/legal/litigation/
 - By mid-September, Pennsylvania [requested emergency CDC assistance](https://www.reuters.com/world/pennsylvania-asks-cdc-help-measles-outbreak-demands-agency-recognize-measles-2026-09-17/) known as Epi-Aid but that they would rescind the request if the CDC didn't recognize the four measles-associated deaths. 
 #### New York September 2026 Outbreak
 - In October 2026, New York Governor Kathy Hochul declared a [statewide disaster emergency](https://www.reuters.com/business/healthcare-pharmaceuticals/new-york-declares-disaster-emergency-over-measles-outbreak-2026-10-05/) over a measles outbreak, the first such declaration by a U.S. state since cases ​began surging in 2025. New York reported 108 measles cases this year through October 3.
+- In 2026, New York said that a [child died](https://www.reuters.com/business/healthcare-pharmaceuticals/new-york-reports-first-measles-linked-child-death-over-30-years-amid-outbreak-2026-11-02/) in connection with the measles outbreak, marking the state's first known measles associated death in more than 30 years.
 ## Cyclosporiasis
 ### 2026 Outbreak (May - September)
 - [Public Health Cuts](https://www.reuters.com/legal/litigation/michigan-battles-massive-outbreak-state-reels-trump-cuts-2026-07-25/): reports that Michigan lost 23 infectious disease workers and 123 county health staff disease and health workers after federal cuts that likely contributed to bad response to cyclosporiasis outbreak

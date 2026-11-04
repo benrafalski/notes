@@ -9,3 +9,6 @@
 
 # Maduro Capture
 - October 8: US prosecutors further charge Maduro and his wife Cilia Flores with [conspiring to torture political ​opponents](https://www.reuters.com/world/americas/cilia-flores-wife-venezuelas-maduro-press-release-us-jail-2026-10-08/) and American citizens, adding to the drug trafficking case.
+
+# Brazil
+- In October 2026 following Brazilian Senator Flavio Bolsonaro's election loss, he [fled Brazil to the US](https://www.reuters.com/world/americas/trump-says-flavio-bolsonaro-can-stay-us-as-long-he-wants-2026-11-01/) and was given a visa by the Trump admin.

@@ -108,7 +108,8 @@ Case: [President and Fellows of Harvard College v. US Department of Health and
 	- A few days later, the DHS changed their visa order from "effective immediately" to giving the university 30 days to submit evidence contesting the DHS visa plan, Harvard was arguing in the Burroughs case that the Trump admin violated administrative procedure.
 	- June 5: US District Judge Allison Burroughs in Boston [issued a TRO](https://www.reuters.com/world/us/harvard-urge-judge-extend-block-trumps-effort-bar-foreign-students-2025-05-29/) (later [extended](https://www.reuters.com/world/us/harvard-urge-judge-bar-trump-closing-doors-international-students-2025-06-16/)) on Trump's foreign national ban to Harvard, saying the move would case "immediate and irreparable injury."
 	- June 23: Burroughs issued a [preliminary injunction](https://www.reuters.com/world/us/us-judge-blocks-trump-plan-close-harvards-doors-international-students-2025-06-24/) blocking Trump's Harvard international student plan.
-
+#### Admissions records
+- November 2, 2026: US District Judge Myong Joun in Boston (Biden) [rejects](https://www.reuters.com/world/us-judge-dismisses-trump-administrations-harvard-admissions-probe-case-2026-11-02/) DOJ lawsuit seeking to force Harvard to tone over records for its investigation into whether it considered race in student admissions processes. The case was dismissed on narrow procedural grounds and did not resolve the legal issue.
 ## Targeting Anti-Israel Protestors
 ### Mahmoud Khalil
 

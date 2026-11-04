@@ -477,7 +477,7 @@
 ## Congressional Testimonies
 ### Leon Black
 - **Contempt** (September 2026): [House votes](https://www.reuters.com/legal/government/us-house-votes-hold-billionaire-leon-black-contempt-congress-2026-09-16/) to find billionaire Leon Black in contempt of Congress and refer him to DOJ after he declined to comply with subpoenas as part of ‌Epstein probe. Black stepped down from his chief executive role at Apollo in 2021 after an external law firm found he ⁠had ​paid Epstein $158 million for tax and estate planning.
-
-
 ## New Mexico
 - In October 2026 New Mexico filed a civil lawsuit to [block payments from Epstein's estate](https://www.reuters.com/legal/government/new-mexico-sues-jeffrey-epsteins-former-lawyer-accountant-2026-10-21/) to his personal attorney Darren Indyke and accountant Richard Kahn and he recovered damages for survivors of his alleged abuse. The lawsuit ​alleges Indyke and Kahn facilitated, financed, and concealed Epstein's sex trafficking operation, including at his New Mexico ranch.
+## WSJ
+- October 31, 2026: District Judge Judge Darrin P. Gayles [dismisses Trump defamation lawsuit](https://www.reuters.com/world/us-judge-dismisses-trumps-lawsuit-against-wall-street-journal-with-prejudice-2026-10-31/) against Wall Street Journal over Epstein reporting saying that Trump did not show actual malice. Gayles dismissed the $10 billion suit with prejudice making so it can't be brought again.
