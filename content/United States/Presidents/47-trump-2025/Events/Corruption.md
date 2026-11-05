@@ -20,6 +20,9 @@
 
 
 # Pardons
+## January 6 Pardons
+- In November 2026 Cleveland Meredith was arrested and charged with [threatening judges](http://reuters.com/legal/government/man-pardoned-by-trump-over-january-6-role-charged-with-threatening-judges-2026-11-03/) who presided over cases concerning the January 6 riot. Meredith was pardoned by Trump as part of the January 6 pardons. Meredith wrote on Facebook in April, "ALL ​J6 Federal JUDGES will be EXECUTED!" On January 6, Meredith drove to Washington, DC, with a pistol, a ​rifle, 2,500 rounds of ammunition and 10 large-capacity ammunition feeding ​devices, and while there texted a relative that he planned "put a bullet" in the head of Nancy Pelosi.
+
 ## Terren ​Peizer
 Peizer, a former healthcare executive, sold more than $20 million of Ontrak stock between ​May and August 2021 while in possession of material non-public ​negative information related to the company's largest customer. He was convicted of ‌insider ⁠trading by a federal jury in Los Angeles in 2024 and sentenced to 3.5 ​years in prison in 2025. Trump [pardoned](https://www.reuters.com/legal/government/sec-drops-insider-trading-suit-against-ex-healthcare-executive-pardoned-by-trump-2026-08-08/) Peizer in January 2026 and later that August, his SEC moved to dismiss the insider trading case against ​the former executive. 
 ## Emory Jones
