@@ -46,6 +46,13 @@
 - Timeline:
 	- [October 18](https://www.reuters.com/legal/government/trump-says-washington-golf-course-renovation-start-november-despite-judges-order-2026-10-18/): Trump says he would begin renovation on Washington's historic golf course despite Judge Reyes's order. Trump's comments came a day after the ​government filed a motion to disqualify Reyes and move the case to another district judge, saying her actions had shown "deep-seated and unequivocal antipathy toward the Trump ​Administration."
 	- [October 30](https://www.reuters.com/legal/government/us-judge-orders-ethics-investigation-into-doj-lawyers-golf-course-dispute-2026-10-30/): Judge Reyes orders an investigation into if DOJ attorney's violated ethics rules over contradictory statements where Trump said the renovation would go forward on November 15 while department lawyers claimed that was not the case.
+
+## Trump Arch
+ In November 2026, the National Capital Planning Commission voted 8-4 to approve the project after it heard from about 100 opponents, including Democratic lawmakers. The Trump administration contends Congress approved the arch more than 100 ​years ago when it also authorized construction of a bridge across the Potomac River.
+### Lawsuit
+- Judge: US District Judge Tanya Chutkan 
+- Timeline:
+	- [October 5, 2026](https://www.reuters.com/world/us/trumps-washington-arch-poised-approval-judge-weighs-bid-block-construction-2026-11-05/): Judge Chutkan issues 14 day TRO blocking Trump from constructing his arch.
 # Renaming Things
 ## Lake Ontario
 In August 2026, amid a trade and tariff spat with Canada, Trump signed an order renaming Lake Ontario to 'Lake America.' Soon after,  Google and Apple maps changed the name of Lake Ontario to "Lake America," illustrating how [U.S. tech companies](https://www.reuters.com/world/us/apple-maps-changes-name-lake-ontario-lake-america-2026-09-01/) are being pulled into geopolitical disputes as Trump pressures them to comply with executive orders that allies and international bodies ​have rejected. 
