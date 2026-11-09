@@ -43,3 +43,4 @@
 - [October 30](https://www.reuters.com/world/tanker-strait-hormuz-hit-by-limpet-mines-security-sources-say-2026-10-30/): Small boat attaches two limpet mines to the hull of tanker in Strait of Hormuz causing a fire in its engine room and temporarily disabling the vessel. This was the first successful use of explosives in the Strait of Hormuz since the war began. 
 ## November
 - [November 2](https://www.reuters.com/world/middle-east/us-struck-irans-qeshm-island-wall-street-journal-reports-2026-11-03/): US carried out "defensive" strikes on Iran's Qeshm ​Island in the Strait of Hormuz. The strikes appeared to be limited and were not ​a resumption of major combat operations. The attack was the latest in a series of strikes carried out by Washington in recent weeks.
+- November 9: Trump meets with Qatar's Prime Minister Sheik Mohammed, as efforts to end the Iran war ramp up following the midterm elections despite doubt among US officials such as Rubio.
