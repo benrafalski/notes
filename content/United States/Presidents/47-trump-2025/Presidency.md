@@ -27,7 +27,10 @@
 # Cabinet
 ## State: 
 ## Treasury: 
-## Defense: 
+## Defense
+### Pete Hegseth
+- **Impeachment Proceedings**: In November 2026, following the Republican defeat in the midterms, US Representative Thomas Massey introduced Articles of Impeachment against Hegseth. Hegseth called the efforts to him impeach him [a farce and sabotage](https://www.reuters.com/world/pentagon-chief-hegseth-calls-moves-impeach-him-farce-that-will-fail-2026-11-10/) that plays into the hands of Iran. Trump responded by writing, "Pete Hegseth gets an 'A' PLUS, ​PLUS, PLUS for his defense against a disgruntled, angry, defeated, former Congressman, Thomas Massie, a TOTAL LOSER!"
+
 ## Attorney General
 ### Todd Blanche (From August 8, 2026)
 Was previously Trump's personal lawyer and served as number two in the DOJ under Bondi before she was fired. Was [confirmed](https://www.reuters.com/world/us/senate-republicans-narrowly-confirm-todd-blanche-attorney-general-2026-08-08/) in a 50-49 party-line vote following a standoff with Republican Senators over Trump's '[anti-weaponization](Corruption#Anti-weaponization Fund)' fund.

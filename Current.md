@@ -24,128 +24,167 @@
 
 [My News](https://www.reuters.com/my-news/feed/)
 
-[](https://www.reuters.com/account/sign-in/?website=reuters&redirect=https%3A%2F%2Fwww.reuters.com%2Flegal%2Fgovernment%2Ftrump-administration-ends-california-balloting-lawsuit-2026-11-07%2F)[](https://www.reuters.com/account/subscribe/offer/?website=reuters&redirect=https%3A%2F%2Fwww.reuters.com%2Flegal%2Fgovernment%2Ftrump-administration-ends-california-balloting-lawsuit-2026-11-07%2F&referrer=subscription_button&journeyStart=navigation)
+[](https://www.reuters.com/account/sign-in/?website=reuters&redirect=https%3A%2F%2Fwww.reuters.com%2Fworld%2Fus%2Fus-postal-service-outlines-plans-handle-millions-ballots-2026-10-15%2F)[](https://www.reuters.com/account/subscribe/offer/?website=reuters&redirect=https%3A%2F%2Fwww.reuters.com%2Fworld%2Fus%2Fus-postal-service-outlines-plans-handle-millions-ballots-2026-10-15%2F&referrer=subscription_button&journeyStart=navigation)
 
-# Trump administration ends California balloting lawsuit
+[US Midterms](https://www.reuters.com/world/us/elections/)
 
-By Reuters
+- [Results in maps and charts](https://www.reuters.com/graphics/US-ELECTIONS/GRAPHICS-BLOG/akpelkldzvr/)
 
-November 6, 20267:55 PM MSTUpdated November 6, 2026
+# FBI, US Postal Service investigate suspicious mailings to election officials, lawmakers
 
-Item 1 of 3 Midterm election ballots are scanned at the Los Angeles County Ballot Processing Center the same day US President Donald Trump's administration asked the Supreme Court to temporarily block California from counting mail-in ballots from ​more than 20,000 registered voters who federal officials allege are likely non-US citizens, in City of Industry, California, US, November 2, 2026. REUTERS/Evelyn Hockstein
+By [David Shepardson](https://www.reuters.com/authors/david-shepardson/)
 
-**[1/3]**Midterm election ballots are scanned at the Los Angeles County Ballot Processing Center the same day US President Donald Trump's administration asked the Supreme Court to temporarily block California from counting mail-in ballots from ​more than 20,000 registered voters who federal officials... [Purchase Licensing Rights, opens new tab](https://www.reutersconnect.com/item/midterm-election-ballots-are-processed-at-the-los-angeles-county-ballot-processing-center/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1JDMldGT0FPNVpITg%3D%3D/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead) Read more
+October 15, 20268:21 AM MSTUpdated October 15, 2026
 
-Nov 6 (Reuters) - The Trump administration on Friday withdrew its lawsuit that attempted to block California from counting ​mail-in ballots from more than 20,000 registered ‌voters whom federal officials alleged were likely non-US citizens.
+![Bucks County official ballot drop boxes are distributed ahead of mail-in ballot drop offs in Bristol](https://www.reuters.com/resizer/v2/MJTTYR6CARPVLGVESLBH633DUA.jpg?auth=ab0847fa246b69318b38caae50662d6c8fbb4d4d57f578e818985336bd967222&width=1920&quality=80)
 
-Jumpstart your morning with the latest legal news delivered straight to your inbox from The Daily Docket newsletter. Sign up [here.](https://www.reuters.com/newsletters/daily-docket/?location=article-paragraph&redirectUrl=%2Flegal%2Fgovernment%2Ftrump-administration-ends-california-balloting-lawsuit-2026-11-07%2F)
+A Bucks County Board of Elections employee distributes a Bucks County official ballot drop box to Margaret R. Grundy Memorial Library ahead of mail-in ballot drop offs in Bristol, Pennsylvania, US, October 13, 2026. REUTERS/Hannah Beier [Purchase Licensing Rights, opens new tab](https://www.reutersconnect.com/item/bucks-county-official-ballot-drop-boxes-are-distributed-ahead-of-mail-in-ballot-drop-offs-in-bristol/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1JDMkUyT0E2MjZKQQ%3D%3D/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead)
 
-- The Justice Department filed a notice of voluntary dismissal in ​the case after the [midterm elections](https://www.reuters.com/world/us/elections/) that saw ​Democrats win by comfortable margins in all ⁠of California's statewide contests and most of its ​congressional races
-    
-- On Monday, the day before the election, ​the Supreme Court [rejected a bid](https://www.reuters.com/world/trump-administration-takes-california-ballot-fight-supreme-court-2026-11-02/) to temporarily block California from counting the ballots on the Justice Department's list
-    
-- The Justice ​Department had argued in previous filings that ​it needed quick action from federal courts because the ‌contested ⁠ballots could not be separated from all other votes once they were accepted. The department again pointed to that reasoning in Friday's notice ​of dismissal, ​writing that "the ⁠relief the United States sought is no longer available" now that votes ​have been tallied
-    
-- US District Judge David ​Carter ⁠had [appeared skeptical](https://www.reuters.com/legal/government/us-judge-weigh-justice-depts-effort-block-california-counting-alleged-noncitizen-2026-10-27/) of the Justice Department's lawsuit, expressing concerns that the request could disenfranchise and confuse ⁠legitimate ​voters, calling it a "monumental change" ​to election procedures when voting was already underway
-    
+- Summary
+- Companies
 
-Reporting by Christian ​Martinez; Editing by Sergio Non and Saad Sayeed
+- Law enforcement officials probe letters with suspicious substances
+- Some sent to state election offices ahead of midterm elections
+- Postal Service preparing to handle millions of ballots
+
+WASHINGTON, Oct 15 (Reuters) - The FBI and US Postal Service's law enforcement arm said on Thursday ​they were investigating suspicious mailings, including some sent to state election officials and lawmakers' offices ahead of the November 3 [midterm elections.](https://www.reuters.com/world/us/elections/)
+
+The ‌FBI said some of the letters contained an unknown substance.
+
+The Misinformation Monitor newsletter rounds up international misinformation narratives, with a "Real or Fake?" quiz in every edition. Sign up [here.](https://www.reuters.com/newsletters/misinformation-monitor/?location=article-paragraph&redirectUrl=%2Fworld%2Fus%2Fus-postal-service-outlines-plans-handle-millions-ballots-2026-10-15%2F)
+
+The investigation come less than three weeks before the midterms, which will determine control of the US Congress, as the Postal Service prepares to handle millions of mailed ballots.
+
+Spokespeople for Senate Democratic Leader Chuck Schumer, Alex Padilla, a California Democrat, and Chris Murphy, a Connecticut Democrat, all said the US ​Postal Service intercepted letters containing a suspicious substance mailed to their offices.
+
+"This incident is a stark reminder of the very real dangers facing ​those who serve the public and who help administer our elections," Padilla said in a statement.
+
+The US House of ⁠Representatives sergeant at arms, the House's chief law enforcement officer, told staff in an email seen by Reuters that some public officials had received letters ​containing suspicious white powder substances.
+
+Brendan Donahue, a deputy chief inspector with the US Postal Inspection Service, said some suspicious letters had been intercepted and that an ​investigation was ongoing.
+
+"We are committed to protecting our nation's election officials from threatening and dangerous mail. Any threat or attack on an election official is unacceptable," Donahue told reporters.
+
+The National Association of Secretaries of State and the National Association of State Election Directors said late on Wednesday a series of suspicious letters was sent to state election offices. ​Letters bound for several state election offices were intercepted before they were delivered, including in Pennsylvania, Ohio and Idaho.
+
+The Wisconsin Elections Commission said on Thursday ​it received a suspicious letter with an unidentified powdery substance that was deemed not hazardous. "Let this be very clear: this incident will not shake us,” said Meagan Wolfe, the ‌state’s chief ⁠election official.
+
+An email to Senate staff said suspicious letters could have postmarks that do not match the return address and included an image of an envelope with a return address labeled "DSA" and a New York City address.
+
+## POSTAL SERVICE PLANS NEW MEASURES
+
+Earlier on Thursday, US Postmaster General David Steiner said USPS was "absolutely ready" to handle millions of ballots for the midterm elections.
+
+USPS said this month it would take "extraordinary measures" for the 2026 election, including extending hours at some ​retail locations and expediting handling, extra deliveries ​and special pickups of ballots.
+
+On ⁠September 14, the US Supreme Court declined to let USPS enforce a rule targeting mail-in ballots, dealing a setback to President Donald Trump's effort to restrict voting by mail. USPS said it would not enforce the rule under the ​order.
+
+The agency adopted the measure after Trump issued a March executive order aimed at tightening rules governing mail ​voting.
+
+In 2024, USPS delivered ⁠99.2 million ballots to and from voters in the presidential election. About 30% of votes were cast by mail in the November 2024 presidential election, down from 46% in 2020.
+
+Trump's fellow Republicans are locked in a tight battle to retain control of Congress in the midterms. Democratic voters disproportionately use mail-in ballots, according to ⁠various surveys, ​so restricting them could benefit Republicans.
+
+Under the rule that was blocked, states would have had ​to provide lists of mail-ballot recipients to USPS and use agency-approved outbound and return ballot mail envelopes outfitted with unique barcodes. The Postal Service could then have refused to send out ballots ​that did not comply or were associated with voters not appearing on the lists.
+
+Reporting by David Shepardson; Editing by Hugh Lawson, Rod Nickel and Lincoln Feast
 
 Our Standards: [The Thomson Reuters Trust Principles., opens new tab](https://www.thomsonreuters.com/en/about-us/trust-principles.html)
 
 - Suggested Topics:
 - [](https://www.reuters.com/world/us/)
-- [](https://www.reuters.com/legal/civil-rights/)
-- [](https://www.reuters.com/world/us/election-security/)
+- [](https://www.reuters.com/legal/constitutional-law/)
+- [](https://www.reuters.com/legal/judiciary/)
+- [](https://www.reuters.com/legal/supreme-court-of-the-united-states/)
 - [](https://www.reuters.com/legal/public-policy/)
 
 [](https://www.reutersagency.com/en/licensereuterscontent/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead)
 
-## Read Next / Editor's Picks
+## Read Next
 
+- [Worldcategory](https://www.reuters.com/world/)
+    
+    [Pentagon chief Hegseth calls moves to impeach him a farce and sabotage](https://www.reuters.com/world/pentagon-chief-hegseth-calls-moves-impeach-him-farce-that-will-fail-2026-11-10/)
+    
+    [
+    
+    ](https://www.reuters.com/world/pentagon-chief-hegseth-calls-moves-impeach-him-farce-that-will-fail-2026-11-10/)
+    
 - [United Statescategory](https://www.reuters.com/world/us/)
     
-    ['Trump has cost us': After midterm losses, MAGA asks if it's over](https://www.reuters.com/world/us/trump-has-cost-us-after-midterm-losses-maga-asks-if-its-over-2026-11-08/)
+    [A week after huge election losses, Republicans to choose their leaders in Congress](https://www.reuters.com/world/us/week-after-huge-election-losses-republicans-choose-their-leaders-congress-2026-11-10/)
     
     [
     
-    ![US President Trump campaigns in Texas](https://www.reuters.com/resizer/v2/XYGNUTB3EJJMNKOXEWQJVSTWKM.jpg?auth=9e03e2ea8aec49b318b40830a09381076fe54d3d73d728ad7925c9b7ac767bce&width=1200&quality=80)
+    ](https://www.reuters.com/world/us/week-after-huge-election-losses-republicans-choose-their-leaders-congress-2026-11-10/)
     
+- [United Statescategory](https://www.reuters.com/world/us/)
     
-    
-    ](https://www.reuters.com/world/us/trump-has-cost-us-after-midterm-losses-maga-asks-if-its-over-2026-11-08/)
-    
-- [Legalcategory](https://www.reuters.com/legal/)
-    
-    [With Stephen Miller at the helm, Trump charts a course for conflict](https://www.reuters.com/legal/legalindustry/with-stephen-miller-helm-trump-charts-course-conflict-2026-11-08/)
+    [What are the impeachment articles facing Pete Hegseth?](https://www.reuters.com/world/us/what-are-impeachment-articles-facing-pete-hegseth-2026-11-10/)
     
     [
     
-    ![White House deputy chief of staff Stephen Miller looks on outside the White House, in Washington](https://www.reuters.com/resizer/v2/V5IDXNG66NM2TMMSUA5ZWZQ7IM.jpg?auth=e9160d6c01282152b69eed59dac3dadbdb7742594a6460a6d3106d435e1a68ef&width=1200&quality=80)
-    
-    
-    
-    ](https://www.reuters.com/legal/legalindustry/with-stephen-miller-helm-trump-charts-course-conflict-2026-11-08/)
-    
-- [Legalcategory](https://www.reuters.com/legal/)
-    
-    [Democratic wins in state AG races give Trump a new headache](https://www.reuters.com/legal/government/democratic-wins-state-ag-races-give-trump-new-headache-2026-11-08/)
-    
-    [
-    
-    ![Democratic wins in state AG races give Trump a new headache](https://www.reuters.com/resizer/v2/S26QSA4CTVPEJB2BG54BUJGKN4.jpg?auth=d8d3672bc604bb8558e1c9e865fbcf3ab330bdff656918747a8d2e428f446271&width=1200&quality=80)
-    
-    
-    
-    ](https://www.reuters.com/legal/government/democratic-wins-state-ag-races-give-trump-new-headache-2026-11-08/)
-    
-
-- [
-    
-    ](https://www.reuters.com/world/us/rubio-seeks-impose-order-state-republicans-look-ahead-2028-2026-11-07/)
+    ](https://www.reuters.com/world/us/what-are-impeachment-articles-facing-pete-hegseth-2026-11-10/)
     
 - [
     
-    ](https://www.reuters.com/legal/litigation/democratic-attorney-general-wins-could-reshape-us-lawsuits-abortion-immigration-2026-11-08/)
+    ](https://www.reuters.com/world/us/most-americans-want-new-democratic-congress-end-trumps-iran-war-reutersipsos-2026-11-10/)
     
 - [
     
-    ](https://www.reuters.com/legal/government/special-master-named-ethics-probe-lawsuit-over-trumps-dc-golf-project-2026-11-08/)
+    ](https://www.reuters.com/legal/transactional/ai-debt-faces-pressure-democrats-prepare-take-over-congress-2026-11-10/)
     
 - [
     
-    ](https://www.reuters.com/legal/government/us-anti-trans-ballot-wins-pose-challenge-democrats-ahead-2028-2026-11-07/)
-    
-- [
-    
-    ](https://www.reuters.com/world/trump-orders-doj-look-into-democrats-threatening-people-2026-11-07/)
-    
-- [
-    
-    ](https://www.reuters.com/business/media-telecom/trump-offers-ufc-chief-dana-white-top-communications-job-2026-11-07/)
-    
-- [
-    
-    ](https://www.reuters.com/legal/government/justice-department-joins-texas-lawsuit-against-planned-parenthood-2026-11-07/)
-    
-- [
-    
-    ](https://www.reuters.com/legal/government/how-democrats-won-their-blowout-midterm-victory-2026-11-07/)
-    
-- [
-    
-    ](https://www.reuters.com/business/world-at-work/employers-watchmen-california-ports-extend-contract-talks-2026-11-07/)
-    
-- [
-    
-    ](https://www.reuters.com/legal/government/houston-mayor-curtails-police-cooperation-with-ice-saying-elections-matter-2026-11-07/)
-    
-- [
-    
-    ](https://www.reuters.com/world/us/trump-says-stephen-miller-become-chief-staff-2026-11-06/)
+    ](https://www.reuters.com/world/us/us-consumer-prices-rise-above-expectations-october-2026-11-10/)
     
 
 [](https://www.lseg.com/en/data-analytics/products/workspace?utm_source=reuters.com&utm_medium=articlebanner&utm_campaign=Reuters_ProductPage_Links)
+
+## [World](https://www.reuters.com/world/)
+
+- [
+    
+    ](https://www.reuters.com/world/italy-sees-planned-f-35-fighter-jet-spending-rise-by-73-billion-2026-11-10/)
+    
+    ### [Italy sees planned F-35 fighter jet spending rise by €7.3 billion](https://www.reuters.com/world/italy-sees-planned-f-35-fighter-jet-spending-rise-by-73-billion-2026-11-10/)
+    
+    [Worldcategory](https://www.reuters.com/world/) · November 10, 2026 · 7:22 AM MST · 5 mins ago
+    
+    Italy's government is seeking parliamentary approval to increase ​planned investment in F-35 fighter ‌jets by €7.28 billion ($8.17 billion), lifting the programme's overall cost by more than ​50%, according to a parliamentary ​document.
+    
+- [
+    
+    ](https://www.reuters.com/business/healthcare-pharmaceuticals/jj-eyes-us-nod-caplyta-bipolar-mania-after-second-trial-win-2026-11-10/)
+    
+    [category](https://www.reuters.com/business/)[J&J eyes US nod for Caplyta in bipolar mania after second trial win](https://www.reuters.com/business/healthcare-pharmaceuticals/jj-eyes-us-nod-caplyta-bipolar-mania-after-second-trial-win-2026-11-10/)
+    
+    7:11 AM MST
+    
+- [
+    
+    ](https://www.reuters.com/world/us/what-are-impeachment-articles-facing-pete-hegseth-2026-11-10/)
+    
+    [United Statescategory](https://www.reuters.com/world/us/)[What are the impeachment articles facing Pete Hegseth?](https://www.reuters.com/world/us/what-are-impeachment-articles-facing-pete-hegseth-2026-11-10/)
+    
+    7:06 AM MST
+    
+- [
+    
+    ](https://www.reuters.com/world/uk/boes-lombardelli-sees-risk-that-persistent-inflation-will-crystallise-2026-11-10/)
+    
+    [United Kingdomcategory](https://www.reuters.com/world/uk/)[BoE's Lombardelli sees risk that persistent inflation will crystallise](https://www.reuters.com/world/uk/boes-lombardelli-sees-risk-that-persistent-inflation-will-crystallise-2026-11-10/)
+    
+    7:04 AM MST
+    
+- [
+    
+    ](https://www.reuters.com/live/hegseth-press-conference-live-pentagon-briefing-ahead-possible-house-impeachment-2026-11-10/)
+    
+    [Livecategory](https://www.reuters.com/live/)[Hegseth calls impeachment effort a farce](https://www.reuters.com/live/hegseth-press-conference-live-pentagon-briefing-ahead-possible-house-impeachment-2026-11-10/)
+    
+    7:00 AM MST
+    
 
 ### Site Index
 
@@ -239,7 +278,6 @@ Reuters, the news and media division of Thomson Reuters, is the world’s larges
 - [Corrections](https://www.reuters.com/info-pages/contact-us/)
 - [Data Disclosure and Sources, opens new tab](https://www.reuters.com/info-pages/data-disclosure-and-sources/)
 - [Site Feedback, opens new tab](https://trdigital.iad1.qualtrics.com/jfe/form/SV_8kte8gArGyCGVhz)
-- Manage Cookies
 
 All quotes delayed a minimum of 15 minutes. [See here for a list of exchanges and delays.](https://www.reuters.com/info-pages/disclaimer/)
 
