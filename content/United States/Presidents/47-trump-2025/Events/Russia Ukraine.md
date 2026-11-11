@@ -23,6 +23,21 @@
 		- Turn on for Iran June 2025 and February 2026 during US strikes
 		- Turn off for Ukraine in October 2026
 
+# Negotiations
+Sticking points include territory (Russian forces control about a fifth of Ukraine), future security guarantees, and Moscow's demands that Ukraine not join NATO.
+## February 2025 Phone Calls and Saudi Arabia Meeting
+## February 28, 2025 White House Clash.
+## Spring 2025 Istanbul Talks.
+## August 2025 Summits.
+## November 2025 Geneva Talks and the 28-Point Plan.
+## December 2025 Kremlin Talks.
+## Late December 2025 Revised Framework. 
+## September 2026 Moscow-to-Kyiv Shuttle
+## October–November 2026 White House and Abu Dhabi Talks
+- [November 5](https://www.reuters.com/world/trump-says-he-met-putin-envoy-dmitriev-2026-11-05/): Trump meets with Putin's special envoy Kirill ​Dmitriev at the White House.
+- [November 10](https://www.reuters.com/world/europe/russia-ukraine-meet-us-backed-talks-after-trump-says-broad-deal-possible-2026-11-10/): Russian and Ukrainian officials meet US envoys in Abu Dhabi,  for ​their first peace talks since February. The new American push galvanized European officials into pushing for a place at the table. Before the main meeting, the Ukrainians ​met separately with European, NATO and European Union ⁠representatives and the two American envoys.
+
+
 # Sanctions
 - **Lindsey Graham Sanctions** (September 2026): Congress passes [sweeping sanctions and tariff bill](https://www.reuters.com/legal/government/us-house-takes-up-russia-sanctions-bill-backed-by-late-senator-graham-2026-09-16/) intended to increase economic pressure on Russia. The bill was introduced 1-1/2 years before by the late Senator Lindsey Graham. House passed 262 to 159, Senate passed 86 to 11. It faced pushback because it also authorizes Trump to impose stiff tariffs of up to 100% on China, India and other countries to reduce their dependence ​on Russian oil and gas, as well as to extend sanctions on Iran. However in October, Trump [waved the Lindsey Graham Act sanctions and tariffs](https://www.reuters.com/world/us/rubio-says-trump-take-up-60-days-weigh-russia-sanctions-2026-10-18/) on Russia and opted for a 60 day review. The move came right before midterms and only a week after the US agreed to buy Russian diesel with US diesel prices still near record highs. 
 
