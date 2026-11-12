@@ -8,6 +8,9 @@
 - [October 7](https://www.reuters.com/world/us-consumer-watchdog-examiners-adopt-lighter-touch-amid-pressure-threats-sources-2026-10-07/): Reuters reports that CFPB has began a more lenient review process including over 50% of reviews being expedited reviews. The change followed a warning from a top CFPB examiner of "most ‌unpleasant" consequences if ⁠reviewers were too aggressive.
 
 
+# USDA
+Under Agriculture Secretary Brooke Rollins, The USDA aimed to move about half of the USDA's Washington, DC-area employees to hubs around the country as part ​of the Trump administration's sweeping effort to overhaul the federal ​government. 
+- **GAO Report**: In November 2026, a Government Accountability Office report said the farm agency reorganization [lacked transparency](https://www.reuters.com/business/us-farm-agency-reorganization-lacks-transparency-federal-watchdog-says-2026-11-09/) including not responding to GAO requests. The ​USDA workforce decreased 20% from December 2024 through March 2026, from about 91,000 ‌employees ⁠to about 73,000, the report said. Many of those departures were tied to federal worker cuts spearheaded by the DOGE.
 
 # FHFA
 - In October 2026 the FHFA Inspector General submitted a report that alleged the agency interfered with its independence and [blocked its oversight](https://www.reuters.com/legal/government/trump-appointee-bill-pultes-housing-agency-obstructed-watchdog-report-says-2026-10-30/) of Fannie Mae and Freddie Mac culling the obstruction "unprecedented". It said the FHFA had refused to provide records and information in response to the watchdog's request during three separate allegations. 

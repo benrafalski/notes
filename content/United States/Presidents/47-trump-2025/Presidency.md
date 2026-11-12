@@ -29,7 +29,7 @@
 ## Treasury: 
 ## Defense
 ### Pete Hegseth
-- **Impeachment Proceedings**: In November 2026, following the Republican defeat in the midterms, US Representative Thomas Massey introduced Articles of Impeachment against Hegseth. Hegseth called the efforts to him impeach him [a farce and sabotage](https://www.reuters.com/world/pentagon-chief-hegseth-calls-moves-impeach-him-farce-that-will-fail-2026-11-10/) that plays into the hands of Iran. Trump responded by writing, "Pete Hegseth gets an 'A' PLUS, ​PLUS, PLUS for his defense against a disgruntled, angry, defeated, former Congressman, Thomas Massie, a TOTAL LOSER!"
+- **Impeachment Proceedings**: In November 2026, following the Republican defeat in the midterms, US Representative Thomas Massey introduced Articles of Impeachment against Hegseth. Hegseth called the efforts to him impeach him [a farce and sabotage](https://www.reuters.com/world/pentagon-chief-hegseth-calls-moves-impeach-him-farce-that-will-fail-2026-11-10/) that plays into the hands of Iran. Trump responded by writing, "Pete Hegseth gets an 'A' PLUS, ​PLUS, PLUS for his defense against a disgruntled, angry, defeated, former Congressman, Thomas Massie, a TOTAL LOSER!" However, the House blocked the bid, voting down the motion to send it to the Republican House Judiciary Committee where it would have been killed anyway.
 
 ## Attorney General
 ### Todd Blanche (From August 8, 2026)
