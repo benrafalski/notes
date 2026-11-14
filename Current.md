@@ -24,184 +24,252 @@
 
 [My News](https://www.reuters.com/my-news/feed/)
 
-[](https://www.reuters.com/account/sign-in/?website=reuters&redirect=https%3A%2F%2Fwww.reuters.com%2Fworld%2Feurope%2Frussia-ukraine-meet-us-backed-talks-after-trump-says-broad-deal-possible-2026-11-10%2F)[](https://www.reuters.com/account/subscribe/offer/?website=reuters&redirect=https%3A%2F%2Fwww.reuters.com%2Fworld%2Feurope%2Frussia-ukraine-meet-us-backed-talks-after-trump-says-broad-deal-possible-2026-11-10%2F&referrer=subscription_button&journeyStart=navigation)
+[](https://www.reuters.com/account/sign-in/?website=reuters&redirect=https%3A%2F%2Fwww.reuters.com%2Fbusiness%2Fhealthcare-pharmaceuticals%2Fhow-us-was-left-exposed-flesh-eating-screwworm-years-into-outbreak-2026-11-09%2F)[](https://www.reuters.com/account/subscribe/offer/?website=reuters&redirect=https%3A%2F%2Fwww.reuters.com%2Fbusiness%2Fhealthcare-pharmaceuticals%2Fhow-us-was-left-exposed-flesh-eating-screwworm-years-into-outbreak-2026-11-09%2F&referrer=subscription_button&journeyStart=navigation)
 
-# US attempts new peace push at first Russia-Ukraine talks in nine months
+# How the US was left exposed to the flesh-eating screwworm, years into the outbreak
 
-By [Roula Rouhana](https://www.reuters.com/authors/roula-rouhana/)
+By [Cassandra Garrison](https://www.reuters.com/authors/cassandra-garrison/), [Leah Douglas](https://www.reuters.com/authors/leah-douglas/) and [Adriana Barrera](https://www.reuters.com/authors/adriana-barrera/)
 
-November 9, 20265:03 PM MSTUpdated 6 hours ago
+November 9, 20264:01 AM MSTUpdated November 9, 2026
 
-![Zelenskiy welcomes shift in US messages on Ukraine peace efforts](https://ajo.prod.reuters.tv/api/v2/img/6af3f1f9e4b00fd4d33e847f?width=1080&quality=80)
+Item 1 of 3 A reference collection of botflies sits in a petri dish on a counter at the Knipling-Bushland U.S. Livestock Insects Research Laboratory in Kerrville, Texas, U.S. July 14, 2026. REUTERS/Kaylee Greenlee
+
+**[1/3]**A reference collection of botflies sits in a petri dish on a counter at the Knipling-Bushland U.S. Livestock Insects Research Laboratory in Kerrville, Texas, U.S. July 14, 2026. REUTERS/Kaylee Greenlee [Purchase Licensing Rights, opens new tab](https://www.reutersconnect.com/item/usda-lab-studies-new-world-screwworm-in-texas/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1JDMlVETUEyTUQwMg%3D%3D/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead)
 
 - Summary
 
-- Russian and Ukrainian officials meet US envoys in Abu Dhabi
-- Zelenskiy happy with 'changes' in US approach
-- Europe seeks greater involvement in peace process
-- Lavrov says broad security agreement should precede deal to end war
+- Sterile flies are the only proven tool to stop the parasite. But there are still supply shortages
+- US recorded two new cases of screwworm in October
+- Texas sterile-fly plant due to start production in spring 2027
 
-ABU DHABI, Nov 10 (Reuters) - Russian and Ukrainian officials met in Abu Dhabi on Tuesday for ​their first peace talks since February as US President Donald Trump's envoys launched a new push to end the [war in Ukraine](https://www.reuters.com/world/ukraine-russia-war/).
+![USDA-authorized reopening resumes Mexican cattle exports through Jeronimo-Santa Teresa crossing](https://www.reuters.com/resizer/v2/E7NFRU3R3BCPJNGLJUG4IVVNAU.JPG?auth=ca55a1a0476e4f45701d55423544309c0c8463aa0a438694434c2b6cf22f8ea2&width=1920&quality=80)
 
-Secretary of State Marco Rubio described the US-brokered meeting as ‌very productive, without giving details.
+Livestock remain in pens before being exported to the United States through the Jeronimo-Santa Teresa border crossing at the Chihuahua Regional Livestock Union facility outside Ciudad Juarez, Mexico, after the US Department of Agriculture (USDA) authorized the resumption of Mexican cattle imports through the crossing following a... [Purchase Licensing Rights, opens new tab](https://www.reutersagency.com/en/licensereuterscontent/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead) Read more
 
-Get a look at the day ahead in European and global markets with the Morning Bid Europe newsletter. Sign up [here.](https://www.reuters.com/newsletters/morning-bid-europe/?location=article-paragraph&redirectUrl=%2Fworld%2Feurope%2Frussia-ukraine-meet-us-backed-talks-after-trump-says-broad-deal-possible-2026-11-10%2F)
+MEXICO CITY/WASHINGTON, Nov 9 (Reuters) - For decades, planes dropped billions of factory-bred sterile flies to keep the flesh-eating New World screwworm out of North America’s cattle. That controls the pest because sterile males mate with wild females – whose eggs then fail to hatch.
 
-Ukrainian President Volodymyr Zelenskiy called the talks "constructive and quite substantive", and said they had included humanitarian and security issues.
+But the strategy works only if the supply of flies never runs short.
 
-Addressing reporters later in Denmark, Zelenskiy said he was pleased with messages he had been receiving from the two US presidential envoys, Steve Witkoff and Jared Kushner.
+Keep up with the latest medical breakthroughs and healthcare trends with the award-winning Reuters Health Rounds newsletter. Sign up [here.](https://www.reuters.com/newsletters/reuters-health-rounds/?location=article-paragraph&redirectUrl=%2Fbusiness%2Fhealthcare-pharmaceuticals%2Fhow-us-was-left-exposed-flesh-eating-screwworm-years-into-outbreak-2026-11-09%2F)
 
-"I see changes. I am very happy about what I hear," Zelenskiy said.
+When the parasite broke through a barrier of sterile ​flies in Panama in early 2023, the region lacked the capacity to contain it. Efforts to scale up the fly population still lag more than three years into the outbreak, after the parasite ripped through Mexico and into the United States, according ‌to Reuters interviews with 15 current and former officials and experts in the US, Mexico and Panama.
 
-"The release of prisoners (of war) is a priority. They spoke in detail about the substance of security guarantees for Ukraine and the ​foundations for ensuring these guarantees function over the long term," he posted on X.
+Short on flies, the administration of US President Donald Trump closed the border with Mexico to cattle imports for more than 15 months starting in May 2025, disrupting a multibillion-dollar trade. As the border began to reopen this year, dozens of cases were confirmed in US cattle.
 
-Russian Deputy Foreign Minister Sergei Ryabkov said it was too early to assess the meeting ahead of a second ​day of talks on Wednesday.
+Mexico and Panama currently produce a total of about 150 million sterile flies a week, according to US and Mexican government data.
 
-The meeting followed US contacts with both sides in recent weeks that Kushner said had narrowed gaps between their positions.
+![Mexico hinges hope of eradicating screwworm on urgent push to open sterile fly plant](https://www.reuters.com/resizer/v2/IDYRXEB2AZJFTHEKFFVAB7S7AA.jpg?auth=01e9c6e2f07585a88dc9cb8d0b1af1037049a9921aaf03f16ba4d2244bc3efaa&width=1920&quality=80)
 
-"We are encouraged by ⁠the constructive discussions today," Kushner wrote on X after the first day wrapped up.
+A biologist holds Mediterranean fruit fly eggs at a bio-factory as Mexico's government reconditions a plant to become the new sterile screwworm fly facility, part of the country's effort to eradicate the flesh-eating parasite that threatens its livestock industry and raises tensions with the United States, in Metapa de Dominguez,... [Purchase Licensing Rights, opens new tab](https://www.reutersconnect.com/item/mexico-hinges-hope-of-eradicating-screwworm-on-urgent-push-to-open-sterile-fly-plant/dGFnOnJldXRlcnMuY29tLDIwMjU6bmV3c21sX1JDMlNESEFTVTNGWg%3D%3D/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead) Read more
 
-He said the US side was working to end the war and "establish the security arrangements necessary for a sovereign, secure, and prosperous ​Ukraine and lasting peace across Europe."
+That’s less than a third of the 500 million per week it took during a 1960s campaign that eradicated the screwworm in the US – and that experts recommend as the benchmark to keep the pest contained to south of Panama. ​The US has no sterile-fly plant of its own, and one under construction in Texas isn’t expected to start production until spring 2027.
 
-## GULF BETWEEN RUSSIA AND UKRAINE ON TERMS FOR A DEAL
+Meanwhile, the parasite has spread across most of Mexico, with about 51,000 confirmed cases. The United States has recorded 120 cases to date.
 
-Despite public optimism from Trump, the warring sides remain far apart on terms for a possible settlement, more than 4-1/2 years after ​Russia's full-scale invasion of Ukraine.
+"We don't have ​enough flies,” said Sonja Swiger, an entomologist at Texas A&M University. “They knew that right away."
 
-Russian forces control about a fifth of Ukraine, but territory is not the only issue at stake. Others include future security guarantees, which both sides want, and Moscow's demands that Ukraine adopt neutral status and not join NATO.
+Efforts to make more flies at several stages of the infestation have been hampered by political transitions, funding delays, bureaucratic hurdles and rising US-Mexico ⁠tensions, current and former government officials told Reuters.
 
-Trump has intensified pressure on Kyiv to reach a deal, saying it is time for Ukraine to end the war or face "a very bad thing". Last week he said the war was close to being settled in a ["big beautiful agreement"](https://www.reuters.com/world/asia-pacific/russias-dmitriev-washington-first-us-contact-since-trumps-midterm-setback-2026-11-05/), but he ​has frequently predicted breakthroughs that have not materialised.
+USDA spokesperson Nancy McNiff said in emailed responses to Reuters that the agency has “acted urgently and pursued every practical avenue to get more sterile flies into the field as quickly as possible.”
 
-## RUSSIA WANTS SECURITY FRAMEWORK TO COME FIRST
+Spokespeople for Mexican President Claudia Sheinbaum, Mexico’s agriculture ministry, the Panama-United States Commission for ​the Eradication and Prevention of Screwworm (COPEG) and Panama’s government did not respond to requests for comment.
 
-Item 1 of 5 Delegates including US officials, led by United States Special Envoy Steve Witkoff and Jared Kushner, US President Donald Trump's son-in-law, members of the Russian delegation, led by Vladimir Medinsky, an aide to Russia's President Vladimir Putin, and members of the Ukrainian delegation, led by Secretary of the National Security and Defense Council of Ukraine Rustem Umerov, attend the UAE-hosted trilateral talks between the United States, Russian and Ukrainian delegations, in Abu Dhabi, United Arab Emirates, November 10, 2026. REUTERS/Rula Rouhana
+## ALARM IN PANAMA
 
-**[1/5]**Delegates including US officials, led by United States Special Envoy Steve Witkoff and Jared Kushner, US President Donald Trump's son-in-law, members of the Russian delegation, led by Vladimir Medinsky, an aide to Russia's President Vladimir Putin, and members of the Ukrainian delegation, led by... [Purchase Licensing Rights, opens new tab](https://www.reutersconnect.com/item/uae-hosts-ukraine-russia-talks-convened-by-the-us-in-abu-dhabi/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1JDMldLT0FUWENVWQ%3D%3D/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead) Read more
+Screwworm larvae tear through living tissue and can kill untreated animals. A single fly can lay up to 3,000 eggs.
 
-Russian Foreign Minister Sergei Lavrov underlined Moscow's preference for negotiating a broad European security framework before tackling the specifics of the war.
+Releases of billions of factory-made sterile flies eradicated screwworm in the US in 1966 and contained a ​flare-up in Florida in 2017.
 
-"The ​idea of defining clear parameters for a future security architecture, and only then moving on to resolving the actual Russia-Ukraine conflict, is absolutely reasonable," he said in Moscow.
+In late February 2023, officials in Panama's Darien province confronted about 800 cases of screwworm inside the jungle that had long served as North America's last line of defense.
 
-Zelenskiy told journalists he had deep reservations about the proposals for a ‌new security ⁠architecture.
+Maintaining that barrier is the job of COPEG, the US-Panamanian organization that gets most of its funding from the US. In April 2023, it decided to increase sterile-fly production to 100 million a week from 20 million a week, said a Panamanian official involved in the response.
 
-"We are all very cautious with this topic because nobody really understands 100% what they want," he said. "Everybody is ready for dialogue. First, stop the war in Ukraine. Second, security guarantees for Ukraine. Third, maybe some dialogue about the topic of security in Europe, in the world."
+By July 2023, Panama declared the spread of screwworm an emergency, expanding sterile-fly releases, tightening livestock controls and intensifying surveillance.
 
-European Commission President Ursula von der Leyen said on Monday wider security talks should only follow a ceasefire. Lavrov rejected the notion of a truce, saying the Europeans were trying to secure breathing space for Ukraine.
+In December 2023, the administration of former US President Joe Biden [announced nearly $110 million, opens new tab](https://web.archive.org/web/20240619230054/https://www.aphis.usda.gov/news/agency-announcements/usda-protects-fruit-vegetable-livestock-producers-emergency-funding) in additional funding for screwworm detection and sterile-fly production in Panama ​and elsewhere.
 
-The new American drive for a deal has galvanized European officials into pushing for a place at the table to seek an end to Europe's deadliest conflict since ​World War Two. Before the main meeting, the Ukrainians ​met separately with European, NATO and European Union ⁠representatives and the two American envoys.
+In November 2024, 19 months into the expansion, Panama’s plant reached 100 million flies a week, according to the Panamanian official.
 
-France said lasting peace was not possible without addressing European security, and Europeans had to be involved.
+That month Mexico confirmed its first cases in Chiapas, a southern state bordering Guatemala, and began releases.
 
-European governments have mostly shunned contact with Russian President Vladimir Putin during the war, though Finnish and Norwegian leaders held a call with him on October 27 that was criticised by some of their ​European peers.
+By then, the authorities knew that 100 million sterile flies a week was not enough, ​the Panamanian official told Reuters.
 
-Russia had made clear it did not see a place for Europeans at the meeting with the Ukrainians and Americans.
+## GAPS IN MEXICO
 
-Rubio, speaking in Paris, said ​the US aimed to expand ⁠the trilateral talks to include Europe at some point.
+Cowboys look on at the facilities of the Chihuahua Regional Livestock Union on the day the US Department of Agriculture (USDA) authorized the resumption of Mexican cattle imports through the crossing following a year-long suspension aimed at preventing the spread of New World screwworm, outside Ciudad Juarez, Mexico, September... [Purchase Licensing Rights, opens new tab](https://www.reutersagency.com/en/licensereuterscontent/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead) Read more
 
-## NEW ATTACKS
+Elections in the United States and Mexico slowed the response.
 
-On the eve of the talks, Trump said Washington saw a "very strong inclination" towards ending the war, with both sides "tired of fighting".
+In September 2024, as President Andres Manuel Lopez Obrador’s administration prepared to leave office, outgoing officials warned their successors that the screwworm epidemic needed immediate attention, a Mexican official familiar with the response said.
 
-There has been [no sign](https://www.reuters.com/world/eus-kallas-sees-no-sign-russian-goodwill-negotiate-peace-2026-11-09/) publicly that Putin is willing to drop his demand that Ukraine surrender the entire eastern region of Donbas before a peace deal can be struck. Zelenskiy has refused to hand over land that his forces have died defending.
+Early planning centered on converting an existing fruit-fly plant ‌in Metapa, Chiapas, ⁠rather than building a new plant.
 
-Russian advances have slowed, ⁠but Moscow has ​been pounding Ukrainian cities and energy sites, while Ukraine has stepped up attacks on Russian oil refineries and other infrastructure.
+The handover delayed the effort by three to four months, the official said, as the new government sorted out funding and prepared a proposal for President Claudia Sheinbaum.
 
-Ukrainian Foreign Minister ​Andrii Sybiha, [speaking to Reuters](https://www.reuters.com/world/ukraine-urges-united-states-speed-up-interceptor-deliveries-russia-targets-power-2026-11-10/), said he had urged Rubio to accelerate deliveries of interceptors as Russia ramps up attacks on energy targets.
+In May 2025, the Trump administration announced $21 million in funding for the Metapa project. US and Mexican officials said the plant could eventually produce 60 million to 100 million sterile flies a week.
 
-"We should work on the peace track, but in parallel we should continue to pressure Russia," Sybiha said.
+Sterile-fly drops from COPEG shifted to the Texas-Mexico border in February 2026.
 
-Additional reporting by Dan Flynn and ​Yuliia Dysa in Kyiv, Simon Lewis and John Irish in Paris, Steve Holland, Humeyra Pamuk and Susan Heavey in Washington, Stine Jacobsen in Copenhagen; Writing by Mark Trevelyan, Editing by Timothy Heritage, Ron Popeski and Lincoln Feast.
+A reference collection of botflies sits in a petri dish on a counter at the Knipling-Bushland U.S. Livestock Insects Research Laboratory in Kerrville, Texas, U.S. July 14, 2026. REUTERS/Kaylee Greenlee [Purchase Licensing Rights, opens new tab](https://www.reutersconnect.com/item/usda-lab-studies-new-world-screwworm-in-texas/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1JDMlVETUEyTUQwMg%3D%3D/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead)
+
+Sheinbaum pushed agencies to accelerate Mexico’s plant project, seeking an April launch, according to the Mexican government official. In the end, the facility was inaugurated on June 27 – more than 18 months after the country confirmed its first screwworm case.
+
+By then, the parasite had spread across 27 states, reaching major cattle-producing areas of Coahuila and Durango in northern Mexico, hundreds of miles from the southern border.
+
+## A PLANT IN TEXAS
+
+The first US case was confirmed on June 3. But the US still had no production facility of ​its own.
+
+USDA had begun discussing a facility in November 2024, and field staff ​met with Texas cattle industry groups about locations that month and ⁠in December, according to a former Biden official.
+
+In June 2025, Agriculture Secretary Brooke Rollins said the USDA was considering Moore Air Force Base in Edinburg, Texas, home to a retired fly plant that had been key to the success of the 1960s campaign.
+
+This March, the Trump administration awarded a $610 million contract to M.A. Mortenson to construct the facility, according to publicly available records of the contract through a US government spending database.
+
+The USDA initially believed the project could take up ​to five years, spokesperson McNiff said.
+
+Administration officials pressed to move faster. USDA limited bids on construction, arguing that open bidding could delay a time-sensitive project, according to the spending records.
+
+At a September meeting of the Texas ​A&M Board of Regents, Rollins said Defense Secretary ⁠Pete Hegseth had moved the project to the top of the Army Corps’ priority list, cutting the timeline to about 18 months, or fall 2027.
+
+John Bellinger, Rollins’ advisor on screwworm and a member of the board, said he pushed to move even faster. "For only $250 million more, we got it moved to April 1 of next year," Bellinger told the regents, further shortening the timeline by about six months.
+
+Mortenson spokesperson Cameron Snyder said in an email that the company is committed to working with the USDA and the Army Corps to deliver the plant quickly.
+
+Until the plant opens, the United States remains reliant on sterile flies produced elsewhere, roughly 150 million a week ⁠combined from the plants ​in Panama and Metapa, Mexico.
+
+Although Chiapas remains Mexico’s hardest-hit state, with about 8,200 confirmed infestations, USDA said all sterile flies produced in Panama and Mexico are currently being released in northern ​Mexico and the US.
+
+Workers handle trays with Mediterranean fruit flies at a bio-factory as Mexico's government reconditions a plant to become the new sterile screwworm fly facility, part of the country's effort to eradicate the flesh-eating parasite that threatens its livestock industry and raises tensions with the United States, in Metapa de... [Purchase Licensing Rights, opens new tab](https://www.reutersagency.com/en/licensereuterscontent/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead) Read more
+
+The strategy aims to stop the parasite’s northward advance before working back south, leaving much of Mexico and Central America reliant on surveillance and treatment, rather than eradication.
+
+Even where cases have been suppressed, protection depends on sterile flies arriving week after week, Swiger said.
+
+Some experts estimate it could take as long as a decade to push the screwworm infestation back to Panama. ​That leaves North America’s defense against the pest dependent on a biological supply chain that – more than three years into the outbreak – still produces only a fraction of the needed sterile flies.
+
+Reporting by Cassandra Garrison and Adriana Barrera in Mexico City and Leah Douglas in Washington. Editing by Emily Schmall and Suzanne Goldenberg
 
 Our Standards: [The Thomson Reuters Trust Principles., opens new tab](https://www.thomsonreuters.com/en/about-us/trust-principles.html)
 
 - Suggested Topics:
-- [](https://www.reuters.com/world/europe/)
+- [](https://www.reuters.com/business/environment/)
 
 [](https://www.reutersagency.com/en/licensereuterscontent/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead)
 
+[
+
+](https://www.reuters.com/authors/cassandra-garrison/)
+
+[Cassandra Garrison](https://www.reuters.com/authors/cassandra-garrison/)
+
+Thomson Reuters
+
+Mexico-based reporter focusing on climate change and companies with an emphasis on telecoms. Previously based in Santiago de Chile and Buenos Aires covering the Argentine debt crisis, the tussle for influence between the United States and China in Latin America and the coronavirus pandemic.
+
+- [](mailto:Cassandra.Garrison@thomsonreuters.com)
+- [](https://x.com/CassLGarrison)
+- [](https://www.reuters.com/business/healthcare-pharmaceuticals/how-us-was-left-exposed-flesh-eating-screwworm-years-into-outbreak-2026-11-09/@cassandragarrison)
+- [](https://www.linkedin.com/in/cassandra-garrison-6b93b48/)
+
+[
+
+](https://www.reuters.com/authors/leah-douglas/)
+
+[Leah Douglas](https://www.reuters.com/authors/leah-douglas/)
+
+Thomson Reuters
+
+Washington-based award-winning journalist covering agriculture and energy including competition, regulation, federal agencies, corporate consolidation, environment and climate, racial discrimination and labour, previously at the Food and Environment Reporting Network.
+
+- [](mailto:leah.douglas@thomsonreuters.com)
+- [](https://x.com/leahjdouglas)
+- [](https://www.linkedin.com/in/leahjdouglas/)
+
 ## Read Next
 
-- [Worldcategory](https://www.reuters.com/world/)
+- [Sustainabilitycategory](https://www.reuters.com/sustainability/)
     
-    [Tight security as thousands gather for far-right Polish march](https://www.reuters.com/world/tight-security-thousands-gather-far-right-polish-march-2026-11-11/)
-    
-    [
-    
-    ](https://www.reuters.com/world/tight-security-thousands-gather-far-right-polish-march-2026-11-11/)
-    
-- [Legalcategory](https://www.reuters.com/legal/)
-    
-    [UK children's author Walliams named as subject of sexual allegations by media](https://www.reuters.com/legal/litigation/uk-childrens-author-walliams-named-subject-sexual-allegations-by-media-2026-11-10/)
+    [UN climate chief urges speed as COP31 confronts fossil fuel divide](https://www.reuters.com/sustainability/cop/un-climate-chief-urges-speed-cop31-confronts-fossil-fuel-divide-2026-11-14/)
     
     [
     
-    ](https://www.reuters.com/legal/litigation/uk-childrens-author-walliams-named-subject-sexual-allegations-by-media-2026-11-10/)
+    ](https://www.reuters.com/sustainability/cop/un-climate-chief-urges-speed-cop31-confronts-fossil-fuel-divide-2026-11-14/)
     
-- [World at Workcategory](https://www.reuters.com/business/world-at-work/)
+- [Environmentcategory](https://www.reuters.com/business/environment/)
     
-    [Workers across Spain stage first general strike in 14 years](https://www.reuters.com/business/world-at-work/workers-across-spain-stage-first-general-strike-14-years-anger-over-housing-2026-11-11/)
+    [As smog hangs over Lahore, Pakistan's new pollution squad races to douse stubble fires](https://www.reuters.com/business/environment/smog-hangs-over-lahore-pakistans-new-pollution-squad-races-douse-stubble-fires-2026-11-14/)
     
     [
     
-    ](https://www.reuters.com/business/world-at-work/workers-across-spain-stage-first-general-strike-14-years-anger-over-housing-2026-11-11/)
+    ](https://www.reuters.com/business/environment/smog-hangs-over-lahore-pakistans-new-pollution-squad-races-douse-stubble-fires-2026-11-14/)
+    
+- [Environmentcategory](https://www.reuters.com/business/environment/)
+    
+    [Delhi overtakes Lahore as world's most polluted city as air quality drops](https://www.reuters.com/business/environment/delhi-overtakes-lahore-worlds-most-polluted-city-air-quality-drops-2026-11-13/)
+    
+    [
+    
+    ](https://www.reuters.com/business/environment/delhi-overtakes-lahore-worlds-most-polluted-city-air-quality-drops-2026-11-13/)
     
 - [
     
-    ](https://www.reuters.com/world/least-300-italian-schools-evacuated-after-email-bomb-alerts-2026-11-11/)
+    ](https://www.reuters.com/sustainability/cop/urgent-climate-finance-pleas-cop31-face-non-urgent-response-2026-11-13/)
     
 - [
     
-    ](https://www.reuters.com/business/environment/portugal-cancels-200-plus-flights-shuts-schools-storm-charles-hits-2026-11-11/)
+    ](https://www.reuters.com/sustainability/cop/uk-norway-canada-launch-10-billion-climate-finance-initiative-2026-11-13/)
     
 - [
     
-    ](https://www.reuters.com/technology/romanian-intelligence-agency-says-it-identified-russian-linked-cyber-attack-2026-11-11/)
+    ](https://www.reuters.com/business/environment/earthquake-magnitude-56-strikes-near-coast-peru-gfz-says-2026-11-13/)
     
 
 [](https://www.lseg.com/en/data-analytics/products/workspace?utm_source=reuters.com&utm_medium=articlebanner&utm_campaign=Reuters_ProductPage_Links)
 
-## [World](https://www.reuters.com/world/)
+## [Business](https://www.reuters.com/business/)
 
 - [
     
-    ](https://www.reuters.com/world/americas/un-says-kidnappings-haitis-capital-rose-third-quarter-2026-11-11/)
+    ](https://www.reuters.com/world/italy-fines-meta-887-million-over-android-users-data-access-2026-11-14/)
     
-    ### [UN says kidnappings in Haiti's capital rose in third quarter](https://www.reuters.com/world/americas/un-says-kidnappings-haitis-capital-rose-third-quarter-2026-11-11/)
+    ### [Italy fines Meta $887 million over Android users' data access](https://www.reuters.com/world/italy-fines-meta-887-million-over-android-users-data-access-2026-11-14/)
     
-    [Americascategory](https://www.reuters.com/world/americas/) · November 11, 2026 · 7:48 AM MST · 5 mins ago
+    [Worldcategory](https://www.reuters.com/world/) · November 14, 2026 · 6:07 AM MST · 1 hour ago
     
-    Kidnappings in Haiti's capital Port-Au-Prince increased between July and September compared to the previous ​quarter, with children representing 10% of the ‌victims, the United Nations Integrated Office in Haiti (BINUH) said on Wednesday in its quarterly report on the human rights ​situation in the island published.
-    
-- [
-    
-    ](https://www.reuters.com/world/uk/russia-says-military-to-military-contacts-with-britain-are-possible-if-london-2026-11-11/)
-    
-    [United Kingdomcategory](https://www.reuters.com/world/uk/)[Russia says military-to-military contacts with Britain are possible if London reaches out](https://www.reuters.com/world/uk/russia-says-military-to-military-contacts-with-britain-are-possible-if-london-2026-11-11/)
-    
-    7:47 AM MST
+    Italy's data protection agency said ​on Saturday it had fined Meta Platforms €805 ‌million ($887 million) after finding the company had accessed Android users' photographs and videos without obtaining ​their consent or informing them.
     
 - [
     
-    ](https://www.reuters.com/business/finance/uks-healey-expresses-dismay-over-bank-tax-leak-ahead-budget-2026-11-11/)
+    ](https://www.reuters.com/business/finance/boes-greene-says-acting-proactively-now-inflation-would-screw-things-up-least-2026-11-14/)
     
-    [category](https://www.reuters.com/business/)[UK's Healey expresses dismay over bank tax leak ahead of budget](https://www.reuters.com/business/finance/uks-healey-expresses-dismay-over-bank-tax-leak-ahead-budget-2026-11-11/)
+    [Financecategory](https://www.reuters.com/business/finance/)[BoE's Greene says acting proactively now on inflation would 'screw' things up the least](https://www.reuters.com/business/finance/boes-greene-says-acting-proactively-now-inflation-would-screw-things-up-least-2026-11-14/)
     
-    7:40 AM MST
-    
-- [
-    
-    ](https://www.reuters.com/world/german-military-promises-action-after-report-shows-widespread-sexual-abuse-2026-11-11/)
-    
-    [Worldcategory](https://www.reuters.com/world/)[German military promises action after report shows widespread sexual abuse](https://www.reuters.com/world/german-military-promises-action-after-report-shows-widespread-sexual-abuse-2026-11-11/)
-    
-    7:30 AM MST
+    5:58 AM MST
     
 - [
     
-    ](https://www.reuters.com/business/finance/eu-envoys-agree-new-russia-sanctions-listings-banks-shadow-fleet-misinformation-2026-11-11/)
+    ](https://www.reuters.com/business/aerospace-defense/italy-says-it-backs-germany-joining-next-generation-fighter-jet-project-2026-11-14/)
     
-    [category](https://www.reuters.com/business/)[EU envoys agree new Russia sanctions listings on banks, shadow fleet and misinformation](https://www.reuters.com/business/finance/eu-envoys-agree-new-russia-sanctions-listings-banks-shadow-fleet-misinformation-2026-11-11/)
+    [Aerospace & Defensecategory](https://www.reuters.com/business/aerospace-defense/)[Italy says it backs Germany joining next-generation fighter jet project](https://www.reuters.com/business/aerospace-defense/italy-says-it-backs-germany-joining-next-generation-fighter-jet-project-2026-11-14/)
     
-    7:28 AM MST
+    5:50 AM MST
+    
+- [
+    
+    ](https://www.reuters.com/legal/transactional/msc-nears-deal-buy-majority-stake-german-shipyard-meyer-werft-spiegel-reports-2026-11-14/)
+    
+    [Legalcategory](https://www.reuters.com/legal/)[MSC nears deal to buy majority stake in German shipyard Meyer Werft, Spiegel reports](https://www.reuters.com/legal/transactional/msc-nears-deal-buy-majority-stake-german-shipyard-meyer-werft-spiegel-reports-2026-11-14/)
+    
+    5:14 AM MST
+    
+- [
+    
+    ](https://www.reuters.com/legal/litigation/cvs-says-glp-1s-save-money-when-priced-below-350-per-month-2026-11-14/)
+    
+    [Legalcategory](https://www.reuters.com/legal/)[CVS says GLP-1s save money when priced below $350 per month](https://www.reuters.com/legal/litigation/cvs-says-glp-1s-save-money-when-priced-below-350-per-month-2026-11-14/)
+    
+    4:05 AM MST
     
 
 ### Site Index
@@ -296,6 +364,7 @@ Reuters, the news and media division of Thomson Reuters, is the world’s larges
 - [Corrections](https://www.reuters.com/info-pages/contact-us/)
 - [Data Disclosure and Sources, opens new tab](https://www.reuters.com/info-pages/data-disclosure-and-sources/)
 - [Site Feedback, opens new tab](https://trdigital.iad1.qualtrics.com/jfe/form/SV_8kte8gArGyCGVhz)
+- Manage Cookies
 
 All quotes delayed a minimum of 15 minutes. [See here for a list of exchanges and delays.](https://www.reuters.com/info-pages/disclaimer/)
 
