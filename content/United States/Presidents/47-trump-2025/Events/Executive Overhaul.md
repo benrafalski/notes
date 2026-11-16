@@ -45,10 +45,11 @@ Under Agriculture Secretary Brooke Rollins, The USDA aimed to move about half of
 
 ## Washington Golf Course
 ### Lawsuit
-- Judge: US District Judge Ana Reyes
+- Judge: US District Judge Ana Reyes (Biden appointee)
 - Timeline:
 	- [October 18](https://www.reuters.com/legal/government/trump-says-washington-golf-course-renovation-start-november-despite-judges-order-2026-10-18/): Trump says he would begin renovation on Washington's historic golf course despite Judge Reyes's order. Trump's comments came a day after the ​government filed a motion to disqualify Reyes and move the case to another district judge, saying her actions had shown "deep-seated and unequivocal antipathy toward the Trump ​Administration."
 	- [October 30](https://www.reuters.com/legal/government/us-judge-orders-ethics-investigation-into-doj-lawyers-golf-course-dispute-2026-10-30/): Judge Reyes orders an investigation into if DOJ attorney's violated ethics rules over contradictory statements where Trump said the renovation would go forward on November 15 while department lawyers claimed that was not the case.
+	- [November 14](https://www.reuters.com/legal/government/us-judge-again-blocks-trumps-makeover-plan-dc-golf-course-2026-11-15/): Reyes issues TRO blocking Trump's renovations
 
 ## Trump Arch
  In November 2026, the National Capital Planning Commission voted 8-4 to approve the project after it heard from about 100 opponents, including Democratic lawmakers. The Trump administration contends Congress approved the arch more than 100 ​years ago when it also authorized construction of a bridge across the Potomac River.

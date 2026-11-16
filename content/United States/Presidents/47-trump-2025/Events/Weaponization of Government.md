@@ -109,7 +109,7 @@ In August 2026, the Trump admin designated Palestine Action as a [terrorist grou
 In July 2026 Trump [required states](https://www.reuters.com/world/trump-administration-require-states-adopt-election-security-measures-receive-2026-07-10/) to use USCIS system to verify citizenship of people on voter database to receive FEMA anti-terrorism grant funds (else the admin with withhold 20% of grants totaling $1.1 billion). DHS also required states to transition away from electronic voting systems that use bar codes.
 ### Lawsuit
 - Case
-- Judge: Washington-based US District Judge Amir Ali, 
+- Judge: Washington-based US District Judge Amir Ali
 - Timeline
 	- [September 28, 2026](https://www.reuters.com/world/judge-blocks-trump-tying-anti-terrorism-grants-election-changes-2026-09-28/): Judge Ali blocks Trump from conditioning counterterrorism funds to state and local governments on changes to election administration.
 ## Housing Grants
@@ -120,4 +120,11 @@ Congress created the Continuum of Care program in 1987 to provide resources for 
 - Timeline
 	- [December 19, 2025](https://www.reuters.com/world/us-judge-blocks-trump-administration-from-altering-homelessness-funding-2025-12-19/): Judge Mary McElroy in Providence issues preliminary injunction blocking Trump's HUD from implementing new homelessness grant conditions. 
 	- [September 16, 2026](https://www.reuters.com/legal/government/trump-administration-can-proceed-with-homelessness-program-overhaul-us-court-2026-09-16/): Boston-based 1st US Circuit Court of Appeals put on hold McElroy's injunction, saying Trump was likely to win appeal. 
+## New York highway funds
+In ​April 2026, USDOT withheld $73.5 million in highway funding from New York ‌over the state's refusal to revoke some commercial driver licenses issued to foreign drivers, citing an audit that found New York had ​been routinely issuing commercial driver licenses to foreign drivers illegally.
+### Lawsuit
+- Case:
+- Judge: 
+- Timeline 
+	- [November 13, 2026](https://www.reuters.com/world/trump-cannot-withhold-highway-funding-new-york-court-says-2026-11-13/): Second US Circuit Court of Appeals rules against USDOT for withholding New York funding for highway.
 

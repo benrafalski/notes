@@ -24,252 +24,186 @@
 
 [My News](https://www.reuters.com/my-news/feed/)
 
-[](https://www.reuters.com/account/sign-in/?website=reuters&redirect=https%3A%2F%2Fwww.reuters.com%2Fbusiness%2Fhealthcare-pharmaceuticals%2Fhow-us-was-left-exposed-flesh-eating-screwworm-years-into-outbreak-2026-11-09%2F)[](https://www.reuters.com/account/subscribe/offer/?website=reuters&redirect=https%3A%2F%2Fwww.reuters.com%2Fbusiness%2Fhealthcare-pharmaceuticals%2Fhow-us-was-left-exposed-flesh-eating-screwworm-years-into-outbreak-2026-11-09%2F&referrer=subscription_button&journeyStart=navigation)
+[](https://www.reuters.com/account/sign-in/?website=reuters&redirect=https%3A%2F%2Fwww.reuters.com%2Fworld%2Fmiddle-east%2Fanti-houthi-forces-retreat-yemen-iran-strikes-bahrain-2026-11-15%2F)[](https://www.reuters.com/account/subscribe/offer/?website=reuters&redirect=https%3A%2F%2Fwww.reuters.com%2Fworld%2Fmiddle-east%2Fanti-houthi-forces-retreat-yemen-iran-strikes-bahrain-2026-11-15%2F&referrer=subscription_button&journeyStart=navigation)
 
-# How the US was left exposed to the flesh-eating screwworm, years into the outbreak
+# Anti-Houthi forces retreat in Yemen as Iran strikes Bahrain
 
-By [Cassandra Garrison](https://www.reuters.com/authors/cassandra-garrison/), [Leah Douglas](https://www.reuters.com/authors/leah-douglas/) and [Adriana Barrera](https://www.reuters.com/authors/adriana-barrera/)
+By [Mohammed Ghobari](https://www.reuters.com/authors/mohammed-ghobari/)
 
-November 9, 20264:01 AM MSTUpdated November 9, 2026
+November 15, 20268:56 AM MSTUpdated 8 hours ago
 
-Item 1 of 3 A reference collection of botflies sits in a petri dish on a counter at the Knipling-Bushland U.S. Livestock Insects Research Laboratory in Kerrville, Texas, U.S. July 14, 2026. REUTERS/Kaylee Greenlee
+Item 1 of 3 Houthi forces take over from Dhubab to Bab el-Mandeb after Saudi-backed forces withdraw from the area, in Taiz Governorate, Yemen, in this still image taken from a handout video released November 15, 2026. Houthi Military Media/Handout via REUTERS
 
-**[1/3]**A reference collection of botflies sits in a petri dish on a counter at the Knipling-Bushland U.S. Livestock Insects Research Laboratory in Kerrville, Texas, U.S. July 14, 2026. REUTERS/Kaylee Greenlee [Purchase Licensing Rights, opens new tab](https://www.reutersconnect.com/item/usda-lab-studies-new-world-screwworm-in-texas/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1JDMlVETUEyTUQwMg%3D%3D/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead)
+**[1/3]**Houthi forces take over from Dhubab to Bab el-Mandeb after Saudi-backed forces withdraw from the area, in Taiz Governorate, Yemen, in this still image taken from a handout video released November 15, 2026. Houthi Military Media/Handout via REUTERS [Purchase Licensing Rights, opens new tab](https://www.reutersconnect.com/item/houthi-forces-take-over-from-dhubab-to-bab-el-mandeb-after-saudi-backed-forces-withdraw-from-the-area-in-taiz-governorate/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1JDMlRPT0FCUjJYVA%3D%3D/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead)
 
 - Summary
 
-- Sterile flies are the only proven tool to stop the parasite. But there are still supply shortages
-- US recorded two new cases of screwworm in October
-- Texas sterile-fly plant due to start production in spring 2027
+- Southern pro-government forces in Yemen say they pull back towards Aden
+- Bahrain says it shoots down Iranian drones
+- Iranian guards say two ships on fire in Strait of Hormuz
 
-![USDA-authorized reopening resumes Mexican cattle exports through Jeronimo-Santa Teresa crossing](https://www.reuters.com/resizer/v2/E7NFRU3R3BCPJNGLJUG4IVVNAU.JPG?auth=ca55a1a0476e4f45701d55423544309c0c8463aa0a438694434c2b6cf22f8ea2&width=1920&quality=80)
+Nov 15 (Reuters) - Iran and its allies ramped up pressure on the US and allied Gulf states on two fronts on Sunday, with Saudi-backed forces retreating in their battle against the Iran-aligned Houthis in Yemen and Iran itself firing ​drones at US bases in Bahrain.
 
-Livestock remain in pens before being exported to the United States through the Jeronimo-Santa Teresa border crossing at the Chihuahua Regional Livestock Union facility outside Ciudad Juarez, Mexico, after the US Department of Agriculture (USDA) authorized the resumption of Mexican cattle imports through the crossing following a... [Purchase Licensing Rights, opens new tab](https://www.reutersagency.com/en/licensereuterscontent/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead) Read more
+In Yemen, Saudi Arabia's campaign against the Houthis suffered a major setback, as its allies, fighting on behalf of the internationally recognised Yemeni government, pulled back from ‌the Bab el-Mandeb Strait to defend their temporary capital Aden on the southern coast.
 
-MEXICO CITY/WASHINGTON, Nov 9 (Reuters) - For decades, planes dropped billions of factory-bred sterile flies to keep the flesh-eating New World screwworm out of North America’s cattle. That controls the pest because sterile males mate with wild females – whose eggs then fail to hatch.
+The Reuters Iran Briefing newsletter keeps you informed with the latest developments and analysis of the Iran war. Sign up [here.](https://www.reuters.com/newsletters/reuters-iran-briefing/?location=article-paragraph&redirectUrl=%2Fworld%2Fmiddle-east%2Fanti-houthi-forces-retreat-yemen-iran-strikes-bahrain-2026-11-15%2F)
 
-But the strategy works only if the supply of flies never runs short.
+The announcement signalled the apparent end of a six-week government counteroffensive to drive the Houthis from the [mouth of the Red Sea](https://www.reuters.com/world/middle-east/why-is-bab-el-mandeb-strait-so-important-2026-09-10/) to secure a key oil route.
 
-Keep up with the latest medical breakthroughs and healthcare trends with the award-winning Reuters Health Rounds newsletter. Sign up [here.](https://www.reuters.com/newsletters/reuters-health-rounds/?location=article-paragraph&redirectUrl=%2Fbusiness%2Fhealthcare-pharmaceuticals%2Fhow-us-was-left-exposed-flesh-eating-screwworm-years-into-outbreak-2026-11-09%2F)
+Meanwhile, Iranian attacks on Bahrain, headquarters of the US Fifth Fleet in the Gulf, were likely to put new pressure on US President Donald Trump to resolve the war he launched nearly nine months ago.
 
-When the parasite broke through a barrier of sterile ​flies in Panama in early 2023, the region lacked the capacity to contain it. Efforts to scale up the fly population still lag more than three years into the outbreak, after the parasite ripped through Mexico and into the United States, according ‌to Reuters interviews with 15 current and former officials and experts in the US, Mexico and Panama.
+Since the unpopular war contributed to a defeat for his Republicans in [midterm elections](https://www.reuters.com/world/us/elections/) this month, Trump ​has played down the need for a diplomatic breakthrough.
 
-Short on flies, the administration of US President Donald Trump closed the border with Mexico to cattle imports for more than 15 months starting in May 2025, disrupting a multibillion-dollar trade. As the border began to reopen this year, dozens of cases were confirmed in US cattle.
+Major warfare between the US and Iran has calmed since the early phase of the conflict, but with diplomacy stalled there is little immediate prospect of ​a resolution either to the wider conflict or the war in Yemen.
 
-Mexico and Panama currently produce a total of about 150 million sterile flies a week, according to US and Mexican government data.
+## HOUTHI GAINS
 
-![Mexico hinges hope of eradicating screwworm on urgent push to open sterile fly plant](https://www.reuters.com/resizer/v2/IDYRXEB2AZJFTHEKFFVAB7S7AA.jpg?auth=01e9c6e2f07585a88dc9cb8d0b1af1037049a9921aaf03f16ba4d2244bc3efaa&width=1920&quality=80)
+Sunday's announcement of a Yemeni government retreat raises the prospect of new Houthi [advances](https://www.reuters.com/world/middle-east/yemens-houthis-advance-within-80-km-aden-sources-say-2026-11-02/) towards Aden on the ⁠southern coast, base of the internationally recognised government since the Houthis drove it from the capital Sanaa more than a decade ago.
 
-A biologist holds Mediterranean fruit fly eggs at a bio-factory as Mexico's government reconditions a plant to become the new sterile screwworm fly facility, part of the country's effort to eradicate the flesh-eating parasite that threatens its livestock industry and raises tensions with the United States, in Metapa de Dominguez,... [Purchase Licensing Rights, opens new tab](https://www.reutersconnect.com/item/mexico-hinges-hope-of-eradicating-screwworm-on-urgent-push-to-open-sterile-fly-plant/dGFnOnJldXRlcnMuY29tLDIwMjU6bmV3c21sX1JDMlNESEFTVTNGWg%3D%3D/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead) Read more
+"The Southern Armed Forces announce the implementation of a redeployment operation for its forces from Dhubab Airport ​and the Bab el-Mandeb area, west of Taiz Governorate," the main military force fighting for Yemen's government in the south of the country said in a statement.
 
-That’s less than a third of the 500 million per week it took during a 1960s campaign that eradicated the screwworm in the US – and that experts recommend as the benchmark to keep the pest contained to south of Panama. ​The US has no sterile-fly plant of its own, and one under construction in Texas isn’t expected to start production until spring 2027.
+"This step is taken based on the priority of securing the capital, Aden, ​and the neighbouring governorates, as well as strengthening the front lines and addressing existing threats."
 
-Meanwhile, the parasite has spread across most of Mexico, with about 51,000 confirmed cases. The United States has recorded 120 cases to date.
+There was no immediate response from the Houthis, or from Saudi Arabia.
 
-"We don't have ​enough flies,” said Sonja Swiger, an entomologist at Texas A&M University. “They knew that right away."
+The retreat signals a setback for efforts to reverse [rapid gains](https://www.reuters.com/world/middle-east/saudi-says-no-danger-after-khamis-mushait-alert-amid-clashes-with-houthis-2026-09-10/) the Houthis made in September to capture the coast along the Red Sea and the Bab el-Mandeb Strait that controls access to it.
 
-Efforts to make more flies at several stages of the infestation have been hampered by political transitions, funding delays, bureaucratic hurdles and rising US-Mexico ⁠tensions, current and former government officials told Reuters.
+A Saudi-backed [government offensive](https://www.reuters.com/world/asia-pacific/head-yemens-presidential-council-announces-military-operations-retake-territory-2026-10-04/) last month retook key positions around the strait but failed to drive the Houthis entirely away from the area or retake the city of al-Mocha further up the coast.
 
-USDA spokesperson Nancy McNiff said in emailed responses to Reuters that the agency has “acted urgently and pursued every practical avenue to get more sterile flies into the field as quickly as possible.”
+The ​Houthis have responded by intensifying drone and missile attacks on Saudi Arabia, grounding flights with strikes on its main airports as well as setting global oil markets on edge by targeting energy facilities.
 
-Spokespeople for Mexican President Claudia Sheinbaum, Mexico’s agriculture ministry, the Panama-United States Commission for ​the Eradication and Prevention of Screwworm (COPEG) and Panama’s government did not respond to requests for comment.
+On Sunday, the militant group said it attacked ​the King Khalid International Airport and a financial centre in Riyadh and two pumping stations on the East-West oil pipeline.
 
-## ALARM IN PANAMA
+There was no immediate Saudi confirmation.
 
-Screwworm larvae tear through living tissue and can kill untreated animals. A single fly can lay up to 3,000 eggs.
+With the conflict in the Middle East disrupting oil flows through the Strait of Hormuz, Riyadh has rerouted ‌about 4 million ⁠barrels per day of crude via the East-West Pipeline to Yanbu, equivalent to about 4% of global supply.
 
-Releases of billions of factory-made sterile flies eradicated screwworm in the US in 1966 and contained a ​flare-up in Florida in 2017.
+Yemeni military sources said that government forces around the Bab el-Mandeb had redeployed to al-Suqyah, 150 km (95 miles) west of Aden, though they were still trying to push the Houthis from coastal areas nearby.
 
-In late February 2023, officials in Panama's Darien province confronted about 800 cases of screwworm inside the jungle that had long served as North America's last line of defense.
+In the highlands north of Aden, where the Houthis have besieged Yemen's third-largest city Taiz, the fighters are now positioned just outside the district of Tur al-Bahah, about 80 km (50 miles) from the city, the sources said.
 
-Maintaining that barrier is the job of COPEG, the US-Panamanian organization that gets most of its funding from the US. In April 2023, it decided to increase sterile-fly production to 100 million a week from 20 million a week, said a Panamanian official involved in the response.
+[Humanitarian conditions are worsening](https://www.reuters.com/world/middle-east/we-have-nothing-displaced-mothers-yemens-taiz-collect-plastic-survive-2026-11-06/) in Taiz, which hosts about half of the 300,000 people displaced across Yemen by the latest fighting. Aid supplies are unable to enter and civilians are unable to ​leave.
 
-By July 2023, Panama declared the spread of screwworm an emergency, expanding sterile-fly releases, tightening livestock controls and intensifying surveillance.
+## IRANIAN STRIKES ON BAHRAIN
 
-In December 2023, the administration of former US President Joe Biden [announced nearly $110 million, opens new tab](https://web.archive.org/web/20240619230054/https://www.aphis.usda.gov/news/agency-announcements/usda-protects-fruit-vegetable-livestock-producers-emergency-funding) in additional funding for screwworm detection and sterile-fly production in Panama ​and elsewhere.
+Fresh Iranian strikes on Bahrain, home ​to US bases, could undermine Trump's desire to turn ⁠the page on the war following his Republicans' midterm election rout.
 
-In November 2024, 19 months into the expansion, Panama’s plant reached 100 million flies a week, according to the Panamanian official.
+Trump has said in recent days that he might hold off from attacking Iran if the US faces no new provocations from either Tehran or the Houthis in Yemen, although he would maintain a US naval blockade on Iran, Reuters reported on Saturday.
 
-That month Mexico confirmed its first cases in Chiapas, a southern state bordering Guatemala, and began releases.
+Bahrain said it intercepted and destroyed ​several Iranian aerial attacks, the first such interceptions by its air defences since September.
 
-By then, the authorities knew that 100 million sterile flies a week was not enough, ​the Panamanian official told Reuters.
+Iran's Islamic Revolutionary Guard Corps said it had attacked a US military base in ​Bahrain with six drones in retaliation ⁠for "hostile US actions", Iran's Fars news agency reported.
 
-## GAPS IN MEXICO
+During a brief alert, Bahrain urged citizens and residents to remain calm and proceed to the nearest safe location.
 
-Cowboys look on at the facilities of the Chihuahua Regional Livestock Union on the day the US Department of Agriculture (USDA) authorized the resumption of Mexican cattle imports through the crossing following a year-long suspension aimed at preventing the spread of New World screwworm, outside Ciudad Juarez, Mexico, September... [Purchase Licensing Rights, opens new tab](https://www.reutersagency.com/en/licensereuterscontent/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead) Read more
+Two days earlier the Revolutionary Guards said they had attacked a US early-warning radar facility in Bahrain. The US military denied this, saying it had intercepted two Iranian drones without any damage.
 
-Elections in the United States and Mexico slowed the response.
+Crude oil has been flowing out of the Gulf in recent weeks at near pre-war levels. But attacks on ships have become a daily hazard, keeping ⁠markets jittery and ​prices still elevated.
 
-In September 2024, as President Andres Manuel Lopez Obrador’s administration prepared to leave office, outgoing officials warned their successors that the screwworm epidemic needed immediate attention, a Mexican official familiar with the response said.
+The Revolutionary Guards said two tankers were on fire on Sunday after striking naval mines in the Strait of Hormuz. Reuters ​could not independently verify the report. The Guards typically do not acknowledge attacking ships in the strait but say it is unsafe to transit it without their permission.
 
-Early planning centered on converting an existing fruit-fly plant ‌in Metapa, Chiapas, ⁠rather than building a new plant.
+Iran's Foreign Minister Abbas Araqchi will on Tuesday visit Oman, which holds the southern coast of the Strait of Hormuz and ​has played a role as mediator in the crisis, for talks with his counterpart, Iranian state media reported.
 
-The handover delayed the effort by three to four months, the official said, as the new government sorted out funding and prepared a proposal for President Claudia Sheinbaum.
-
-In May 2025, the Trump administration announced $21 million in funding for the Metapa project. US and Mexican officials said the plant could eventually produce 60 million to 100 million sterile flies a week.
-
-Sterile-fly drops from COPEG shifted to the Texas-Mexico border in February 2026.
-
-A reference collection of botflies sits in a petri dish on a counter at the Knipling-Bushland U.S. Livestock Insects Research Laboratory in Kerrville, Texas, U.S. July 14, 2026. REUTERS/Kaylee Greenlee [Purchase Licensing Rights, opens new tab](https://www.reutersconnect.com/item/usda-lab-studies-new-world-screwworm-in-texas/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1JDMlVETUEyTUQwMg%3D%3D/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead)
-
-Sheinbaum pushed agencies to accelerate Mexico’s plant project, seeking an April launch, according to the Mexican government official. In the end, the facility was inaugurated on June 27 – more than 18 months after the country confirmed its first screwworm case.
-
-By then, the parasite had spread across 27 states, reaching major cattle-producing areas of Coahuila and Durango in northern Mexico, hundreds of miles from the southern border.
-
-## A PLANT IN TEXAS
-
-The first US case was confirmed on June 3. But the US still had no production facility of ​its own.
-
-USDA had begun discussing a facility in November 2024, and field staff ​met with Texas cattle industry groups about locations that month and ⁠in December, according to a former Biden official.
-
-In June 2025, Agriculture Secretary Brooke Rollins said the USDA was considering Moore Air Force Base in Edinburg, Texas, home to a retired fly plant that had been key to the success of the 1960s campaign.
-
-This March, the Trump administration awarded a $610 million contract to M.A. Mortenson to construct the facility, according to publicly available records of the contract through a US government spending database.
-
-The USDA initially believed the project could take up ​to five years, spokesperson McNiff said.
-
-Administration officials pressed to move faster. USDA limited bids on construction, arguing that open bidding could delay a time-sensitive project, according to the spending records.
-
-At a September meeting of the Texas ​A&M Board of Regents, Rollins said Defense Secretary ⁠Pete Hegseth had moved the project to the top of the Army Corps’ priority list, cutting the timeline to about 18 months, or fall 2027.
-
-John Bellinger, Rollins’ advisor on screwworm and a member of the board, said he pushed to move even faster. "For only $250 million more, we got it moved to April 1 of next year," Bellinger told the regents, further shortening the timeline by about six months.
-
-Mortenson spokesperson Cameron Snyder said in an email that the company is committed to working with the USDA and the Army Corps to deliver the plant quickly.
-
-Until the plant opens, the United States remains reliant on sterile flies produced elsewhere, roughly 150 million a week ⁠combined from the plants ​in Panama and Metapa, Mexico.
-
-Although Chiapas remains Mexico’s hardest-hit state, with about 8,200 confirmed infestations, USDA said all sterile flies produced in Panama and Mexico are currently being released in northern ​Mexico and the US.
-
-Workers handle trays with Mediterranean fruit flies at a bio-factory as Mexico's government reconditions a plant to become the new sterile screwworm fly facility, part of the country's effort to eradicate the flesh-eating parasite that threatens its livestock industry and raises tensions with the United States, in Metapa de... [Purchase Licensing Rights, opens new tab](https://www.reutersagency.com/en/licensereuterscontent/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead) Read more
-
-The strategy aims to stop the parasite’s northward advance before working back south, leaving much of Mexico and Central America reliant on surveillance and treatment, rather than eradication.
-
-Even where cases have been suppressed, protection depends on sterile flies arriving week after week, Swiger said.
-
-Some experts estimate it could take as long as a decade to push the screwworm infestation back to Panama. ​That leaves North America’s defense against the pest dependent on a biological supply chain that – more than three years into the outbreak – still produces only a fraction of the needed sterile flies.
-
-Reporting by Cassandra Garrison and Adriana Barrera in Mexico City and Leah Douglas in Washington. Editing by Emily Schmall and Suzanne Goldenberg
+Reporting by Mohammed Ghobari; Additional reporting by Reyam Mukhashaf in Aden; Writing by Nayera Abdallah and Angus McDowall; Editing by Peter Graff
 
 Our Standards: [The Thomson Reuters Trust Principles., opens new tab](https://www.thomsonreuters.com/en/about-us/trust-principles.html)
 
 - Suggested Topics:
-- [](https://www.reuters.com/business/environment/)
+- [](https://www.reuters.com/markets/commodities/)
+- [](https://www.reuters.com/business/energy/grid-infrastructure/)
 
 [](https://www.reutersagency.com/en/licensereuterscontent/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead)
 
-[
-
-](https://www.reuters.com/authors/cassandra-garrison/)
-
-[Cassandra Garrison](https://www.reuters.com/authors/cassandra-garrison/)
-
-Thomson Reuters
-
-Mexico-based reporter focusing on climate change and companies with an emphasis on telecoms. Previously based in Santiago de Chile and Buenos Aires covering the Argentine debt crisis, the tussle for influence between the United States and China in Latin America and the coronavirus pandemic.
-
-- [](mailto:Cassandra.Garrison@thomsonreuters.com)
-- [](https://x.com/CassLGarrison)
-- [](https://www.reuters.com/business/healthcare-pharmaceuticals/how-us-was-left-exposed-flesh-eating-screwworm-years-into-outbreak-2026-11-09/@cassandragarrison)
-- [](https://www.linkedin.com/in/cassandra-garrison-6b93b48/)
-
-[
-
-](https://www.reuters.com/authors/leah-douglas/)
-
-[Leah Douglas](https://www.reuters.com/authors/leah-douglas/)
-
-Thomson Reuters
-
-Washington-based award-winning journalist covering agriculture and energy including competition, regulation, federal agencies, corporate consolidation, environment and climate, racial discrimination and labour, previously at the Food and Environment Reporting Network.
-
-- [](mailto:leah.douglas@thomsonreuters.com)
-- [](https://x.com/leahjdouglas)
-- [](https://www.linkedin.com/in/leahjdouglas/)
-
 ## Read Next
 
-- [Sustainabilitycategory](https://www.reuters.com/sustainability/)
+- [Businesscategory](https://www.reuters.com/business/)
     
-    [UN climate chief urges speed as COP31 confronts fossil fuel divide](https://www.reuters.com/sustainability/cop/un-climate-chief-urges-speed-cop31-confronts-fossil-fuel-divide-2026-11-14/)
-    
-    [
-    
-    ](https://www.reuters.com/sustainability/cop/un-climate-chief-urges-speed-cop31-confronts-fossil-fuel-divide-2026-11-14/)
-    
-- [Environmentcategory](https://www.reuters.com/business/environment/)
-    
-    [As smog hangs over Lahore, Pakistan's new pollution squad races to douse stubble fires](https://www.reuters.com/business/environment/smog-hangs-over-lahore-pakistans-new-pollution-squad-races-douse-stubble-fires-2026-11-14/)
+    [Tyson Foods forecasts steeper-than-expected annual revenue decline](https://www.reuters.com/business/retail-consumer/tyson-foods-forecasts-steeper-than-expected-annual-revenue-decline-2026-11-16/)
     
     [
     
-    ](https://www.reuters.com/business/environment/smog-hangs-over-lahore-pakistans-new-pollution-squad-races-douse-stubble-fires-2026-11-14/)
+    ](https://www.reuters.com/business/retail-consumer/tyson-foods-forecasts-steeper-than-expected-annual-revenue-decline-2026-11-16/)
     
-- [Environmentcategory](https://www.reuters.com/business/environment/)
+- [Worldcategory](https://www.reuters.com/world/)
     
-    [Delhi overtakes Lahore as world's most polluted city as air quality drops](https://www.reuters.com/business/environment/delhi-overtakes-lahore-worlds-most-polluted-city-air-quality-drops-2026-11-13/)
+    [Bulgaria rescues crew from capsized wheat ship in Black Sea, transport ministry says](https://www.reuters.com/world/cargo-ship-sinking-black-sea-off-bulgaria-says-transport-ministry-2026-11-16/)
     
     [
     
-    ](https://www.reuters.com/business/environment/delhi-overtakes-lahore-worlds-most-polluted-city-air-quality-drops-2026-11-13/)
+    ](https://www.reuters.com/world/cargo-ship-sinking-black-sea-off-bulgaria-says-transport-ministry-2026-11-16/)
+    
+- [Commentarycategory](https://www.reuters.com/commentary/)
+    
+    [
+    
+    COMMENTARY
+    
+    ](https://www.reuters.com/commentary/)
+    
+    [Tech's telltale week](https://www.reuters.com/commentary/reuters-open-interest/global-markets-view-usa-2026-11-16/)
+    
+    [
+    
+    ](https://www.reuters.com/commentary/reuters-open-interest/global-markets-view-usa-2026-11-16/)
     
 - [
     
-    ](https://www.reuters.com/sustainability/cop/urgent-climate-finance-pleas-cop31-face-non-urgent-response-2026-11-13/)
+    ](https://www.reuters.com/legal/transactional/canadian-natural-resources-buy-advantage-energy-177-billion-deal-2026-11-16/)
     
 - [
     
-    ](https://www.reuters.com/sustainability/cop/uk-norway-canada-launch-10-billion-climate-finance-initiative-2026-11-13/)
+    ](https://www.reuters.com/business/energy/germanys-uniper-expects-core-profit-up-15-billion-2027-2026-11-16/)
     
 - [
     
-    ](https://www.reuters.com/business/environment/earthquake-magnitude-56-strikes-near-coast-peru-gfz-says-2026-11-13/)
+    ](https://www.reuters.com/business/finance/holding-talks-with-russia-europes-security-now-would-be-premature-eu-ministers-2026-11-16/)
     
 
 [](https://www.lseg.com/en/data-analytics/products/workspace?utm_source=reuters.com&utm_medium=articlebanner&utm_campaign=Reuters_ProductPage_Links)
 
-## [Business](https://www.reuters.com/business/)
+## [World](https://www.reuters.com/world/)
 
 - [
     
-    ](https://www.reuters.com/world/italy-fines-meta-887-million-over-android-users-data-access-2026-11-14/)
+    ](https://www.reuters.com/world/middle-east/houthis-seize-ground-yemens-southern-coast-edge-closer-aden-2026-11-16/)
     
-    ### [Italy fines Meta $887 million over Android users' data access](https://www.reuters.com/world/italy-fines-meta-887-million-over-android-users-data-access-2026-11-14/)
+    ### [Houthis seize ground on Yemen's southern coast, edge closer to Aden](https://www.reuters.com/world/middle-east/houthis-seize-ground-yemens-southern-coast-edge-closer-aden-2026-11-16/)
     
-    [Worldcategory](https://www.reuters.com/world/) · November 14, 2026 · 6:07 AM MST · 1 hour ago
+    [Middle Eastcategory](https://www.reuters.com/world/middle-east/) · November 16, 2026 · 6:54 AM MST · 13 mins ago
     
-    Italy's data protection agency said ​on Saturday it had fined Meta Platforms €805 ‌million ($887 million) after finding the company had accessed Android users' photographs and videos without obtaining ​their consent or informing them.
-    
-- [
-    
-    ](https://www.reuters.com/business/finance/boes-greene-says-acting-proactively-now-inflation-would-screw-things-up-least-2026-11-14/)
-    
-    [Financecategory](https://www.reuters.com/business/finance/)[BoE's Greene says acting proactively now on inflation would 'screw' things up the least](https://www.reuters.com/business/finance/boes-greene-says-acting-proactively-now-inflation-would-screw-things-up-least-2026-11-14/)
-    
-    5:58 AM MST
+    Houthi fighters have seized territory on Yemen's southern coast after Saudi-backed government forces fell back to defend Aden, military sources said on ​Monday, as residents expressed fear of further advances by the Iran-allied group towards the city.
     
 - [
     
-    ](https://www.reuters.com/business/aerospace-defense/italy-says-it-backs-germany-joining-next-generation-fighter-jet-project-2026-11-14/)
+    ](https://www.reuters.com/business/media-telecom/raye-and-rosalia-lead-nominations-for-musics-grammy-awards-2026-11-16/)
     
-    [Aerospace & Defensecategory](https://www.reuters.com/business/aerospace-defense/)[Italy says it backs Germany joining next-generation fighter jet project](https://www.reuters.com/business/aerospace-defense/italy-says-it-backs-germany-joining-next-generation-fighter-jet-project-2026-11-14/)
+    [category](https://www.reuters.com/business/)[Raye and Rosalia lead nominations for music's Grammy Awards](https://www.reuters.com/business/media-telecom/raye-and-rosalia-lead-nominations-for-musics-grammy-awards-2026-11-16/)
     
-    5:50 AM MST
-    
-- [
-    
-    ](https://www.reuters.com/legal/transactional/msc-nears-deal-buy-majority-stake-german-shipyard-meyer-werft-spiegel-reports-2026-11-14/)
-    
-    [Legalcategory](https://www.reuters.com/legal/)[MSC nears deal to buy majority stake in German shipyard Meyer Werft, Spiegel reports](https://www.reuters.com/legal/transactional/msc-nears-deal-buy-majority-stake-german-shipyard-meyer-werft-spiegel-reports-2026-11-14/)
-    
-    5:14 AM MST
+    6:53 AM MST
     
 - [
     
-    ](https://www.reuters.com/legal/litigation/cvs-says-glp-1s-save-money-when-priced-below-350-per-month-2026-11-14/)
+    ](https://www.reuters.com/world/spains-right-retains-firm-poll-lead-despite-socialist-gains-2026-11-16/)
     
-    [Legalcategory](https://www.reuters.com/legal/)[CVS says GLP-1s save money when priced below $350 per month](https://www.reuters.com/legal/litigation/cvs-says-glp-1s-save-money-when-priced-below-350-per-month-2026-11-14/)
+    [Worldcategory](https://www.reuters.com/world/)[Spain's right retains firm poll lead despite Socialist gains](https://www.reuters.com/world/spains-right-retains-firm-poll-lead-despite-socialist-gains-2026-11-16/)
     
-    4:05 AM MST
+    6:43 AM MST
+    
+- [
+    
+    ](https://www.reuters.com/world/uk/after-brand-walliams-uk-entertainment-industry-under-pressure-clean-up-its-act-2026-11-16/)
+    
+    [United Kingdomcategory](https://www.reuters.com/world/uk/)[After Brand and Walliams, UK entertainment industry under pressure to clean up its act](https://www.reuters.com/world/uk/after-brand-walliams-uk-entertainment-industry-under-pressure-clean-up-its-act-2026-11-16/)
+    
+    6:42 AM MST
+    
+- [
+    
+    ](https://www.reuters.com/world/americas/canadas-annual-inflation-rate-held-steady-31-october-2026-11-16/)
+    
+    [Americascategory](https://www.reuters.com/world/americas/)[Canada's annual inflation rate held steady at 3.1% in October](https://www.reuters.com/world/americas/canadas-annual-inflation-rate-held-steady-31-october-2026-11-16/)
+    
+    6:34 AM MST
     
 
 ### Site Index
