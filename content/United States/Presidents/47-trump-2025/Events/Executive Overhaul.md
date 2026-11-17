@@ -121,6 +121,42 @@ Case: [President and Fellows of Harvard College v. US Department of Health and
 	- June 23: Burroughs issued a [preliminary injunction](https://www.reuters.com/world/us/us-judge-blocks-trump-plan-close-harvards-doors-international-students-2025-06-24/) blocking Trump's Harvard international student plan.
 #### Admissions records
 - November 2, 2026: US District Judge Myong Joun in Boston (Biden) [rejects](https://www.reuters.com/world/us-judge-dismisses-trump-administrations-harvard-admissions-probe-case-2026-11-02/) DOJ lawsuit seeking to force Harvard to tone over records for its investigation into whether it considered race in student admissions processes. The case was dismissed on narrow procedural grounds and did not resolve the legal issue.
+
+### UCLA
+- [November 16](https://www.reuters.com/world/supreme-court-rejects-trump-appeal-defending-diversity-related-grant-cuts-2026-11-16/): US Supreme Court denies Trump appeal against Lin's order.
+<li><u>UCLA</u>
+
+          On August 6, 2025, the Trump admin froze $584 million in federal funding to UCLA, alleging they allowed antisemitism during the 2023 protests.
+
+          During the previous week, UCLA agreed to pay over $6 million to settle a lawsuit by some students and a professor who alleged anti semitism.
+
+          <sup><a href="https://www.reuters.com/legal/government/ucla-says-trump-administration-froze-584-million-its-federal-funding-2025-08-06/" target="_blank">[1]</a></sup>
+
+          On August 8, Newsom said he would not bow to Trump's "extortion" after the University of California (UCLA is part of the University of California system) said it was reviewing a $1 billion settlement offer by the Trump admin.
+
+          <sup><a href="https://www.reuters.com/world/us/newsom-calls-trumps-1-billion-ucla-settlement-offer-extortion-says-california-2025-08-09/" target="_blank">[2]</a></sup>
+
+          On August 12, U.S. District Judge Rita Lin in San Francisco ruled that the grant funding suspensions violated an earlier June preliminary injunction where she ordered the NSF to restore dozens of grants that it had terminated at the University of California.
+
+          That order had blocked the agency from cancelling other grants at the University of California system.
+
+          The Los Angeles Times reported that order asked for the restoration of more than a third of the suspended $584 million funding.
+
+          <sup><a href="https://www.reuters.com/world/us/judge-orders-trump-administration-restore-part-uclas-suspended-funding-2025-08-13/" target="_blank">[3]</a></sup>
+
+          On September 22, Judge Lin ordered Trump to restore the entire $500 million in funding to UCLA.
+
+          <sup><a href="https://www.reuters.com/world/us/judge-orders-trump-administration-restore-frozen-federal-grants-ucla-2025-09-23/" target="_blank">[4]</a></sup>
+
+          May 6: DOJ claims UCLA's medical school favors Black, Hispanic applicants in admissions.
+
+          <sup><a href="https://www.reuters.com/legal/government/us-doj-says-uclas-medical-school-favors-black-hispanic-applicants-admission-2026-05-06/" target="_blank">[5]</a></sup>
+
+          May 26: DOJ sues UCLA, alleging antisemitic educational environment during the 2024 pro-Gaza encampment protests.  
+
+          <sup><a href="https://www.reuters.com/world/us-justice-department-sues-ucla-alleging-antisemitic-educational-environment-2026-05-26/" target="_blank">[6]</a></sup>
+
+        </li>
 ## Targeting Anti-Israel Protestors
 ### Mahmoud Khalil
 
