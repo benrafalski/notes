@@ -24,131 +24,153 @@
 
 [My News](https://www.reuters.com/my-news/feed/)
 
-[](https://www.reuters.com/account/sign-in/?website=reuters&redirect=https%3A%2F%2Fwww.reuters.com%2Flegal%2Flitigation%2Ftrump-administration-targets-further-limits-skilled-foreign-workers-2026-11-16%2F)[](https://www.reuters.com/account/subscribe/offer/?website=reuters&redirect=https%3A%2F%2Fwww.reuters.com%2Flegal%2Flitigation%2Ftrump-administration-targets-further-limits-skilled-foreign-workers-2026-11-16%2F&referrer=subscription_button&journeyStart=navigation)
+[](https://www.reuters.com/account/sign-in/?website=reuters&redirect=https%3A%2F%2Fwww.reuters.com%2Flegal%2Fgovernment%2Fsuspect-charged-with-attempted-murder-assault-somali-american-minnesota-2026-11-17%2F)[](https://www.reuters.com/account/subscribe/offer/?website=reuters&redirect=https%3A%2F%2Fwww.reuters.com%2Flegal%2Fgovernment%2Fsuspect-charged-with-attempted-murder-assault-somali-american-minnesota-2026-11-17%2F&referrer=subscription_button&journeyStart=navigation)
 
-# Trump administration targets further limits on skilled foreign workers
+# Suspect charged with attempted murder in assault of Somali American in Minnesota
 
-By [Julia Harte](https://www.reuters.com/authors/julia-harte/)
+By [Kanishka Singh](https://www.reuters.com/authors/kanishka-singh/)
 
-November 16, 202611:43 AM MSTUpdated 19 hours ago
+November 17, 20262:52 PM MSTUpdated 16 hours ago
 
-![A banner depicting US President Donald Trump hangs on the US Department of Labor on the day US District Judge Tim Kelly holds an afternoon hearing, in Washington](https://www.reuters.com/resizer/v2/UUGKIUXASFJNTEK2NPCC2DH67I.jpg?auth=7e88e512c0eda92fc3819216bede555a58324d346062e7d43b242b747f2da621&width=1920&quality=80)
+![A gavel and a block is pictured at the George Glazer Gallery antique store in this illustration picture taken in Manhattan, New York City](https://www.reuters.com/resizer/v2/RFFPO4WE5NPKXCVSMLMBJ34KJI.jpg?auth=7a71e8fd1714db6aa11161a4afe96e97394ff8b7f5e4f551488557850121ecef&width=1920&quality=80)
 
-A banner depicting US President Donald Trump hangs on the US Department of Labor on the day US District Judge Tim Kelly holds an afternoon hearing in a lawsuit brought by media companies over the Trump administration's decision to bar journalists from CNN, MS NOW, and Politico from the White House, in Washington, D.C., US,... [Purchase Licensing Rights, opens new tab](https://www.reutersconnect.com/item/a-banner-depicting-us-president-donald-trump-hangs-on-the-us-department-of-labor-on-the-day-us-district-judge-tim-kelly-holds-an-afternoon-hearing-in-washington/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1JDMjRQTkEzWTdXTQ%3D%3D/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead) Read more
+A gavel and a block is pictured at the George Glazer Gallery antique store in this illustration picture taken in Manhattan, New York City, U.S., August 18, 2020. REUTERS/Andrew Kelly/Illustration [Purchase Licensing Rights, opens new tab](https://www.reutersconnect.com/item/a-gavel-and-a-block-is-pictured-at-the-george-glazer-gallery-antique-store-in-this-illustration-picture-taken-in-manhattan-new-york-city/dGFnOnJldXRlcnMuY29tLDIwMjA6bmV3c21sX1JDMk5HSTkwT09LTA%3D%3D/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead)
 
 - Summary
 - Companies
 
-- PERM lets foreign employees shift from temporary visas to permanent US residency
-- Employers would need to make more of an effort to hire US workers under proposal
-- Trump administraion blocked ​leading tech companies from using PERM in October
+- Somali American Uber driver was assaulted in Hopkins, Minnesota
+- Mohamed Yusuf's family said he was hospitalized and in coma
+- Charges against suspect Samit Patel revealed on Tuesday
 
-Nov 16 (Reuters) - The US Labor ‌Department proposed on Monday new limits on a [green card program](https://www.reuters.com/world/skilled-foreign-tech-workers-green-card-program-under-attack-trump-2026-10-08/) that enables skilled foreign workers to gain permanent residency in the United States, marking the Trump administration's latest effort to restrict legal immigration.
+WASHINGTON, Nov 17 (Reuters) - A male suspect was charged ​with attempted second-degree murder and carjacking in a weekend assault of a Somali American Uber [(UBER.N), opens new tab](https://www.reuters.com/markets/companies/UBER.N) ‌driver in Minnesota, prosecutors said on Tuesday, casting the incident as an "incredibly brutal attack."
 
-The ​Permanent Labor Certification program, or PERM, is used by large American technology companies ​and outsourcing firms to obtain employment-based green cards for foreign employees, allowing ⁠them to transition from temporary work status to permanent US residency.
+Mohamed Yusuf was assaulted by a passenger on Saturday in Hopkins, Minnesota, the driver's family and prosecutors said. His family said he was in a coma.
 
-Jumpstart your morning with the latest legal news delivered straight to your inbox from The Daily Docket newsletter. Sign up [here.](https://www.reuters.com/newsletters/daily-docket/?location=article-paragraph&redirectUrl=%2Flegal%2Flitigation%2Ftrump-administration-targets-further-limits-skilled-foreign-workers-2026-11-16%2F)
+Jumpstart your morning with the latest legal news delivered straight to your inbox from The Daily Docket newsletter. Sign up [here.](https://www.reuters.com/newsletters/daily-docket/?location=article-paragraph&redirectUrl=%2Flegal%2Fgovernment%2Fsuspect-charged-with-attempted-murder-assault-somali-american-minnesota-2026-11-17%2F)
 
-Before employing a foreigner, ​companies must prove there are not enough qualified and available US workers for a given ​job opportunity, and that hiring someone from abroad will not affect the pay and working conditions of similarly employed Americans.
+Hennepin County ​Attorney Mary Moriarty's office said it charged Samit Apurva Patel, 25, with one count of ​second-degree attempted murder and one count of first-degree carjacking for the attack on Yusuf ⁠on November 14. Patel was taken into custody on Saturday.
 
-The proposed overhaul would require employers to go to greater lengths to prove that a ​foreign hire would not hurt US workers. It would expand the requirement to occupations that ​had formerly been exempted because they were deemed to be in short supply, including professional nurses and ‌scientists ⁠of "exceptional ability."
+Yusuf's family alleged the attack was driven by ​hate while civil rights advocates, alarmed by escalating [political rhetoric](https://www.reuters.com/world/us/trump-garbage-rhetoric-about-somalis-draws-cheers-administration-silence-2025-12-04/) against [Somali and Muslim Americans](https://www.reuters.com/world/us/trump-mocks-popularity-name-mohammad-common-among-muslims-2026-10-16/), demanded a hate crime probe. ​Police said on Monday that investigators were examining whether bias played a role in the assault.
 
-The move represents President Donald Trump's latest attempt to restrict the program, part of his administration's broader effort to reduce the number of foreign-born people in the US and narrow their pathway to residence and citizenship.
+Moriarty's office said there was "insufficient evidence to prove to a jury beyond reasonable doubt that a specific bias was the motivation for Mr. Patel's actions."
 
-In October, the US government [blocked](https://www.reuters.com/business/us-suspending-permanent-residency-program-for-microsoft-vance-says-2026-10-08/) major technology companies ​from using PERM, including ​software maker Adobe [(ADBE.O), opens new tab](https://www.reuters.com/markets/companies/ADBE.O), major ⁠IT outsourcers and Microsoft [(MSFT.O), opens new tab](https://www.reuters.com/markets/companies/MSFT.O), the largest filer of permanent labor applications through the program, according to Labor Department data.
+The ​suspect asked Yusuf's name and remarked that he did not like it, the complaint filed by prosecutors ​said, citing Yusuf's brother who was on a call with Yusuf at the time.
 
-The overhaul proposed by ​the Labor Department on Monday would require employers to modernize their ​recruitment methods ⁠to ensure they are reaching the "broadest pool of high-quality US workers," such as through electronic job advertisements instead of printed ones.
+Yusuf told his brother the suspect appeared ‌drunk, ⁠the complaint said.
 
-It would also block US employers from seeking PERM certification for ⁠foreign ​workers within two years of laying off US workers ​in similar roles.
+Yusuf had broken ribs, a broken leg, spinal injuries, collapsed lungs and significant internal bleeding from several organs that had to be removed, the document said.
 
-The proposal, which will be published in the federal registry on Tuesday, is subject to 60 days ​of public comment before it can take effect.
+"It was an incredibly brutal attack," Moriarty said, saying Yusuf was strangled with his seat belt.
 
-Reporting by Julia Harte; Editing by Nia Williams
+"He was apparently pulled out of the car and was standing ​there when Patel drove ​over him and might ⁠have circled back and driven over him again," Moriarty told reporters, while also addressing the broader political rhetoric against Somali Americans.
+
+"The environment for our Somali neighbors ​in our state is absolutely frightening. And it is worsened due to comments ​made by the ⁠president, many of the officials around him, and many voices in this state who seem to eagerly demonize an entire community of our neighbors," the prosecutor said.
+
+Rights advocates have raised concerns about [rhetoric against Somali Americans](https://www.reuters.com/legal/government/trump-online-burst-anti-somali-anti-muslim-rhetoric-2026-10-09/) by ⁠President [Donald Trump](https://www.reuters.com/world/us/donald-trump/) ​and his allies, and condemned his [immigration crackdown in Minnesota](https://www.reuters.com/legal/government/timeline-trumps-minnesota-immigration-crackdown-2026-02-12/).
+
+US rights ​advocates have also noted [rising Islamophobia](https://www.reuters.com/world/us/trump-crackdown-protests-immigration-led-islamophobia-muslim-group-says-2026-03-10/) over the last two-plus decades following the [September 11, 2001, attacks](https://www.reuters.com/pictures/defining-images-911-attacks-2025-09-11/), and more recently due to [anti-immigration policies](https://www.reuters.com/world/us/near-blind-refugee-found-dead-buffalo-after-release-by-us-border-patrol-2026-02-26/), rising ​white supremacy movements and the fallout of [Israel's war in Gaza](https://www.reuters.com/world/israel-hamas/).
+
+Reporting by Kanishka Singh in Washington Editing by Bill Berkrot
 
 Our Standards: [The Thomson Reuters Trust Principles., opens new tab](https://www.thomsonreuters.com/en/about-us/trust-principles.html)
 
 - Suggested Topics:
-- [](https://www.reuters.com/business/world-at-work/)
-- [](https://www.reuters.com/legal/employment/)
-- [](https://www.reuters.com/sustainability/social-impact/)
-- [](https://www.reuters.com/legal/public-policy/)
-- [](https://www.reuters.com/legal/employee-benefits-executive-compensation/)
+- [](https://www.reuters.com/world/us/)
+- [](https://www.reuters.com/legal/constitutional-law/)
+- [](https://www.reuters.com/sustainability/human-rights/)
+- [](https://www.reuters.com/legal/criminal/)
 
 [](https://www.reutersagency.com/en/licensereuterscontent/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead)
 
+[
+
+](https://www.reuters.com/authors/kanishka-singh/)
+
+[Kanishka Singh](https://www.reuters.com/authors/kanishka-singh/)
+
+Thomson Reuters
+
+Kanishka Singh is a breaking news reporter for Reuters in Washington DC, who primarily covers US politics and national affairs in his current role. His past breaking news coverage has spanned across a range of topics like the Black Lives Matter movement; the US elections; the 2021 Capitol riots and their follow up probes; the Brexit deal; US-China trade tensions; the NATO withdrawal from Afghanistan; the COVID-19 pandemic; and a 2019 Supreme Court verdict on a religious dispute site in his native India.
+
+- [](mailto:Kanishka.Singh@thomsonreuters.com)
+- [](https://x.com/kanishka183)
+
 ## Read Next / Editor's Picks
 
-- [Businesscategory](https://www.reuters.com/business/)
-    
-    [Lufthansa in standoff with German pilots' union over labour deal](https://www.reuters.com/business/lufthansa-offers-pilots-union-deal-based-arbitration-recommendations-sees-path-2026-11-17/)
+- [Cal-Maine to cull 1.8 million birds, halt production at Florida facility after bird flu detected](https://www.reuters.com/business/healthcare-pharmaceuticals/cal-maine-cull-18-million-birds-halt-production-florida-facility-after-bird-flu-2026-11-18/)
     
     [
     
-    ](https://www.reuters.com/business/lufthansa-offers-pilots-union-deal-based-arbitration-recommendations-sees-path-2026-11-17/)
+    ](https://www.reuters.com/business/healthcare-pharmaceuticals/cal-maine-cull-18-million-birds-halt-production-florida-facility-after-bird-flu-2026-11-18/)
     
-- [World at Workcategory](https://www.reuters.com/business/world-at-work/)
+- [Legalcategory](https://www.reuters.com/legal/)
     
-    [Tobacco maker Imperial to shed up to 18% of staff in cost-cutting drive](https://www.reuters.com/business/world-at-work/uks-imperial-brands-cut-up-2500-roles-by-end-2030-2026-11-17/)
-    
-    [
-    
-    ](https://www.reuters.com/business/world-at-work/uks-imperial-brands-cut-up-2500-roles-by-end-2030-2026-11-17/)
-    
-- [Retail & Consumercategory](https://www.reuters.com/business/retail-consumer/)
-    
-    [Nestle Brazil coffee supplier faces hearing over labor abuse claims](https://www.reuters.com/business/retail-consumer/nestle-brazil-coffee-supplier-faces-hearing-over-labor-abuse-claims-2026-11-16/)
+    [US senators warn White House that AI-enabled cyber threats are outpacing defenses](https://www.reuters.com/legal/government/us-senators-warn-white-house-that-ai-enabled-cyber-threats-are-outpacing-2026-11-18/)
     
     [
     
-    ](https://www.reuters.com/business/retail-consumer/nestle-brazil-coffee-supplier-faces-hearing-over-labor-abuse-claims-2026-11-16/)
+    ](https://www.reuters.com/legal/government/us-senators-warn-white-house-that-ai-enabled-cyber-threats-are-outpacing-2026-11-18/)
+    
+- [Legalcategory](https://www.reuters.com/legal/)
+    
+    [Speaker vote gives progressive Democrats a chance to vent at Hakeem Jeffries](https://www.reuters.com/legal/government/speaker-vote-gives-progressive-democrats-chance-vent-hakeem-jeffries-2026-11-18/)
+    
+    [
+    
+    ](https://www.reuters.com/legal/government/speaker-vote-gives-progressive-democrats-chance-vent-hakeem-jeffries-2026-11-18/)
     
 - [
     
-    ](https://www.reuters.com/business/world-at-work/renault-cut-up-1000-white-collar-jobs-france-add-roles-ev-production-say-sources-2026-11-16/)
+    ](https://www.reuters.com/world/us/democrat-peltola-wins-alaska-securing-56-44-us-senate-majority-2026-11-18/)
     
 - [
     
-    ](https://www.reuters.com/business/world-at-work/australia-make-backpackers-do-extra-rural-work-meet-labour-crunch-2026-11-17/)
+    ](https://www.reuters.com/world/us/us-single-family-housing-starts-rebound-october-building-permits-plunge-2026-11-18/)
     
 - [
     
-    ](https://www.reuters.com/business/world-at-work/australias-bunnings-slash-230-jobs-end-120-contractor-roles-under-tcs-2026-11-17/)
+    ](https://www.reuters.com/legal/litigation/trump-withdraws-heidi-overton-nominee-lead-food-drug-administration-sources-say-2026-11-18/)
     
 - [
     
-    ](https://www.reuters.com/world/spains-government-raise-minimum-wage-53-election-looms-2026-11-16/)
+    ](https://www.reuters.com/world/us/democrats-probe-whether-howard-lutnick-helped-cantor-avoid-nvidia-losses-ft-2026-11-18/)
     
 - [
     
-    ](https://www.reuters.com/world/uk/uk-expand-jobs-guarantee-scheme-young-people-2026-11-14/)
+    ](https://www.reuters.com/legal/litigation/what-know-about-energy-permitting-overhaul-bill-before-us-congress-2026-11-18/)
     
 - [
     
-    ](https://www.reuters.com/world/americas/canadas-stelco-recall-175-laid-off-workers-restart-hamilton-plant-finishing-2026-11-13/)
+    ](https://www.reuters.com/business/aerospace-defense/trump-shrugs-off-spate-us-outages-says-things-like-that-happen-2026-11-17/)
     
 - [
     
-    ](https://www.reuters.com/business/healthcare-pharmaceuticals/barrick-furloughs-some-employees-congo-mine-ebola-precaution-memo-says-2026-11-12/)
+    ](https://www.reuters.com/sports/former-world-champion-linares-says-he-has-been-detained-by-ice-2026-11-18/)
     
 - [
     
-    ](https://www.reuters.com/business/world-at-work/workers-across-spain-stage-first-general-strike-14-years-anger-over-housing-2026-11-11/)
+    ](https://www.reuters.com/business/healthcare-pharmaceuticals/us-loses-measles-elimination-status-after-nearly-three-decades-2026-11-17/)
     
 - [
     
-    ](https://www.reuters.com/business/world-at-work/australian-companies-face-ai-washing-claims-after-wave-job-cuts-offshoring-2026-11-11/)
+    ](https://www.reuters.com/world/house-senate-lawmakers-reach-deal-key-aviation-safety-provisions-2026-11-17/)
     
 - [
     
-    ](https://www.reuters.com/business/polymarket-cuts-jobs-contracts-prediction-market-competition-heats-up-2026-11-11/)
+    ](https://www.reuters.com/world/us/hearing-us-navy-chief-blasted-over-iran-war-its-toll-sailors-2026-11-17/)
     
 - [
     
-    ](https://www.reuters.com/business/world-at-work/behind-bangladeshs-garment-boom-workers-cut-food-healthcare-wages-fall-short-2026-11-11/)
+    ](https://www.reuters.com/legal/litigation/authorities-raid-factory-making-illegal-chinese-vapes-us-2026-11-17/)
     
 - [
     
-    ](https://www.reuters.com/business/world-at-work/vw-drops-gamechanger-production-main-plant-risking-escalation-with-workers-2026-11-11/)
+    ](https://www.reuters.com/legal/litigation/us-judge-extends-deadline-trump-deposition-bbc-defamation-case-2026-11-17/)
+    
+- [
+    
+    ](https://www.reuters.com/legal/government/man-arrested-charges-threatening-blow-up-illinois-biofuels-plant-2026-11-18/)
     
 
 [](https://www.lseg.com/en/data-analytics/products/workspace?utm_source=reuters.com&utm_medium=articlebanner&utm_campaign=Reuters_ProductPage_Links)
