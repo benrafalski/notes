@@ -24,156 +24,201 @@
 
 [My News](https://www.reuters.com/my-news/feed/)
 
-[](https://www.reuters.com/account/sign-in/?website=reuters&redirect=https%3A%2F%2Fwww.reuters.com%2Flegal%2Fgovernment%2Fsuspect-charged-with-attempted-murder-assault-somali-american-minnesota-2026-11-17%2F)[](https://www.reuters.com/account/subscribe/offer/?website=reuters&redirect=https%3A%2F%2Fwww.reuters.com%2Flegal%2Fgovernment%2Fsuspect-charged-with-attempted-murder-assault-somali-american-minnesota-2026-11-17%2F&referrer=subscription_button&journeyStart=navigation)
+[](https://www.reuters.com/account/sign-in/?website=reuters&redirect=https%3A%2F%2Fwww.reuters.com%2Fworld%2Fchina%2Ftrumps-historic-meeting-with-xi-putin-headlines-asia-trip-2026-11-18%2F)[](https://www.reuters.com/account/subscribe/offer/?website=reuters&redirect=https%3A%2F%2Fwww.reuters.com%2Fworld%2Fchina%2Ftrumps-historic-meeting-with-xi-putin-headlines-asia-trip-2026-11-18%2F&referrer=subscription_button&journeyStart=navigation)
 
-# Suspect charged with attempted murder in assault of Somali American in Minnesota
+# China and Russia release 'peace declaration' after Trump, Xi, Putin meeting
 
-By [Kanishka Singh](https://www.reuters.com/authors/kanishka-singh/)
+By [Jarrett Renshaw](https://www.reuters.com/authors/jarrett-renshaw/) and [Trevor Hunnicutt](https://www.reuters.com/authors/trevor-hunnicutt/)
 
-November 17, 20262:52 PM MSTUpdated 16 hours ago
-
-![A gavel and a block is pictured at the George Glazer Gallery antique store in this illustration picture taken in Manhattan, New York City](https://www.reuters.com/resizer/v2/RFFPO4WE5NPKXCVSMLMBJ34KJI.jpg?auth=7a71e8fd1714db6aa11161a4afe96e97394ff8b7f5e4f551488557850121ecef&width=1920&quality=80)
-
-A gavel and a block is pictured at the George Glazer Gallery antique store in this illustration picture taken in Manhattan, New York City, U.S., August 18, 2020. REUTERS/Andrew Kelly/Illustration [Purchase Licensing Rights, opens new tab](https://www.reutersconnect.com/item/a-gavel-and-a-block-is-pictured-at-the-george-glazer-gallery-antique-store-in-this-illustration-picture-taken-in-manhattan-new-york-city/dGFnOnJldXRlcnMuY29tLDIwMjA6bmV3c21sX1JDMk5HSTkwT09LTA%3D%3D/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead)
+November 18, 20264:05 PM MSTUpdated 22 mins ago
 
 - Summary
 - Companies
 
-- Somali American Uber driver was assaulted in Hopkins, Minnesota
-- Mohamed Yusuf's family said he was hospitalized and in coma
-- Charges against suspect Samit Patel revealed on Tuesday
+- China and Russia say Trump, Xi, Putin agreed on 'peace declaration'
+- Leaders pledge to reform UN, uphold immunity from international courts
+- Few tangible victories from Trump's three-day swing through Asia
+- Some US allies uneasy about Trump's relationship with Putin
+- Putin 'gained credibility and escape from pariah status', says analyst
 
-WASHINGTON, Nov 17 (Reuters) - A male suspect was charged ​with attempted second-degree murder and carjacking in a weekend assault of a Somali American Uber [(UBER.N), opens new tab](https://www.reuters.com/markets/companies/UBER.N) ‌driver in Minnesota, prosecutors said on Tuesday, casting the incident as an "incredibly brutal attack."
+SHENZHEN, China, Nov 19 (Reuters) - Chinese President Xi Jinping and his US and Russian counterparts Donald Trump and Vladimir Putin agreed on a "peace ​declaration" at their unprecedented three-way meeting on Thursday in which they reaffirmed that a nuclear war should never be fought, China and Russia said.
 
-Mohamed Yusuf was assaulted by a passenger on Saturday in Hopkins, Minnesota, the driver's family and prosecutors said. His family said he was in a coma.
+The declaration capped Trump's [three-day diplomatic swing](https://www.reuters.com/default/day-3-trumps-asia-tour-big-summits-bigger-spectacle-unfinished-deals-2026-11-19/) through Asia that produced ‌few tangible victories, despite his repeated boasts about making history and brokering peace.
 
-Jumpstart your morning with the latest legal news delivered straight to your inbox from The Daily Docket newsletter. Sign up [here.](https://www.reuters.com/newsletters/daily-docket/?location=article-paragraph&redirectUrl=%2Flegal%2Fgovernment%2Fsuspect-charged-with-attempted-murder-assault-somali-american-minnesota-2026-11-17%2F)
+Make sense of global markets with the Trading Day newsletter. Sign up [here.](https://www.reuters.com/newsletters/trading-day/?location=article-paragraph&redirectUrl=%2Fworld%2Fchina%2Ftrumps-historic-meeting-with-xi-putin-headlines-asia-trip-2026-11-18%2F)
 
-Hennepin County ​Attorney Mary Moriarty's office said it charged Samit Apurva Patel, 25, with one count of ​second-degree attempted murder and one count of first-degree carjacking for the attack on Yusuf ⁠on November 14. Patel was taken into custody on Saturday.
+Instead, the trip raised fresh questions among US allies about his increasingly close relationship with Putin, who continues to wage [war with Ukraine](https://www.reuters.com/world/ukraine-russia-war/).
 
-Yusuf's family alleged the attack was driven by ​hate while civil rights advocates, alarmed by escalating [political rhetoric](https://www.reuters.com/world/us/trump-garbage-rhetoric-about-somalis-draws-cheers-administration-silence-2025-12-04/) against [Somali and Muslim Americans](https://www.reuters.com/world/us/trump-mocks-popularity-name-mohammad-common-among-muslims-2026-10-16/), demanded a hate crime probe. ​Police said on Monday that investigators were examining whether bias played a role in the assault.
+In the declaration, the three leaders also pledged to advance reforms of the United Nations, to increase supplies of refined petroleum products for all countries and to uphold the immunity enjoyed by state officials in international courts.
 
-Moriarty's office said there was "insufficient evidence to prove to a jury beyond reasonable doubt that a specific bias was the motivation for Mr. Patel's actions."
+The International Criminal Court in The Hague has issued arrest warrants for Putin and five other Russian officials.
 
-The ​suspect asked Yusuf's name and remarked that he did not like it, the complaint filed by prosecutors ​said, citing Yusuf's brother who was on a call with Yusuf at the time.
+Putin and Russia's children's commissioner, Maria ​Lvova-Belova, are accused of the unlawful deportation and transfer of Ukrainian children, while the other warrants relate to alleged war crimes and crimes against humanity committed during Russia's full-scale invasion of Ukraine. Moscow rejects the allegations.
 
-Yusuf told his brother the suspect appeared ‌drunk, ⁠the complaint said.
+"The ​pushback against international norms and courts is the most interesting aspect. The big powers dictate, the small powers suffer," said Jonathan Eyal, international director at the RUSI think-tank in ⁠London.
 
-Yusuf had broken ribs, a broken leg, spinal injuries, collapsed lungs and significant internal bleeding from several organs that had to be removed, the document said.
+Eyal added that Putin "gained credibility and escape from pariah status", while Trump "gained a photo opportunity he didn't need."
 
-"It was an incredibly brutal attack," Moriarty said, saying Yusuf was strangled with his seat belt.
+The document was released by Chinese state news agency Xinhua and by the Kremlin. Trump departed on his flight back to the ​US without making any comment after the meeting.
 
-"He was apparently pulled out of the car and was standing ​there when Patel drove ​over him and might ⁠have circled back and driven over him again," Moriarty told reporters, while also addressing the broader political rhetoric against Somali Americans.
+Earlier, the leaders of the world's biggest nuclear powers, sitting at a round table in a villa nestled among wooded hills beside a lake in the southern Chinese city of Shenzhen, described their ​meeting as historic.
 
-"The environment for our Somali neighbors ​in our state is absolutely frightening. And it is worsened due to comments ​made by the ⁠president, many of the officials around him, and many voices in this state who seem to eagerly demonize an entire community of our neighbors," the prosecutor said.
+"We are really making history," Trump told Xi and Putin at the start of the meeting before journalists were sent away. "No peace was ever forged by declining opportunities for engagement."
 
-Rights advocates have raised concerns about [rhetoric against Somali Americans](https://www.reuters.com/legal/government/trump-online-burst-anti-somali-anti-muslim-rhetoric-2026-10-09/) by ⁠President [Donald Trump](https://www.reuters.com/world/us/donald-trump/) ​and his allies, and condemned his [immigration crackdown in Minnesota](https://www.reuters.com/legal/government/timeline-trumps-minnesota-immigration-crackdown-2026-02-12/).
+## DIFFERENCES OVER UKRAINE, IRAN AND TRADE
 
-US rights ​advocates have also noted [rising Islamophobia](https://www.reuters.com/world/us/trump-crackdown-protests-immigration-led-islamophobia-muslim-group-says-2026-03-10/) over the last two-plus decades following the [September 11, 2001, attacks](https://www.reuters.com/pictures/defining-images-911-attacks-2025-09-11/), and more recently due to [anti-immigration policies](https://www.reuters.com/world/us/near-blind-refugee-found-dead-buffalo-after-release-by-us-border-patrol-2026-02-26/), rising ​white supremacy movements and the fallout of [Israel's war in Gaza](https://www.reuters.com/world/israel-hamas/).
+Putin, fresh from a setback in his war against Ukraine after the [crippling of a key bridge](https://www.reuters.com/world/europe/ukraine-strikes-crimean-bridge-second-day-russia-pounds-kyiv-bridges-2026-11-17/) linking Crimea to Russia, said the three countries had "numerous shared interests in the settlement of regional conflicts, including obviously the conflict in Ukraine".
 
-Reporting by Kanishka Singh in Washington Editing by Bill Berkrot
+The meeting was a diplomatic coup for Putin, with Russia’s economy barely a 10th the size of ​China’s and most of its businesses barred from trading with the West by sanctions.
+
+The meeting ended a few hours before Ukraine and the leaders of its main European allies were due to meet Trump’s envoys Steve Witkoff and Jared Kushner ​in Berlin.
+
+Item 1 of 4 US President Donald Trump speaks with China's President Xi Jinping after leaders posed for a group photo during the Asia-Pacific Economic Cooperation (APEC) Summit in Shenzhen, in China's southern Guangdong Province, on November 19, 2026. GREG BAKER/Pool via REUTERS TPX IMAGES OF THE DAY
+
+**[1/4]**US President Donald Trump speaks with China's President Xi Jinping after leaders posed for a group photo during the Asia-Pacific Economic Cooperation (APEC) Summit in Shenzhen, in China's southern Guangdong Province, on November 19, 2026. GREG BAKER/Pool via REUTERS TPX IMAGES OF THE DAY [Purchase Licensing Rights, opens new tab](https://www.reutersconnect.com/item/china-hosts-the-apec-summit/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1JDMlFRT0FKN09ONg%3D%3D/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead)
+
+Unlike Trump and Putin, Xi did not make a direct reference to Ukraine, but said: "History tells us that when major powers live in harmony, the world is at peace. When major powers clash, the world falls into turmoil."
+
+The three countries have deep ‌differences over Ukraine, ⁠Iran, nuclear weapons and trade, casting doubts about a durable outcome. Their meeting on the sidelines of an Asia-Pacific summit has unnerved smaller countries that fear their interests might be disregarded.
+
+The Kylin Villa where they met has a long history of sensitive diplomatic encounters. Its past visitors include former North Korean leader Kim Jong-il, Xi's father Xi Zhongxun, and envoys of the Dalai Lama.
+
+Before the trilateral, Trump met Xi and Putin separately, referring to both as friends.
+
+## FANFARE AND PAGEANTRY
+
+Speaking to Fox News earlier, Trump highlighted the pomp surrounding his arrival for the summit, which contrasted with the more muted greeting of other leaders, including Putin. Japanese Prime Minister Sanae Takaichi landed without any welcoming ceremony.
+
+Japan's relations with China have soured since ​Takaichi's remarks in 2025, when she said Japan could deploy ​its military if a Chinese move on Taiwan also ⁠threatened its territory.
+
+Takaichi, who cut an [isolated figure](https://www.reuters.com/world/china/tarmac-apec-summit-table-japans-pm-cuts-lonely-figure-2026-11-19/) throughout the summit, said Tokyo's position on Taiwan [had not changed](https://www.reuters.com/world/china/japans-position-taiwan-has-not-changed-pm-takaichi-says-2026-11-19/) since 1972.
+
+On Taiwan, Xi told Trump the US must "do the right thing" to avoid major setbacks in their relationship.
+
+Xi greeted Trump at the airport, the first time he has done so with any visiting leader since becoming president, reciprocating his counterpart's gesture at ​Joint Base Andrews in September, when they last met. The leaders also briefly hugged.
+
+"This is a great president, one of the great presidents of China, and he's never ​gone to the airport to ⁠meet somebody," Trump said, calling that a "win" for both China and the US.
+
+"And not only that, the fanfare, the beauty, the pageantry, the thousands of people, the young children, the soldiers, the whole thing."
+
+## TOUGH NUCLEAR ARMS DISCUSSION
+
+Trump had insisted nuclear arms control be a central topic of the summit, despite China's repeated objections in the past to joining talks with Washington and Moscow, which have far larger nuclear arsenals.
+
+“It’s not an easy thing to do – give them up,” Trump told Xi and Putin at the ⁠start of their ​meeting.
+
+Trump and Xi met after an extension of their trade truce this month, but also amid growing tension over reports of Nvidia chips being ​diverted to China through Southeast Asia, raising questions about the effectiveness of US export curbs and the future of Chinese access to advanced technology.
+
+Reporting by Jarrett Renshaw, Trevor Hunnicut, Liz Lee, Ju-min Park in Shenzhen; Mei Mei Chu, Shi Bu, Xiuhao Chen and Yukun Zhang in Beijing; Farah Master ​in Hong Kong; David Brunnstrom in Washington; Daniel Trotta in Los Angeles; Jekaterīna Golubkova in Tokyo; Ben Blanchard in Taipei; Writing by Jarrett Renshaw and Marius Zaharia; Editing by Clarence Fernandez, Lincoln Feast, Saad Sayeed, Raju Gopalakrishnan and Alex Richardson
 
 Our Standards: [The Thomson Reuters Trust Principles., opens new tab](https://www.thomsonreuters.com/en/about-us/trust-principles.html)
 
 - Suggested Topics:
-- [](https://www.reuters.com/world/us/)
-- [](https://www.reuters.com/legal/constitutional-law/)
-- [](https://www.reuters.com/sustainability/human-rights/)
-- [](https://www.reuters.com/legal/criminal/)
+- [](https://www.reuters.com/technology/artificial-intelligence/)
 
 [](https://www.reutersagency.com/en/licensereuterscontent/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead)
 
 [
 
-](https://www.reuters.com/authors/kanishka-singh/)
+](https://www.reuters.com/authors/trevor-hunnicutt/)
 
-[Kanishka Singh](https://www.reuters.com/authors/kanishka-singh/)
+[Trevor Hunnicutt](https://www.reuters.com/authors/trevor-hunnicutt/)
 
 Thomson Reuters
 
-Kanishka Singh is a breaking news reporter for Reuters in Washington DC, who primarily covers US politics and national affairs in his current role. His past breaking news coverage has spanned across a range of topics like the Black Lives Matter movement; the US elections; the 2021 Capitol riots and their follow up probes; the Brexit deal; US-China trade tensions; the NATO withdrawal from Afghanistan; the COVID-19 pandemic; and a 2019 Supreme Court verdict on a religious dispute site in his native India.
+Trevor Hunnicutt is White House Correspondent at Reuters News. He writes about U.S. foreign and domestic policy and regularly travels with the President of the United States. Prior to joining the White House team in 2021, he covered presidential campaigns, economics, finance and investing for many years. He has also served on the board of the White House Correspondents' Association. Hunnicutt holds a bachelor's degree from Pomona College and a master's from the London School of Economics.
 
-- [](mailto:Kanishka.Singh@thomsonreuters.com)
-- [](https://x.com/kanishka183)
+- [](mailto:trevor.hunnicutt@thomsonreuters.com)
+- [](https://x.com/trevornews)
+- [](https://www.linkedin.com/in/thunnicutt/)
 
-## Read Next / Editor's Picks
+## Read Next
 
-- [Cal-Maine to cull 1.8 million birds, halt production at Florida facility after bird flu detected](https://www.reuters.com/business/healthcare-pharmaceuticals/cal-maine-cull-18-million-birds-halt-production-florida-facility-after-bird-flu-2026-11-18/)
+- [Investigationscategory](https://www.reuters.com/investigations/)
+    
+    [As Meta bets big on Muse AI agent, early safety mishaps surface](https://www.reuters.com/investigations/meta-bets-big-muse-ai-agent-early-safety-mishaps-surface-2026-11-18/)
     
     [
     
-    ](https://www.reuters.com/business/healthcare-pharmaceuticals/cal-maine-cull-18-million-birds-halt-production-florida-facility-after-bird-flu-2026-11-18/)
+    ](https://www.reuters.com/investigations/meta-bets-big-muse-ai-agent-early-safety-mishaps-surface-2026-11-18/)
+    
+- [Worldcategory](https://www.reuters.com/world/)
+    
+    EXCLUSIVE
+    
+    [Trump administration weighs forcing US firms to disclose Chinese AI use](https://www.reuters.com/world/china/trump-administration-weighs-forcing-us-firms-disclose-chinese-ai-use-2026-11-18/)
+    
+    [
+    
+    ](https://www.reuters.com/world/china/trump-administration-weighs-forcing-us-firms-disclose-chinese-ai-use-2026-11-18/)
     
 - [Legalcategory](https://www.reuters.com/legal/)
     
-    [US senators warn White House that AI-enabled cyber threats are outpacing defenses](https://www.reuters.com/legal/government/us-senators-warn-white-house-that-ai-enabled-cyber-threats-are-outpacing-2026-11-18/)
+    [Anthropic valued at $1.5 trillion as IPO raises record $81 billion](https://www.reuters.com/legal/transactional/anthropic-prices-blockbuster-ipo-83-share-source-says-2026-11-18/)
     
     [
     
-    ](https://www.reuters.com/legal/government/us-senators-warn-white-house-that-ai-enabled-cyber-threats-are-outpacing-2026-11-18/)
-    
-- [Legalcategory](https://www.reuters.com/legal/)
-    
-    [Speaker vote gives progressive Democrats a chance to vent at Hakeem Jeffries](https://www.reuters.com/legal/government/speaker-vote-gives-progressive-democrats-chance-vent-hakeem-jeffries-2026-11-18/)
-    
-    [
-    
-    ](https://www.reuters.com/legal/government/speaker-vote-gives-progressive-democrats-chance-vent-hakeem-jeffries-2026-11-18/)
+    ](https://www.reuters.com/legal/transactional/anthropic-prices-blockbuster-ipo-83-share-source-says-2026-11-18/)
     
 - [
     
-    ](https://www.reuters.com/world/us/democrat-peltola-wins-alaska-securing-56-44-us-senate-majority-2026-11-18/)
+    ](https://www.reuters.com/business/world-at-work/anthropic-ipo-mint-thousands-of-millionaires-2026-11-18/)
     
 - [
     
-    ](https://www.reuters.com/world/us/us-single-family-housing-starts-rebound-october-building-permits-plunge-2026-11-18/)
+    ](https://www.reuters.com/business/ai-stocks-rally-nvidia-outlook-calms-demand-fears-2026-11-18/)
     
 - [
     
-    ](https://www.reuters.com/legal/litigation/trump-withdraws-heidi-overton-nominee-lead-food-drug-administration-sources-say-2026-11-18/)
-    
-- [
-    
-    ](https://www.reuters.com/world/us/democrats-probe-whether-howard-lutnick-helped-cantor-avoid-nvidia-losses-ft-2026-11-18/)
-    
-- [
-    
-    ](https://www.reuters.com/legal/litigation/what-know-about-energy-permitting-overhaul-bill-before-us-congress-2026-11-18/)
-    
-- [
-    
-    ](https://www.reuters.com/business/aerospace-defense/trump-shrugs-off-spate-us-outages-says-things-like-that-happen-2026-11-17/)
-    
-- [
-    
-    ](https://www.reuters.com/sports/former-world-champion-linares-says-he-has-been-detained-by-ice-2026-11-18/)
-    
-- [
-    
-    ](https://www.reuters.com/business/healthcare-pharmaceuticals/us-loses-measles-elimination-status-after-nearly-three-decades-2026-11-17/)
-    
-- [
-    
-    ](https://www.reuters.com/world/house-senate-lawmakers-reach-deal-key-aviation-safety-provisions-2026-11-17/)
-    
-- [
-    
-    ](https://www.reuters.com/world/us/hearing-us-navy-chief-blasted-over-iran-war-its-toll-sailors-2026-11-17/)
-    
-- [
-    
-    ](https://www.reuters.com/legal/litigation/authorities-raid-factory-making-illegal-chinese-vapes-us-2026-11-17/)
-    
-- [
-    
-    ](https://www.reuters.com/legal/litigation/us-judge-extends-deadline-trump-deposition-bbc-defamation-case-2026-11-17/)
-    
-- [
-    
-    ](https://www.reuters.com/legal/government/man-arrested-charges-threatening-blow-up-illinois-biofuels-plant-2026-11-18/)
+    ](https://www.reuters.com/world/china/nvidia-stops-shipping-us-approved-ai-chips-china-2026-11-18/)
     
 
 [](https://www.lseg.com/en/data-analytics/products/workspace?utm_source=reuters.com&utm_medium=articlebanner&utm_campaign=Reuters_ProductPage_Links)
+
+## [World](https://www.reuters.com/world/)
+
+- [
+    
+    ](https://www.reuters.com/live/anthropic-ipo-live-claude-maker-goes-public-nasdaq-after-record-share-offering-2026-11-19/)
+    
+    ### [Anthropic to begin trading after record IPO](https://www.reuters.com/live/anthropic-ipo-live-claude-maker-goes-public-nasdaq-after-record-share-offering-2026-11-19/)
+    
+    [Livecategory](https://www.reuters.com/live/) · November 19, 2026 · 7:25 AM MST · 8 mins ago
+    
+    Anthropic is set to make its market debut on Nasdaq after raising $81.3 billion in the largest initial public offering on record, eclipsing Elon Musk's SpaceX in June.
+    
+- [
+    
+    ](https://www.reuters.com/live/trump-xi-putin-live-leaders-hold-unprecedented-summit-shenzhen-2026-11-18/)
+    
+    [Livecategory](https://www.reuters.com/live/)[Trump, Xi and Putin hold unprecedented trilateral talks - as it happened](https://www.reuters.com/live/trump-xi-putin-live-leaders-hold-unprecedented-summit-shenzhen-2026-11-18/)
+    
+    7:19 AM MST
+    
+- [
+    
+    ](https://www.reuters.com/world/china/putin-says-russia-invited-europeans-moscow-clarify-position-ukraine-talks-2026-11-19/)
+    
+    [Chinacategory](https://www.reuters.com/world/china/)[Putin says Russia invited Europeans to Moscow to clarify position on Ukraine talks](https://www.reuters.com/world/china/putin-says-russia-invited-europeans-moscow-clarify-position-ukraine-talks-2026-11-19/)
+    
+    7:15 AM MST
+    
+- [
+    
+    ](https://www.reuters.com/markets/europe/hungary-end-orban-era-35-year-motorway-concession-contract-2026-11-19/)
+    
+    [category](https://www.reuters.com/markets/)[Hungary to end Orban-era 35-year motorway concession contract](https://www.reuters.com/markets/europe/hungary-end-orban-era-35-year-motorway-concession-contract-2026-11-19/)
+    
+    7:02 AM MST
+    
+- [
+    
+    ](https://www.reuters.com/world/africa/nigerias-tinubu-asks-parliament-decriminalise-attempted-suicide-2026-11-19/)
+    
+    [Africacategory](https://www.reuters.com/world/africa/)[Nigeria's Tinubu asks parliament to decriminalise attempted suicide](https://www.reuters.com/world/africa/nigerias-tinubu-asks-parliament-decriminalise-attempted-suicide-2026-11-19/)
+    
+    7:00 AM MST
+    
 
 ### Site Index
 

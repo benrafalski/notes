@@ -57,6 +57,7 @@ Under Agriculture Secretary Brooke Rollins, The USDA aimed to move about half of
 - Judge: US District Judge Tanya Chutkan 
 - Timeline:
 	- [October 5, 2026](https://www.reuters.com/world/us/trumps-washington-arch-poised-approval-judge-weighs-bid-block-construction-2026-11-05/): Judge Chutkan issues 14 day TRO blocking Trump from constructing his arch.
+	- [November 18](https://www.reuters.com/legal/government/us-judge-extends-block-construction-trumps-triumphal-arch-2026-11-18/): Judge Chutkan extends TRO for 14 days.
 # Renaming Things
 ## Lake Ontario
 In August 2026, amid a trade and tariff spat with Canada, Trump signed an order renaming Lake Ontario to 'Lake America.' Soon after,  Google and Apple maps changed the name of Lake Ontario to "Lake America," illustrating how [U.S. tech companies](https://www.reuters.com/world/us/apple-maps-changes-name-lake-ontario-lake-america-2026-09-01/) are being pulled into geopolitical disputes as Trump pressures them to comply with executive orders that allies and international bodies ​have rejected. 
