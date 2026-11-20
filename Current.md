@@ -24,200 +24,210 @@
 
 [My News](https://www.reuters.com/my-news/feed/)
 
-[](https://www.reuters.com/account/sign-in/?website=reuters&redirect=https%3A%2F%2Fwww.reuters.com%2Fworld%2Fchina%2Ftrumps-historic-meeting-with-xi-putin-headlines-asia-trip-2026-11-18%2F)[](https://www.reuters.com/account/subscribe/offer/?website=reuters&redirect=https%3A%2F%2Fwww.reuters.com%2Fworld%2Fchina%2Ftrumps-historic-meeting-with-xi-putin-headlines-asia-trip-2026-11-18%2F&referrer=subscription_button&journeyStart=navigation)
+[](https://www.reuters.com/account/sign-in/?website=reuters&redirect=https%3A%2F%2Fwww.reuters.com%2Fsports%2Ftrump-pardons-late-baseball-legend-pete-rose-tax-crimes-2026-11-19%2F)[](https://www.reuters.com/account/subscribe/offer/?website=reuters&redirect=https%3A%2F%2Fwww.reuters.com%2Fsports%2Ftrump-pardons-late-baseball-legend-pete-rose-tax-crimes-2026-11-19%2F&referrer=subscription_button&journeyStart=navigation)
 
-# China and Russia release 'peace declaration' after Trump, Xi, Putin meeting
+# Trump pardons late baseball legend Pete Rose for tax crimes
 
-By [Jarrett Renshaw](https://www.reuters.com/authors/jarrett-renshaw/) and [Trevor Hunnicutt](https://www.reuters.com/authors/trevor-hunnicutt/)
+By [Jacob Bogage](https://www.reuters.com/authors/jacob-bogage/)
 
-November 18, 20264:05 PM MSTUpdated 22 mins ago
+November 19, 20264:57 PM MSTUpdated 14 hours ago
+
+Item 1 of 2 Former Cincinnati Reds player and manager Pete Rose waves to the crowd during the 5th inning of play against the St. Louis Cardinals in their MLB baseball game at Great American Ball Park in Cincinnati, Ohio, June 10, 2008. REUTERS/John Sommers II/File Photo
+
+**[1/2]**Former Cincinnati Reds player and manager Pete Rose waves to the crowd during the 5th inning of play against the St. Louis Cardinals in their MLB baseball game at Great American Ball Park in Cincinnati, Ohio, June 10, 2008. REUTERS/John Sommers II/File Photo [Purchase Licensing Rights, opens new tab](https://www.reutersconnect.com/item/trump-pardons-late-baseball-legend-pete-rose-for-tax-crimes/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1JDMkJST0FaN1c0SQ%3D%3D/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead)
 
 - Summary
-- Companies
 
-- China and Russia say Trump, Xi, Putin agreed on 'peace declaration'
-- Leaders pledge to reform UN, uphold immunity from international courts
-- Few tangible victories from Trump's three-day swing through Asia
-- Some US allies uneasy about Trump's relationship with Putin
-- Putin 'gained credibility and escape from pariah status', says analyst
+- Trump praises Rose in social media post announcing pardon
+- Rose pleaded guilty in 1990 to two false tax return charges
+- Rose amassed 4,256 hits in his career, more than any other MLB player
 
-SHENZHEN, China, Nov 19 (Reuters) - Chinese President Xi Jinping and his US and Russian counterparts Donald Trump and Vladimir Putin agreed on a "peace ​declaration" at their unprecedented three-way meeting on Thursday in which they reaffirmed that a nuclear war should never be fought, China and Russia said.
+WASHINGTON, Nov 19 (Reuters) - President Donald Trump said on Thursday he had pardoned ​late baseball legend Pete Rose for tax crimes, the latest part of an effort to rehabilitate the reputation of ‌Major League Baseball's all-time leader in hits.
 
-The declaration capped Trump's [three-day diplomatic swing](https://www.reuters.com/default/day-3-trumps-asia-tour-big-summits-bigger-spectacle-unfinished-deals-2026-11-19/) through Asia that produced ‌few tangible victories, despite his repeated boasts about making history and brokering peace.
+Rose, who amassed 4,256 hits over a 24-year career that spanned from 1963 to 1986, was banished from the game for decades after he was found to have wagered on baseball, including games in which he took part as a manager.
 
-Make sense of global markets with the Trading Day newsletter. Sign up [here.](https://www.reuters.com/newsletters/trading-day/?location=article-paragraph&redirectUrl=%2Fworld%2Fchina%2Ftrumps-historic-meeting-with-xi-putin-headlines-asia-trip-2026-11-18%2F)
+The Reuters Inside Track newsletter is your essential guide to global sports news. Sign up [here.](https://www.reuters.com/newsletters/inside-track/?location=article-paragraph&redirectUrl=%2Fsports%2Ftrump-pardons-late-baseball-legend-pete-rose-tax-crimes-2026-11-19%2F)
 
-Instead, the trip raised fresh questions among US allies about his increasingly close relationship with Putin, who continues to wage [war with Ukraine](https://www.reuters.com/world/ukraine-russia-war/).
+Nicknamed “Charlie Hustle” for his relentless style ​of play, he amassed a major fan following even after the career ban that meant he was not eligible for ​admission to National Baseball Hall of Fame and could not play or coach in the big leagues.
 
-In the declaration, the three leaders also pledged to advance reforms of the United Nations, to increase supplies of refined petroleum products for all countries and to uphold the immunity enjoyed by state officials in international courts.
+Trump announced ⁠the pardon in a social media post.
 
-The International Criminal Court in The Hague has issued arrest warrants for Putin and five other Russian officials.
+The Hall of Fame did not respond to a request for comment. An MLB spokesman declined ​to comment.
 
-Putin and Russia's children's commissioner, Maria ​Lvova-Belova, are accused of the unlawful deportation and transfer of Ukrainian children, while the other warrants relate to alleged war crimes and crimes against humanity committed during Russia's full-scale invasion of Ukraine. Moscow rejects the allegations.
+Rose, who spent much of his career with the Cincinnati Reds, blamed the ban for financial struggles and said he relied on ​memorabilia signings and public appearances to make a living.
 
-"The ​pushback against international norms and courts is the most interesting aspect. The big powers dictate, the small powers suffer," said Jonathan Eyal, international director at the RUSI think-tank in ⁠London.
+He pleaded guilty in 1990 to two charges of filing false tax returns, which did not show income he received from those signings, and also did not list winnings from horse-racing wagers. He served a five-month sentence in a minimum-security prison and paid hundreds ​of thousands of dollars in fines and back taxes.
 
-Eyal added that Putin "gained credibility and escape from pariah status", while Trump "gained a photo opportunity he didn't need."
+"His absolute dedication to baseball and his intensity was what made him one of ​the greatest players of all time," attorney Jeffrey Lenkov, who has represented the Rose family in its attempt to win reinstatement, told Reuters. "I don’t think ‌Pete was ⁠prepared for the ramifications on his life when that was taken away."
 
-The document was released by Chinese state news agency Xinhua and by the Kremlin. Trump departed on his flight back to the ​US without making any comment after the meeting.
+Rose died in 2024 at age 83. The next year, MLB Commissioner Rob Manfred posthumously lifted his ban from the sport after prodding from Trump, who has repeatedly called for him to be enshrined in the Hall of Fame.
 
-Earlier, the leaders of the world's biggest nuclear powers, sitting at a round table in a villa nestled among wooded hills beside a lake in the southern Chinese city of Shenzhen, described their ​meeting as historic.
+Lenkov called the pardon a "benevolent gesture" by Trump, "but it would have been better to have occurred when he was alive."
 
-"We are really making history," Trump told Xi and Putin at the start of the meeting before journalists were sent away. "No peace was ever forged by declining opportunities for engagement."
+The ​hall has said that anyone removed ​from MLB's permanently ineligible list ⁠would [be eligible](https://www.reuters.com/sports/baseball/hall-fame-door-opens-pete-rose-after-removal-mlbs-ineligible-list-2025-05-13/) for Hall of Fame consideration. The group that votes on the hall's Classic Baseball Era ballot will meet next in December 2027.
 
-## DIFFERENCES OVER UKRAINE, IRAN AND TRADE
+Lenkov said his appeal to Hall of Fame voters would mostly ​concern Rose's on-field achievement and the notion that he "paid back any debt" for both his baseball ​and legal transgressions.
 
-Putin, fresh from a setback in his war against Ukraine after the [crippling of a key bridge](https://www.reuters.com/world/europe/ukraine-strikes-crimean-bridge-second-day-russia-pounds-kyiv-bridges-2026-11-17/) linking Crimea to Russia, said the three countries had "numerous shared interests in the settlement of regional conflicts, including obviously the conflict in Ukraine".
+"The ⁠impact on the Hall is difficult to surmise," Lenkov said. "Pete is very polarizing."
 
-The meeting was a diplomatic coup for Putin, with Russia’s economy barely a 10th the size of ​China’s and most of its businesses barred from trading with the West by sanctions.
+Earlier in November, Trump said he would consider a pardon for Rose. In his Thursday social media post announcing the pardon, Trump called Rose “a true Baseball SUPERSTAR & LEGEND.”
 
-The meeting ended a few hours before Ukraine and the leaders of its main European allies were due to meet Trump’s envoys Steve Witkoff and Jared Kushner ​in Berlin.
+He also advocated for retired pitcher Roger Clemens, the ⁠only seven-time ​winner of the Cy Young Award for the top pitcher in each league. Allegations ​of steroid use have kept Clemens from the Hall of Fame. Clemens has denied using performance-enhancing drugs and was acquitted at trial on charges of lying to Congress ​about the subject.
 
-Item 1 of 4 US President Donald Trump speaks with China's President Xi Jinping after leaders posed for a group photo during the Asia-Pacific Economic Cooperation (APEC) Summit in Shenzhen, in China's southern Guangdong Province, on November 19, 2026. GREG BAKER/Pool via REUTERS TPX IMAGES OF THE DAY
+“Politics, I guess!” Trump wrote in his post on Truth Social.
 
-**[1/4]**US President Donald Trump speaks with China's President Xi Jinping after leaders posed for a group photo during the Asia-Pacific Economic Cooperation (APEC) Summit in Shenzhen, in China's southern Guangdong Province, on November 19, 2026. GREG BAKER/Pool via REUTERS TPX IMAGES OF THE DAY [Purchase Licensing Rights, opens new tab](https://www.reutersconnect.com/item/china-hosts-the-apec-summit/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1JDMlFRT0FKN09ONg%3D%3D/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead)
-
-Unlike Trump and Putin, Xi did not make a direct reference to Ukraine, but said: "History tells us that when major powers live in harmony, the world is at peace. When major powers clash, the world falls into turmoil."
-
-The three countries have deep ‌differences over Ukraine, ⁠Iran, nuclear weapons and trade, casting doubts about a durable outcome. Their meeting on the sidelines of an Asia-Pacific summit has unnerved smaller countries that fear their interests might be disregarded.
-
-The Kylin Villa where they met has a long history of sensitive diplomatic encounters. Its past visitors include former North Korean leader Kim Jong-il, Xi's father Xi Zhongxun, and envoys of the Dalai Lama.
-
-Before the trilateral, Trump met Xi and Putin separately, referring to both as friends.
-
-## FANFARE AND PAGEANTRY
-
-Speaking to Fox News earlier, Trump highlighted the pomp surrounding his arrival for the summit, which contrasted with the more muted greeting of other leaders, including Putin. Japanese Prime Minister Sanae Takaichi landed without any welcoming ceremony.
-
-Japan's relations with China have soured since ​Takaichi's remarks in 2025, when she said Japan could deploy ​its military if a Chinese move on Taiwan also ⁠threatened its territory.
-
-Takaichi, who cut an [isolated figure](https://www.reuters.com/world/china/tarmac-apec-summit-table-japans-pm-cuts-lonely-figure-2026-11-19/) throughout the summit, said Tokyo's position on Taiwan [had not changed](https://www.reuters.com/world/china/japans-position-taiwan-has-not-changed-pm-takaichi-says-2026-11-19/) since 1972.
-
-On Taiwan, Xi told Trump the US must "do the right thing" to avoid major setbacks in their relationship.
-
-Xi greeted Trump at the airport, the first time he has done so with any visiting leader since becoming president, reciprocating his counterpart's gesture at ​Joint Base Andrews in September, when they last met. The leaders also briefly hugged.
-
-"This is a great president, one of the great presidents of China, and he's never ​gone to the airport to ⁠meet somebody," Trump said, calling that a "win" for both China and the US.
-
-"And not only that, the fanfare, the beauty, the pageantry, the thousands of people, the young children, the soldiers, the whole thing."
-
-## TOUGH NUCLEAR ARMS DISCUSSION
-
-Trump had insisted nuclear arms control be a central topic of the summit, despite China's repeated objections in the past to joining talks with Washington and Moscow, which have far larger nuclear arsenals.
-
-“It’s not an easy thing to do – give them up,” Trump told Xi and Putin at the ⁠start of their ​meeting.
-
-Trump and Xi met after an extension of their trade truce this month, but also amid growing tension over reports of Nvidia chips being ​diverted to China through Southeast Asia, raising questions about the effectiveness of US export curbs and the future of Chinese access to advanced technology.
-
-Reporting by Jarrett Renshaw, Trevor Hunnicut, Liz Lee, Ju-min Park in Shenzhen; Mei Mei Chu, Shi Bu, Xiuhao Chen and Yukun Zhang in Beijing; Farah Master ​in Hong Kong; David Brunnstrom in Washington; Daniel Trotta in Los Angeles; Jekaterīna Golubkova in Tokyo; Ben Blanchard in Taipei; Writing by Jarrett Renshaw and Marius Zaharia; Editing by Clarence Fernandez, Lincoln Feast, Saad Sayeed, Raju Gopalakrishnan and Alex Richardson
+Reporting by Jacob Bogage; Editing by Sergio Non and Sonali Paul
 
 Our Standards: [The Thomson Reuters Trust Principles., opens new tab](https://www.thomsonreuters.com/en/about-us/trust-principles.html)
 
 - Suggested Topics:
-- [](https://www.reuters.com/technology/artificial-intelligence/)
+- [](https://www.reuters.com/sports/)
+- [](https://www.reuters.com/legal/tax/)
+- [](https://www.reuters.com/legal/white-collar-crime/)
 
 [](https://www.reutersagency.com/en/licensereuterscontent/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead)
 
 [
 
-](https://www.reuters.com/authors/trevor-hunnicutt/)
+![Jacob Bogage](https://www.reuters.com/resizer/v2/https%3A%2F%2Fauthor-service-images-prod-us-east-1.publishing.aws.arc.pub%2Freuters%2FAF72PZJPVFDNBDOE4TURNZEHWY.png?auth=76ed1a20fc6897781899924e1be0caa5617fd9697a7d3183bb3523f7f7de9061&height=120&width=120&quality=80&smart=true)
 
-[Trevor Hunnicutt](https://www.reuters.com/authors/trevor-hunnicutt/)
+
+
+](https://www.reuters.com/authors/jacob-bogage/)
+
+[Jacob Bogage](https://www.reuters.com/authors/jacob-bogage/)
 
 Thomson Reuters
 
-Trevor Hunnicutt is White House Correspondent at Reuters News. He writes about U.S. foreign and domestic policy and regularly travels with the President of the United States. Prior to joining the White House team in 2021, he covered presidential campaigns, economics, finance and investing for many years. He has also served on the board of the White House Correspondents' Association. Hunnicutt holds a bachelor's degree from Pomona College and a master's from the London School of Economics.
+Jacob Bogage covers the White House at Reuters, where he’s worked since 2026, and writes about U.S. economic policy. He previously worked at The Washington Post, covering the White House and Congress. Contact: jacob.bogage@tr.com, or jacobbogage.87 on Signal.
 
-- [](mailto:trevor.hunnicutt@thomsonreuters.com)
-- [](https://x.com/trevornews)
-- [](https://www.linkedin.com/in/thunnicutt/)
+- [](mailto:Jacob.Bogage@thomsonreuters.com)
+- [](https://x.com/jacobbogage)
+- [](https://www.linkedin.com/in/jacobbogage/)
 
 ## Read Next
 
-- [Investigationscategory](https://www.reuters.com/investigations/)
+- [Formula 1category](https://www.reuters.com/sports/formula1/)
     
-    [As Meta bets big on Muse AI agent, early safety mishaps surface](https://www.reuters.com/investigations/meta-bets-big-muse-ai-agent-early-safety-mishaps-surface-2026-11-18/)
-    
-    [
-    
-    ](https://www.reuters.com/investigations/meta-bets-big-muse-ai-agent-early-safety-mishaps-surface-2026-11-18/)
-    
-- [Worldcategory](https://www.reuters.com/world/)
-    
-    EXCLUSIVE
-    
-    [Trump administration weighs forcing US firms to disclose Chinese AI use](https://www.reuters.com/world/china/trump-administration-weighs-forcing-us-firms-disclose-chinese-ai-use-2026-11-18/)
+    [Russell tops second practice at Las Vegas Grand Prix](https://www.reuters.com/sports/formula1/no-timed-laps-las-vegas-f1-practice-rain-hits-track-2026-11-20/)
     
     [
     
-    ](https://www.reuters.com/world/china/trump-administration-weighs-forcing-us-firms-disclose-chinese-ai-use-2026-11-18/)
+    ![Las Vegas Grand Prix](https://www.reuters.com/resizer/v2/CKPMBEC525MM5ECK2G4DQGFZPE.jpg?auth=ce1dbb81ff79b47cdb46b53079ba16744101b2609ea2cd5bc14f7eae08c6ed5c&width=1200&quality=80)
     
-- [Legalcategory](https://www.reuters.com/legal/)
     
-    [Anthropic valued at $1.5 trillion as IPO raises record $81 billion](https://www.reuters.com/legal/transactional/anthropic-prices-blockbuster-ipo-83-share-source-says-2026-11-18/)
+    
+    ](https://www.reuters.com/sports/formula1/no-timed-laps-las-vegas-f1-practice-rain-hits-track-2026-11-20/)
+    
+- Cricket
+    
+    [Government urges Sandpapergate forum transparency as Cricket Australia faces backlash](https://www.reuters.com/sports/cricket/government-urges-sandpapergate-forum-transparency-cricket-australia-faces-2026-11-20/)
     
     [
     
-    ](https://www.reuters.com/legal/transactional/anthropic-prices-blockbuster-ipo-83-share-source-says-2026-11-18/)
+    ![Pat Cummins Press Conference](https://www.reuters.com/resizer/v2/UUQSQRXA4ZM67CWKL3IHTSCBFY.jpg?auth=10f749cba070231ce6db79a2e9c04096c785ca163198b8dfaf577219aa8319c9&width=1200&quality=80)
+    
+    
+    
+    ](https://www.reuters.com/sports/cricket/government-urges-sandpapergate-forum-transparency-cricket-australia-faces-2026-11-20/)
+    
+- Soccer
+    
+    [Tashima says Balogun red-card row at World Cup pushed him to run for FIFA presidency](https://www.reuters.com/sports/soccer/tashima-says-balogun-red-card-row-world-cup-pushed-him-run-fifa-presidency-2026-11-20/)
+    
+    [
+    
+    ![Japan Football Association Honorary President Kozo Tashima holds a press conference](https://www.reuters.com/resizer/v2/636BNKLQXRJC5BOY2UMVGVWGI4.jpg?auth=d5860ff9e5b5ea3f48b7fa3167335869fee9d987fb154b118ff9a926b422e343&width=1200&quality=80)
+    
+    
+    
+    ](https://www.reuters.com/sports/soccer/tashima-says-balogun-red-card-row-world-cup-pushed-him-run-fifa-presidency-2026-11-20/)
+    
+
+- [
+    
+    ](https://www.reuters.com/sports/soccer/mexican-federation-confident-maintaining-closed-system-after-cas-hearing-2026-11-20/)
     
 - [
     
-    ](https://www.reuters.com/business/world-at-work/anthropic-ipo-mint-thousands-of-millionaires-2026-11-18/)
-    
-- [
-    
-    ](https://www.reuters.com/business/ai-stocks-rally-nvidia-outlook-calms-demand-fears-2026-11-18/)
-    
-- [
-    
-    ](https://www.reuters.com/world/china/nvidia-stops-shipping-us-approved-ai-chips-china-2026-11-18/)
+    ](https://www.reuters.com/sports/julius-price-leads-another-stanford-comeback-win-over-sacramento-state--flm-2026-11-20/)
     
 
 [](https://www.lseg.com/en/data-analytics/products/workspace?utm_source=reuters.com&utm_medium=articlebanner&utm_campaign=Reuters_ProductPage_Links)
 
-## [World](https://www.reuters.com/world/)
+## [Sports](https://www.reuters.com/sports/)
 
 - [
     
-    ](https://www.reuters.com/live/anthropic-ipo-live-claude-maker-goes-public-nasdaq-after-record-share-offering-2026-11-19/)
+    ![Reuters logo](https://www.reuters.com/resizer/v2/466BJJQ7PVGY5O53NZ3KL65MHM.png?auth=b9c3bf166c40a6778eb5672993fde7c30a15f48329026674eff92afd8da1d0ca&width=1200&quality=80)
     
-    ### [Anthropic to begin trading after record IPO](https://www.reuters.com/live/anthropic-ipo-live-claude-maker-goes-public-nasdaq-after-record-share-offering-2026-11-19/)
     
-    [Livecategory](https://www.reuters.com/live/) · November 19, 2026 · 7:25 AM MST · 8 mins ago
     
-    Anthropic is set to make its market debut on Nasdaq after raising $81.3 billion in the largest initial public offering on record, eclipsing Elon Musk's SpaceX in June.
+    
+    
+    ](https://www.reuters.com/sports/basketball/nc-state-seton-hall-continue-learning-process-ahead-title-game--flm-2026-11-20/)
+    
+    ### [NC State, Seton Hall continue learning process ahead of title game](https://www.reuters.com/sports/basketball/nc-state-seton-hall-continue-learning-process-ahead-title-game--flm-2026-11-20/)
+    
+    [Basketballcategory](https://www.reuters.com/sports/basketball/) · November 20, 2026 · 7:38 AM MST · 7 mins ago
+    
+    Three-point shooting has been a signature of North Carolina State through the first five games of the season.
     
 - [
     
-    ](https://www.reuters.com/live/trump-xi-putin-live-leaders-hold-unprecedented-summit-shenzhen-2026-11-18/)
+    ![Reuters logo](https://www.reuters.com/resizer/v2/466BJJQ7PVGY5O53NZ3KL65MHM.png?auth=b9c3bf166c40a6778eb5672993fde7c30a15f48329026674eff92afd8da1d0ca&width=960&quality=80)
     
-    [Livecategory](https://www.reuters.com/live/)[Trump, Xi and Putin hold unprecedented trilateral talks - as it happened](https://www.reuters.com/live/trump-xi-putin-live-leaders-hold-unprecedented-summit-shenzhen-2026-11-18/)
+    
+    
+    
+    
+    ](https://www.reuters.com/sports/basketball/murray-state-wisconsin-vie-consolation-prize-bahamas--flm-2026-11-20/)
+    
+    [Basketballcategory](https://www.reuters.com/sports/basketball/)[Murray State, Wisconsin vie for consolation prize in Bahamas](https://www.reuters.com/sports/basketball/murray-state-wisconsin-vie-consolation-prize-bahamas--flm-2026-11-20/)
     
     7:19 AM MST
     
 - [
     
-    ](https://www.reuters.com/world/china/putin-says-russia-invited-europeans-moscow-clarify-position-ukraine-talks-2026-11-19/)
+    ![New Zealand tour of South Africa - South Africa v New Zealand](https://www.reuters.com/resizer/v2/WWFE5WPIL5O7VNNECDQLA4NUR4.jpg?auth=bc501d76ad24d65ca5b8d69dd40871b96c285131da1d0fa5c12a0403e2064d64&width=960&quality=80)
     
-    [Chinacategory](https://www.reuters.com/world/china/)[Putin says Russia invited Europeans to Moscow to clarify position on Ukraine talks](https://www.reuters.com/world/china/putin-says-russia-invited-europeans-moscow-clarify-position-ukraine-talks-2026-11-19/)
     
-    7:15 AM MST
     
-- [
     
-    ](https://www.reuters.com/markets/europe/hungary-end-orban-era-35-year-motorway-concession-contract-2026-11-19/)
     
-    [category](https://www.reuters.com/markets/)[Hungary to end Orban-era 35-year motorway concession contract](https://www.reuters.com/markets/europe/hungary-end-orban-era-35-year-motorway-concession-contract-2026-11-19/)
+    ](https://www.reuters.com/sports/bristling-springboks-wont-be-broken-by-erasmus-ban-2026-11-20/)
     
-    7:02 AM MST
+    Rugby[Bristling Springboks won't be 'broken' by Erasmus ban](https://www.reuters.com/sports/bristling-springboks-wont-be-broken-by-erasmus-ban-2026-11-20/)
+    
+    7:17 AM MST
     
 - [
     
-    ](https://www.reuters.com/world/africa/nigerias-tinubu-asks-parliament-decriminalise-attempted-suicide-2026-11-19/)
+    ![Reuters logo](https://www.reuters.com/resizer/v2/466BJJQ7PVGY5O53NZ3KL65MHM.png?auth=b9c3bf166c40a6778eb5672993fde7c30a15f48329026674eff92afd8da1d0ca&width=960&quality=80)
     
-    [Africacategory](https://www.reuters.com/world/africa/)[Nigeria's Tinubu asks parliament to decriminalise attempted suicide](https://www.reuters.com/world/africa/nigerias-tinubu-asks-parliament-decriminalise-attempted-suicide-2026-11-19/)
     
-    7:00 AM MST
+    
+    
+    
+    ](https://www.reuters.com/sports/basketball/lakers-look-rebound-rare-misstep-host-reeling-kings--flm-2026-11-20/)
+    
+    [Basketballcategory](https://www.reuters.com/sports/basketball/)[Lakers look to rebound from rare misstep, host reeling Kings](https://www.reuters.com/sports/basketball/lakers-look-rebound-rare-misstep-host-reeling-kings--flm-2026-11-20/)
+    
+    6:56 AM MST
+    
+- [
+    
+    ![Premier League - Brighton & Hove Albion v Brentford](https://www.reuters.com/resizer/v2/BO6YKM3MTFIKRASTNVXPDLBPDQ.jpg?auth=01bd30a2009cc266805eed5fd1ac20b9278bbe61d1e189c94780289baf1d336d&width=960&quality=80)
+    
+    
+    
+    
+    
+    ](https://www.reuters.com/sports/soccer/huerzeler-keeps-brighton-grounded-amid-growing-title-buzz-2026-11-20/)
+    
+    Soccer[Huerzeler keeps Brighton grounded amid growing title buzz](https://www.reuters.com/sports/soccer/huerzeler-keeps-brighton-grounded-amid-growing-title-buzz-2026-11-20/)
+    
+    6:29 AM MST
     
 
 ### Site Index
